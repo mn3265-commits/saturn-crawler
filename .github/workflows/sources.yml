@@ -1,0 +1,33 @@
+name: sources
+# Public job-board fetchers (scripts/cloud-sources.mjs). Results go to the 'sources' release as gz assets, replaced each run
+# (no git history growth). 45 min before each ET merge. Schedule + manual only: never pull_request.
+on:
+  schedule: [{ cron: '15 1,4,7,10,13,16,19,22 * * *' }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: sources, cancel-in-progress: false }
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env: { GH_TOKEN: '${{ github.token }}' }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/cache@v4
+        with:
+          path: |
+            data/board-poll-cache.json
+            data/board-poll-daily.json
+          key: bp-${{ github.run_id }}
+          restore-keys: bp-
+      - name: previous assets (once-a-day sources keep their pace)
+        run: |
+          gh release view sources >/dev/null 2>&1 || gh release create sources --title sources --notes "Public job-board fetch results, replaced every run." --latest=false
+          mkdir -p data/sources; gh release download sources -D data/sources -p '*.json.gz' --clobber || true
+      - run: node scripts/cloud-sources.mjs
+        timeout-minutes: 45
+      - name: upload
+        if: always()
+        run: ls -la data/sources && gh release upload sources data/sources/*.json.gz --clobber

@@ -75,10 +75,10 @@ async function crawl(site) {
   const next = [new URL('/careers', home.url).href, new URL('/jobs', home.url).href, ...careerLinks(home.html, home.url).filter(u => !/\?.{40,}/.test(u))];
   for (const u of [...new Set(next)].slice(0, 5)) {
     if (boards.length) break;
-    if (atsLinks(u).length) { boards = atsLinks(u); pages.push(u); break; }   // the careers link itself points at the ATS
+    if (atsLinks(u).length) { boards = atsLinks(u); pages.push(u); break; }
     const p = await get(u); if (!p) continue; pages.push(p.url); htmls.push([p.url, p.html]);
     boards = [...atsLinks(p.url), ...atsLinks(p.html)];
-    if (!boards.length) for (const v of careerLinks(p.html, p.url).filter(v => !pages.includes(v)).slice(0, 2)) {   // one level deeper ("See open roles")
+    if (!boards.length) for (const v of careerLinks(p.html, p.url).filter(v => !pages.includes(v)).slice(0, 2)) {
       if (atsLinks(v).length) { boards = atsLinks(v); break; }
       const q = await get(v); if (q) htmls.push([q.url, q.html]); if (q) { boards = [...atsLinks(q.url), ...atsLinks(q.html)]; if (boards.length) { pages.push(q.url); break; } }
     }
@@ -109,7 +109,7 @@ async function renderPass(cache, list) {
       for (const u of [...new Set([v.page, 'https://' + d + '/careers', 'https://' + d].filter(Boolean))]) {
         await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 12000 }).catch(() => {});
         await page.waitForLoadState('networkidle', { timeout: 3000 }).catch(() => {});
-        if (u === 'https://' + d) {   // homepage: click through to the careers link, then let it load
+        if (u === 'https://' + d) {
           const href = await page.evaluate(() => [...document.querySelectorAll('a')].map(a => a.href).find(h => /career|jobs?\b|join|hiring|open-roles/i.test(h))).catch(() => null);
           if (href) { await page.goto(href, { waitUntil: 'domcontentloaded', timeout: 12000 }).catch(() => {}); await page.waitForLoadState('networkidle', { timeout: 3000 }).catch(() => {}); }
         }
@@ -135,7 +135,7 @@ function universe(yc, nyc, dw, seeds, nycU = {}) {
   for (const c of nycU.companies || []) add(c.name, c.website, 'nyc');
   for (const c of yc) if (c.status === 'Active' && /United States|USA|Remote/i.test(JSON.stringify(c.all_locations || ''))) add(c.name, c.website, 'yc');
   for (const e of nyc.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'nyc-startups'); }
-  for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }   // data/crawl-seeds.json: seed companies + lookalikes
+  for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }
   for (const e of [...(dw.companies || dw.watch || []), ...(Array.isArray(dw) ? dw : [])]) add(e.company || e.name, e.website || e.site || e.domain, 'diaspora-watch');
   return [...m.values()];
 }
@@ -158,7 +158,7 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
     const rl = Object.keys(cache).filter(d => doms.has(d) && (cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 2) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
     const pr = d => (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
     rl.sort((a, b) => pr(a) - pr(b));
-    const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);   // 2026-11-06: cloud runner lost memory on one 3000-site Chrome; chunks of RENDER_MAX, each a fresh process
+    const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);
     console.error(`render pass: ${chunk.length} of ${rl.length} sites`); console.error(JSON.stringify(await renderPass(cache, chunk)));
     if (chunk.length < rl.length) console.error('RENDER_MORE');
     await writeFile(CACHE, JSON.stringify(cache));

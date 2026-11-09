@@ -40,7 +40,7 @@ if (process.argv[1] && (await import('node:fs')).realpathSync(process.argv[1]) =
           const m = (await page.content()).match(/href="(https?:\/\/[^"]+)"[^>]*trackViewWebsite/);
           c.biTried = true;
           if (m) { c.website = m[1].replace(/&amp;/g, '&').replace(/[?#].*$/, '').replace(/\/$/, ''); c.websiteSrc = 'builtin-chrome'; got++; }
-        } catch { await open().catch(() => {}); }   // dead tab or browser: relaunch, retry this company next run
+        } catch { await open().catch(() => {}); }
         if (++n % 100 === 0) { console.error(`builtin-chrome ${n}/${rest.length} hit ${got}`); await save(); }
       }
       await browser.close().catch(() => {}); await save();
@@ -48,5 +48,5 @@ if (process.argv[1] && (await import('node:fs')).realpathSync(process.argv[1]) =
     }
   }
   console.log(`resolve-websites: ${done} tried, ${hit} resolved, ${d.companies.filter(c => c.website).length}/${d.companies.length} with website`);
-  process.exit(0);   // playwright can keep the event loop alive after close
+  process.exit(0);
 }
