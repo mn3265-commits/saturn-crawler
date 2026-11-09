@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-09T05:45:09.566Z",
+ "generated": "2026-11-09T05:49:33.130Z",
  "companies": 7313,
  "status": {
-  "found": 1639,
-  "no-ats": 4374,
+  "found": 1640,
+  "no-ats": 4369,
   "down": 983,
-  "site": 317
+  "site": 321
  },
  "byType": {
   "dover": 7,
-  "ashby": 605,
+  "ashby": 606,
   "lever": 147,
   "gh": 497,
   "gem": 58,
@@ -4996,6 +4996,15 @@
    "label": "Limrun",
    "website": "lim.run",
    "page": "https://limrun.com/careers",
+   "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "tolmo",
+   "url": "jobs.ashbyhq.com/tolmo",
+   "label": "Tolmo",
+   "website": "tolmo.com",
+   "page": "https://tolmo.com/",
    "src": "yc"
   },
   {
@@ -22728,6 +22737,179 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/gojiberry-ai/jobs",
    "crawledAt": 1794203081410
+  },
+  {
+   "title": "Founding Machine Learning Engineer",
+   "url": "https://taigabilling.com/careers#founding-machine-learning-engineer",
+   "datePosted": "2026-11-08",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Taiga",
+   "website": "taigabilling.com",
+   "src": "yc",
+   "page": "https://taigabilling.com/careers",
+   "crawledAt": 1794203167095
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://taigabilling.com/careers#founding-engineer",
+   "datePosted": "2026-11-08",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Taiga",
+   "website": "taigabilling.com",
+   "src": "yc",
+   "page": "https://taigabilling.com/careers",
+   "crawledAt": 1794203167095
+  },
+  {
+   "title": "Founding Account Executive",
+   "url": "https://taigabilling.com/careers#founding-account-executive",
+   "datePosted": "2026-11-08",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Taiga",
+   "website": "taigabilling.com",
+   "src": "yc",
+   "page": "https://taigabilling.com/careers",
+   "crawledAt": 1794203167095
+  },
+  {
+   "title": "Customer Success Manager",
+   "url": "https://taigabilling.com/careers#customer-success-manager",
+   "datePosted": "2026-11-08",
+   "locations": [
+    "San Francisco, CA, US",
+    "Remote"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Taiga",
+   "website": "taigabilling.com",
+   "src": "yc",
+   "page": "https://taigabilling.com/careers",
+   "crawledAt": 1794203167095
+  },
+  {
+   "title": "Founding Head of Product",
+   "url": "https://www.ycombinator.com/companies/uno-wallet/jobs/VzmlenM-founding-head-of-product",
+   "datePosted": "2026-10-26",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Uno Wallet",
+   "website": "myunowallet.com",
+   "src": "yc",
+   "page": "https://myunowallet.com/jobs",
+   "crawledAt": 1794203346673
+  },
+  {
+   "title": "Founding Engineer, Product & Infrastructure",
+   "url": "https://www.ycombinator.com/companies/uno-wallet/jobs/UsckBfY-founding-engineer-product-infrastructure",
+   "datePosted": "2026-10-26",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Uno Wallet",
+   "website": "myunowallet.com",
+   "src": "yc",
+   "page": "https://myunowallet.com/jobs",
+   "crawledAt": 1794203346673
+  },
+  {
+   "title": "Founding Engineer, Core Runtime San Francisco · In person →",
+   "url": "https://zibralabs.ai/careers/founding-engineer-core-runtime/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Zibra Labs",
+   "website": "zibralabs.ai",
+   "src": "yc",
+   "page": "https://zibralabs.ai/careers/",
+   "crawledAt": 1794203346709
+  },
+  {
+   "title": "Founding ML Researcher (Post Training) San Francisco · In person →",
+   "url": "https://zibralabs.ai/careers/founding-ml-researcher/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Zibra Labs",
+   "website": "zibralabs.ai",
+   "src": "yc",
+   "page": "https://zibralabs.ai/careers/",
+   "crawledAt": 1794203346709
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/manicule/jobs/kAJ7hYb-founding-engineer",
+   "datePosted": "2026-08-25",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Manicule",
+   "website": "manicule.com",
+   "src": "yc",
+   "page": "https://manicule.com/careers",
+   "crawledAt": 1794203360475
+  },
+  {
+   "title": "Technical Writer & Content Strategist",
+   "url": "https://www.ycombinator.com/companies/manicule/jobs/QtqvNgQ-technical-writer-content-strategist",
+   "datePosted": "2026-08-25",
+   "locations": [
+    "SG"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Manicule",
+   "website": "manicule.com",
+   "src": "yc",
+   "page": "https://manicule.com/careers",
+   "crawledAt": 1794203360475
+  },
+  {
+   "title": "Engineering Intern",
+   "url": "https://www.ycombinator.com/companies/manicule/jobs/KKTDyN8-engineering-intern",
+   "datePosted": "2026-08-25",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Manicule",
+   "website": "manicule.com",
+   "src": "yc",
+   "page": "https://manicule.com/careers",
+   "crawledAt": 1794203360475
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
