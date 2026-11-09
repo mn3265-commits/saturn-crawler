@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:31:48.694Z",
+ "generated": "2026-11-09T03:35:36.026Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4474,
+  "no-ats": 4472,
   "down": 983,
-  "site": 208
+  "site": 210
  },
  "byType": {
   "dover": 7,
@@ -16912,6 +16912,114 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
    "crawledAt": 1794195074660
+  },
+  {
+   "title": "Full Stack Software Engineer",
+   "url": "https://loopfour.ai/careers/full-stack-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Forward Deployed Engineer",
+   "url": "https://loopfour.ai/careers/forward-deployed-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Technical Implementations Engineer",
+   "url": "https://loopfour.ai/careers/technical-implementations-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Full Stack Software Developer",
+   "url": "https://loopfour.ai/careers/full-stack-software-developer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Remote Sales Representative",
+   "url": "https://loopfour.ai/careers/remote-sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Finance Implementation & Customer Success Manager",
+   "url": "https://loopfour.ai/careers/finance-implementation-customer-success-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Social Media Intern",
+   "url": "https://loopfour.ai/careers/social-media-intern",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "loopfour",
+   "website": "loopfour.com",
+   "src": "yc",
+   "page": "https://loopfour.ai/careers",
+   "crawledAt": 1794195174655
+  },
+  {
+   "title": "Distributed Systems Engineer",
+   "url": "https://relace.ai/careers/distributed-systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Relace",
+   "website": "relace.ai",
+   "src": "yc",
+   "page": "https://relace.ai/careers",
+   "crawledAt": 1794195235094
+  },
+  {
+   "title": "GPU Kernel Engineer",
+   "url": "https://relace.ai/careers/gpu-kernel-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Relace",
+   "website": "relace.ai",
+   "src": "yc",
+   "page": "https://relace.ai/careers",
+   "crawledAt": 1794195235094
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
