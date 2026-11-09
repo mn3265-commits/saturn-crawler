@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:01:39.338Z",
+ "generated": "2026-11-09T03:06:34.618Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4493,
+  "no-ats": 4492,
   "down": 983,
-  "site": 189
+  "site": 190
  },
  "byType": {
   "dover": 7,
@@ -15868,6 +15868,90 @@
    "src": "yc",
    "page": "https://www.linkedin.com/jobs",
    "crawledAt": 1794193299180
+  },
+  {
+   "title": "Developer Relations",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/BGupCWi-developer-relations",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
+  },
+  {
+   "title": "AI Engineer",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/R9FnGRK-ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
+  },
+  {
+   "title": "Design Engineer, Product",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/RCMnjjA-design-engineer-product",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
+  },
+  {
+   "title": "Senior Software Engineer",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/ms86GPV-senior-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
+  },
+  {
+   "title": "Enterprise Account Executive",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/330lPgZ-enterprise-account-executive",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
+  },
+  {
+   "title": "Technical Account Manager",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/aKaS86h-technical-account-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
+  },
+  {
+   "title": "Technical Solutions Engineer",
+   "url": "https://www.ycombinator.com/companies/coast/jobs/6OkeH0b-technical-solutions-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coast",
+   "website": "trycoast.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coast/jobs",
+   "crawledAt": 1794193562646
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
