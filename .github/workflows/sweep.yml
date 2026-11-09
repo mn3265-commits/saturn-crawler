@@ -1,0 +1,34 @@
+name: sweep
+# Startup / employer board sweep (scripts/sweep-poll.mjs): polls every known board (YC, startup sponsors, NYC boards, crawled boards
+# incl. USCIS H-1B employer sites, Common Crawl ATS index), own careers pages and Built In. Result = data/sources/sweep.json.gz on the
+# 'sources' release; the Mac only reads it and applies. Every 3 h, 30 min before each ET merge. Schedule + manual only.
+on:
+  schedule: [{ cron: '30 1,4,7,10,13,16,19,22 * * *' }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: sweep, cancel-in-progress: false }
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env: { GH_TOKEN: '${{ github.token }}' }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/cache@v4
+        with:
+          path: |
+            data/startup-first-seen.json
+            data/builtin-company-size.json
+          key: sweep-${{ github.run_id }}
+          restore-keys: sweep-
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/sweep-poll.mjs
+        timeout-minutes: 80
+        env: { SWEEP_CONC: '40' }
+      - name: upload
+        if: always()
+        run: |
+          gh release view sources >/dev/null 2>&1 || gh release create sources --title sources --notes "Public job-board fetch results, replaced every run." --latest=false
+          [ -f data/sources/sweep.json.gz ] && gh release upload sources data/sources/sweep.json.gz --clobber || echo "no sweep file"
