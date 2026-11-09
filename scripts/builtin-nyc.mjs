@@ -1,4 +1,5 @@
 import { fileURLToPath } from 'node:url';
+import { getHtml } from './src-builtin.mjs';
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36';
 const decode = s => String(s || '').replace(/&amp;/g, '&').replace(/&#39;|&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/\s+/g, ' ').trim();
@@ -8,12 +9,8 @@ export async function builtinNyc({ pages = 3, log = () => {} } = {}) {
   const out = new Map();
   for (const cat of CATS) {
     for (let p = 1; p <= pages; p++) {
-      let html = '';
-      try {
-        const r = await fetch(`https://www.builtinnyc.com/jobs/${cat}?daysSinceUpdated=1${p > 1 ? `&page=${p}` : ''}`, { headers: { 'user-agent': UA }, signal: AbortSignal.timeout(20000) });
-        if (!r.ok) { log(`builtin ${cat} p${p}: HTTP ${r.status}`); break; }
-        html = await r.text();
-      } catch (e) { log(`builtin ${cat} p${p}: ${e.message}`); break; }
+      const html = await getHtml(`https://www.builtinnyc.com/jobs/${cat}?daysSinceUpdated=1${p > 1 ? `&page=${p}` : ''}`, { log });
+      if (!html) { log(`builtin ${cat} p${p}: blocked / no page`); break; }
       const cards = html.split(/id="job-card-\d+"/).slice(1);
       for (const c of cards) {
         const id = (c.match(/\/job\/[^"/]+\/(\d+)/) || [])[1];

@@ -20,18 +20,31 @@ function agoHours(t) {
   return null;
 }
 
+let BROWSER = null, PAGE = null, LOCK = Promise.resolve();
+export async function getHtml(url, { log = () => {} } = {}) {
+  try { const r = await fetch(url, { headers: { 'user-agent': UA }, redirect: 'follow', signal: AbortSignal.timeout(20000) });
+    if (r.ok) { const h = await r.text(); if (!/cf-chl|challenge-platform|Just a moment/i.test(h)) return h; } else if (![403, 429, 503].includes(r.status)) return null;
+  } catch {}
+  if (!process.env.CI && !process.env.BUILTIN_CHROME) return null;
+  const prev = LOCK; let done; LOCK = new Promise(r => (done = r)); await prev;
+  try {
+    if (!PAGE) { const { chromium } = await import('playwright-core'); BROWSER = await chromium.launch({ channel: 'chrome', headless: true });
+      const ctx = await BROWSER.newContext({ userAgent: UA }); await ctx.route('**/*', r => /^(image|media|font|stylesheet)$/.test(r.request().resourceType()) ? r.abort() : r.continue()); PAGE = await ctx.newPage(); }
+    await PAGE.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 }); await PAGE.waitForTimeout(1500);
+    return await PAGE.content();
+  } catch (e) { log(`builtin chrome ${url}: ${e.message}`); try { await BROWSER?.close(); } catch {} BROWSER = PAGE = null; return null; }
+  finally { done(); }
+}
+export async function closeBrowser() { try { await BROWSER?.close(); } catch {} BROWSER = PAGE = null; }
+
 export async function builtinMetros({ metros = DEFAULT_METROS, cats = CATS, pages = 3, hours = 48, log = () => {} } = {}) {
   const out = new Map();
   for (const metro of metros) {
     const base = SITES[metro]; if (!base) { log(`builtin: unknown metro ${metro}`); continue; }
     for (const cat of cats) {
       for (let p = 1; p <= pages; p++) {
-        let html = '';
-        try {
-          const r = await fetch(`${base}/${cat}?daysSinceUpdated=1${p > 1 ? `&page=${p}` : ''}`, { headers: { 'user-agent': UA }, redirect: 'follow', signal: AbortSignal.timeout(20000) });
-          if (!r.ok) { log(`builtin ${metro} ${cat} p${p}: HTTP ${r.status}`); break; }
-          html = await r.text();
-        } catch (e) { log(`builtin ${metro} ${cat} p${p}: ${e.message}`); break; }
+        const html = await getHtml(`${base}/${cat}?daysSinceUpdated=1${p > 1 ? `&page=${p}` : ''}`, { log });
+        if (!html) { log(`builtin ${metro} ${cat} p${p}: blocked / no page`); break; }
         const cards = html.split(/id="job-card-\d+"/).slice(1);
         for (const c of cards) {
           const id = (c.match(/\/job\/[^"/]+\/(\d+)/) || [])[1];

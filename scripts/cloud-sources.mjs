@@ -51,5 +51,7 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === (await import('node:fs
   await mkdir(OUT, { recursive: true });
   const want = process.argv.slice(2).filter(a => SOURCES[a]);
   await Promise.all((want.length ? want : Object.keys(SOURCES)).map(run));
+  await (await import('./src-builtin.mjs')).closeBrowser();
+  process.exit(0);
 }
 export { SOURCES };

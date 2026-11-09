@@ -7,7 +7,7 @@ import { homedir } from 'node:os';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 import { NYC_LOC } from './board-poll.mjs';
-import { builtinMetros } from './src-builtin.mjs';
+import { builtinMetros, getHtml, closeBrowser } from './src-builtin.mjs';
 import { isUSLocation } from './us-location.mjs';
 import { mkdir } from 'node:fs/promises';
 import { gzipSync } from 'node:zlib';
@@ -134,7 +134,7 @@ if (!flag('--no-builtin')) {
     if (!path) return Infinity;
     const c = cache[path]; if (c && Date.now() - c.at < 30 * 864e5) return (sizes[path] = c.n ?? Infinity);
     let n = null;
-    try { const h = await (await fetch('https://www.builtinnyc.com' + path, { headers: { 'user-agent': 'Mozilla/5.0 (Macintosh) Chrome/128' } })).text();
+    try { const h = (await getHtml('https://www.builtinnyc.com' + path)) || '';
       const m = h.replace(/<[^>]+>/g, ' ').match(/([\d,]+)\s+Total Employees/i); n = m ? Number(m[1].replace(/,/g, '')) : null; } catch {}
     cache[path] = { n, at: Date.now() }; await new Promise(r => setTimeout(r, 400));
     return (sizes[path] = n ?? Infinity);
@@ -147,7 +147,7 @@ if (!flag('--no-builtin')) {
     const n = sizes[r.companyPath];
     rows.push({ company: r.company.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))), employees: Number.isFinite(n) ? n : null, title: r.title, url: r.url, locations: r.locations, published: r.postedAt, builtinAgo: r.builtinAgo, ats: 'builtin', source: 'Built In NYC (startup lane)' });
   }
-  await writeFile(SIZE, JSON.stringify(cache));
+  await writeFile(SIZE, JSON.stringify(cache)); await closeBrowser();
 }
 for (const r of rows) if (!r.published && FIRST_SEEN.jobs[r.url] === 'seed') r.seed = true;
 await mkdir(join(ROOT, 'data', 'sources'), { recursive: true });
