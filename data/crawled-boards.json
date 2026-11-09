@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:09:49.691Z",
+ "generated": "2026-11-09T03:12:38.234Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4490,
+  "no-ats": 4488,
   "down": 983,
-  "site": 192
+  "site": 194
  },
  "byType": {
   "dover": 7,
@@ -16048,6 +16048,54 @@
    "src": "yc",
    "page": "https://www.growthbook.io/careers",
    "crawledAt": 1794193786561
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/spot-health/jobs/dy9ZiK1-founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Spot Health",
+   "website": "spotdx.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/spot-health/jobs",
+   "crawledAt": 1794193870241
+  },
+  {
+   "title": "Operations Associate",
+   "url": "https://www.ycombinator.com/companies/spot-health/jobs/fXuPeXx-operations-associate",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Spot Health",
+   "website": "spotdx.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/spot-health/jobs",
+   "crawledAt": 1794193870241
+  },
+  {
+   "title": "Growth Operations",
+   "url": "https://www.ycombinator.com/companies/spot-health/jobs/iC9fBXs-growth-operations",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Spot Health",
+   "website": "spotdx.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/spot-health/jobs",
+   "crawledAt": 1794193870241
+  },
+  {
+   "title": "Design Engineer (Senior / Staff / Principal)",
+   "url": "https://www.ycombinator.com/companies/gym-class/jobs/ywXHGBv-design-engineer-senior-staff-principal",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Gym Class",
+   "website": "gymclass.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/gym-class/jobs",
+   "crawledAt": 1794193947350
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
