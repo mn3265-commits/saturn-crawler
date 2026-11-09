@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:05:18.002Z",
+ "generated": "2026-11-09T02:08:35.888Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4524,
+  "no-ats": 4523,
   "down": 983,
-  "site": 158
+  "site": 159
  },
  "byType": {
   "dover": 7,
@@ -13726,6 +13726,18 @@
    "src": "yc",
    "page": "https://experiment.com/jobs",
    "crawledAt": 1794189906301
+  },
+  {
+   "title": "Operations",
+   "url": "https://www.grubmarket.com/hello/jobs/openings/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "GrubMarket",
+   "website": "grubmarket.com",
+   "src": "yc",
+   "page": "https://www.grubmarket.com/",
+   "crawledAt": 1794190061650
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
