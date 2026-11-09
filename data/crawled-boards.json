@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T04:20:22.682Z",
+ "generated": "2026-11-09T04:23:27.384Z",
  "companies": 7313,
  "status": {
   "found": 1633,
-  "no-ats": 4459,
+  "no-ats": 4457,
   "down": 983,
-  "site": 238
+  "site": 240
  },
  "byType": {
   "dover": 7,
@@ -18252,6 +18252,62 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/andy-ai/jobs",
    "crawledAt": 1794198006092
+  },
+  {
+   "title": "Full Stack Engineer (TS/SCI)",
+   "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Hazel",
+   "website": "hazelai.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/hazel-2/jobs",
+   "crawledAt": 1794198101317
+  },
+  {
+   "title": "AI Engineer",
+   "url": "https://www.ycombinator.com/companies/stacksync/jobs/d6CSn3w-ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Stacksync",
+   "website": "stacksync.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/stacksync/jobs",
+   "crawledAt": 1794198173297
+  },
+  {
+   "title": "Forward Deployed Engineer + Product engineer",
+   "url": "https://www.ycombinator.com/companies/stacksync/jobs/2I6rI5E-forward-deployed-engineer-product-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Stacksync",
+   "website": "stacksync.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/stacksync/jobs",
+   "crawledAt": 1794198173297
+  },
+  {
+   "title": "Full-Cycle Forward Deployed Sales Engineer - The Closer of All Closers!",
+   "url": "https://www.ycombinator.com/companies/stacksync/jobs/hG4YjnL-full-cycle-forward-deployed-sales-engineer-the-closer-of-all-closers",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Stacksync",
+   "website": "stacksync.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/stacksync/jobs",
+   "crawledAt": 1794198173297
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
