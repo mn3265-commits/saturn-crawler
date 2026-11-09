@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:06:34.618Z",
+ "generated": "2026-11-09T03:09:49.691Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4492,
+  "no-ats": 4490,
   "down": 983,
-  "site": 190
+  "site": 192
  },
  "byType": {
   "dover": 7,
@@ -15952,6 +15952,102 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
    "crawledAt": 1794193562646
+  },
+  {
+   "title": "Software Engineer Jobs in San Francisco",
+   "url": "https://www.workatastartup.com/jobs/san-francisco/software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Aviator",
+   "website": "aviator.co",
+   "src": "yc",
+   "page": "https://www.workatastartup.com/companies/aviator",
+   "crawledAt": 1794193777925
+  },
+  {
+   "title": "Product Manager Jobs in San Francisco",
+   "url": "https://www.workatastartup.com/jobs/san-francisco/product-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Aviator",
+   "website": "aviator.co",
+   "src": "yc",
+   "page": "https://www.workatastartup.com/companies/aviator",
+   "crawledAt": 1794193777925
+  },
+  {
+   "title": "Software Engineer Jobs in New York",
+   "url": "https://www.workatastartup.com/jobs/new-york/software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Aviator",
+   "website": "aviator.co",
+   "src": "yc",
+   "page": "https://www.workatastartup.com/companies/aviator",
+   "crawledAt": 1794193777925
+  },
+  {
+   "title": "Product Manager Jobs in New York",
+   "url": "https://www.workatastartup.com/jobs/new-york/product-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Aviator",
+   "website": "aviator.co",
+   "src": "yc",
+   "page": "https://www.workatastartup.com/companies/aviator",
+   "crawledAt": 1794193777925
+  },
+  {
+   "title": "Software Engineer Jobs in Los Angeles",
+   "url": "https://www.workatastartup.com/jobs/los-angeles/software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Aviator",
+   "website": "aviator.co",
+   "src": "yc",
+   "page": "https://www.workatastartup.com/companies/aviator",
+   "crawledAt": 1794193777925
+  },
+  {
+   "title": "Product Manager Jobs in Los Angeles",
+   "url": "https://www.workatastartup.com/jobs/los-angeles/product-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Aviator",
+   "website": "aviator.co",
+   "src": "yc",
+   "page": "https://www.workatastartup.com/companies/aviator",
+   "crawledAt": 1794193777925
+  },
+  {
+   "title": "Product Teams",
+   "url": "https://www.growthbook.io/roles/product-management",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "GrowthBook",
+   "website": "growthbook.io",
+   "src": "yc",
+   "page": "https://www.growthbook.io/careers",
+   "crawledAt": 1794193786561
+  },
+  {
+   "title": "Growth Teams",
+   "url": "https://www.growthbook.io/roles/growth-teams",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "GrowthBook",
+   "website": "growthbook.io",
+   "src": "yc",
+   "page": "https://www.growthbook.io/careers",
+   "crawledAt": 1794193786561
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
