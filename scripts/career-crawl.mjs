@@ -67,7 +67,7 @@ export function siteJobs(html, base) {
   if (!out.size) for (const m of String(html).matchAll(/<a\b[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]{3,300}?)<\/a>/gi)) {
     let u; try { u = new URL(m[1], base).href.split('?')[0]; } catch { continue; }
     const text = m[2].replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&nbsp;|&#160;/g, ' ').replace(/\s+/g, ' ').trim();
-    if (!same(u) || !JOB_PATH.test(new URL(u).pathname) || text.length < 6 || text.length > 140 || !ROLE_WORD.test(text) || /^(view|see|apply|learn|all|open|explore|browse)\b/i.test(text)) continue;
+    if (!same(u) || !JOB_PATH.test(new URL(u).pathname) || /\/(solutions|blog|about|news|press|resources)\//i.test(new URL(u).pathname) || /\bjobs?$/i.test(text) ||   /* 2026-11-09 precision audit: 32% real; SEO 'X jobs' pages + /solutions/role/ links were junk */ text.length < 6 || text.length > 140 || !ROLE_WORD.test(text) || /^(view|see|apply|learn|all|open|explore|browse)\b/i.test(text)) continue;
     if (!out.has(u)) out.set(u, { title: text.slice(0, 120), url: u, datePosted: null, locations: [], employmentType: linkType(text), startDate: (text.match(START_HINT) || [])[0] || null, via: 'link' });
   }
   let path = ''; try { path = new URL(base).pathname; } catch {}
@@ -107,6 +107,7 @@ async function crawl(site) {
   return jobs.length ? { status: 'site', boards, jobs, page: pages.at(-1) } : { status: 'no-ats', boards, page: pages.at(-1) };
 }
 
+let YC_SLUG = new Map();
 async function renderPass(cache, list) {
   const { chromium } = await import('playwright-core');
   let browser, ctx;
@@ -144,7 +145,8 @@ async function renderPass(cache, list) {
       }
     })()]); } catch {}
     await page.close().catch(() => {});
-    const uniq = [...new Map(boards.map(b => [b.type + '|' + b.token.toLowerCase(), b])).values()];
+    const uniq = [...boards.reduce((m, b) => { const k = b.type + '|' + b.token.toLowerCase(); if (!m.has(k) || b.site && !m.get(k).site) m.set(k, b); return m; }, new Map()).values()];
+    if (!uniq.length && !jobs.length && v.src === 'yc' && YC_SLUG.get(v.name)) { const y = await get(`https://www.ycombinator.com/companies/${YC_SLUG.get(v.name)}/jobs`); if (y) jobs = siteJobs(y.html, y.url); }
     cache[d] = { ...v, at: Date.now(), rendered: true, rv: 3, ...(landed ? { landed, portal } : {}), status: uniq.length ? 'found' : jobs.length ? 'site' : 'no-ats', boards: uniq, ...(jobs.length && !uniq.length ? { jobs } : {}) };
     if (uniq.length) found++;
     if (++done % 100 === 0) { console.error(`  render ${done}/${list.length} found ${found} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
@@ -169,13 +171,17 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
   console.assert(atsLinks('https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs')[0]?.site === '2' && atsLinks('x.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1')[0]?.type === 'oracle', 'atsLinks portal self-check');
   const cache = await read(CACHE, {});
   let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}), await read(join(ROOT, 'data', 'chrome-only-seeds.json'), {}), await read(join(ROOT, 'data', 'chrome-only-domains.json'), {}));
+  YC_SLUG = new Map((await read(join(ROOT, 'data', 'yc-companies.json'), [])).filter(c => c.isHiring && c.slug).map(c => [c.name, c.slug]));
   const only = arg('--only')?.split(',').map(s => s.trim().toLowerCase());
   if (only) list = list.filter(c => only.some(o => c.domain.includes(o) || c.name.toLowerCase().includes(o)));
   const todo = list.filter(c => process.argv.includes('--refresh') || only || !(cache[c.domain] && (cache[c.domain].status === 'site' && cache[c.domain].rendered || Date.now() - cache[c.domain].at < (cache[c.domain].status === 'site' ? 864e5 - 36e5 : TTL)))).slice(0, Number(arg('--limit')) || Infinity);
   console.error(`career-crawl: ${list.length} companies, ${todo.length} to crawl`);
   let i = 0, done = 0; const t0 = Date.now();
   await Promise.all(Array.from({ length: 24 }, async () => { while (i < todo.length) { const c = todo[i++];
-    cache[c.domain] = { name: c.name, src: c.src, at: Date.now(), ...(await crawl(c.site)) };
+    let res = await crawl(c.site);
+    if (res.status !== 'found' && c.src === 'yc' && YC_SLUG.get(c.name)) { const y = await get(`https://www.ycombinator.com/companies/${YC_SLUG.get(c.name)}/jobs`);
+      const jobs = y ? siteJobs(y.html, y.url) : []; if (jobs.length) res = { status: 'site', boards: [], jobs, page: y.url, via: 'yc' }; }
+    cache[c.domain] = { name: c.name, src: c.src, at: Date.now(), ...res };
     if (++done % 200 === 0) { console.error(`  ${done}/${todo.length} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
   await writeFile(CACHE, JSON.stringify(cache));
   if (process.argv.includes('--render') && !process.env.CI && !process.argv.includes('--local-render')) { console.error('render pass skipped: runs in GitHub Actions (saturn-crawler), not on the Mac'); process.exit(0); }
