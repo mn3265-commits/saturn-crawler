@@ -1,6 +1,6 @@
 name: crawl
 on:
-  schedule: [{ cron: '0 0 * * *' }]   # 19:00 ET (EST): up to 5.7h, so it lands before night-crawl 01:00 pulls it
+  schedule: [{ cron: '23 0 * * *' }]   # 19:23 ET (EST); 2026-11-09: off :00, GitHub drops top-of-hour schedules (0 scheduled crawls fired in 7 days): up to 5.7h, so it lands before night-crawl 01:00 pulls it
   workflow_dispatch:
 permissions: { contents: write }
 concurrency: { group: crawl, cancel-in-progress: false }
