@@ -17,6 +17,19 @@ jobs:
       - run: node scripts/resolve-websites.mjs
         continue-on-error: true
         timeout-minutes: 120
+      # 2026-11-09 his "semuanya cloud please jgn pake mac kecuali apply": ATS-board discovery from the Common Crawl static index
+      # (weekly, re-runs while the last pull had failed pages) + a fetch-only pass over new universe sites (USCIS H-1B employers)
+      # before the Chrome chunks, committed on its own so a later crash keeps it.
+      - run: node scripts/src-ccindex.mjs
+        continue-on-error: true
+        timeout-minutes: 60
+      - name: static pass (new sites)
+        continue-on-error: true
+        timeout-minutes: 90
+        run: |
+          git config user.name crawl-bot; git config user.email crawl-bot@users.noreply.github.com
+          timeout -k 30 5000 node scripts/career-crawl.mjs 2> static.log || true; tail -3 static.log
+          git add data && git commit -qm "static pass $(date -u +%F)" && { git pull -q --rebase -X ours origin main; git push -q; } || true
       # 2026-11-06: one 3000-site Chrome starved the runner at 2h40m and nothing was committed. Now chunks of 300 sites,
       # each a fresh node + Chrome, committed after every chunk, so a crash loses at most one chunk.
       - name: render in chunks
