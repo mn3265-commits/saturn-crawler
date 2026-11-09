@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:29:07.382Z",
+ "generated": "2026-11-09T03:31:48.694Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4477,
+  "no-ats": 4474,
   "down": 983,
-  "site": 205
+  "site": 208
  },
  "byType": {
   "dover": 7,
@@ -16756,6 +16756,162 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coris/jobs",
    "crawledAt": 1794194864128
+  },
+  {
+   "title": "Marketing & Growth Lead",
+   "url": "https://www.ycombinator.com/companies/primevault/jobs/3FXwQzR-marketing-growth-lead",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "PrimeVault",
+   "website": "primevault.com",
+   "src": "yc",
+   "page": "https://www.primevault.com/",
+   "crawledAt": 1794195006411
+  },
+  {
+   "title": "Full-time Backend Engineer",
+   "url": "https://www.ycombinator.com/companies/primevault/jobs/zH4amoV-full-time-backend-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "PrimeVault",
+   "website": "primevault.com",
+   "src": "yc",
+   "page": "https://www.primevault.com/",
+   "crawledAt": 1794195006411
+  },
+  {
+   "title": "Senior Backend Engineer Engineering • India • Full time",
+   "url": "https://getfinn.us/careers/senior-backend-engineer-india/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Finn",
+   "website": "getfinn.us",
+   "src": "yc",
+   "page": "https://getfinn.us/careers/",
+   "crawledAt": 1794195063014
+  },
+  {
+   "title": "Senior LLM Engineer Engineering • India • Full time",
+   "url": "https://getfinn.us/careers/senior-llm-engineer-india/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Finn",
+   "website": "getfinn.us",
+   "src": "yc",
+   "page": "https://getfinn.us/careers/",
+   "crawledAt": 1794195063014
+  },
+  {
+   "title": "Chief of Staff Operations • San Francisco • Full time",
+   "url": "https://getfinn.us/careers/chief-of-staff-san-francisco/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Finn",
+   "website": "getfinn.us",
+   "src": "yc",
+   "page": "https://getfinn.us/careers/",
+   "crawledAt": 1794195063014
+  },
+  {
+   "title": "Marketing Intern Operations • San Francisco • Intern",
+   "url": "https://getfinn.us/careers/marketing-intern-san-francisco/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Finn",
+   "website": "getfinn.us",
+   "src": "yc",
+   "page": "https://getfinn.us/careers/",
+   "crawledAt": 1794195063014
+  },
+  {
+   "title": "Chief of Staff",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/CDXewep-chief-of-staff",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/zjGOpBA-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
+  },
+  {
+   "title": "Deployment Strategist",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/t57WHNq-deployment-strategist",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
+  },
+  {
+   "title": "Senior Sales Development Representative (SDR)",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/jWWWgqU-senior-sales-development-representative-sdr",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
+  },
+  {
+   "title": "GTM Lead",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/L7D8Q6R-gtm-lead",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
+  },
+  {
+   "title": "Forward Deployed Engineer",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/JtSDIe3-forward-deployed-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
+  },
+  {
+   "title": "Founding Sales Development Representative (SDR)",
+   "url": "https://www.ycombinator.com/companies/reflex/jobs/0BmuKm6-founding-sales-development-representative-sdr",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Reflex",
+   "website": "reflex.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/reflex/jobs",
+   "crawledAt": 1794195074660
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
