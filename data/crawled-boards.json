@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-09T01:20:18.198Z",
+ "generated": "2026-11-09T01:25:26.358Z",
  "companies": 7280,
  "status": {
-  "found": 1584,
-  "no-ats": 4564,
+  "found": 1586,
+  "no-ats": 4562,
   "down": 983,
   "site": 149
  },
  "byType": {
   "dover": 7,
   "ashby": 598,
-  "lever": 140,
+  "lever": 141,
   "gh": 491,
   "gem": 56,
   "workable": 103,
   "rippling": 91,
-  "bamboohr": 75,
+  "bamboohr": 76,
   "smartrecruiters": 8,
   "recruitee": 13,
   "workday": 86
@@ -12390,11 +12390,27 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "solarlandscape",
+   "label": "Solar Landscape",
+   "website": "solarlandscape.com",
+   "page": "https://solarlandscape.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "siepe",
    "label": "Siepe",
    "website": "siepe.com",
    "page": "https://www.siepe.com/company/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "snadisplays",
+   "label": "SNA Displays",
+   "website": "snadisplays.com",
+   "page": "https://snadisplays.com/about/careers/",
    "src": "nyc"
   },
   {
