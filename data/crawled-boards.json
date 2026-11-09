@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-09T01:43:02.354Z",
+ "generated": "2026-11-09T01:46:40.931Z",
  "companies": 7280,
  "status": {
-  "found": 1601,
-  "no-ats": 4544,
+  "found": 1607,
+  "no-ats": 4538,
   "down": 983,
   "site": 152
  },
  "byType": {
   "dover": 7,
   "ashby": 599,
-  "lever": 144,
-  "gh": 493,
+  "lever": 145,
+  "gh": 495,
   "gem": 57,
   "workable": 104,
   "rippling": 93,
-  "bamboohr": 79,
+  "bamboohr": 82,
   "smartrecruiters": 9,
-  "recruitee": 13,
+  "recruitee": 14,
   "workday": 88
  },
  "boards": [
@@ -12974,11 +12974,35 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "touchcast",
+   "label": "Touchcast",
+   "website": "touchcast.com",
+   "page": "https://touchcast.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "voxmedia",
    "label": "Thrillist",
    "website": "thrillist.com",
    "page": "https://www.voxmedia.com/jobs/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "traackr",
+   "label": "Traackr",
+   "website": "traackr.com",
+   "page": "https://www.traackr.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "recruitee",
+   "token": "career",
+   "label": "Trafilea",
+   "website": "trafilea.com",
+   "page": "https://www.trafilea.com/careers",
    "src": "nyc"
   },
   {
@@ -13011,6 +13035,14 @@
    "label": "Travelzoo",
    "website": "travelzoo.com",
    "page": "https://www.travelzoo.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "travefy",
+   "label": "Travefy",
+   "website": "travefy.com",
+   "page": "https://travefy.com/company/careers",
    "src": "nyc"
   },
   {
@@ -13070,6 +13102,14 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "unacast",
+   "label": "Unacast",
+   "website": "unacast.com",
+   "page": "https://www.unacast.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "underscoremarketing",
    "label": "Underscore Marketing",
@@ -13083,6 +13123,22 @@
    "label": "Unily",
    "website": "unily.com",
    "page": "https://www.unily.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "tubitv",
+   "label": "Tubi",
+   "website": "tubitv.com",
+   "page": "https://corporate.tubitv.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "tubi-canada",
+   "label": "Tubi",
+   "website": "tubitv.com",
+   "page": "https://corporate.tubitv.com/careers/",
    "src": "nyc"
   },
   {
