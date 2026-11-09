@@ -1,0 +1,2315 @@
+{
+ "generated": "2026-11-02T05:37:54.154Z",
+ "probed": 797,
+ "boards": [
+  {
+   "type": "gh",
+   "token": "braze",
+   "label": "Braze",
+   "website": "braze.com"
+  },
+  {
+   "type": "gh",
+   "token": "yotpo",
+   "label": "Yotpo",
+   "website": "yotpo.com"
+  },
+  {
+   "type": "gh",
+   "token": "movableink",
+   "label": "Movable Ink",
+   "website": "movableink.com"
+  },
+  {
+   "type": "ashby",
+   "token": "attention",
+   "label": "Attention",
+   "website": "attention.tech"
+  },
+  {
+   "type": "ashby",
+   "token": "arq",
+   "label": "ARQ",
+   "website": "arq.com"
+  },
+  {
+   "type": "ashby",
+   "token": "tennr",
+   "label": "Tennr",
+   "website": "tennr.com"
+  },
+  {
+   "type": "ashby",
+   "token": "rogo",
+   "label": "Rogo",
+   "website": "rogo.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "runway",
+   "label": "Runway",
+   "website": "runwayml.com"
+  },
+  {
+   "type": "ashby",
+   "token": "rilla",
+   "label": "Rilla",
+   "website": "rilla.com"
+  },
+  {
+   "type": "ashby",
+   "token": "elevenlabs",
+   "label": "ElevenLabs",
+   "website": "elevenlabs.io"
+  },
+  {
+   "type": "gh",
+   "token": "cockroachlabs",
+   "label": "Cockroach Labs",
+   "website": "cockroachlabs.com"
+  },
+  {
+   "type": "ashby",
+   "token": "pinecone",
+   "label": "Pinecone",
+   "website": "pinecone.io"
+  },
+  {
+   "type": "gh",
+   "token": "axonius",
+   "label": "Axonius",
+   "website": "axonius.com"
+  },
+  {
+   "type": "ashby",
+   "token": "sierra",
+   "label": "Sierra",
+   "website": "sierra.ai"
+  },
+  {
+   "type": "gh",
+   "token": "abnormalsecurity",
+   "label": "Abnormal Security",
+   "website": "abnormalsecurity.com"
+  },
+  {
+   "type": "gh",
+   "token": "justworks",
+   "label": "Justworks",
+   "website": "justworks.com"
+  },
+  {
+   "type": "gh",
+   "token": "dataiku",
+   "label": "Dataiku",
+   "website": "dataiku.com"
+  },
+  {
+   "type": "gh",
+   "token": "yext",
+   "label": "Yext",
+   "website": "yext.com"
+  },
+  {
+   "type": "gh",
+   "token": "greenhouse",
+   "label": "Greenhouse",
+   "website": "greenhouse.io"
+  },
+  {
+   "type": "gh",
+   "token": "sendbird",
+   "label": "Sendbird",
+   "website": "sendbird.com"
+  },
+  {
+   "type": "ashby",
+   "token": "harvey",
+   "label": "Harvey",
+   "website": "harvey.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "kustomer",
+   "label": "Kustomer",
+   "website": "kustomer.com"
+  },
+  {
+   "type": "ashby",
+   "token": "gorgias",
+   "label": "Gorgias",
+   "website": "gorgias.com"
+  },
+  {
+   "type": "gh",
+   "token": "mercury",
+   "label": "Mercury",
+   "website": "mercury.com"
+  },
+  {
+   "type": "gh",
+   "token": "ramp",
+   "label": "Ramp",
+   "website": "ramp.com"
+  },
+  {
+   "type": "gh",
+   "token": "betterment",
+   "label": "Betterment",
+   "website": "betterment.com"
+  },
+  {
+   "type": "gh",
+   "token": "brex",
+   "label": "Brex",
+   "website": "brex.com"
+  },
+  {
+   "type": "ashby",
+   "token": "acorns",
+   "label": "Acorns",
+   "website": "acorns.com"
+  },
+  {
+   "type": "gh",
+   "token": "current",
+   "label": "Current",
+   "website": "current.com"
+  },
+  {
+   "type": "gh",
+   "token": "kikoff",
+   "label": "Kikoff",
+   "website": "kikoff.com"
+  },
+  {
+   "type": "ashby",
+   "token": "unit",
+   "label": "Unit",
+   "website": "unit.co"
+  },
+  {
+   "type": "gh",
+   "token": "alloy",
+   "label": "Alloy",
+   "website": "alloy.com"
+  },
+  {
+   "type": "ashby",
+   "token": "column",
+   "label": "Column",
+   "website": "column.com"
+  },
+  {
+   "type": "ashby",
+   "token": "plaid",
+   "label": "Plaid",
+   "website": "plaid.com"
+  },
+  {
+   "type": "ashby",
+   "token": "moderntreasury",
+   "label": "Modern Treasury",
+   "website": "moderntreasury.com"
+  },
+  {
+   "type": "ashby",
+   "token": "sardine",
+   "label": "Sardine",
+   "website": "sardine.ai"
+  },
+  {
+   "type": "gh",
+   "token": "public",
+   "label": "Public",
+   "website": "public.com"
+  },
+  {
+   "type": "ashby",
+   "token": "socure",
+   "label": "Socure",
+   "website": "socure.com"
+  },
+  {
+   "type": "gh",
+   "token": "melio",
+   "label": "Melio",
+   "website": "meliopayments.com"
+  },
+  {
+   "type": "ashby",
+   "token": "ocrolus",
+   "label": "Ocrolus",
+   "website": "ocrolus.com"
+  },
+  {
+   "type": "gh",
+   "token": "icapitalnetwork",
+   "label": "iCapital",
+   "website": "icapitalnetwork.com"
+  },
+  {
+   "type": "ashby",
+   "token": "rho",
+   "label": "Rho",
+   "website": "rho.co"
+  },
+  {
+   "type": "ashby",
+   "token": "persona",
+   "label": "Persona",
+   "website": "withpersona.com"
+  },
+  {
+   "type": "gh",
+   "token": "fireblocks",
+   "label": "Fireblocks",
+   "website": "fireblocks.com"
+  },
+  {
+   "type": "gh",
+   "token": "gemini",
+   "label": "Gemini",
+   "website": "gemini.com"
+  },
+  {
+   "type": "ashby",
+   "token": "paxos",
+   "label": "Paxos",
+   "website": "paxos.com"
+  },
+  {
+   "type": "gh",
+   "token": "clearstreet",
+   "label": "Clear Street",
+   "website": "clearstreet.io"
+  },
+  {
+   "type": "gh",
+   "token": "payoneer",
+   "label": "Payoneer",
+   "website": "payoneer.com"
+  },
+  {
+   "type": "gh",
+   "token": "coast",
+   "label": "Coast",
+   "website": "coastpay.com"
+  },
+  {
+   "type": "gh",
+   "token": "kalshi",
+   "label": "Kalshi",
+   "website": "kalshi.com"
+  },
+  {
+   "type": "ashby",
+   "token": "tabs",
+   "label": "Tabs",
+   "website": "tabs.inc"
+  },
+  {
+   "type": "ashby",
+   "token": "polymarket",
+   "label": "Polymarket",
+   "website": "polymarket.com"
+  },
+  {
+   "type": "gh",
+   "token": "carta",
+   "label": "Carta",
+   "website": "carta.com"
+  },
+  {
+   "type": "ashby",
+   "token": "getsquire",
+   "label": "Squire",
+   "website": "getsquire.com"
+  },
+  {
+   "type": "gh",
+   "token": "underdog",
+   "label": "Underdog",
+   "website": "underdogfantasy.com"
+  },
+  {
+   "type": "ashby",
+   "token": "sleeper",
+   "label": "Sleeper",
+   "website": "sleeper.com"
+  },
+  {
+   "type": "gh",
+   "token": "talkspace",
+   "label": "Talkspace",
+   "website": "talkspace.com"
+  },
+  {
+   "type": "gh",
+   "token": "zocdoc",
+   "label": "Zocdoc",
+   "website": "zocdoc.com"
+  },
+  {
+   "type": "ashby",
+   "token": "headway",
+   "label": "Headway",
+   "website": "headway.co"
+  },
+  {
+   "type": "gh",
+   "token": "ritual",
+   "label": "Ritual",
+   "website": "ritual.com"
+  },
+  {
+   "type": "ashby",
+   "token": "capsule",
+   "label": "Capsule",
+   "website": "capsule.com"
+  },
+  {
+   "type": "gh",
+   "token": "calm",
+   "label": "Calm",
+   "website": "calm.com"
+  },
+  {
+   "type": "gh",
+   "token": "komodohealth",
+   "label": "Komodo Health",
+   "website": "komodohealth.com"
+  },
+  {
+   "type": "gh",
+   "token": "flatironhealth",
+   "label": "Flatiron Health",
+   "website": "flatiron.com"
+  },
+  {
+   "type": "gh",
+   "token": "blankstreet",
+   "label": "Blank Street",
+   "website": "blankstreet.com"
+  },
+  {
+   "type": "ashby",
+   "token": "cedar",
+   "label": "Cedar",
+   "website": "cedar.com"
+  },
+  {
+   "type": "gh",
+   "token": "sweetgreen",
+   "label": "Sweetgreen",
+   "website": "sweetgreen.com"
+  },
+  {
+   "type": "gh",
+   "token": "glossier",
+   "label": "Glossier",
+   "website": "glossier.com"
+  },
+  {
+   "type": "gh",
+   "token": "renttherunway",
+   "label": "Rent the Runway",
+   "website": "renttherunway.com"
+  },
+  {
+   "type": "gh",
+   "token": "harrys",
+   "label": "Harry's",
+   "website": "harrys.com"
+  },
+  {
+   "type": "gh",
+   "token": "squarespace",
+   "label": "Squarespace",
+   "website": "squarespace.com"
+  },
+  {
+   "type": "gh",
+   "token": "peloton",
+   "label": "Peloton",
+   "website": "onepeloton.com"
+  },
+  {
+   "type": "gh",
+   "token": "bombas",
+   "label": "Bombas",
+   "website": "bombas.com"
+  },
+  {
+   "type": "gh",
+   "token": "newsela",
+   "label": "Newsela",
+   "website": "newsela.com"
+  },
+  {
+   "type": "ashby",
+   "token": "away",
+   "label": "Away",
+   "website": "awaytravel.com"
+  },
+  {
+   "type": "ashby",
+   "token": "babbel",
+   "label": "Babbel",
+   "website": "babbel.com"
+  },
+  {
+   "type": "gh",
+   "token": "zola",
+   "label": "Zola",
+   "website": "zola.com"
+  },
+  {
+   "type": "gh",
+   "token": "classpass",
+   "label": "ClassPass",
+   "website": "classpass.com"
+  },
+  {
+   "type": "lever",
+   "token": "olo",
+   "label": "Olo",
+   "website": "olo.com"
+  },
+  {
+   "type": "gh",
+   "token": "taboola",
+   "label": "Taboola",
+   "website": "taboola.com"
+  },
+  {
+   "type": "ashby",
+   "token": "strava",
+   "label": "Strava",
+   "website": "strava.com"
+  },
+  {
+   "type": "gh",
+   "token": "doubleverify",
+   "label": "DoubleVerify",
+   "website": "doubleverify.com"
+  },
+  {
+   "type": "ashby",
+   "token": "tonal",
+   "label": "Tonal",
+   "website": "tonal.com"
+  },
+  {
+   "type": "gh",
+   "token": "innovid",
+   "label": "Innovid",
+   "website": "innovid.com"
+  },
+  {
+   "type": "ashby",
+   "token": "whoop",
+   "label": "Whoop",
+   "website": "whoop.com"
+  },
+  {
+   "type": "gh",
+   "token": "mediaocean",
+   "label": "Mediaocean",
+   "website": "mediaocean.com"
+  },
+  {
+   "type": "gh",
+   "token": "mirakl",
+   "label": "Mirakl",
+   "website": "mirakl.com"
+  },
+  {
+   "type": "ashby",
+   "token": "sonder",
+   "label": "Sonder",
+   "website": "sonder.com"
+  },
+  {
+   "type": "gh",
+   "token": "airtable",
+   "label": "Airtable",
+   "website": "airtable.com"
+  },
+  {
+   "type": "ashby",
+   "token": "vanta",
+   "label": "Vanta",
+   "website": "vanta.com"
+  },
+  {
+   "type": "ashby",
+   "token": "drata",
+   "label": "Drata",
+   "website": "drata.com"
+  },
+  {
+   "type": "lever",
+   "token": "latch",
+   "label": "Latch",
+   "website": "latch.com"
+  },
+  {
+   "type": "gh",
+   "token": "cresta",
+   "label": "Cresta",
+   "website": "cresta.com"
+  },
+  {
+   "type": "ashby",
+   "token": "notion",
+   "label": "Notion",
+   "website": "notion.so"
+  },
+  {
+   "type": "ashby",
+   "token": "writer",
+   "label": "Writer",
+   "website": "writer.com"
+  },
+  {
+   "type": "gh",
+   "token": "iterable",
+   "label": "Iterable",
+   "website": "iterable.com"
+  },
+  {
+   "type": "ashby",
+   "token": "decagon",
+   "label": "Decagon",
+   "website": "decagon.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "synthesia",
+   "label": "Synthesia",
+   "website": "synthesia.io"
+  },
+  {
+   "type": "gh",
+   "token": "klaviyo",
+   "label": "Klaviyo",
+   "website": "klaviyo.com"
+  },
+  {
+   "type": "gh",
+   "token": "mixpanel",
+   "label": "Mixpanel",
+   "website": "mixpanel.com"
+  },
+  {
+   "type": "ashby",
+   "token": "perplexity",
+   "label": "Perplexity",
+   "website": "perplexity.ai"
+  },
+  {
+   "type": "gh",
+   "token": "pendo",
+   "label": "Pendo",
+   "website": "pendo.io"
+  },
+  {
+   "type": "ashby",
+   "token": "hightouch",
+   "label": "Hightouch",
+   "website": "hightouch.com"
+  },
+  {
+   "type": "gh",
+   "token": "salesloft",
+   "label": "Salesloft",
+   "website": "salesloft.com"
+  },
+  {
+   "type": "gh",
+   "token": "apollo",
+   "label": "Apollo",
+   "website": "apollo.io"
+  },
+  {
+   "type": "gh",
+   "token": "customerio",
+   "label": "Customer.io",
+   "website": "customer.io"
+  },
+  {
+   "type": "ashby",
+   "token": "amplitude",
+   "label": "Amplitude",
+   "website": "amplitude.com"
+  },
+  {
+   "type": "gh",
+   "token": "zoominfo",
+   "label": "ZoomInfo",
+   "website": "zoominfo.com"
+  },
+  {
+   "type": "gh",
+   "token": "6sense",
+   "label": "6sense",
+   "website": "6sense.com"
+  },
+  {
+   "type": "ashby",
+   "token": "mutiny",
+   "label": "Mutiny",
+   "website": "mutinyhq.com"
+  },
+  {
+   "type": "ashby",
+   "token": "unify",
+   "label": "Unify",
+   "website": "unifygtm.com"
+  },
+  {
+   "type": "ashby",
+   "token": "demandbase",
+   "label": "Demandbase",
+   "website": "demandbase.com"
+  },
+  {
+   "type": "gh",
+   "token": "later",
+   "label": "Later",
+   "website": "later.com"
+  },
+  {
+   "type": "lever",
+   "token": "fundrise",
+   "label": "Fundrise",
+   "website": "fundrise.com"
+  },
+  {
+   "type": "gh",
+   "token": "sproutsocial",
+   "label": "Sprout Social",
+   "website": "sproutsocial.com"
+  },
+  {
+   "type": "gh",
+   "token": "hootsuite",
+   "label": "Hootsuite",
+   "website": "hootsuite.com"
+  },
+  {
+   "type": "gh",
+   "token": "grin",
+   "label": "Grin",
+   "website": "grin.co"
+  },
+  {
+   "type": "gh",
+   "token": "faire",
+   "label": "Faire",
+   "website": "faire.com"
+  },
+  {
+   "type": "gh",
+   "token": "shopltk",
+   "label": "LTK",
+   "website": "shopltk.com"
+  },
+  {
+   "type": "gh",
+   "token": "fanaticslive",
+   "label": "Fanatics Live",
+   "website": "fanaticslive.com"
+  },
+  {
+   "type": "gh",
+   "token": "attentive",
+   "label": "Attentive",
+   "website": "attentive.com"
+  },
+  {
+   "type": "gh",
+   "token": "chime",
+   "label": "Chime",
+   "website": "chime.com"
+  },
+  {
+   "type": "ashby",
+   "token": "dave",
+   "label": "Dave",
+   "website": "dave.com"
+  },
+  {
+   "type": "gh",
+   "token": "affirm",
+   "label": "Affirm",
+   "website": "affirm.com"
+  },
+  {
+   "type": "gh",
+   "token": "robinhood",
+   "label": "Robinhood",
+   "website": "robinhood.com"
+  },
+  {
+   "type": "gh",
+   "token": "wise",
+   "label": "Wise",
+   "website": "wise.com"
+  },
+  {
+   "type": "lever",
+   "token": "outreach",
+   "label": "Outreach",
+   "website": "outreach.io"
+  },
+  {
+   "type": "gh",
+   "token": "nubank",
+   "label": "Nubank",
+   "website": "nubank.com.br"
+  },
+  {
+   "type": "gh",
+   "token": "monzo",
+   "label": "Monzo",
+   "website": "monzo.com"
+  },
+  {
+   "type": "gh",
+   "token": "adyen",
+   "label": "Adyen",
+   "website": "adyen.com"
+  },
+  {
+   "type": "gh",
+   "token": "highnote",
+   "label": "Highnote",
+   "website": "highnote.com"
+  },
+  {
+   "type": "gh",
+   "token": "lithic",
+   "label": "Lithic",
+   "website": "lithic.com"
+  },
+  {
+   "type": "gh",
+   "token": "upgrade",
+   "label": "Upgrade",
+   "website": "upgrade.com"
+  },
+  {
+   "type": "ashby",
+   "token": "atomic",
+   "label": "Atomic",
+   "website": "atomic.financial"
+  },
+  {
+   "type": "ashby",
+   "token": "cardless",
+   "label": "Cardless",
+   "website": "cardless.com"
+  },
+  {
+   "type": "gh",
+   "token": "range",
+   "label": "Range",
+   "website": "range.com"
+  },
+  {
+   "type": "ashby",
+   "token": "imprint",
+   "label": "Imprint",
+   "website": "imprint.co"
+  },
+  {
+   "type": "gh",
+   "token": "alphasense",
+   "label": "AlphaSense",
+   "website": "alpha-sense.com"
+  },
+  {
+   "type": "ashby",
+   "token": "airwallex",
+   "label": "Airwallex",
+   "website": "airwallex.com"
+  },
+  {
+   "type": "ashby",
+   "token": "lemonade",
+   "label": "Lemonade",
+   "website": "lemonade.com"
+  },
+  {
+   "type": "gh",
+   "token": "ethoslife",
+   "label": "Ethos",
+   "website": "ethoslife.com"
+  },
+  {
+   "type": "ashby",
+   "token": "openly",
+   "label": "Openly",
+   "website": "openly.com"
+  },
+  {
+   "type": "ashby",
+   "token": "clerk",
+   "label": "Clerk",
+   "website": "clerk.com"
+  },
+  {
+   "type": "gh",
+   "token": "sigmacomputing",
+   "label": "Sigma Computing",
+   "website": "sigmacomputing.com"
+  },
+  {
+   "type": "gh",
+   "token": "fivetran",
+   "label": "Fivetran",
+   "website": "fivetran.com"
+  },
+  {
+   "type": "gh",
+   "token": "mongodb",
+   "label": "MongoDB",
+   "website": "mongodb.com"
+  },
+  {
+   "type": "gh",
+   "token": "datadog",
+   "label": "Datadog",
+   "website": "datadoghq.com"
+  },
+  {
+   "type": "gh",
+   "token": "lattice",
+   "label": "Lattice",
+   "website": "lattice.com"
+  },
+  {
+   "type": "gh",
+   "token": "figma",
+   "label": "Figma",
+   "website": "figma.com"
+  },
+  {
+   "type": "ashby",
+   "token": "hex",
+   "label": "Hex",
+   "website": "hex.tech"
+  },
+  {
+   "type": "ashby",
+   "token": "uipath",
+   "label": "UiPath",
+   "website": "uipath.com"
+  },
+  {
+   "type": "gh",
+   "token": "gusto",
+   "label": "Gusto",
+   "website": "gusto.com"
+  },
+  {
+   "type": "gh",
+   "token": "discord",
+   "label": "Discord",
+   "website": "discord.com"
+  },
+  {
+   "type": "ashby",
+   "token": "substack",
+   "label": "Substack",
+   "website": "substack.com"
+  },
+  {
+   "type": "ashby",
+   "token": "oyster",
+   "label": "Oyster",
+   "website": "oysterhr.com"
+  },
+  {
+   "type": "ashby",
+   "token": "patreon",
+   "label": "Patreon",
+   "website": "patreon.com"
+  },
+  {
+   "type": "lever",
+   "token": "spotify",
+   "label": "Spotify",
+   "website": "spotify.com"
+  },
+  {
+   "type": "gh",
+   "token": "timeleft",
+   "label": "Timeleft",
+   "website": "timeleft.com"
+  },
+  {
+   "type": "ashby",
+   "token": "partiful",
+   "label": "Partiful",
+   "website": "partiful.com"
+  },
+  {
+   "type": "ashby",
+   "token": "tremendous",
+   "label": "Tremendous",
+   "website": "https://www.tremendous.com"
+  },
+  {
+   "type": "lever",
+   "token": "wealthfront",
+   "label": "Wealthfront",
+   "website": "wealthfront.com"
+  },
+  {
+   "type": "ashby",
+   "token": "influxdata",
+   "label": "InfluxData",
+   "website": "https://influxdata.com"
+  },
+  {
+   "type": "gh",
+   "token": "radar",
+   "label": "RADAR",
+   "website": "https://goradar.com"
+  },
+  {
+   "type": "gh",
+   "token": "lob",
+   "label": "Lob",
+   "website": "http://lob.com"
+  },
+  {
+   "type": "ashby",
+   "token": "truelinkfinancial",
+   "label": "True Link",
+   "website": "https://www.truelinkfinancial.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "readme",
+   "label": "ReadMe",
+   "website": "http://readme.com"
+  },
+  {
+   "type": "ashby",
+   "token": "eightsleep",
+   "label": "Eight Sleep",
+   "website": "http://eightsleep.com"
+  },
+  {
+   "type": "gh",
+   "token": "saltsecurity",
+   "label": "Salt Security",
+   "website": "https://salt.security/"
+  },
+  {
+   "type": "gh",
+   "token": "novacredit",
+   "label": "Nova Credit",
+   "website": "http://www.novacredit.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "onechronos",
+   "label": "OneChronos",
+   "website": "https://www.onechronos.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "getsquire",
+   "label": "Squire Technologies",
+   "website": "http://getsquire.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "rezi",
+   "label": "REZI",
+   "website": "https://www.rentrezi.com"
+  },
+  {
+   "type": "ashby",
+   "token": "mednet",
+   "label": "Mednet",
+   "website": "https://www.themednet.org"
+  },
+  {
+   "type": "gh",
+   "token": "aclu",
+   "label": "ACLU",
+   "website": "https://www.aclu.org/"
+  },
+  {
+   "type": "gh",
+   "token": "assemblyai",
+   "label": "AssemblyAI",
+   "website": "https://www.assemblyai.com"
+  },
+  {
+   "type": "ashby",
+   "token": "assembly",
+   "label": "Assembly",
+   "website": "https://www.assembly.com"
+  },
+  {
+   "type": "gh",
+   "token": "pelago",
+   "label": "Pelago",
+   "website": "https://www.pelagohealth.com"
+  },
+  {
+   "type": "gh",
+   "token": "swayable",
+   "label": "Swayable",
+   "website": "http://swayable.com"
+  },
+  {
+   "type": "ashby",
+   "token": "versemedical",
+   "label": "Verse Medical",
+   "website": "http://versemedical.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "titan",
+   "label": "Titan",
+   "website": "http://www.titan.com"
+  },
+  {
+   "type": "gh",
+   "token": "enveritas",
+   "label": "Enveritas",
+   "website": "http://www.enveritas.org"
+  },
+  {
+   "type": "gh",
+   "token": "nabis",
+   "label": "Nabis",
+   "website": "https://www.nabis.com/"
+  },
+  {
+   "type": "lever",
+   "token": "canarytechnologies",
+   "label": "Canary Technologies",
+   "website": "https://www.canarytechnologies.com"
+  },
+  {
+   "type": "gh",
+   "token": "odeko",
+   "label": "Odeko",
+   "website": "http://www.odeko.com"
+  },
+  {
+   "type": "gh",
+   "token": "recidiviz",
+   "label": "Recidiviz",
+   "website": "https://www.recidiviz.org/"
+  },
+  {
+   "type": "gh",
+   "token": "porter",
+   "label": "Porter",
+   "website": "https://porter.run"
+  },
+  {
+   "type": "gh",
+   "token": "ophelia",
+   "label": "Ophelia",
+   "website": "https://ophelia.com"
+  },
+  {
+   "type": "gh",
+   "token": "haven",
+   "label": "Haven",
+   "website": "http://www.havenservicing.com"
+  },
+  {
+   "type": "ashby",
+   "token": "benepass",
+   "label": "Benepass",
+   "website": "https://www.benepass.com"
+  },
+  {
+   "type": "lever",
+   "token": "raya",
+   "label": "Raya",
+   "website": "rayatheapp.com"
+  },
+  {
+   "type": "ashby",
+   "token": "stable",
+   "label": "Stable",
+   "website": "https://useStable.com"
+  },
+  {
+   "type": "ashby",
+   "token": "datafold",
+   "label": "Datafold",
+   "website": "https://datafold.com"
+  },
+  {
+   "type": "ashby",
+   "token": "novel",
+   "label": "Novel",
+   "website": "https://www.trynovel.com/"
+  },
+  {
+   "type": "lever",
+   "token": "doola",
+   "label": "doola",
+   "website": "https://www.doola.com/"
+  },
+  {
+   "type": "lever",
+   "token": "tryjeeves",
+   "label": "Jeeves",
+   "website": "http://www.tryjeeves.com"
+  },
+  {
+   "type": "ashby",
+   "token": "yotta",
+   "label": "Yotta",
+   "website": "https://www.withyotta.com"
+  },
+  {
+   "type": "ashby",
+   "token": "notabene",
+   "label": "Notabene",
+   "website": "https://notabene.id"
+  },
+  {
+   "type": "ashby",
+   "token": "kingdom",
+   "label": "Kingdom",
+   "website": "https://kingdomsuperculture.com"
+  },
+  {
+   "type": "ashby",
+   "token": "formal",
+   "label": "Formal",
+   "website": "https://joinformal.com"
+  },
+  {
+   "type": "ashby",
+   "token": "arketa",
+   "label": "Arketa",
+   "website": "https://arketa.com"
+  },
+  {
+   "type": "ashby",
+   "token": "herondata",
+   "label": "Heron",
+   "website": "https://www.herondata.io"
+  },
+  {
+   "type": "gh",
+   "token": "gather",
+   "label": "Gather",
+   "website": "https://www.gather.town/"
+  },
+  {
+   "type": "ashby",
+   "token": "abacum",
+   "label": "Abacum",
+   "website": "https://www.abacum.ai/"
+  },
+  {
+   "type": "ashby",
+   "token": "glimpse",
+   "label": "Glimpse",
+   "website": "https://tryglimpse.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "authzed",
+   "label": "authzed",
+   "website": "https://authzed.com"
+  },
+  {
+   "type": "ashby",
+   "token": "spruceid",
+   "label": "SpruceID",
+   "website": "https://www.spruceid.com"
+  },
+  {
+   "type": "ashby",
+   "token": "camber",
+   "label": "Camber",
+   "website": "https://www.camber.health/"
+  },
+  {
+   "type": "lever",
+   "token": "smartcuts",
+   "label": "Smartcuts",
+   "website": "https://trysmartcuts.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "popl",
+   "label": "Popl",
+   "website": "https://popl.co/"
+  },
+  {
+   "type": "ashby",
+   "token": "liveflow",
+   "label": "LiveFlow",
+   "website": "https://www.liveflow.com"
+  },
+  {
+   "type": "ashby",
+   "token": "topline-pro",
+   "label": "Topline Pro",
+   "website": "https://www.toplinepro.com"
+  },
+  {
+   "type": "ashby",
+   "token": "triomics",
+   "label": "Triomics",
+   "website": "https://triomics.com/"
+  },
+  {
+   "type": "gh",
+   "token": "bloom",
+   "label": "Bloom",
+   "website": "https://bloomapp.com"
+  },
+  {
+   "type": "ashby",
+   "token": "confido",
+   "label": "Confido",
+   "website": "https://www.confidotech.com"
+  },
+  {
+   "type": "ashby",
+   "token": "double",
+   "label": "Double",
+   "website": "https://www.doublehq.com"
+  },
+  {
+   "type": "ashby",
+   "token": "aleph",
+   "label": "Aleph",
+   "website": "https://getaleph.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "stepful",
+   "label": "Stepful",
+   "website": "https://www.stepful.com"
+  },
+  {
+   "type": "gh",
+   "token": "beam",
+   "label": "Beam",
+   "website": "https://beam.cloud"
+  },
+  {
+   "type": "ashby",
+   "token": "permitflow",
+   "label": "PermitFlow",
+   "website": "http://www.permitflow.com"
+  },
+  {
+   "type": "gh",
+   "token": "spade",
+   "label": "Spade",
+   "website": "https://www.spade.com"
+  },
+  {
+   "type": "gh",
+   "token": "status",
+   "label": "Status",
+   "website": "https://www.statusai.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "rallyuxr",
+   "label": "Rally",
+   "website": "https://www.rallyuxr.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "cinder",
+   "label": "Cinder",
+   "website": "https://cinder.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "govdash",
+   "label": "GovDash",
+   "website": "https://govdash.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "realitydefender",
+   "label": "Reality Defender",
+   "website": "http://www.realitydefender.com"
+  },
+  {
+   "type": "ashby",
+   "token": "novig",
+   "label": "Novig",
+   "website": "https://www.novig.com"
+  },
+  {
+   "type": "gh",
+   "token": "overwatch",
+   "label": "Overwatch",
+   "website": "http://www.overwatchdata.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "blee",
+   "label": "Blee",
+   "website": "https://www.blee.com"
+  },
+  {
+   "type": "ashby",
+   "token": "chariot",
+   "label": "Chariot",
+   "website": "https://givechariot.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "thera",
+   "label": "Thera",
+   "website": "https://www.getthera.com"
+  },
+  {
+   "type": "gh",
+   "token": "axle",
+   "label": "Axle",
+   "website": "https://axle.insure"
+  },
+  {
+   "type": "ashby",
+   "token": "ekho",
+   "label": "Ekho",
+   "website": "https://www.ekho.com"
+  },
+  {
+   "type": "ashby",
+   "token": "avoca",
+   "label": "Avoca",
+   "website": "https://www.avoca.ai/"
+  },
+  {
+   "type": "ashby",
+   "token": "concourse",
+   "label": "Concourse",
+   "website": "https://concourse.ai/"
+  },
+  {
+   "type": "ashby",
+   "token": "rollstack",
+   "label": "Rollstack",
+   "website": "https://www.rollstack.com"
+  },
+  {
+   "type": "ashby",
+   "token": "credal",
+   "label": "Credal.ai",
+   "website": "https://credal.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "goveagle",
+   "label": "GovEagle",
+   "website": "https://www.goveagle.com/"
+  },
+  {
+   "type": "gh",
+   "token": "extend",
+   "label": "Extend",
+   "website": "https://www.extend.ai/"
+  },
+  {
+   "type": "gh",
+   "token": "onshore",
+   "label": "Onshore",
+   "website": "https://onshore.com"
+  },
+  {
+   "type": "ashby",
+   "token": "loula",
+   "label": "Loula",
+   "website": "https://joinloula.com"
+  },
+  {
+   "type": "ashby",
+   "token": "metal",
+   "label": "Metal",
+   "website": "https://metal.ai/"
+  },
+  {
+   "type": "gh",
+   "token": "warp",
+   "label": "Warp",
+   "website": "https://www.warp.co/"
+  },
+  {
+   "type": "ashby",
+   "token": "sweetspot",
+   "label": "Sweetspot",
+   "website": "https://www.sweetspot.so/"
+  },
+  {
+   "type": "ashby",
+   "token": "airgoods",
+   "label": "Airgoods",
+   "website": "https://airgoods.com/"
+  },
+  {
+   "type": "gh",
+   "token": "hiro",
+   "label": "Hiro",
+   "website": "https://hirosecure.com"
+  },
+  {
+   "type": "ashby",
+   "token": "fortuna-health",
+   "label": "Fortuna Health",
+   "website": "https://fortunahealth.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "empirical",
+   "label": "Empirical Health",
+   "website": "https://empirical.health"
+  },
+  {
+   "type": "ashby",
+   "token": "sola",
+   "label": "Sola",
+   "website": "https://www.sola-solutions.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "flint",
+   "label": "Flint",
+   "website": "http://flintk12.com/"
+  },
+  {
+   "type": "lever",
+   "token": "prosper",
+   "label": "Prosper",
+   "website": "https://www.getprosper.ai?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory"
+  },
+  {
+   "type": "ashby",
+   "token": "tuesday-labs",
+   "label": "Tuesday Labs",
+   "website": "https://www.tuesdaylabs.com"
+  },
+  {
+   "type": "ashby",
+   "token": "argon-ai",
+   "label": "Argon AI, Inc.",
+   "website": "https://www.argon-ai.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "garage",
+   "label": "Garage",
+   "website": "https://www.shopgarage.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "pointone",
+   "label": "PointOne",
+   "website": "https://pointone.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "greenboard",
+   "label": "Greenboard",
+   "website": "https://www.greenboard.com"
+  },
+  {
+   "type": "ashby",
+   "token": "clarion",
+   "label": "Clarion",
+   "website": "https://clarionhealth.com"
+  },
+  {
+   "type": "ashby",
+   "token": "offdeal",
+   "label": "OffDeal",
+   "website": "https://offdeal.io"
+  },
+  {
+   "type": "gh",
+   "token": "hazel",
+   "label": "Hazel",
+   "website": "https://hazelai.com"
+  },
+  {
+   "type": "ashby",
+   "token": "aqua-voice",
+   "label": "Aqua Voice",
+   "website": "https://aquavoice.com"
+  },
+  {
+   "type": "ashby",
+   "token": "spur",
+   "label": "Spur",
+   "website": "https://www.spurtest.com/"
+  },
+  {
+   "type": "gh",
+   "token": "understoodcare",
+   "label": "Understood Care",
+   "website": "https://understoodcare.com"
+  },
+  {
+   "type": "ashby",
+   "token": "ultra",
+   "label": "Ultra",
+   "website": "https://ultra.tech"
+  },
+  {
+   "type": "ashby",
+   "token": "junction",
+   "label": "Junction Bioscience",
+   "website": "https://www.junction.bio/"
+  },
+  {
+   "type": "ashby",
+   "token": "claimsorted",
+   "label": "ClaimSorted",
+   "website": "https://claimsorted.com"
+  },
+  {
+   "type": "ashby",
+   "token": "codes-health",
+   "label": "Codes Health",
+   "website": "https://www.codeshealth.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "finny",
+   "label": "FINNY AI",
+   "website": "https://www.finny.com/"
+  },
+  {
+   "type": "gh",
+   "token": "symphony",
+   "label": "Symphony",
+   "website": "https://getsymphony.co"
+  },
+  {
+   "type": "ashby",
+   "token": "ryvn",
+   "label": "Ryvn",
+   "website": "https://ryvn.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "reviserobotics",
+   "label": "Revise Robotics",
+   "website": "https://www.reviserobotics.com/"
+  },
+  {
+   "type": "gh",
+   "token": "retrofit",
+   "label": "Retrofit",
+   "website": "https://www.retrofit.shop/"
+  },
+  {
+   "type": "ashby",
+   "token": "ambral",
+   "label": "Ambral",
+   "website": "https://www.ambral.com/"
+  },
+  {
+   "type": "gh",
+   "token": "method",
+   "label": "Method",
+   "website": "https://withmethod.ai/"
+  },
+  {
+   "type": "ashby",
+   "token": "auctor",
+   "label": "Auctor",
+   "website": "https://getauctor.com"
+  },
+  {
+   "type": "ashby",
+   "token": "claim-health",
+   "label": "Claim Health",
+   "website": "https://www.claimhealth.com"
+  },
+  {
+   "type": "ashby",
+   "token": "avallon",
+   "label": "Avallon AI",
+   "website": "https://www.avallon.ai/"
+  },
+  {
+   "type": "ashby",
+   "token": "sieve",
+   "label": "sieve",
+   "website": "https://usesieve.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "foresight",
+   "label": "Foresight",
+   "website": "https://foresight.tt/"
+  },
+  {
+   "type": "ashby",
+   "token": "fernstone",
+   "label": "Fernstone",
+   "website": "https://www.fernstone.com"
+  },
+  {
+   "type": "ashby",
+   "token": "fleetline",
+   "label": "Fleetline",
+   "website": "https://fleetline.ai"
+  },
+  {
+   "type": "ashby",
+   "token": "interfere",
+   "label": "Interfere",
+   "website": "https://interfere.com"
+  },
+  {
+   "type": "ashby",
+   "token": "diligencesquared",
+   "label": "DiligenceSquared",
+   "website": "https://diligencesquared.com/"
+  },
+  {
+   "type": "gh",
+   "token": "mantis",
+   "label": "Mantis",
+   "website": "https://mantisbiotech.com/"
+  },
+  {
+   "type": "ashby",
+   "token": "beyondreachlabs",
+   "label": "Beyond Reach Labs",
+   "website": "https://www.beyondreachlabs.com"
+  },
+  {
+   "type": "gh",
+   "token": "guild",
+   "label": "GUILD",
+   "website": "https://www.guildai.co"
+  },
+  {
+   "type": "ashby",
+   "token": "bernard",
+   "label": "Bernard",
+   "website": "https://bernardhq.com/"
+  },
+  {
+   "type": "gh",
+   "token": "elite",
+   "label": "Elite",
+   "website": "https://elitehq.ai/"
+  },
+  {
+   "type": "ashby",
+   "token": "marble",
+   "label": "Marble",
+   "website": "https://joinmarble.ai/"
+  },
+  {
+   "type": "gh",
+   "token": "gongio",
+   "label": "Gong",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "ashby",
+   "token": "savvy",
+   "label": "Savvy Wealth",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "ashby",
+   "token": "hebbia-ai",
+   "label": "Hebbia",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "hippo70",
+   "label": "Hippo",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "ashby",
+   "token": "hinge-health",
+   "label": "Hinge Health",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "pilothq",
+   "label": "Pilot",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "intercom",
+   "label": "Intercom",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "oura",
+   "label": "Oura",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "ashby",
+   "token": "Rox-Data-Corp",
+   "label": "Rox",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "lever",
+   "token": "h1",
+   "label": "H1",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "lever",
+   "token": "ro",
+   "label": "Ro",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "courtyardinc",
+   "label": "Courtyard.io",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "usenourish",
+   "label": "Nourish",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "ashby",
+   "token": "f2-ai",
+   "label": "F2",
+   "via": "company-sweep 2026-11-02"
+  },
+  {
+   "type": "gh",
+   "token": "agency",
+   "label": "Agency",
+   "via": "company-sweep 2026-11-02"
+  }
+ ],
+ "none": [
+  "Bluecore",
+  "Dataminr",
+  "Hugging Face",
+  "Front",
+  "Clay",
+  "Stash",
+  "Marqeta",
+  "Esusu",
+  "Persado",
+  "Navan",
+  "Yieldstreet",
+  "Addepar",
+  "Chainalysis",
+  "Moov",
+  "Masterworks",
+  "Better",
+  "Pipe",
+  "Fanatics",
+  "Noom",
+  "Arc",
+  "Spring Health",
+  "Cityblock",
+  "Thirty Madison",
+  "Function Health",
+  "Headspace",
+  "SevenRooms",
+  "Resy",
+  "Dotdash Meredith",
+  "Vimeo",
+  "Oscar Health",
+  "Beehiiv",
+  "Codecademy",
+  "Daily Harvest",
+  "Skillshare",
+  "Teachable",
+  "Forage",
+  "Fora Travel",
+  "Equinox",
+  "Compass",
+  "Hims & Hers",
+  "Celtra",
+  "Integral Ad Science",
+  "Glean",
+  "Retool",
+  "Jasper",
+  "Heap",
+  "11x",
+  "Lavender",
+  "Dash Hudson",
+  "Sprinklr",
+  "Whatnot",
+  "Regie.ai",
+  "Census",
+  "Bounti",
+  "Klarna",
+  "Rapyd",
+  "Remitly",
+  "Revolut",
+  "Common Room",
+  "Bilt Rewards",
+  "Flywire",
+  "Farther",
+  "Stord",
+  "Daloopa",
+  "Tegus",
+  "Arcesium",
+  "Policygenius",
+  "Next Insurance",
+  "Shippo",
+  "Domain Money",
+  "Petal",
+  "Stytch",
+  "Grammarly",
+  "dbt Labs",
+  "Deel",
+  "Rippling",
+  "Hinge",
+  "Bumble",
+  "Bonusly",
+  "Feeld",
+  "Grindr",
+  "Shoptiques",
+  "HireArt",
+  "RentHop",
+  "Lawdingo",
+  "AptDeco",
+  "Goldbelly",
+  "Recurse Center",
+  "Guesty",
+  "Flaviar",
+  "Greentoe",
+  "Resolve",
+  "Bright",
+  "Cleanly",
+  "Quantierra",
+  "Giveffect",
+  "WorkFlowy",
+  "Scentbird",
+  "Level Frames",
+  "Thrive Agritech",
+  "HistoWiz",
+  "Joy",
+  "AmberBox Gunshot Detection",
+  "Eligible",
+  "Voiceops",
+  "RankScience",
+  "CocuSocial",
+  "Candidately",
+  "Bulk MRO Industrial Supply",
+  "Nuvocargo",
+  "Gainful",
+  "Seamless.AI",
+  "Canva",
+  "Afterpay",
+  "Two Sigma",
+  "Checkout.com",
+  "Opentrons",
+  "Vimcal",
+  "Easol",
+  "Makrwatch",
+  "AnnieCannons",
+  "SPATE",
+  "Aesthetic",
+  "Leena AI",
+  "Swadesh",
+  "Superorder",
+  "AI Insurance",
+  "Mobot",
+  "Upsolve",
+  "Rune",
+  "The Juggernaut",
+  "NALA",
+  "Landed",
+  "Gamebytes",
+  "Pools (fka Withfriends)",
+  "Legacy",
+  "Jupiter",
+  "Rainbow",
+  "Fynn",
+  "Rutter",
+  "Backpack",
+  "OpenSea",
+  "LineLeap",
+  "Proof Trading",
+  "Flowbot",
+  "Flowglad",
+  "treble.ai",
+  "Kaiten",
+  "Explo",
+  "Coco Wallet",
+  "Skypher",
+  "Isabl",
+  "Taali Inc",
+  "Operator.io",
+  "Salesform",
+  "Dripos",
+  "Infield",
+  "inFeedo AI",
+  "CoreCare",
+  "Arist",
+  "Liyfe",
+  "Blue Onion",
+  "Draftwise",
+  "Nephrogen",
+  "Function of Beauty",
+  "Players' Lounge",
+  "cloud humans",
+  "Wyndly",
+  "Gilgamesh Pharmaceuticals",
+  "Spokn",
+  "Gradia Health",
+  "C16 Biosciences",
+  "OpenReplay",
+  "DirectShifts",
+  "Mito",
+  "Dinesafe",
+  "Alinea",
+  "True3D",
+  "Rinsed",
+  "Firstbase.io",
+  "Per Diem",
+  "Quadrant Health",
+  "Measured",
+  "Pangea.app",
+  "Navattic",
+  "UPchieve",
+  "Foster",
+  "Concord Materials",
+  "Instalab",
+  "Cabal",
+  "RGI Labs",
+  "SnapCalorie",
+  "BoldVoice",
+  "Darrow",
+  "Banner",
+  "SwiftSku",
+  "ROGER",
+  "Dataland",
+  "Repool",
+  "Soco",
+  "Geostar",
+  "Prequel",
+  "Stardex",
+  "Litnerd",
+  "Harmonic Discovery",
+  "Zen",
+  "Aqua",
+  "Pillar",
+  "Output Labs",
+  "Version Story Compare",
+  "Redbird",
+  "Humane Genomics",
+  "Gerald Technologies, Inc",
+  "PolicyFly",
+  "Buoyant Aero",
+  "Emerge Career",
+  "Craniometrix",
+  "Superwall",
+  "Drama Drama",
+  "Trellus",
+  "Cerebrium",
+  "Nest Genomics",
+  "Axis",
+  "Attack Capital",
+  "Gauss",
+  "Cogram",
+  "Stock Unlock",
+  "Miniloop",
+  "Shaped",
+  "Stairs Financial",
+  "Cotera",
+  "Brainboard",
+  "Arpari",
+  "Housewarming",
+  "Sei AI",
+  "Offbeast",
+  "Cofactr",
+  "Paces",
+  "Versa",
+  "Toko",
+  "Postal",
+  "Pasito",
+  "TrueBiz",
+  "Olympian Motors",
+  "Capix",
+  "Hype",
+  "Voltic",
+  "Sunlight",
+  "Pluralith",
+  "Unthread",
+  "Cashboard",
+  "Serinus Biosciences",
+  "Avina",
+  "BBy",
+  "Blockscope",
+  "Accountable",
+  "Paragon AI",
+  "Novelcare",
+  "FlexDesk",
+  "HOMLI",
+  "Coverage Cat",
+  "Laminate",
+  "Dataglade",
+  "Pigeon",
+  "Trackstar",
+  "LinkGrep",
+  "Pair AI",
+  "Overlord",
+  "Storyboarder",
+  "Orchid",
+  "Dream3D",
+  "222",
+  "DataSuite",
+  "Hadrius",
+  "Wild Moose",
+  "Fastgen",
+  "Ruby Card",
+  "Vellum",
+  "Maxi",
+  "Epsilon",
+  "Type",
+  "Vendora",
+  "Clad",
+  "Fluid Markets",
+  "Verata",
+  "Hindsight",
+  "Kyber",
+  "Cedana",
+  "Contour",
+  "Arcimus",
+  "Docsum",
+  "Texel.ai",
+  "Parea",
+  "Clearest Health",
+  "MICSI",
+  "Maintouch",
+  "Guac",
+  "Hegel AI",
+  "Margin",
+  "Cardinal Gray",
+  "VectorShift",
+  "Kobalt Labs",
+  "Converge",
+  "Sendblue",
+  "dili",
+  "Read Bean",
+  "Certainly Health",
+  "Trayd",
+  "Affinity",
+  "Tracecat",
+  "Inlet",
+  "Simbie AI",
+  "Leaping",
+  "Agentic Labs",
+  "OneGrep",
+  "Panelytic",
+  "Fiber AI",
+  "Ellipsis",
+  "Sagaland",
+  "InQuery",
+  "Fractal Labs",
+  "Santé",
+  "Carousel Technologies",
+  "ProSights",
+  "nCompass Technologies",
+  "Aftercare",
+  "Rove",
+  "BiteSight",
+  "Solari AI",
+  "Silogy",
+  "ACX",
+  "Oma Care",
+  "Hatchet",
+  "Dime",
+  "renderlet",
+  "Dragoneye",
+  "Piramidal",
+  "CrowdVolt",
+  "Forge",
+  "Ryse",
+  "OddsView",
+  "Bayesline",
+  "RetroFix",
+  "Yarn",
+  "Finosu",
+  "Lucible",
+  "ProhostAI",
+  "Ontra Mobility",
+  "YouShift",
+  "Zoa Research",
+  "Haystack",
+  "Elayne",
+  "Handled",
+  "Elevate",
+  "Redouble AI",
+  "TradeFlow",
+  "No Logo",
+  "Keet",
+  "SimCare",
+  "fixa",
+  "Overstand Labs",
+  "Henry",
+  "Getcho",
+  "Formula Insight",
+  "Rulebase",
+  "Village Labs",
+  "Diode Computers, Inc.",
+  "Vortexify",
+  "ISSEN",
+  "Keye",
+  "Stewdio",
+  "CollectWise",
+  "Arva AI",
+  "Thornwick",
+  "Raycaster",
+  "FutureClinic",
+  "Melder",
+  "Kilvin",
+  "Charm",
+  "Afternoon.co",
+  "Tergle",
+  "Astro",
+  "Harbera",
+  "Closure",
+  "Bezel",
+  "Asha Health",
+  "Karsa",
+  "Liquid Compute",
+  "Misprint",
+  "OpenIntake",
+  "Corsair",
+  "Trata",
+  "Atlog",
+  "Scout",
+  "Miyagi Labs",
+  "Crouton",
+  "Ralo",
+  "Tire Swing",
+  "IRBC",
+  "Paratus Health",
+  "ParaQuery",
+  "ValueMate",
+  "Anana",
+  "MorphoAI",
+  "Trapeze",
+  "Ticket Wallet",
+  "G LNK",
+  "Synthetic Society",
+  "Photonium",
+  "args",
+  "Mbodi AI",
+  "Frizzle",
+  "Pangolin",
+  "Nori",
+  "CareSwift",
+  "Alter",
+  "LLM Stats",
+  "Autonomous Technologies Group",
+  "Async",
+  "GhostEye",
+  "Overdrive Health",
+  "TwentyTwo",
+  "Bidflow",
+  "Cohesive",
+  "Mimos",
+  "Quotain",
+  "Physical Turing",
+  "Pleom",
+  "Channel3",
+  "IronLedger.ai",
+  "OneStop",
+  "Solva",
+  "RowFlow",
+  "Caddy",
+  "Avelis Health",
+  "Evergrove",
+  "Norra",
+  "Locata",
+  "Helonic",
+  "Bravi",
+  "Aspect",
+  "Amika",
+  "Bizzy AI",
+  "Narrative",
+  "Sava Trust Company",
+  "CellType",
+  "Crosslayer Labs",
+  "Cofia",
+  "Tepali",
+  "Freeport Markets",
+  "MouseCat",
+  "Amera",
+  "Laurence",
+  "Rovi Health",
+  "Scott AI",
+  "Revion",
+  "Structured AI",
+  "Forum",
+  "Regbase",
+  "Unifold",
+  "Wayco",
+  "Totalis",
+  "Rhizome AI",
+  "Multiplier",
+  "Maywood",
+  "Rubric AI",
+  "Robby",
+  "Kimpton",
+  "ValCtrl",
+  "Pops",
+  "Stage",
+  "Standard Signal",
+  "Chert",
+  "Mochatrade",
+  "Arzana",
+  "Pango",
+  "KelAI",
+  "Soria",
+  "Cohesion",
+  "Intelligence Factory",
+  "Theo",
+  "Computable",
+  "Financial Datasets",
+  "Voyager",
+  "Arctic Health",
+  "Ekho Labs",
+  "Agent 37",
+  "Terse",
+  "Arlo Industries",
+  "Floracene",
+  "Masterpiece",
+  "Elimentary",
+  "General Aviation",
+  "Pennant",
+  "Hesper AI"
+ ]
+}

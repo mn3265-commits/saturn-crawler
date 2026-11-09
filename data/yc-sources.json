@@ -1,0 +1,5606 @@
+{
+  "discoveredAt": "2026-10-28T19:36:48.688Z",
+  "probed": 698,
+  "liveBoards": 383,
+  "sources": [
+    {
+      "type": "gh",
+      "token": "hackerrank",
+      "label": "HackerRank",
+      "yc": true,
+      "batch": "Summer 2011",
+      "teamSize": 300,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Change the world to value skills over pedigree",
+      "total": 29,
+      "lane": 1,
+      "laneTitles": [
+        "Talent Acquisition Partner- GTM "
+      ],
+      "boardName": "HackerRank Careers",
+      "verified": "board is named \"HackerRank Careers\""
+    },
+    {
+      "type": "ashby",
+      "token": "zapier",
+      "label": "Zapier",
+      "yc": true,
+      "batch": "Summer 2012",
+      "teamSize": 700,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The easiest way to automate your work.",
+      "total": 12,
+      "lane": 3,
+      "laneTitles": [
+        "Manager, GTM Analytics",
+        "Sr. Product Marketing Manager, Enterprise",
+        "Growth Design Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "lob",
+      "label": "Lob",
+      "yc": true,
+      "batch": "Summer 2013",
+      "teamSize": 150,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Lob is the only automation platform that transforms direct mail into…",
+      "total": 6,
+      "lane": 1,
+      "laneTitles": [
+        "Business Operations Manager \t"
+      ],
+      "boardName": "Lob",
+      "verified": "board is named \"Lob\""
+    },
+    {
+      "type": "ashby",
+      "token": "webflow",
+      "label": "Webflow",
+      "yc": true,
+      "batch": "Summer 2013",
+      "teamSize": 600,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Professional website design and publishing platform. ",
+      "total": 18,
+      "lane": 2,
+      "laneTitles": [
+        "Staff Product Manager, AI",
+        "Staff Product Manager, Governance"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "cambly",
+      "label": "Cambly",
+      "yc": true,
+      "batch": "Winter 2014",
+      "teamSize": 200,
+      "location": "San Francisco, CA, USA",
+      "industry": "Education",
+      "oneLiner": "On-demand access to English tutors over video chat.",
+      "total": 7,
+      "lane": 3,
+      "laneTitles": [
+        "CRM Program Manager - Brazil (contract - remote)",
+        "CRM Program Manager - Turkey (contract - remote)",
+        "CRM Program Manager - UAE (contract - remote)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "checkr",
+      "label": "Checkr",
+      "yc": true,
+      "batch": "Summer 2014",
+      "teamSize": 800,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "People infrastructure for the future of work",
+      "total": 47,
+      "lane": 3,
+      "laneTitles": [
+        "Senior Product Manager, Verifications",
+        "Senior Staff Supply Chain Strategy Manager",
+        "Staff Product Manager"
+      ],
+      "boardName": "Checkr",
+      "verified": "board is named \"Checkr\""
+    },
+    {
+      "type": "gh",
+      "token": "picnicai",
+      "label": "PicnicAI",
+      "yc": true,
+      "batch": "Summer 2014",
+      "teamSize": 100,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Intelligence to accelerate human health.",
+      "total": 1,
+      "lane": 1,
+      "laneTitles": [
+        "Patient Engagement Team Lead (Contract, Part-Time)"
+      ],
+      "boardName": "PicnicAI",
+      "verified": "board is named \"PicnicAI\""
+    },
+    {
+      "type": "gh",
+      "token": "qventus",
+      "label": "Qventus",
+      "yc": true,
+      "batch": "Winter 2015",
+      "teamSize": 230,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "We automate operations for hospitals and health systems",
+      "total": 17,
+      "lane": 2,
+      "laneTitles": [
+        "Lead Product Manager, Application Platform",
+        "Principal Product Manager "
+      ],
+      "boardName": "Qventus",
+      "verified": "board is named \"Qventus\""
+    },
+    {
+      "type": "ashby",
+      "token": "snapmagic",
+      "label": "SnapMagic",
+      "yc": true,
+      "batch": "Summer 2015",
+      "teamSize": 23,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI-assisted electronics design",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Head of Business Operations"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "givecampus",
+      "label": "GiveCampus",
+      "yc": true,
+      "batch": "Summer 2015",
+      "teamSize": 130,
+      "location": "Washington, DC, USA",
+      "industry": "Education",
+      "oneLiner": "The fundraising platform for schools.",
+      "total": 11,
+      "lane": 2,
+      "laneTitles": [
+        "Lead Product Manager",
+        "Senior Product Manager, GC Events"
+      ],
+      "boardName": "GiveCampus",
+      "verified": "board is named \"GiveCampus\""
+    },
+    {
+      "type": "gh",
+      "token": "bitmovin",
+      "label": "Bitmovin",
+      "yc": true,
+      "batch": "Summer 2015",
+      "teamSize": 145,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Powers OTT online video providers with video developer tools.",
+      "total": 12,
+      "lane": 1,
+      "laneTitles": [
+        "VP Sales & Customer Growth"
+      ],
+      "boardName": "Bitmovin",
+      "verified": "board is named \"Bitmovin\""
+    },
+    {
+      "type": "gh",
+      "token": "instawork",
+      "label": "Instawork",
+      "yc": true,
+      "batch": "Summer 2015",
+      "teamSize": 500,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "A flexible work app that connects businesses with hourly workers.",
+      "total": 56,
+      "lane": 1,
+      "laneTitles": [
+        "Business Operations Associate, AI & Automation"
+      ],
+      "boardName": "Instawork",
+      "verified": "board is named \"Instawork\""
+    },
+    {
+      "type": "ashby",
+      "token": "eightsleep",
+      "label": "Eight Sleep",
+      "yc": true,
+      "batch": "Summer 2015",
+      "teamSize": 100,
+      "location": "New York City, NY, USA",
+      "industry": "Consumer",
+      "oneLiner": "The sleep fitness company.",
+      "total": 40,
+      "lane": 3,
+      "laneTitles": [
+        "Business Operations Manager (NY or SF)",
+        "Business Operations Manager (Milan)",
+        "Growth Marketing Manager "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "humaninterest",
+      "label": "Human Interest",
+      "yc": true,
+      "batch": "Summer 2015",
+      "teamSize": 765,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The 401(k) for small and medium-sized businesses.",
+      "total": 63,
+      "lane": 1,
+      "laneTitles": [
+        "Sales Strategy & Operations, Senior Analyst"
+      ],
+      "boardName": "Human Interest",
+      "verified": "board is named \"Human Interest\""
+    },
+    {
+      "type": "gh",
+      "token": "lattice",
+      "label": "Lattice",
+      "yc": true,
+      "batch": "Winter 2016",
+      "teamSize": 540,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Modern people management platform.",
+      "total": 9,
+      "lane": 4,
+      "laneTitles": [
+        "Lead Product Manager",
+        "Lead Product Manager",
+        "Lead Product Manager, Engagement",
+        "Lead Product Manager, Engagement"
+      ],
+      "boardName": "Lattice",
+      "verified": "board is named \"Lattice\""
+    },
+    {
+      "type": "ashby",
+      "token": "deepgram",
+      "label": "Deepgram",
+      "yc": true,
+      "batch": "Winter 2016",
+      "teamSize": 115,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Building foundational AI for speech transcription and understanding.",
+      "total": 80,
+      "lane": 7,
+      "laneTitles": [
+        "Senior Product Manager, Enterprise",
+        "Staff Product Manager (Product-Led Growth)",
+        "Senior Product Marketing Manager, Solutions Marketing",
+        "Technical GTM Enablement Manager",
+        "Staff Product Manager, AI Applications"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "lever",
+      "token": "tovala",
+      "label": "Tovala",
+      "yc": true,
+      "batch": "Winter 2016",
+      "teamSize": 375,
+      "location": "Chicago, IL, USA",
+      "industry": "Consumer",
+      "oneLiner": "A smart-oven-paired subscription meal service.",
+      "total": 13,
+      "lane": 1,
+      "laneTitles": [
+        "Director, CRM"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "apolloio",
+      "label": "Apollo.io",
+      "yc": true,
+      "batch": "Winter 2016",
+      "teamSize": 800,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Apollo is the foundation of your entire go-to-market strategy.",
+      "total": 54,
+      "lane": 7,
+      "laneTitles": [
+        "Associate Solutions Consultant II",
+        "GTM Senior Solutions Consultant (Presales)",
+        "GTM Solutions Consultant II (Presales)",
+        "Head of Partner Programs, Strategy and Operations",
+        "Senior Manager, Finance & Strategy - Go-To-Market"
+      ],
+      "boardName": "Apollo.io",
+      "verified": "board is named \"Apollo.io\""
+    },
+    {
+      "type": "lever",
+      "token": "thunkable",
+      "label": "Thunkable",
+      "yc": true,
+      "batch": "Winter 2016",
+      "teamSize": 40,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Thunkable is the no-code platform to build powerful native mobile apps",
+      "total": 3,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Data Analyst (Product Analyst)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "vetcove",
+      "label": "Vetcove",
+      "yc": true,
+      "batch": "Summer 2016",
+      "teamSize": 170,
+      "location": "Miami, FL, USA",
+      "industry": "B2B",
+      "oneLiner": "Powering the animal health supply chain.",
+      "total": 28,
+      "lane": 5,
+      "laneTitles": [
+        "Associate Product Manager",
+        "Vet Clinic Retention Associate",
+        "Clinic Growth Manager",
+        "Senior Product Manager",
+        "Chief of Staff"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "novacredit",
+      "label": "Nova Credit",
+      "yc": true,
+      "batch": "Summer 2016",
+      "teamSize": 100,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "Bridging a world of consumer-permissioned credit data",
+      "total": 8,
+      "lane": 3,
+      "laneTitles": [
+        "Campaign Marketing Lead",
+        "Senior Product Manager",
+        "Senior/Staff Product Manager, Rentals"
+      ],
+      "boardName": "Nova Credit",
+      "verified": "board is named \"Nova Credit\""
+    },
+    {
+      "type": "lever",
+      "token": "multiplylabs",
+      "label": "Multiply Labs",
+      "yc": true,
+      "batch": "Summer 2016",
+      "teamSize": 36,
+      "location": "San Francisco, CA, USA",
+      "industry": "Industrials",
+      "oneLiner": "Robotic production capacity for the pharma manufacturing industry",
+      "total": 11,
+      "lane": 1,
+      "laneTitles": [
+        "VP of Commercial Strategy & Partnerships"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "scaleai",
+      "label": "Scale AI",
+      "yc": true,
+      "batch": "Summer 2016",
+      "teamSize": 500,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Data-centric infrastructure to accelerate the development of AI ",
+      "total": 171,
+      "lane": 23,
+      "laneTitles": [
+        "AI Advisory Principal",
+        "AI Product Manager (Coding/Multimodal)",
+        "Engagement Manager (Hawaii), Public Sector",
+        "Engagement Manager (Homeland Layered Defense), Public Sector",
+        "Engagement Manager, Public Sector"
+      ],
+      "boardName": "Scale AI",
+      "verified": "board is named \"Scale AI\""
+    },
+    {
+      "type": "ashby",
+      "token": "classdojo",
+      "label": "ClassDojo",
+      "yc": true,
+      "batch": "Summer 2012",
+      "teamSize": 100,
+      "location": "San Francisco, CA, USA",
+      "industry": "Education",
+      "oneLiner": "Communication app for K-8 teachers, kids, and families",
+      "total": 11,
+      "lane": 3,
+      "laneTitles": [
+        "Monetization Growth Product Manager",
+        "Growth Product Lead, Kids ",
+        "Growth Marketing Lead "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "speak",
+      "label": "Speak",
+      "yc": true,
+      "batch": "Winter 2017",
+      "teamSize": 40,
+      "location": "San Francisco, CA, USA",
+      "industry": "Consumer",
+      "oneLiner": "A superhuman, AI-powered language tutor in your pocket",
+      "total": 33,
+      "lane": 5,
+      "laneTitles": [
+        "Senior Field Marketing Specialist - Korea",
+        "Product Manager, Memory & Personal Intelligence",
+        "Product Manager - AI Content Generation",
+        "B2B Growth Marketer",
+        "Product Manager, Learning Outcomes"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "lever",
+      "token": "snappr",
+      "label": "Snappr",
+      "yc": true,
+      "batch": "Winter 2017",
+      "teamSize": 250,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Snappr is the one-stop-shop for visual content creation",
+      "total": 17,
+      "lane": 1,
+      "laneTitles": [
+        "Product Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "mednet",
+      "label": "Mednet",
+      "yc": true,
+      "batch": "Winter 2017",
+      "teamSize": 35,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Mednet helps doctors answer their toughest clinical questions —…",
+      "total": 4,
+      "lane": 2,
+      "laneTitles": [
+        "Lifecycle Marketing Lead",
+        "Growth Marketing Lead"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york city"
+    },
+    {
+      "type": "gh",
+      "token": "assemblyai",
+      "label": "AssemblyAI",
+      "yc": true,
+      "batch": "Summer 2017",
+      "teamSize": 65,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "The best way to build Voice AI apps",
+      "total": 18,
+      "lane": 1,
+      "laneTitles": [
+        "Head of GTM, Europe"
+      ],
+      "boardName": "AssemblyAI",
+      "verified": "board is named \"AssemblyAI\""
+    },
+    {
+      "type": "gh",
+      "token": "modernhealth",
+      "label": "Modern Health",
+      "yc": true,
+      "batch": "Winter 2018",
+      "teamSize": 375,
+      "location": "Boston, MA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "A mental health benefits platform for employers.",
+      "total": 2,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Marketing Manager"
+      ],
+      "boardName": "Modern Health",
+      "verified": "board is named \"Modern Health\""
+    },
+    {
+      "type": "ashby",
+      "token": "vanta",
+      "label": "Vanta",
+      "yc": true,
+      "batch": "Winter 2018",
+      "teamSize": 700,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Vanta—the proven leader in automated compliance helping startups…",
+      "total": 79,
+      "lane": 5,
+      "laneTitles": [
+        "Product Marketing Lead - EMEA",
+        "Product Marketing Lead - EMEA",
+        "Senior GTM Strategy & Operations Manager, Mid-Late Sales Funnel",
+        "Governance, Risk, and Compliance Expert, GTM - V4G",
+        "Senior Product Manager, Integrations"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "pelago",
+      "label": "Pelago",
+      "yc": true,
+      "batch": "Winter 2018",
+      "teamSize": 180,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "The world's first digital clinic for substance use management",
+      "total": 14,
+      "lane": 1,
+      "laneTitles": [
+        "Lifecycle Marketing Manager"
+      ],
+      "boardName": "Pelago",
+      "verified": "board is named \"Pelago\""
+    },
+    {
+      "type": "lever",
+      "token": "captivateiq",
+      "label": "CaptivateIQ",
+      "yc": true,
+      "batch": "Winter 2018",
+      "teamSize": 280,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Agile commission software to design, deploy & adapt commission plans.",
+      "total": 24,
+      "lane": 6,
+      "laneTitles": [
+        "Principal Professional Services Consultant",
+        "Senior Product Marketing Manager",
+        "Senior Professional Services Consultant",
+        "Senior Technical Solutions Consultant",
+        "Staff Product Manager - CIA"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "swayable",
+      "label": "Swayable",
+      "yc": true,
+      "batch": "Winter 2018",
+      "teamSize": 30,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Swayable predicts consumer opinion and the impact of content",
+      "total": 17,
+      "lane": 3,
+      "laneTitles": [
+        "Chief of Staff",
+        "Product Manager",
+        "Product Marketing & Sales Enablement Manager"
+      ],
+      "boardName": "Swayable",
+      "verified": "board is named \"Swayable\""
+    },
+    {
+      "type": "ashby",
+      "token": "replit",
+      "label": "Replit",
+      "yc": true,
+      "batch": "Winter 2018",
+      "teamSize": 65,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Collaborative in-browser IDE ",
+      "total": 33,
+      "lane": 4,
+      "laneTitles": [
+        "Senior/Product Marketing Manager",
+        "Japan Growth Lead",
+        "Head of Marketing Strategy & Operations",
+        "Chief of Staff, Office of the President"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "moderntreasury",
+      "label": "Modern Treasury",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 160,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Payment operations tools for money movement.",
+      "total": 9,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager, Payments"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "versemedical",
+      "label": "Verse Medical",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 250,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "AI-enabled ordering for medical equipment & supplies",
+      "total": 33,
+      "lane": 4,
+      "laneTitles": [
+        "Revenue Strategy Associate",
+        "Chief of Staff",
+        "Strategy & Operations",
+        "Director of Payor Growth"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "revenuecat",
+      "label": "RevenueCat",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 160,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Build and grow your app business",
+      "total": 19,
+      "lane": 7,
+      "laneTitles": [
+        "Senior Product Manager, Funnels",
+        "Senior Product Marketing Manager",
+        "Senior Product Manager, Analytics Features",
+        "Head of Customer Growth",
+        "Senior Product Manager, Ad Monetization"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "titan",
+      "label": "Titan",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 40,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "Titan is an award-winning wealth manager with a mission to increase…",
+      "total": 12,
+      "lane": 1,
+      "laneTitles": [
+        "Founding Growth Lead, Paid Marketing"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "lever",
+      "token": "canarytechnologies",
+      "label": "Canary Technologies",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 150,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Modernizing the hospitality tech stack. ",
+      "total": 29,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Digital Tipping Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "prodigal",
+      "label": "Prodigal",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 99,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "Lending Intelligence Software",
+      "total": 13,
+      "lane": 2,
+      "laneTitles": [
+        "Strategy and Operations Analyst",
+        "Strategy and Operations Lead "
+      ],
+      "boardName": "Prodigal",
+      "verified": "board is named \"Prodigal\""
+    },
+    {
+      "type": "ashby",
+      "token": "mutiny",
+      "label": "Mutiny",
+      "yc": true,
+      "batch": "Summer 2018",
+      "teamSize": 20,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Your AI agent for creating anything customer-facing, in minutes.",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "Head of GTM (Path to COO)"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "kalshi",
+      "label": "Kalshi",
+      "yc": true,
+      "batch": "Winter 2019",
+      "teamSize": 125,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "1st federally regulated exchange where people can trade on events",
+      "total": 28,
+      "lane": 2,
+      "laneTitles": [
+        "Growth Marketing Manager ",
+        "Product Manager"
+      ],
+      "boardName": "Kalshi",
+      "verified": "board is named \"Kalshi\""
+    },
+    {
+      "type": "ashby",
+      "token": "middesk",
+      "label": "Middesk",
+      "yc": true,
+      "batch": "Winter 2019",
+      "teamSize": 140,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "We make it easier for B2B companies to transact with one another",
+      "total": 17,
+      "lane": 3,
+      "laneTitles": [
+        "Group Product Manager",
+        "Growth Lead, Accounts",
+        "Growth Lead, Organic"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "ashby",
+      "label": "Ashby",
+      "yc": true,
+      "batch": "Winter 2019",
+      "teamSize": 110,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "All-in-one recruiting platform that empowers hiring excellence in…",
+      "total": 68,
+      "lane": 6,
+      "laneTitles": [
+        "Technical Solutions Consultant - Americas",
+        "Sr. Product Marketing Manager, Enterprise",
+        "GTM Systems Analyst",
+        "Integrations Consultant - Americas",
+        "Staff Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "alpaca",
+      "label": "Alpaca",
+      "yc": true,
+      "batch": "Winter 2019",
+      "teamSize": 150,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "API-first stock and crypto brokerage platform",
+      "total": 68,
+      "lane": 11,
+      "laneTitles": [
+        "Product Manager - Brokerage - EU",
+        "Product Manager - Brokerage - Middle East",
+        "Product Manager - Brokerage - UK",
+        "Product Manager, Clearing Systems  ",
+        "Product Manager, Corporate Actions"
+      ],
+      "boardName": "Alpaca ",
+      "verified": "board is named \"Alpaca \""
+    },
+    {
+      "type": "gh",
+      "token": "recidiviz",
+      "label": "Recidiviz",
+      "yc": true,
+      "batch": "Summer 2019",
+      "teamSize": 120,
+      "location": "New York City, NY, USA",
+      "industry": "Government",
+      "oneLiner": "Helping create a smaller, fairer, safer justice system",
+      "total": 11,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": "Recidiviz",
+      "verified": "board is named \"Recidiviz\""
+    },
+    {
+      "type": "ashby",
+      "token": "curri",
+      "label": "Curri",
+      "yc": true,
+      "batch": "Summer 2019",
+      "teamSize": 104,
+      "location": "Los Angeles, CA, USA",
+      "industry": "Real Estate and Construction",
+      "oneLiner": "Construction & industrial logistics platform.",
+      "total": 25,
+      "lane": 2,
+      "laneTitles": [
+        "Strategy & Operations Manager, Supply Growth",
+        "Senior Product Manager, Marketplace Supply "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "accord",
+      "label": "Accord",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 20,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The Revenue Excellence Platform",
+      "total": 5,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "gh",
+      "token": "ophelia",
+      "label": "Ophelia",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 250,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Medication & support to beat opioid addiction from home",
+      "total": 15,
+      "lane": 1,
+      "laneTitles": [
+        "Product Analyst III"
+      ],
+      "boardName": "Ophelia",
+      "verified": "board is named \"Ophelia\""
+    },
+    {
+      "type": "ashby",
+      "token": "ello",
+      "label": "Ello",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 45,
+      "location": "San Francisco, CA, USA",
+      "industry": "Education",
+      "oneLiner": "Building the world's first 1:1 AI teacher.",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Product Lead, Monetization"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "vori",
+      "label": "Vori",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 29,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Vori is a modern operating system for supermarkets",
+      "total": 11,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Marketing Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "candidhealth",
+      "label": "Candid Health",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 200,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "The autonomous revenue cycle management platform.",
+      "total": 33,
+      "lane": 2,
+      "laneTitles": [
+        "Product Manager",
+        "Product Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "ashby",
+      "token": "aios",
+      "label": "AIOS",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 100,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "The world’s first full-stack AI doctor",
+      "total": 18,
+      "lane": 2,
+      "laneTitles": [
+        "Product Growth Lead (Referrals & Viral Loops) at AIOS — Remote, $200k-$400k/yr + 0.15%-0.50%",
+        "Product Manager - Engagement  — Remote, $150k-300k/yr inc equity"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "stable",
+      "label": "Stable",
+      "yc": true,
+      "batch": "Winter 2020",
+      "teamSize": 60,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "A virtual address + mailbox for business",
+      "total": 9,
+      "lane": 2,
+      "laneTitles": [
+        "Growth Lead",
+        "Product Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york city"
+    },
+    {
+      "type": "ashby",
+      "token": "zip",
+      "label": "Zip",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 500,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The future of B2B spend",
+      "total": 110,
+      "lane": 21,
+      "laneTitles": [
+        "Senior / Principal Product Manager",
+        "Senior ERP Solutions Consultant",
+        "Senior ERP Solutions Consultant",
+        "Senior ERP Solutions Consultant (SAP or Workday) ",
+        "Senior ERP Solutions Consultant"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "ashby",
+      "token": "luminai",
+      "label": "Luminai",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 50,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Luminai is the AI platform for Health System Operations.",
+      "total": 16,
+      "lane": 2,
+      "laneTitles": [
+        "Senior Product Manager, Platform ",
+        "Senior Product Manager, Applied AI "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "roboflow",
+      "label": "Roboflow",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 100,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "🖼️ Give your software the sense of sight.",
+      "total": 36,
+      "lane": 2,
+      "laneTitles": [
+        "Product Marketing",
+        "Growth Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "atob",
+      "label": "AtoB",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 75,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "Modernizing global transportation payments.",
+      "total": 9,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "notabene",
+      "label": "Notabene",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 47,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "The Notabene platform is the trust layer for global money movement.",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "GTM Partnerships Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "kingdom",
+      "label": "Kingdom",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 21,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Clinically-validated ingredients from natural microbes",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Manager, Customer Engagement"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "arketa",
+      "label": "Arketa",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 55,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Everything for your fitness or wellness business.",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "GTM Strategy and Operations"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "ready",
+      "label": "Ready",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 75,
+      "location": "San Francisco, CA, USA",
+      "industry": "Government",
+      "oneLiner": "Ensuring AI delivers what people need, when and where they need it,…",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Technical Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "fieldguide",
+      "label": "Fieldguide",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 200,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Vertical AI for Audit & Advisory Firms",
+      "total": 46,
+      "lane": 2,
+      "laneTitles": [
+        "Senior Manager, Product Strategy & Operations",
+        "Senior Product Marketing Manager, Risk Advisory"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "herondata",
+      "label": "Heron",
+      "yc": true,
+      "batch": "Summer 2020",
+      "teamSize": 60,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "Underwriting automation for small business finance",
+      "total": 6,
+      "lane": 1,
+      "laneTitles": [
+        "Chief of Staff "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "abacum",
+      "label": "Abacum",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 125,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "The AI-native FP&A platform that helps Finance teams drive business…",
+      "total": 15,
+      "lane": 2,
+      "laneTitles": [
+        "Marketing Manager, Lifecycle",
+        "Strategic Initiatives Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "signoz",
+      "label": "SigNoz",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 38,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Open source alternative to DataDog ",
+      "total": 13,
+      "lane": 1,
+      "laneTitles": [
+        "Sr Product Manager - IC"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "spruceid",
+      "label": "SpruceID",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 25,
+      "location": "New York City, NY, USA",
+      "industry": "Government",
+      "oneLiner": "SpruceID lets users control their data across the web.",
+      "total": 5,
+      "lane": 1,
+      "laneTitles": [
+        "Forward Deployed Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "lever",
+      "token": "gridware",
+      "label": "Gridware",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 125,
+      "location": "San Francisco, CA, USA",
+      "industry": "Industrials",
+      "oneLiner": "Protecting the grid today, preparing the grid for tomorrow",
+      "total": 16,
+      "lane": 2,
+      "laneTitles": [
+        "Program Manager, Business Operations",
+        "Staff Product Manager, Hardware"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "camber",
+      "label": "Camber",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 101,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Admin automation for healthcare",
+      "total": 15,
+      "lane": 1,
+      "laneTitles": [
+        "Enterprise Strategy Associate"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "vapi",
+      "label": "Vapi",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 50,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Voice AI for developers.",
+      "total": 6,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "greatquestion",
+      "label": "Great Question",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 41,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "User research on autopilot. ",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "flutterflow",
+      "label": "FlutterFlow",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 55,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Application Development Platform (Native Mobile + Web Apps)",
+      "total": 3,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager - Future Openings"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "gigs",
+      "label": "Gigs",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 150,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The OS for Embedded Telecom",
+      "total": 30,
+      "lane": 7,
+      "laneTitles": [
+        "Chief of Staff",
+        "Forward Deployed Product Manager",
+        "Go To Market Manager, Brazil",
+        "Growth Operations Lead ",
+        "GTM Associate, UK & Ireland"
+      ],
+      "boardName": "Gigs",
+      "verified": "board is named \"Gigs\""
+    },
+    {
+      "type": "ashby",
+      "token": "triomics",
+      "label": "Triomics",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 50,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "AI Agents for Oncology EHRs",
+      "total": 14,
+      "lane": 1,
+      "laneTitles": [
+        "GTM, Biopharma"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "shepherd",
+      "label": "Shepherd",
+      "yc": true,
+      "batch": "Winter 2021",
+      "teamSize": 60,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "Modernizing commercial insurance",
+      "total": 25,
+      "lane": 1,
+      "laneTitles": [
+        "AI Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "replo",
+      "label": "Replo",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 20,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Sell anything",
+      "total": 2,
+      "lane": 1,
+      "laneTitles": [
+        "Growth and GTM Lead, Replo Agent"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "confido",
+      "label": "Confido",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 65,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "AI-enabled financial automation and intelligence for CPG Brands",
+      "total": 38,
+      "lane": 6,
+      "laneTitles": [
+        "Founding Growth",
+        "Senior Product Manager",
+        "Director of Revenue Growth Management",
+        "Finance & Strategy Manager",
+        "GTM Strategy and Operations Analyst"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "tavus",
+      "label": "Tavus",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 75,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Building the human layer of AI",
+      "total": 19,
+      "lane": 3,
+      "laneTitles": [
+        "Growth Marketer ",
+        "Product Manager ",
+        "Vibe Growth Marketer"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "kodex",
+      "label": "Kodex",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 30,
+      "location": "Boston, MA, USA",
+      "industry": "B2B",
+      "oneLiner": "Easiest way for companies to process data requests from governments",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager, Platform & Integrations"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "coast",
+      "label": "Coast",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 35,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Demo operations for the AI era",
+      "total": 17,
+      "lane": 2,
+      "laneTitles": [
+        "Chief of Staff, Office of the CEO",
+        "Staff Product Manager, Corporate Spend"
+      ],
+      "boardName": "Coast",
+      "verified": "board is named \"Coast\""
+    },
+    {
+      "type": "ashby",
+      "token": "mach9",
+      "label": "Mach9",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 25,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI CAD Software for Civil Engineering",
+      "total": 17,
+      "lane": 3,
+      "laneTitles": [
+        "Solutions Consultant",
+        "Head of Growth",
+        "Business Operations Associate"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "stepful",
+      "label": "Stepful",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 100,
+      "location": "New York City, NY, USA",
+      "industry": "Education",
+      "oneLiner": "Online Training for Healthcare Jobs",
+      "total": 39,
+      "lane": 6,
+      "laneTitles": [
+        "Manager, Growth Marketing",
+        "Senior Engagement Manager, Client Success",
+        "Senior GTM Strategy Manager",
+        "Staff Product Manager, Student Experience",
+        "Product Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "nash",
+      "label": "Nash",
+      "yc": true,
+      "batch": "Summer 2021",
+      "teamSize": 40,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Nash is the digital logistics infrastructure for commerce",
+      "total": 22,
+      "lane": 4,
+      "laneTitles": [
+        "Product Marketing Lead",
+        "Launcher / GTM Lead, GCC",
+        "Enterprise Solutions Consultant, ANZ",
+        "Enterprise Solutions Consultant/Regional Launcher, LATAM"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "ashby",
+      "token": "agave",
+      "label": "Agave",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 50,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Applied AI for Construction",
+      "total": 11,
+      "lane": 2,
+      "laneTitles": [
+        "Product Manager",
+        "Product Analyst"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "ashby",
+      "token": "sieve",
+      "label": "Sieve",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 34,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The multimodal data lab",
+      "total": 12,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Associate"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "permitflow",
+      "label": "PermitFlow",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 80,
+      "location": "New York City, NY, USA",
+      "industry": "Real Estate and Construction",
+      "oneLiner": "Construction's AI Platform",
+      "total": 40,
+      "lane": 5,
+      "laneTitles": [
+        "Business Operations Manager",
+        "Chief of Staff",
+        "Solutions Consultant",
+        "Product Manager, AI (Staff/Principal)",
+        "Growth Marketing Manager, Events"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "cinder",
+      "label": "Cinder",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 30,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Infrastructure to protect companies from AI abuse",
+      "total": 10,
+      "lane": 2,
+      "laneTitles": [
+        "Senior Product Manager, Trust & Safety",
+        "AI Growth Marketer"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "broccoli",
+      "label": "Broccoli AI",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 85,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI-native operating system for home service businesses",
+      "total": 32,
+      "lane": 9,
+      "laneTitles": [
+        "AI Customer Strategy Lead",
+        "AI Transformation Lead",
+        "Senior Product Manager",
+        "Strategy & Operations Lead",
+        "Head of Growth"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "spade",
+      "label": "Spade",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 30,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "Spade is the data and AI platform for modern finance.",
+      "total": 13,
+      "lane": 3,
+      "laneTitles": [
+        "Product Marketing Manager",
+        "Product Manager - Enrichment",
+        "Product Manager - Agent Platform"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "rallyuxr",
+      "label": "Rally",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 33,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Agentic User Research Infrastructure",
+      "total": 1,
+      "lane": 1,
+      "laneTitles": [
+        "Sr. Growth Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "eventual",
+      "label": "Eventual",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 18,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Building the AI data engine for any modality and scale",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Growth"
+      ],
+      "boardName": null,
+      "verified": "token is the exact company name"
+    },
+    {
+      "type": "ashby",
+      "token": "realitydefender",
+      "label": "Reality Defender",
+      "yc": true,
+      "batch": "Winter 2022",
+      "teamSize": 54,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Enterprise Deepfake Detection",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "stream",
+      "label": "Stream",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 15,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "The AI Claims Workbench automating insurance claims ",
+      "total": 8,
+      "lane": 2,
+      "laneTitles": [
+        "Solutions Consultant II- Trust & Safety",
+        "Marketing Operations Analyst, Revenue Operations"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "lever",
+      "token": "twodots",
+      "label": "Two Dots",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 28,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "AI fraud prevention and underwriting agent",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Chief of Staff"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "chariot",
+      "label": "Chariot",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 24,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "A payment network connecting nonprofits to the $326B in DAFs",
+      "total": 18,
+      "lane": 1,
+      "laneTitles": [
+        "Product Marketing"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york city"
+    },
+    {
+      "type": "ashby",
+      "token": "novig",
+      "label": "Novig",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 55,
+      "location": "New York City, NY, USA",
+      "industry": "Consumer",
+      "oneLiner": "America's #1 Sports Trading App",
+      "total": 15,
+      "lane": 2,
+      "laneTitles": [
+        "Affiliate GTM Lead",
+        "Growth Operations Coordinator"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "blee",
+      "label": "Blee",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 15,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "Smart, fast, and collaborative compliance reviews ",
+      "total": 5,
+      "lane": 1,
+      "laneTitles": [
+        "Product Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "juicebox",
+      "label": "Juicebox",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 100,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI Agents for Recruiting",
+      "total": 37,
+      "lane": 6,
+      "laneTitles": [
+        "Head of Growth Product ",
+        "Product Manager",
+        "Growth Product Lead",
+        "Growth - UK",
+        "Growth Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "thera",
+      "label": "Thera",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 15,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "AI-Native Finance OS",
+      "total": 6,
+      "lane": 1,
+      "laneTitles": [
+        "GTM Lead"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york city"
+    },
+    {
+      "type": "ashby",
+      "token": "aurelian",
+      "label": "Aurelian",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 45,
+      "location": "Seattle, WA, USA",
+      "industry": "B2B",
+      "oneLiner": "Automating non-emergency calls for 911 centers",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "Founding Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "metriport",
+      "label": "Metriport",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 29,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Healthcare data infrastructure for next generation care delivery.",
+      "total": 17,
+      "lane": 1,
+      "laneTitles": [
+        "Staff Technical Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "ekho",
+      "label": "Ekho",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 30,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Shopify for vehicles",
+      "total": 3,
+      "lane": 1,
+      "laneTitles": [
+        "Chief of Staff"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "aiprise",
+      "label": "AiPrise",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 65,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "AI-powered Global Compliance Platform",
+      "total": 19,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "cambio",
+      "label": "Cambio",
+      "yc": true,
+      "batch": "Summer 2022",
+      "teamSize": 60,
+      "location": "San Francisco, CA, USA",
+      "industry": "Real Estate and Construction",
+      "oneLiner": "AI-native commercial real estate operations",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "avoca",
+      "label": "Avoca",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 85,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "AI-powered Sales Agent for Service-Based Industries",
+      "total": 23,
+      "lane": 4,
+      "laneTitles": [
+        "Growth Manager",
+        "Agent Product Manager ",
+        "Growth Lead, Performance",
+        "CRM Integration Consultant"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "infisical",
+      "label": "Infisical",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 70,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Security infrastructure for developers and agents",
+      "total": 12,
+      "lane": 2,
+      "laneTitles": [
+        "Chief of Staff",
+        "Founding Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "concourse",
+      "label": "Concourse",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 15,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "The AI Agent platform for finance",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "latent",
+      "label": "Latent",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 50,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Medical language models to automate healthcare operations",
+      "total": 26,
+      "lane": 4,
+      "laneTitles": [
+        "Product Manager",
+        "Product Marketing Lead",
+        "Clinical GTM Lead",
+        "Senior Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "salient",
+      "label": "Salient",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 40,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI Servicing for Auto Lenders",
+      "total": 13,
+      "lane": 2,
+      "laneTitles": [
+        "Lead Product Manager, Voice AI",
+        "Senior Product Manager, Marshall"
+      ],
+      "boardName": null,
+      "verified": "token is the exact company name"
+    },
+    {
+      "type": "ashby",
+      "token": "tennr",
+      "label": "Tennr",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 205,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Fast, Transparent Patient Experiences",
+      "total": 29,
+      "lane": 5,
+      "laneTitles": [
+        "Talent Acquisition Partner, GTM",
+        "Product Manager",
+        "Product Marketing Manager",
+        "Solutions Consultant (Pre-sales)",
+        "Director of Growth Marketing"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "goveagle",
+      "label": "GovEagle",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 25,
+      "location": "New York City, NY, USA",
+      "industry": "Government",
+      "oneLiner": "AI for Government Contractors",
+      "total": 3,
+      "lane": 1,
+      "laneTitles": [
+        "Chief of Staff to the CTO"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "vitalize",
+      "label": "Vitalize",
+      "yc": true,
+      "batch": "Winter 2023",
+      "teamSize": 28,
+      "location": "San Francisco, CA, USA",
+      "industry": "Healthcare",
+      "oneLiner": "Transforming how health systems optimize labor",
+      "total": 20,
+      "lane": 2,
+      "laneTitles": [
+        "Product Marketing ",
+        "Growth and Demand Generation "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "hockeystack",
+      "label": "HockeyStack",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 32,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The operating system for inbound B2B revenue",
+      "total": 3,
+      "lane": 1,
+      "laneTitles": [
+        "Finance Operations & Strategy Associate"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "hyperbound",
+      "label": "Hyperbound",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 30,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Revenue Activation Platform",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "electricair",
+      "label": "Electric Air",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 18,
+      "location": "San Francisco, CA, USA",
+      "industry": "Real Estate and Construction",
+      "oneLiner": "Tech-enabled heat pump contractor that cuts costs by 60%",
+      "total": 5,
+      "lane": 1,
+      "laneTitles": [
+        "Founding Growth & Brand Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "campfire",
+      "label": "Campfire",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 105,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The AI Native ERP for the fastest growing companies.",
+      "total": 51,
+      "lane": 4,
+      "laneTitles": [
+        "Product Marketing Manager",
+        "Customer Marketing Manager",
+        " Product Manager",
+        "Business Operations Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "outset",
+      "label": "Outset",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 120,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI-powered user interviews",
+      "total": 33,
+      "lane": 3,
+      "laneTitles": [
+        "Product Marketing Manager",
+        "Product Manager",
+        "Global Account Manager - Consulting & Research Agencies"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "fleetworks",
+      "label": "FleetWorks",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 20,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI enabled marketplace matching trucks with jobs",
+      "total": 7,
+      "lane": 2,
+      "laneTitles": [
+        "Product Manager ",
+        "Senior Product Manager "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "flint",
+      "label": "Flint",
+      "yc": true,
+      "batch": "Summer 2023",
+      "teamSize": 18,
+      "location": "New York City, NY, USA",
+      "industry": "Education",
+      "oneLiner": "Personalized learning built for schools",
+      "total": 8,
+      "lane": 3,
+      "laneTitles": [
+        "Engagement Manager",
+        "Forward Deployed Growth Lead",
+        "Forward Deployed Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "greptile",
+      "label": "Greptile",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 35,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI code review agent with complete context of your codebase",
+      "total": 19,
+      "lane": 3,
+      "laneTitles": [
+        "Chief of Staff, GTM",
+        "Founding Product Marketing Manager",
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "reducto",
+      "label": "Reducto",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 30,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "The complete agentic document platform",
+      "total": 35,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "garage",
+      "label": "Garage",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 35,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "Marketplace for America's most essential assets",
+      "total": 15,
+      "lane": 4,
+      "laneTitles": [
+        "Growth Operations Associate",
+        "People Strategy & Operations",
+        "Growth Marketer",
+        "Business Operations"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york city"
+    },
+    {
+      "type": "ashby",
+      "token": "furtherai",
+      "label": "FurtherAI",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 36,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI Workforce for the Insurance Industry",
+      "total": 9,
+      "lane": 1,
+      "laneTitles": [
+        "Agent Engagement Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "artisan",
+      "label": "Artisan",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 50,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI employees that take on real work, starting with sales",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Founding Growth Marketer"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "runtrellis",
+      "label": "Trellis AI",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 34,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Accelerate Medication Access with AI",
+      "total": 12,
+      "lane": 1,
+      "laneTitles": [
+        "Solutions Consultant"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "clarion",
+      "label": "Clarion",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 16,
+      "location": "New York City, NY, USA",
+      "industry": "Healthcare",
+      "oneLiner": "The AI communication layer for healthcare",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Associate"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "tamarindbio",
+      "label": "Tamarind Bio",
+      "yc": true,
+      "batch": "Winter 2024",
+      "teamSize": 20,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI Inference Platform for Drug Discovery",
+      "total": 7,
+      "lane": 2,
+      "laneTitles": [
+        "Founding GTM, BD ",
+        "Founding Product Marketer, GTM Marketing "
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "ashby",
+      "token": "kastle",
+      "label": "Kastle",
+      "yc": true,
+      "batch": "Summer 2024",
+      "teamSize": 15,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "AI employee for consumer lending",
+      "total": 19,
+      "lane": 3,
+      "laneTitles": [
+        "Forward Deployed Product Manager",
+        "Senior Product Manager",
+        "Founding Growth Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "finny",
+      "label": "FINNY AI",
+      "yc": true,
+      "batch": "Summer 2024",
+      "teamSize": 35,
+      "location": "New York City, NY, USA",
+      "industry": "Fintech",
+      "oneLiner": "The organic growth engine for financial advisors ",
+      "total": 4,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "usul",
+      "label": "Usul",
+      "yc": true,
+      "batch": "Summer 2024",
+      "teamSize": 15,
+      "location": "San Francisco, CA, USA",
+      "industry": "Government",
+      "oneLiner": "AI Platform for Winning Defense & Government Contracts",
+      "total": 6,
+      "lane": 1,
+      "laneTitles": [
+        "Chief of Staff"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "hud",
+      "label": "HUD",
+      "yc": true,
+      "batch": "Winter 2025",
+      "teamSize": 24,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Platform and marketplace for RL environments and AI data",
+      "total": 30,
+      "lane": 5,
+      "laneTitles": [
+        "Growth Lead",
+        "GTM Lead, Commercial Partnerships",
+        "Business Operations",
+        "Product Manager, Marketplace",
+        "Product Manager, Platform"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "harperinsure",
+      "label": "Harper",
+      "yc": true,
+      "batch": "Winter 2025",
+      "teamSize": 25,
+      "location": "San Francisco, CA, USA",
+      "industry": "Fintech",
+      "oneLiner": "AI-native commercial insurance brokerage",
+      "total": 36,
+      "lane": 3,
+      "laneTitles": [
+        "Business Operations Associate",
+        "Product Manager",
+        "GTM: New Verticals Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "afterquery",
+      "label": "AfterQuery",
+      "yc": true,
+      "batch": "Winter 2025",
+      "teamSize": 30,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Applied research lab curating data solutions for foundation model…",
+      "total": 40,
+      "lane": 7,
+      "laneTitles": [
+        "Growth Associate",
+        "Business Operations Generalist",
+        "Head of Growth",
+        "GTM Operations Lead",
+        "Engagement Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "auctor",
+      "label": "Auctor",
+      "yc": true,
+      "batch": "Spring 2025",
+      "teamSize": 30,
+      "location": "New York City, NY, USA",
+      "industry": "B2B",
+      "oneLiner": "The agentic operating system for modern system integrators.",
+      "total": 11,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york city"
+    },
+    {
+      "type": "ashby",
+      "token": "flai",
+      "label": "Flai",
+      "yc": true,
+      "batch": "Summer 2025",
+      "teamSize": 40,
+      "location": "San Francisco, CA, USA",
+      "industry": "Industrials",
+      "oneLiner": "We Bring Customers to Your Dealership",
+      "total": 14,
+      "lane": 1,
+      "laneTitles": [
+        "Business Operations"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "ashby",
+      "token": "uplane",
+      "label": "Uplane",
+      "yc": true,
+      "batch": "Fall 2025",
+      "teamSize": 26,
+      "location": "San Francisco, CA, USA",
+      "industry": "B2B",
+      "oneLiner": "Replace marketing agencies with AI",
+      "total": 16,
+      "lane": 2,
+      "laneTitles": [
+        "Growth Operations",
+        "Growth Operations"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "icarus",
+      "label": "Icarus",
+      "yc": true,
+      "batch": "Fall 2025",
+      "teamSize": 50,
+      "location": "Los Angeles, CA, USA",
+      "industry": "Industrials",
+      "oneLiner": "Stratospheric birds for defense",
+      "total": 24,
+      "lane": 1,
+      "laneTitles": [
+        "Strategic Growth Manager "
+      ],
+      "boardName": "Icarus",
+      "verified": "board is named \"Icarus\""
+    },
+    {
+      "type": "ashby",
+      "token": "beyondreachlabs",
+      "label": "Beyond Reach Labs",
+      "yc": true,
+      "batch": "Winter 2026",
+      "teamSize": 15,
+      "location": "New York City, NY, USA",
+      "industry": "Industrials",
+      "oneLiner": "Space solar arrays that grow to the size of a football field in orbit",
+      "total": 5,
+      "lane": 1,
+      "laneTitles": [
+        "Strategy and Growth Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "humanarchive",
+      "label": "Human Archive",
+      "yc": true,
+      "batch": "Winter 2026",
+      "teamSize": 100,
+      "location": "San Francisco, CA, USA",
+      "industry": "Industrials",
+      "oneLiner": "Physical AI data lab",
+      "total": 21,
+      "lane": 2,
+      "laneTitles": [
+        "Chief of Staff",
+        "Operations Manager (YC-Backed, High-Growth Startup)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "pocket",
+      "label": "Pocket",
+      "yc": true,
+      "batch": "Winter 2026",
+      "teamSize": 35,
+      "location": "San Francisco, CA, USA",
+      "industry": "Consumer",
+      "oneLiner": "Take Notes in the Real World",
+      "total": 15,
+      "lane": 2,
+      "laneTitles": [
+        "Head of Subscriptions & Monetization",
+        "Founding Growth Marketer, B2B"
+      ],
+      "boardName": null,
+      "verified": "postings are in san francisco"
+    },
+    {
+      "type": "gh",
+      "token": "customerio",
+      "label": "Customer.io",
+      "yc": false,
+      "batch": "non-YC",
+      "teamSize": 250,
+      "location": "Remote, USA",
+      "industry": "B2B",
+      "oneLiner": "Lifecycle messaging platform.",
+      "total": 25,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager, Agent"
+      ],
+      "boardName": "Customer.io",
+      "verified": "board is named \"Customer.io\""
+    },
+    {
+      "type": "gh",
+      "token": "braze",
+      "label": "Braze",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 341,
+      "lane": 39,
+      "laneTitles": [
+        "Director, Lifecycle Marketing",
+        "Director, Lifecycle Marketing",
+        "Director, Lifecycle Marketing",
+        "Director, Lifecycle Marketing",
+        "Engagement Manager, AI Deployment "
+      ],
+      "boardName": "Braze",
+      "verified": "board is named \"Braze\""
+    },
+    {
+      "type": "gh",
+      "token": "movableink",
+      "label": "Movable Ink",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 31,
+      "lane": 1,
+      "laneTitles": [
+        "Principal Technical Product Marketing Manager"
+      ],
+      "boardName": "Movable Ink",
+      "verified": "board is named \"Movable Ink\""
+    },
+    {
+      "type": "gh",
+      "token": "yotpo",
+      "label": "Yotpo",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 18,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager "
+      ],
+      "boardName": "Yotpo",
+      "verified": "board is named \"Yotpo\""
+    },
+    {
+      "type": "ashby",
+      "token": "rogo",
+      "label": "Rogo",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 99,
+      "lane": 11,
+      "laneTitles": [
+        "GTM Associate, London",
+        "Product Marketing Manager",
+        "GTM Associate",
+        "Product Manager | Agents",
+        "Product Manager | Core Product"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "elevenlabs",
+      "label": "ElevenLabs",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 156,
+      "lane": 12,
+      "laneTitles": [
+        "Global GTM Talent Lead",
+        "Lead Generation Strategy and Operations",
+        "Enterprise Deployment - Chief of Staff",
+        "Growth PM",
+        "GTM Enablement - Sales Execution & North America Lead"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "rilla",
+      "label": "Rilla",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 26,
+      "lane": 2,
+      "laneTitles": [
+        "Business Operations ",
+        "GTM Associate"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "harvey",
+      "label": "Harvey",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 369,
+      "lane": 29,
+      "laneTitles": [
+        "Staff Product Manager",
+        "Staff Product Manager, New Verticals",
+        "Innovation Product Manager",
+        "Engagement Manager",
+        "Engagement Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "sierra",
+      "label": "Sierra",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 213,
+      "lane": 18,
+      "laneTitles": [
+        "Product Manager, Agent Development",
+        "Product Manager, Agent Development (German speaking)",
+        "Product Manager, Agent Development",
+        "Product Marketing Manager",
+        "Product Manager, Agent Development (French speaking)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "pinecone",
+      "label": "Pinecone",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "Technical Product Marketing Manager (Staff)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "cockroachlabs",
+      "label": "Cockroach Labs",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 14,
+      "lane": 2,
+      "laneTitles": [
+        "Marketing Operations Manager",
+        "Strategy and Operations Manager, GTM - EMEA"
+      ],
+      "boardName": "Cockroach Labs",
+      "verified": "board is named \"Cockroach Labs\""
+    },
+    {
+      "type": "gh",
+      "token": "axonius",
+      "label": "Axonius",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 22,
+      "lane": 3,
+      "laneTitles": [
+        "Senior AI Product Manager",
+        "Senior Executive Assistant, GTM",
+        "Senior Product Manager"
+      ],
+      "boardName": "Axonius",
+      "verified": "board is named \"Axonius\""
+    },
+    {
+      "type": "gh",
+      "token": "dataiku",
+      "label": "Dataiku",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 14,
+      "lane": 1,
+      "laneTitles": [
+        "Product Marketing Manager"
+      ],
+      "boardName": "Dataiku",
+      "verified": "board is named \"Dataiku\""
+    },
+    {
+      "type": "gh",
+      "token": "justworks",
+      "label": "Justworks",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 97,
+      "lane": 19,
+      "laneTitles": [
+        "Director, Marketing Operations",
+        "General Manager & Director, Commercial Strategy",
+        "General Manager & Director, GTM Strategy",
+        "Group Product Manager, Advisor Channel",
+        "Group Product Manager, Product Foundations "
+      ],
+      "boardName": "Justworks",
+      "verified": "board is named \"Justworks\""
+    },
+    {
+      "type": "gh",
+      "token": "greenhouse",
+      "label": "Greenhouse",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 19,
+      "lane": 4,
+      "laneTitles": [
+        "Product Marketing Manager, Strategic Partnerships",
+        "Senior Program Manager, GTM & Field Enablement",
+        "Strategic Consultant ",
+        "Strategic Consultant I"
+      ],
+      "boardName": "Greenhouse",
+      "verified": "board is named \"Greenhouse\""
+    },
+    {
+      "type": "gh",
+      "token": "yext",
+      "label": "Yext",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 23,
+      "lane": 4,
+      "laneTitles": [
+        "Platform Consultant",
+        "Product Manager",
+        "Product Marketing Director",
+        "Senior Product Manager"
+      ],
+      "boardName": "Yext",
+      "verified": "board is named \"Yext\""
+    },
+    {
+      "type": "ashby",
+      "token": "gorgias",
+      "label": "Gorgias",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 19,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Lifecycle Growth Manager "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "mercury",
+      "label": "Mercury",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 79,
+      "lane": 6,
+      "laneTitles": [
+        "Senior Product Manager - Business Lending",
+        "Senior Product Manager - Consumer Credit Card",
+        "Senior Product Manager - Fraud",
+        "Senior Product Manager - Invoicing",
+        "Senior Product Manager - Reconciliation"
+      ],
+      "boardName": "Mercury",
+      "verified": "board is named \"Mercury\""
+    },
+    {
+      "type": "ashby",
+      "token": "plaid",
+      "label": "Plaid",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 129,
+      "lane": 18,
+      "laneTitles": [
+        "Strategic Initiatives",
+        "Product Manager - Connectivity Platform",
+        "Business Operations",
+        "Product Manager, Financial Management",
+        "Product Manager, Growth"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "brex",
+      "label": "Brex",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 262,
+      "lane": 54,
+      "laneTitles": [
+        "Director, Marketing Operations",
+        "Director, Marketing Operations",
+        "Director, Marketing Operations",
+        "Director, Marketing Operations",
+        "Fraud Strategy Associate"
+      ],
+      "boardName": "Brex",
+      "verified": "board is named \"Brex\""
+    },
+    {
+      "type": "gh",
+      "token": "betterment",
+      "label": "Betterment",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 25,
+      "lane": 2,
+      "laneTitles": [
+        "Program Manager, GTM Systems & Tooling",
+        "Senior Product Manager, Marketing Enablement"
+      ],
+      "boardName": "Betterment",
+      "verified": "board is named \"Betterment\""
+    },
+    {
+      "type": "ashby",
+      "token": "acorns",
+      "label": "Acorns",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 14,
+      "lane": 4,
+      "laneTitles": [
+        "Growth Marketing Sr. Associate, New Channels",
+        "Sr. Lifecycle Marketing Associate, Retention & Reengagement",
+        "Growth Marketing Sr. Associate, Podcasts & CTV",
+        "Sr. Lifecycle Marketing Associate, Engagement & Upgrades"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "kikoff",
+      "label": "Kikoff",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 52,
+      "lane": 8,
+      "laneTitles": [
+        "Growth Marketer",
+        "Product Manager",
+        "Product Manager, Retention & Monetization",
+        "Senior Lifecycle Marketing Manager",
+        "Senior Product Manager"
+      ],
+      "boardName": "Kikoff",
+      "verified": "board is named \"Kikoff\""
+    },
+    {
+      "type": "ashby",
+      "token": "unit",
+      "label": "Unit",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 2,
+      "lane": 1,
+      "laneTitles": [
+        "GTM Lead (Bay Area)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "column",
+      "label": "Column",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 21,
+      "lane": 2,
+      "laneTitles": [
+        "Growth",
+        "Business Operations (Travel Heavy)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "alloy",
+      "label": "Alloy",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 29,
+      "lane": 2,
+      "laneTitles": [
+        "GTM Systems Administrator",
+        "Senior Manager, GTM Systems"
+      ],
+      "boardName": "Alloy",
+      "verified": "board is named \"Alloy\""
+    },
+    {
+      "type": "ashby",
+      "token": "socure",
+      "label": "Socure",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 80,
+      "lane": 14,
+      "laneTitles": [
+        "Senior Solution Consultant – Post-Sales, Platform",
+        "Pre-Sales Solution Consultant, Big Tech/AI",
+        "Head of Solution Consulting, Crypto",
+        "Senior Product Manager, Core Fraud Services",
+        "Senior Platform Solution Consultant, Pre-Sales "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "sardine",
+      "label": "Sardine",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 46,
+      "lane": 1,
+      "laneTitles": [
+        "Technical Product Manager - Sonar"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "persona",
+      "label": "Persona",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 13,
+      "lane": 1,
+      "laneTitles": [
+        "GTM Systems & Operations Manager"
+      ],
+      "boardName": null,
+      "verified": "postings are in new york"
+    },
+    {
+      "type": "ashby",
+      "token": "rho",
+      "label": "Rho",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 43,
+      "lane": 7,
+      "laneTitles": [
+        "Founding Startup Banking GTM, Austin ",
+        "Client Engagement Manager",
+        "Product Manager",
+        "Client Engagement Manager",
+        "Founding Startup Banking GTM, Miami"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "icapitalnetwork",
+      "label": "iCapital",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 214,
+      "lane": 17,
+      "laneTitles": [
+        "Business Solutions Consultant II - Associate",
+        "Business Solutions Consultant II - Associate",
+        "Business Solutions Consultant II - Associate",
+        "Distributed Ledger Technology Product Manager - Assistant Vice President / Vice President",
+        "Pricing Strategy Lead - Vice President / Senior Vice President"
+      ],
+      "boardName": "iCapital",
+      "verified": "board is named \"iCapital\""
+    },
+    {
+      "type": "ashby",
+      "token": "paxos",
+      "label": "Paxos",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 22,
+      "lane": 3,
+      "laneTitles": [
+        "Product Marketing Lead, Stablecoins",
+        "Senior Product Manager, Compliance & Platform Experience",
+        "Senior Product Manager, Liquidity & Money Movement"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "gemini",
+      "label": "Gemini",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 30,
+      "lane": 3,
+      "laneTitles": [
+        "Associate, Growth Marketing (Advanced Trading Products)",
+        "Lead, Operations & Growth",
+        "Product Manager, Invest / Trade"
+      ],
+      "boardName": "Gemini",
+      "verified": "board is named \"Gemini\""
+    },
+    {
+      "type": "ashby",
+      "token": "tabs",
+      "label": "Tabs",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 27,
+      "lane": 7,
+      "laneTitles": [
+        "Senior Talent Acquisition Partner (GTM)",
+        "Senior Solutions Consultant",
+        "Solutions Consultant",
+        "Sr. Growth Marketing Manager",
+        "Senior Product Manager, Usage & Pricing"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "payoneer",
+      "label": "Payoneer",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 105,
+      "lane": 15,
+      "laneTitles": [
+        "Business Operations Intern",
+        "Customer Lifecycle Program Manager",
+        "Director, Corporate Strategy",
+        "Director of Product, Growth",
+        "Finance Transformation Specialist"
+      ],
+      "boardName": "Payoneer",
+      "verified": "board is named \"Payoneer\""
+    },
+    {
+      "type": "ashby",
+      "token": "polymarket",
+      "label": "Polymarket",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 44,
+      "lane": 6,
+      "laneTitles": [
+        "Senior Product Manager",
+        "Senior Media Planner, Strategy & Insights",
+        "Staff Product Manager, Crypto",
+        "Senior Director Business Operations",
+        "Technical Product Manager, CX Tooling"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "carta",
+      "label": "Carta",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 75,
+      "lane": 5,
+      "laneTitles": [
+        "Consultant, Contracts",
+        "Engagement Letter Lawyer",
+        "Senior / Lead Customer Marketing Manager",
+        "Senior / Lead Product Marketing Manager",
+        "Senior / Lead Product Marketing Manager"
+      ],
+      "boardName": "Carta",
+      "verified": "board is named \"Carta\""
+    },
+    {
+      "type": "ashby",
+      "token": "headway",
+      "label": "Headway",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 90,
+      "lane": 20,
+      "laneTitles": [
+        "Staff Product Manager, Enterprise Products",
+        "Staff Product Marketing Manager (PMM), Patient Growth",
+        "Staff Product Marketing Manager (PMM), Provider Growth",
+        "Staff Product Marketing Manager (PMM), Provider Experience",
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "talkspace",
+      "label": "Talkspace",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 27,
+      "lane": 1,
+      "laneTitles": [
+        "Business Development & Growth Associate, Pharma"
+      ],
+      "boardName": "Talkspace",
+      "verified": "board is named \"Talkspace\""
+    },
+    {
+      "type": "gh",
+      "token": "zocdoc",
+      "label": "Zocdoc",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 60,
+      "lane": 5,
+      "laneTitles": [
+        "Director of Finance Technology and Transformation ",
+        "Director, Product Marketing",
+        "Director, Provider Lifecycle Growth",
+        "Senior Manager, Go-to-Market Recruiting",
+        "Staff Product Manager, Payments"
+      ],
+      "boardName": "Zocdoc",
+      "verified": "board is named \"Zocdoc\""
+    },
+    {
+      "type": "ashby",
+      "token": "capsule",
+      "label": "Capsule",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 9,
+      "lane": 1,
+      "laneTitles": [
+        "GTM Operations Analyst (Contractor)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "flatironhealth",
+      "label": "Flatiron Health",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 25,
+      "lane": 4,
+      "laneTitles": [
+        "Associate, Product Marketing (Real-World Evidence)",
+        "Lead Product Manager (Clinical Workflows)",
+        "Point of Care Growth and Partnerships Associate",
+        "Product Manager (Clinical Workflows)"
+      ],
+      "boardName": "Flatiron Health",
+      "verified": "board is named \"Flatiron Health\""
+    },
+    {
+      "type": "gh",
+      "token": "komodohealth",
+      "label": "Komodo Health",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 24,
+      "lane": 8,
+      "laneTitles": [
+        "Consultant, Managed Services",
+        "Consultant (Salesforce Configuration)",
+        "Principal Product Manager, AI Products",
+        "Senior AI Engagement Manager",
+        "Senior Consultant, Analytics Consulting "
+      ],
+      "boardName": "Komodo Health",
+      "verified": "board is named \"Komodo Health\""
+    },
+    {
+      "type": "gh",
+      "token": "sweetgreen",
+      "label": "Sweetgreen",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 63,
+      "lane": 2,
+      "laneTitles": [
+        "Senior Manager, Loyalty & CRM ",
+        "Sr. Product Manager, Menu & 3P"
+      ],
+      "boardName": " sweetgreen",
+      "verified": "board is named \" sweetgreen\""
+    },
+    {
+      "type": "gh",
+      "token": "glossier",
+      "label": "Glossier",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 19,
+      "lane": 1,
+      "laneTitles": [
+        "Vice President, Digital Strategy & Growth   "
+      ],
+      "boardName": "Glossier",
+      "verified": "board is named \"Glossier\""
+    },
+    {
+      "type": "gh",
+      "token": "renttherunway",
+      "label": "Rent the Runway",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 27,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Manager, Growth Marketing - Organic Growth & Discovery"
+      ],
+      "boardName": "Rent the Runway",
+      "verified": "board is named \"Rent the Runway\""
+    },
+    {
+      "type": "gh",
+      "token": "peloton",
+      "label": "Peloton",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 54,
+      "lane": 2,
+      "laneTitles": [
+        "Senior Manager, Financial Systems & Reporting Transformation",
+        "Sr. Product Manager"
+      ],
+      "boardName": "Peloton",
+      "verified": "board is named \"Peloton\""
+    },
+    {
+      "type": "gh",
+      "token": "bombas",
+      "label": "Bombas",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 8,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Digital Product Manager – Retention & Post-Purchase"
+      ],
+      "boardName": "Bombas",
+      "verified": "board is named \"Bombas\""
+    },
+    {
+      "type": "gh",
+      "token": "harrys",
+      "label": "Harry's",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 13,
+      "lane": 2,
+      "laneTitles": [
+        "Growth Marketing Lead (Harry's)",
+        "Senior Associate, Growth Marketing"
+      ],
+      "boardName": "Harry's",
+      "verified": "board is named \"Harry's\""
+    },
+    {
+      "type": "gh",
+      "token": "squarespace",
+      "label": "Squarespace",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 27,
+      "lane": 5,
+      "laneTitles": [
+        "Director, GTM & Growth Marketing",
+        "Enterprise Transformation, Senior Lead ",
+        "Senior Product Director, Client Engagement Group",
+        "Senior Product Manager, Acuity Scheduling, Payments",
+        "Senior Product Manager, Domains "
+      ],
+      "boardName": "Squarespace",
+      "verified": "board is named \"Squarespace\""
+    },
+    {
+      "type": "ashby",
+      "token": "babbel",
+      "label": "Babbel",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 10,
+      "lane": 3,
+      "laneTitles": [
+        "Senior Product Manager - AI Content Creation (all genders)",
+        "Head of Pricing & Monetization (m/f/d)",
+        "Growth Lead, Paid Social & Experimentation"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "newsela",
+      "label": "Newsela",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 9,
+      "lane": 2,
+      "laneTitles": [
+        "Senior Marketing Operations Analyst",
+        "Senior Product Marketing Manager, Core (Remote, US)"
+      ],
+      "boardName": "Newsela",
+      "verified": "board is named \"Newsela\""
+    },
+    {
+      "type": "gh",
+      "token": "zola",
+      "label": "Zola",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 3,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager"
+      ],
+      "boardName": "Zola",
+      "verified": "board is named \"Zola\""
+    },
+    {
+      "type": "gh",
+      "token": "classpass",
+      "label": "ClassPass",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 33,
+      "lane": 7,
+      "laneTitles": [
+        "Lifecycle Growth Manager",
+        "Lifecycle Growth Manager",
+        "Lifecycle Marketing Manager ",
+        "Lifecycle Marketing Manager, (Partner Acquisition)",
+        "Marketing Technology Manager, AEO"
+      ],
+      "boardName": "ClassPass",
+      "verified": "board is named \"ClassPass\""
+    },
+    {
+      "type": "ashby",
+      "token": "whoop",
+      "label": "Whoop",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 134,
+      "lane": 8,
+      "laneTitles": [
+        "Product Analyst",
+        "Senior Product Manager (Platform)",
+        "Senior Product Manager, Healthcare",
+        "Product Manager II, Growth - Monetization",
+        "Lead, Lifecycle Marketing Automation"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "strava",
+      "label": "Strava",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 28,
+      "lane": 5,
+      "laneTitles": [
+        "Lead Marketing Analyst  ",
+        "Staff Product Manager, AI/ML ",
+        "Retention Marketing Manager, GTM & Feature Adoption ",
+        " Campaign Operations Manager, EMEA (12 month Contract) ",
+        "Senior Product Manager, Subscription"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "taboola",
+      "label": "Taboola",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 85,
+      "lane": 9,
+      "laneTitles": [
+        "Advertiser Sales Manager, Growth – Spanish-Speaking Americas",
+        "Associate Account Manager, Growth - Brazil",
+        "Associate Advertising Sales Manager, Growth – Spanish-Speaking Americas",
+        "Product Analyst",
+        "Senior Business Development Manager, Growth Advertisers (APAC)"
+      ],
+      "boardName": "Taboola",
+      "verified": "board is named \"Taboola\""
+    },
+    {
+      "type": "gh",
+      "token": "mirakl",
+      "label": "Mirakl",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 30,
+      "lane": 2,
+      "laneTitles": [
+        "Solution Consultant, Connect EMEA",
+        "Solution Consultant Intern "
+      ],
+      "boardName": "Mirakl",
+      "verified": "board is named \"Mirakl\""
+    },
+    {
+      "type": "ashby",
+      "token": "drata",
+      "label": "Drata",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 29,
+      "lane": 4,
+      "laneTitles": [
+        "Senior Product Manager 2, Assurance",
+        "Principal Product Marketing Manager",
+        "Senior Marketing Operations Manager",
+        "Senior Product Manager, Compliance"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "notion",
+      "label": "Notion",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 142,
+      "lane": 32,
+      "laneTitles": [
+        "Solutions Consultant Manager, Commercial (Sales Leadership)",
+        "Solutions Consultant Manager, Enterprise (Sales Leadership)",
+        "Lifecycle Marketing Manager, Campaign Strategy & Execution",
+        "Solutions Consultant, Commercial, France",
+        "Commercial Solutions Consultant, San Francisco"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "writer",
+      "label": "Writer",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 46,
+      "lane": 12,
+      "laneTitles": [
+        "Lead product manager",
+        "Lead product manager (UK)",
+        "Product marketing lead",
+        "Transformation lead manager",
+        "Senior AI transformation lead (East)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "synthesia",
+      "label": "Synthesia",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 36,
+      "lane": 6,
+      "laneTitles": [
+        "Principal Product Marketing Manager",
+        "Product Manager, New Product Bet (Principal-level)",
+        "Product Manager, Enterprise (Staff/Principal-level)",
+        "Product Manager, Interactive Avatars (Staff/Principal-level) ",
+        "Head of Product Marketing"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "perplexity",
+      "label": "Perplexity",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 133,
+      "lane": 15,
+      "laneTitles": [
+        "Product Marketing Manager, Partnerships",
+        "Associate Product Marketing Manager",
+        "Product Marketing Manager",
+        "Solutions Product Marketing Manager",
+        "Product Manager (Builder)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "decagon",
+      "label": "Decagon",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 133,
+      "lane": 25,
+      "laneTitles": [
+        "Senior Agent Product Manager",
+        "Product Manager",
+        "Senior Agent Product Manager",
+        "Senior Agent Product Manager",
+        "Founders' Office, Business Operations "
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "cresta",
+      "label": "Cresta",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 87,
+      "lane": 12,
+      "laneTitles": [
+        "Customer Strategy Director",
+        "Deal Strategy & Operations Manager",
+        "Engagement Manager (Professional Services Sales)",
+        "Forward Deployed Product Manager, AI Agent",
+        "Forward Deployed Product Manager - AI Agent (EMEA)"
+      ],
+      "boardName": "Cresta",
+      "verified": "board is named \"Cresta\""
+    },
+    {
+      "type": "ashby",
+      "token": "iterable",
+      "label": "Iterable",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 12,
+      "lane": 1,
+      "laneTitles": [
+        "Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "klaviyo",
+      "label": "Klaviyo",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 157,
+      "lane": 18,
+      "laneTitles": [
+        "Email Marketing Lead, Lifecycle Marketing - EMEA (12 month FTC)",
+        "Lead, Global Services Strategy & Operations",
+        "Lead, Global Services Strategy & Operations",
+        "Lead, Global Services Strategy & Operations",
+        "Lead Product Manager, Core Data"
+      ],
+      "boardName": "Klaviyo",
+      "verified": "board is named \"Klaviyo\""
+    },
+    {
+      "type": "ashby",
+      "token": "amplitude",
+      "label": "Amplitude",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 44,
+      "lane": 4,
+      "laneTitles": [
+        "Head of Product Marketing",
+        "Principal Product Manager, AI Agents & MCP",
+        "Senior Marketing Analyst",
+        "Director of Product Management, AI & Growth"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "mixpanel",
+      "label": "Mixpanel",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 44,
+      "lane": 3,
+      "laneTitles": [
+        "Product Manager",
+        "Product Manager - Data",
+        "Product Manager - Platform"
+      ],
+      "boardName": "Mixpanel",
+      "verified": "board is named \"Mixpanel\""
+    },
+    {
+      "type": "gh",
+      "token": "pendo",
+      "label": "Pendo",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 26,
+      "lane": 4,
+      "laneTitles": [
+        "Chief of Staff, CEO",
+        "Lead Product Marketing Manager",
+        "Sr. Product Manager, Mobile SDK - 9-Month Fixed-Term",
+        "Sr. Product Marketing Manager"
+      ],
+      "boardName": "Pendo",
+      "verified": "board is named \"Pendo\""
+    },
+    {
+      "type": "lever",
+      "token": "outreach",
+      "label": "Outreach",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 21,
+      "lane": 4,
+      "laneTitles": [
+        "Lead Solutions Consultant, EMEA",
+        "Senior GTM AI Advisor, EMEA",
+        "Senior GTM Enablement Manager",
+        "Senior Professional Services Consultant"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "unify",
+      "label": "Unify",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 11,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "zoominfo",
+      "label": "ZoomInfo",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 102,
+      "lane": 21,
+      "laneTitles": [
+        "Account Manager, Enterprise Growth",
+        "GTM Client Delivery Manager",
+        "GTM Consultant II",
+        "GTM Integration Specialist I",
+        "GTM Solutions Consultant III"
+      ],
+      "boardName": "ZoomInfo Technologies LLC",
+      "verified": "board is named \"ZoomInfo Technologies LLC\""
+    },
+    {
+      "type": "gh",
+      "token": "6sense",
+      "label": "6sense",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 31,
+      "lane": 1,
+      "laneTitles": [
+        "Sr. Product Manager, Specialized Modeling & Verticals"
+      ],
+      "boardName": "6sense",
+      "verified": "board is named \"6sense\""
+    },
+    {
+      "type": "ashby",
+      "token": "demandbase",
+      "label": "Demandbase",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 14,
+      "lane": 3,
+      "laneTitles": [
+        "Lead Product Manager, Platform (Orchestration & AI)",
+        "Senior Product Manager, AI Adoption & Growth",
+        "Senior Customer Lifecycle Marketing Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "later",
+      "label": "Later",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 38,
+      "lane": 2,
+      "laneTitles": [
+        "VP, Creator Growth (SLG)",
+        "VP, Growth Marketing "
+      ],
+      "boardName": "Later",
+      "verified": "board is named \"Later\""
+    },
+    {
+      "type": "gh",
+      "token": "sproutsocial",
+      "label": "Sprout Social",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 22,
+      "lane": 8,
+      "laneTitles": [
+        "Bilingual Strategic Services Consultant",
+        "Director, GTM Strategy & Planning",
+        "Product Marketing Strategist",
+        "Senior Product Marketing Manager",
+        "Staff Product Manager, Integrations"
+      ],
+      "boardName": "Sprout Social",
+      "verified": "board is named \"Sprout Social\""
+    },
+    {
+      "type": "gh",
+      "token": "shopltk",
+      "label": "LTK",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 10,
+      "lane": 1,
+      "laneTitles": [
+        "Principal Product Manager, Creator"
+      ],
+      "boardName": "LTK USA",
+      "verified": "board is named \"LTK USA\""
+    },
+    {
+      "type": "gh",
+      "token": "faire",
+      "label": "Faire",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 66,
+      "lane": 10,
+      "laneTitles": [
+        "Europe Strategy & Operations Director",
+        "Head of Retailer Product Marketing",
+        "International Strategy and Operations Lead",
+        "Principal Product Manager, Financial Products",
+        "Senior Product Marketing Manager"
+      ],
+      "boardName": "Faire",
+      "verified": "board is named \"Faire\""
+    },
+    {
+      "type": "ashby",
+      "token": "dave",
+      "label": "Dave",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 6,
+      "lane": 3,
+      "laneTitles": [
+        "Director, Lifecycle Marketing",
+        "Organic Growth & Discovery Lead (SEO/AEO)",
+        "Senior Product Manager, Financial Data Intelligence"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "lever",
+      "token": "wealthfront",
+      "label": "Wealthfront",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 22,
+      "lane": 2,
+      "laneTitles": [
+        "Director of Product Management, Growth",
+        "Director of Product Marketing, Investing"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "robinhood",
+      "label": "Robinhood",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 161,
+      "lane": 12,
+      "laneTitles": [
+        "Compliance Advisory Lead",
+        "Senior Product Manager, Advisor Marketplace",
+        "Senior Product Manager, Capital Markets",
+        "Senior Product Manager, Crypto Wallet",
+        "Senior Product Manager, Gold Growth"
+      ],
+      "boardName": "Robinhood",
+      "verified": "board is named \"Robinhood\""
+    },
+    {
+      "type": "gh",
+      "token": "affirm",
+      "label": "Affirm",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 243,
+      "lane": 19,
+      "laneTitles": [
+        "Chief of Staff Director, Product",
+        "Group Product Manager",
+        "Group Product Manager",
+        "Group Product Marketing Manager",
+        "Lead Product Marketing Manager"
+      ],
+      "boardName": "Affirm",
+      "verified": "board is named \"Affirm\""
+    },
+    {
+      "type": "ashby",
+      "token": "nubank",
+      "label": "Nubank",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 99,
+      "lane": 4,
+      "laneTitles": [
+        "Community-Led Growth Senior Specialist",
+        "Product Marketing Manager ",
+        "Consumer Compliance Lead - Product Advisory & Testing",
+        "Chief of Staff to the CEO"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "monzo",
+      "label": "Monzo",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 68,
+      "lane": 7,
+      "laneTitles": [
+        "Lead Product Manager, Growth",
+        "Product Manager, Finance",
+        "Product Marketing Lead",
+        "Senior Growth Marketing Executive, Business Banking EU",
+        "Senior Product Manager, Web Growth"
+      ],
+      "boardName": "Monzo",
+      "verified": "board is named \"Monzo\""
+    },
+    {
+      "type": "ashby",
+      "token": "airwallex",
+      "label": "Airwallex",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 505,
+      "lane": 95,
+      "laneTitles": [
+        "Head of SME & Growth, Canada",
+        "Staff Product Manager, Card Schemes",
+        "GTM Partnerships Manager, Canada",
+        "Senior Product Manager, AI Risk & Onboarding",
+        "Staff/Senior Product Manager (0-1 Billing)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "adyen",
+      "label": "Adyen",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 241,
+      "lane": 23,
+      "laneTitles": [
+        "Compliance Advisory Officer",
+        "Customer Engagement & Industry Advocacy – Europe",
+        "Group Product Manager, APAC [Head of Products, APAC]",
+        "Group Product Manager – Fraud Intelligence",
+        "GTM Operations Manager"
+      ],
+      "boardName": "Adyen",
+      "verified": "board is named \"Adyen\""
+    },
+    {
+      "type": "gh",
+      "token": "lithic",
+      "label": "Lithic",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 11,
+      "lane": 1,
+      "laneTitles": [
+        "Business Operations Associate, Program Management"
+      ],
+      "boardName": "Lithic",
+      "verified": "board is named \"Lithic\""
+    },
+    {
+      "type": "ashby",
+      "token": "cardless",
+      "label": "Cardless",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 15,
+      "lane": 4,
+      "laneTitles": [
+        "Lead Product Manager - Risk & Fraud",
+        "Lead Product Manager -  Ledger",
+        "Director, Product Marketing",
+        "Manager, Partner Growth"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "upgrade",
+      "label": "Upgrade",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 30,
+      "lane": 5,
+      "laneTitles": [
+        "Director, Product Management - Personal Loans Growth",
+        "Principal Product Manager - Personal Loans Growth",
+        "Product Manager, Operations",
+        "Senior Collections Strategy Analyst",
+        "Senior Product Manager, Home Improvement"
+      ],
+      "boardName": "Upgrade",
+      "verified": "board is named \"Upgrade\""
+    },
+    {
+      "type": "gh",
+      "token": "range",
+      "label": "Range",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 5,
+      "lane": 1,
+      "laneTitles": [
+        "Senior Product Manager"
+      ],
+      "boardName": "Range",
+      "verified": "board is named \"Range\""
+    },
+    {
+      "type": "gh",
+      "token": "alphasense",
+      "label": "AlphaSense",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 209,
+      "lane": 19,
+      "laneTitles": [
+        "Account Manager, Consulting & Professional Services",
+        "Director, Corporate Sales - Consulting",
+        "Director, Product Marketing – Premium Content & Data",
+        "Director, Strategic Growth Sales (Financial Services) ",
+        "Pod Leader, Consulting"
+      ],
+      "boardName": "AlphaSense",
+      "verified": "board is named \"AlphaSense\""
+    },
+    {
+      "type": "ashby",
+      "token": "lemonade",
+      "label": "Lemonade",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 40,
+      "lane": 11,
+      "laneTitles": [
+        "Senior Growth Product Manager",
+        "Senior Product Manager - Claims Experience",
+        "Insurance Product Manager, Car",
+        "Product Marketing Leader",
+        "Senior Product Manager, Growth Platform"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "openly",
+      "label": "Openly",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 7,
+      "lane": 1,
+      "laneTitles": [
+        "Regional Insurance Product Manager (Remote, US)"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "sigmacomputing",
+      "label": "Sigma Computing",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 77,
+      "lane": 5,
+      "laneTitles": [
+        "Director of Product Marketing, AI",
+        "GTM Compensation Manager",
+        "GTM Sales Sourcer",
+        "Senior/Group Product Manager, AI Ecosystem & Semantic Layer",
+        "Sr. Product Marketing Manager, Sigma Apps"
+      ],
+      "boardName": "Sigma Computing",
+      "verified": "board is named \"Sigma Computing\""
+    },
+    {
+      "type": "ashby",
+      "token": "hex",
+      "label": "Hex",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 37,
+      "lane": 3,
+      "laneTitles": [
+        "Product Manager (SF)",
+        "Product Manager (NYC)",
+        "Growth Marketing Manager - Paid Marketing"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "fivetran",
+      "label": "Fivetran",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 162,
+      "lane": 14,
+      "laneTitles": [
+        "GTM Strategy & Planning Manager",
+        "GTM Strategy & Planning Manager",
+        "GTM Strategy & Planning Manager",
+        "GTM Strategy & Planning Manager",
+        "Product Manager - Integrations "
+      ],
+      "boardName": "Fivetran ",
+      "verified": "board is named \"Fivetran \""
+    },
+    {
+      "type": "gh",
+      "token": "datadog",
+      "label": "Datadog",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 393,
+      "lane": 20,
+      "laneTitles": [
+        "Group Product Manager - Bring Your Own Cloud",
+        "Group Product Manager - Code Security",
+        "GTM Strategy/Operations Associate",
+        "GTM Strategy/Operations Associate - New York",
+        "GTM Strategy & Operations Senior Associate"
+      ],
+      "boardName": "Datadog",
+      "verified": "board is named \"Datadog\""
+    },
+    {
+      "type": "gh",
+      "token": "mongodb",
+      "label": "MongoDB",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 368,
+      "lane": 32,
+      "laneTitles": [
+        "Director, Chief of Staff",
+        " Director of Customer Marketing & Advocacy",
+        "Engagement Manager",
+        "Engagement Manager (Services Sales)",
+        "Engagement Manager (Services Sales)"
+      ],
+      "boardName": "MongoDB",
+      "verified": "board is named \"MongoDB\""
+    },
+    {
+      "type": "ashby",
+      "token": "uipath",
+      "label": "UiPath",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 102,
+      "lane": 5,
+      "laneTitles": [
+        "Chief of Staff, GTM Americas",
+        "Principal Product Manager",
+        "Product Manager, Agentic Orchestration & Automation",
+        "Director, Strategic Initiatives - Office of the CEO",
+        "Principal Product Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "figma",
+      "label": "Figma",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 140,
+      "lane": 12,
+      "laneTitles": [
+        "Executive Assistant, Growth Marketing",
+        "Manager, Solutions Consulting",
+        "Product Manager, Acquisition",
+        "Product Manager, AI Growth",
+        "Product Manager, Figma Pattern Library "
+      ],
+      "boardName": "Figma",
+      "verified": "board is named \"Figma\""
+    },
+    {
+      "type": "ashby",
+      "token": "oyster",
+      "label": "Oyster",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 22,
+      "lane": 3,
+      "laneTitles": [
+        "Lead Product Manager",
+        "Business Manager, Go-to-Market",
+        "Senior Integrated Campaign Manager"
+      ],
+      "boardName": null,
+      "verified": "token is the stem of the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "gusto",
+      "label": "Gusto",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 89,
+      "lane": 9,
+      "laneTitles": [
+        "Principal Product Manager, Business Money – SMB Banking",
+        "Principal Product Manager, Consumer Money - Consumer Banking",
+        "Principal Product Manager, Payroll Platform",
+        "Principal Product Manager, Unified Service Platform ",
+        "Product Marketing Leader - Innovation & Experimentation"
+      ],
+      "boardName": "Gusto, Inc.",
+      "verified": "board is named \"Gusto, Inc.\""
+    },
+    {
+      "type": "lever",
+      "token": "spotify",
+      "label": "Spotify",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 89,
+      "lane": 15,
+      "laneTitles": [
+        "Growth Lead - Japan",
+        "Principal Product Manager - Audio and Media Playback",
+        "Principal Product Manager - Content Platform",
+        "Principal Product Manager - Core Experience Platform",
+        "Principal Product Manager - Format Foundations"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "ashby",
+      "token": "substack",
+      "label": "Substack",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 16,
+      "lane": 3,
+      "laneTitles": [
+        "Product Analyst",
+        "Product Manager - Sponsorships",
+        "Product Manager - Payments"
+      ],
+      "boardName": null,
+      "verified": "token is the company domain"
+    },
+    {
+      "type": "gh",
+      "token": "discord",
+      "label": "Discord",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 46,
+      "lane": 2,
+      "laneTitles": [
+        "Group Product Manager, Data/ML",
+        "Senior Product Design Manager, Growth"
+      ],
+      "boardName": "Discord",
+      "verified": "board is named \"Discord\""
+    },
+    {
+      "type": "gh",
+      "token": "timeleft",
+      "label": "Timeleft",
+      "yc": false,
+      "batch": "NYC",
+      "teamSize": null,
+      "location": "New York, NY, USA",
+      "industry": "",
+      "oneLiner": "",
+      "total": 1,
+      "lane": 1,
+      "laneTitles": [
+        "Growth Product Manager"
+      ],
+      "boardName": "Timeleft",
+      "verified": "board is named \"Timeleft\""
+    }
+  ],
+  "liveNoLane": [
+    {
+      "type": "ashby",
+      "token": "rescale",
+      "label": "Rescale"
+    },
+    {
+      "type": "ashby",
+      "token": "padlet",
+      "label": "Padlet"
+    },
+    {
+      "type": "ashby",
+      "token": "influxdata",
+      "label": "InfluxData"
+    },
+    {
+      "type": "gh",
+      "token": "radar",
+      "label": "RADAR"
+    },
+    {
+      "type": "gh",
+      "token": "tempo",
+      "label": "Tempo"
+    },
+    {
+      "type": "lever",
+      "token": "mashgin",
+      "label": "Mashgin"
+    },
+    {
+      "type": "ashby",
+      "token": "reach",
+      "label": "Reach"
+    },
+    {
+      "type": "ashby",
+      "token": "castle",
+      "label": "Castle"
+    },
+    {
+      "type": "gh",
+      "token": "sendbird",
+      "label": "Sendbird"
+    },
+    {
+      "type": "gh",
+      "token": "astranis",
+      "label": "Astranis"
+    },
+    {
+      "type": "ashby",
+      "token": "onechronos",
+      "label": "OneChronos"
+    },
+    {
+      "type": "gh",
+      "token": "legalist",
+      "label": "Legalist"
+    },
+    {
+      "type": "lever",
+      "token": "skyways",
+      "label": "Skyways"
+    },
+    {
+      "type": "lever",
+      "token": "vergesense",
+      "label": "VergeSense"
+    },
+    {
+      "type": "ashby",
+      "token": "upcodes",
+      "label": "UpCodes"
+    },
+    {
+      "type": "ashby",
+      "token": "prelim",
+      "label": "Prelim"
+    },
+    {
+      "type": "gh",
+      "token": "maymobility",
+      "label": "May Mobility"
+    },
+    {
+      "type": "ashby",
+      "token": "spellbrush",
+      "label": "Spellbrush"
+    },
+    {
+      "type": "ashby",
+      "token": "assembly",
+      "label": "Assembly"
+    },
+    {
+      "type": "ashby",
+      "token": "promise",
+      "label": "Promise"
+    },
+    {
+      "type": "gh",
+      "token": "meruhealth",
+      "label": "Meru Health"
+    },
+    {
+      "type": "ashby",
+      "token": "overview",
+      "label": "Overview"
+    },
+    {
+      "type": "ashby",
+      "token": "golinks",
+      "label": "GoLinks"
+    },
+    {
+      "type": "gh",
+      "token": "nabis",
+      "label": "Nabis"
+    },
+    {
+      "type": "ashby",
+      "token": "probablygenetic",
+      "label": "Probably Genetic"
+    },
+    {
+      "type": "ashby",
+      "token": "bunkerhillhealth",
+      "label": "Bunkerhill Health"
+    },
+    {
+      "type": "lever",
+      "token": "voltalabs",
+      "label": "Volta Labs, Inc."
+    },
+    {
+      "type": "ashby",
+      "token": "atlas",
+      "label": "Atlas"
+    },
+    {
+      "type": "gh",
+      "token": "odeko",
+      "label": "Odeko"
+    },
+    {
+      "type": "ashby",
+      "token": "shortstory",
+      "label": "Short Story"
+    },
+    {
+      "type": "gh",
+      "token": "pairteam",
+      "label": "Pair Team"
+    },
+    {
+      "type": "ashby",
+      "token": "freshpaint",
+      "label": "Freshpaint"
+    },
+    {
+      "type": "ashby",
+      "token": "wonderly",
+      "label": "Wonderly"
+    },
+    {
+      "type": "lever",
+      "token": "handoff",
+      "label": "Handoff"
+    },
+    {
+      "type": "ashby",
+      "token": "benepass",
+      "label": "Benepass"
+    },
+    {
+      "type": "gh",
+      "token": "generalproximity",
+      "label": "General Proximity"
+    },
+    {
+      "type": "ashby",
+      "token": "posthog",
+      "label": "PostHog"
+    },
+    {
+      "type": "lever",
+      "token": "postera",
+      "label": "PostEra"
+    },
+    {
+      "type": "ashby",
+      "token": "datafold",
+      "label": "Datafold"
+    },
+    {
+      "type": "ashby",
+      "token": "blissway",
+      "label": "Blissway"
+    },
+    {
+      "type": "lever",
+      "token": "doola",
+      "label": "doola"
+    },
+    {
+      "type": "ashby",
+      "token": "atomic",
+      "label": "Atomic"
+    },
+    {
+      "type": "ashby",
+      "token": "glimpse",
+      "label": "Glimpse"
+    },
+    {
+      "type": "ashby",
+      "token": "runway",
+      "label": "Runway"
+    },
+    {
+      "type": "ashby",
+      "token": "atomic",
+      "label": "Atomic Industries"
+    },
+    {
+      "type": "ashby",
+      "token": "authzed",
+      "label": "authzed"
+    },
+    {
+      "type": "gh",
+      "token": "albedo",
+      "label": "Albedo"
+    },
+    {
+      "type": "ashby",
+      "token": "popl",
+      "label": "Popl"
+    },
+    {
+      "type": "ashby",
+      "token": "liveflow",
+      "label": "LiveFlow"
+    },
+    {
+      "type": "ashby",
+      "token": "quicknode",
+      "label": "Quicknode"
+    },
+    {
+      "type": "ashby",
+      "token": "slope",
+      "label": "Slope"
+    },
+    {
+      "type": "ashby",
+      "token": "serifhealth",
+      "label": "Serif Health"
+    },
+    {
+      "type": "ashby",
+      "token": "double",
+      "label": "Double"
+    },
+    {
+      "type": "ashby",
+      "token": "oneschema",
+      "label": "OneSchema"
+    },
+    {
+      "type": "ashby",
+      "token": "invert",
+      "label": "Invert"
+    },
+    {
+      "type": "ashby",
+      "token": "mintlify",
+      "label": "Mintlify"
+    },
+    {
+      "type": "ashby",
+      "token": "govdash",
+      "label": "GovDash"
+    },
+    {
+      "type": "ashby",
+      "token": "quindar",
+      "label": "Quindar"
+    },
+    {
+      "type": "gh",
+      "token": "axle",
+      "label": "Axle"
+    },
+    {
+      "type": "ashby",
+      "token": "rollstack",
+      "label": "Rollstack"
+    },
+    {
+      "type": "ashby",
+      "token": "numeral",
+      "label": "Numeral"
+    },
+    {
+      "type": "ashby",
+      "token": "vooma",
+      "label": "Vooma"
+    },
+    {
+      "type": "ashby",
+      "token": "pirros",
+      "label": "Pirros"
+    },
+    {
+      "type": "ashby",
+      "token": "inkeep",
+      "label": "Inkeep"
+    },
+    {
+      "type": "ashby",
+      "token": "conduit",
+      "label": "Conduit"
+    },
+    {
+      "type": "ashby",
+      "token": "vector",
+      "label": "Vector"
+    },
+    {
+      "type": "ashby",
+      "token": "metal",
+      "label": "Metal"
+    },
+    {
+      "type": "ashby",
+      "token": "litellm",
+      "label": "LiteLLM"
+    },
+    {
+      "type": "ashby",
+      "token": "artie",
+      "label": "Artie"
+    },
+    {
+      "type": "ashby",
+      "token": "bland",
+      "label": "Bland AI"
+    },
+    {
+      "type": "ashby",
+      "token": "casca",
+      "label": "Casca"
+    },
+    {
+      "type": "ashby",
+      "token": "brettonai",
+      "label": "Bretton AI"
+    },
+    {
+      "type": "ashby",
+      "token": "syntheticfi",
+      "label": "SyntheticFi"
+    },
+    {
+      "type": "ashby",
+      "token": "pointone",
+      "label": "PointOne"
+    },
+    {
+      "type": "ashby",
+      "token": "arini",
+      "label": "Arini"
+    },
+    {
+      "type": "ashby",
+      "token": "greenboard",
+      "label": "Greenboard"
+    },
+    {
+      "type": "ashby",
+      "token": "conduit",
+      "label": "Conduit"
+    },
+    {
+      "type": "ashby",
+      "token": "offdeal",
+      "label": "OffDeal"
+    },
+    {
+      "type": "ashby",
+      "token": "spur",
+      "label": "Spur"
+    },
+    {
+      "type": "ashby",
+      "token": "domu",
+      "label": "Domu Technology Inc."
+    },
+    {
+      "type": "ashby",
+      "token": "claimsorted",
+      "label": "ClaimSorted"
+    },
+    {
+      "type": "ashby",
+      "token": "anthrogen",
+      "label": "Anthrogen"
+    },
+    {
+      "type": "gh",
+      "token": "weave",
+      "label": "Weave"
+    },
+    {
+      "type": "ashby",
+      "token": "salespatriot",
+      "label": "SalesPatriot"
+    },
+    {
+      "type": "gh",
+      "token": "attentive",
+      "label": "Attentive"
+    },
+    {
+      "type": "ashby",
+      "token": "attention",
+      "label": "Attention"
+    },
+    {
+      "type": "gh",
+      "token": "ramp",
+      "label": "Ramp"
+    },
+    {
+      "type": "gh",
+      "token": "current",
+      "label": "Current"
+    },
+    {
+      "type": "ashby",
+      "token": "ocrolus",
+      "label": "Ocrolus"
+    },
+    {
+      "type": "gh",
+      "token": "melio",
+      "label": "Melio"
+    },
+    {
+      "type": "gh",
+      "token": "public",
+      "label": "Public"
+    },
+    {
+      "type": "gh",
+      "token": "fireblocks",
+      "label": "Fireblocks"
+    },
+    {
+      "type": "gh",
+      "token": "clearstreet",
+      "label": "Clear Street"
+    },
+    {
+      "type": "ashby",
+      "token": "getsquire",
+      "label": "Squire"
+    },
+    {
+      "type": "lever",
+      "token": "fundrise",
+      "label": "Fundrise"
+    },
+    {
+      "type": "gh",
+      "token": "underdog",
+      "label": "Underdog"
+    },
+    {
+      "type": "ashby",
+      "token": "sleeper",
+      "label": "Sleeper"
+    },
+    {
+      "type": "gh",
+      "token": "ritual",
+      "label": "Ritual"
+    },
+    {
+      "type": "ashby",
+      "token": "cedar",
+      "label": "Cedar"
+    },
+    {
+      "type": "lever",
+      "token": "olo",
+      "label": "Olo"
+    },
+    {
+      "type": "gh",
+      "token": "blankstreet",
+      "label": "Blank Street"
+    },
+    {
+      "type": "ashby",
+      "token": "away",
+      "label": "Away"
+    },
+    {
+      "type": "ashby",
+      "token": "tonal",
+      "label": "Tonal"
+    },
+    {
+      "type": "lever",
+      "token": "latch",
+      "label": "Latch"
+    },
+    {
+      "type": "ashby",
+      "token": "sonder",
+      "label": "Sonder"
+    },
+    {
+      "type": "gh",
+      "token": "airtable",
+      "label": "Airtable"
+    },
+    {
+      "type": "ashby",
+      "token": "hightouch",
+      "label": "Hightouch"
+    },
+    {
+      "type": "gh",
+      "token": "salesloft",
+      "label": "Salesloft"
+    },
+    {
+      "type": "gh",
+      "token": "regie",
+      "label": "Regie.ai"
+    },
+    {
+      "type": "gh",
+      "token": "hootsuite",
+      "label": "Hootsuite"
+    },
+    {
+      "type": "gh",
+      "token": "grin",
+      "label": "Grin"
+    },
+    {
+      "type": "gh",
+      "token": "highnote",
+      "label": "Highnote"
+    },
+    {
+      "type": "ashby",
+      "token": "imprint",
+      "label": "Imprint"
+    },
+    {
+      "type": "ashby",
+      "token": "clerk",
+      "label": "Clerk"
+    },
+    {
+      "type": "ashby",
+      "token": "patreon",
+      "label": "Patreon"
+    },
+    {
+      "type": "lever",
+      "token": "raya",
+      "label": "Raya"
+    },
+    {
+      "type": "ashby",
+      "token": "partiful",
+      "label": "Partiful"
+    }
+  ],
+  "unverified": [
+    {
+      "type": "ashby",
+      "token": "magic",
+      "label": "Magic",
+      "boardName": null,
+      "lane": 1
+    },
+    {
+      "type": "gh",
+      "token": "porter",
+      "label": "Porter",
+      "boardName": "Porter Works",
+      "lane": 0
+    },
+    {
+      "type": "gh",
+      "token": "haven",
+      "label": "Haven",
+      "boardName": "Haven Interactive Studios",
+      "lane": 0
+    },
+    {
+      "type": "gh",
+      "token": "recall",
+      "label": "Recall.ai",
+      "boardName": "Recall Labs",
+      "lane": 0
+    },
+    {
+      "type": "ashby",
+      "token": "finch",
+      "label": "Finch",
+      "boardName": null,
+      "lane": 0
+    },
+    {
+      "type": "gh",
+      "token": "parallel",
+      "label": "Parallel Bio",
+      "boardName": "Parallel Systems",
+      "lane": 0
+    },
+    {
+      "type": "ashby",
+      "token": "aleph",
+      "label": "Aleph",
+      "boardName": null,
+      "lane": 2
+    },
+    {
+      "type": "gh",
+      "token": "agency",
+      "label": "Agency",
+      "boardName": "Meridial",
+      "lane": 1
+    },
+    {
+      "type": "ashby",
+      "token": "pylon",
+      "label": "Pylon",
+      "boardName": null,
+      "lane": 1
+    },
+    {
+      "type": "gh",
+      "token": "momentic",
+      "label": "Momentic",
+      "boardName": "Momentic Studios",
+      "lane": 0
+    },
+    {
+      "type": "gh",
+      "token": "pulse",
+      "label": "Pulse",
+      "boardName": "Pulse Healthcare",
+      "lane": 382
+    },
+    {
+      "type": "gh",
+      "token": "abnormalsecurity",
+      "label": "Abnormal Security",
+      "boardName": "Abnormal",
+      "lane": 5
+    },
+    {
+      "type": "gh",
+      "token": "calm",
+      "label": "Calm",
+      "boardName": "Calm.com",
+      "lane": 0
+    },
+    {
+      "type": "gh",
+      "token": "foratravel",
+      "label": "Fora Travel",
+      "boardName": "Fora",
+      "lane": 4
+    },
+    {
+      "type": "gh",
+      "token": "oura",
+      "label": "Oura",
+      "boardName": "Ōura",
+      "lane": 15
+    },
+    {
+      "type": "gh",
+      "token": "intercom",
+      "label": "Intercom",
+      "boardName": "Fin",
+      "lane": 14
+    },
+    {
+      "type": "gh",
+      "token": "chime",
+      "label": "Chime",
+      "boardName": "Chime Financial, Inc",
+      "lane": 11
+    },
+    {
+      "type": "gh",
+      "token": "wise",
+      "label": "Wise",
+      "boardName": "Wise Worksite Field Sales ",
+      "lane": 0
+    },
+    {
+      "type": "gh",
+      "token": "ethoslife",
+      "label": "Ethos",
+      "boardName": "Ethos Life",
+      "lane": 9
+    }
+  ]
+}
