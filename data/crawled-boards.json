@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-09T05:04:00.891Z",
+ "generated": "2026-11-09T05:06:45.687Z",
  "companies": 7313,
  "status": {
-  "found": 1633,
-  "no-ats": 4415,
+  "found": 1634,
+  "no-ats": 4411,
   "down": 983,
-  "site": 282
+  "site": 285
  },
  "byType": {
   "dover": 7,
-  "ashby": 601,
+  "ashby": 602,
   "lever": 147,
   "gh": 496,
   "gem": 57,
@@ -4598,6 +4598,15 @@
    "label": "AgentMail",
    "website": "agentmail.to",
    "page": "https://www.agentmail.to/careers",
+   "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "Verne",
+   "url": "jobs.ashbyhq.com/Verne",
+   "label": "Verne Robotics",
+   "website": "vernerobotics.com",
+   "page": "https://vernerobotics.com/",
    "src": "yc"
   },
   {
@@ -20591,6 +20600,48 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
    "crawledAt": 1794200637420
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/humwork/jobs/9V8MtEV-founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Humwork",
+   "website": "humwork.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/humwork/jobs",
+   "crawledAt": 1794200752819
+  },
+  {
+   "title": "Generalist Engineer, AI Advertising Infra",
+   "url": "https://www.ycombinator.com/companies/imprezia/jobs/iyluJ8y-generalist-engineer-ai-advertising-infra",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Imprezia",
+   "website": "imprezia.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/imprezia/jobs",
+   "crawledAt": 1794200784757
+  },
+  {
+   "title": "Software Engineer - Full Stack",
+   "url": "https://docs.pangolin.net/careers/software-engineer-full-stack",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Pangolin",
+   "website": "pangolin.net",
+   "src": "yc",
+   "page": "https://docs.pangolin.net/careers/join-us",
+   "crawledAt": 1794200794072
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
