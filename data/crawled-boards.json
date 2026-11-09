@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-09T01:54:10.881Z",
+ "generated": "2026-11-09T01:58:26.479Z",
  "companies": 7280,
  "status": {
-  "found": 1611,
-  "no-ats": 4532,
+  "found": 1613,
+  "no-ats": 4530,
   "down": 983,
   "site": 154
  },
  "byType": {
   "dover": 7,
-  "ashby": 599,
+  "ashby": 600,
   "lever": 146,
   "gh": 496,
   "gem": 57,
   "workable": 105,
   "rippling": 94,
-  "bamboohr": 82,
+  "bamboohr": 83,
   "smartrecruiters": 9,
   "recruitee": 14,
   "workday": 88
@@ -13438,6 +13438,14 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "telus-digital",
+   "label": "WillowTree",
+   "website": "willowtreeapps.com",
+   "page": "https://www.telusdigital.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "with-intelligence",
    "label": "With Intelligence",
@@ -13483,6 +13491,14 @@
    "label": "YeagerAI",
    "website": "yeager.ai",
    "page": "https://navi5520c20d3894.wpcomstaging.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "yaylunch",
+   "label": "Yay Lunch",
+   "website": "yaylunch.com",
+   "page": "https://www.yaylunch.com/jobs",
    "src": "nyc"
   },
   {
