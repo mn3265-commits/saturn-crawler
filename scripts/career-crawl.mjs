@@ -91,7 +91,7 @@ async function get(url) {
       if (r2?.ok) { const t = await r2.text(); return { url: r2.url, html: t.slice(0, 6e6) }; } }
     if (!r.ok) return null; const t = await r.text(); return { url: r.url, html: t.slice(0, 6e6) }; } catch { return null; }
 }
-async function crawl(site) {
+export async function crawl(site) {
   const home = await get(site); if (!home) return { status: 'down', boards: [] };
   let boards = atsLinks(home.html), pages = [home.url]; const htmls = [[home.url, home.html]];
   const next = [new URL('/careers', home.url).href, new URL('/jobs', home.url).href, ...careerLinks(home.html, home.url).filter(u => !/\?.{40,}/.test(u))];
