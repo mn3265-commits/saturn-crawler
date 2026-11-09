@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T05:09:09.785Z",
+ "generated": "2026-11-09T05:12:13.594Z",
  "companies": 7313,
  "status": {
   "found": 1634,
-  "no-ats": 4405,
+  "no-ats": 4403,
   "down": 983,
-  "site": 291
+  "site": 293
  },
  "byType": {
   "dover": 7,
@@ -20830,6 +20830,78 @@
    "src": "yc",
    "page": "https://manufact.com/company",
    "crawledAt": 1794200949654
+  },
+  {
+   "title": "Sales enablement",
+   "url": "https://www.quotain.com/roles/sales-enablement",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Quotain",
+   "website": "quotain.com",
+   "src": "yc",
+   "page": "https://www.quotain.com/",
+   "crawledAt": 1794201052926
+  },
+  {
+   "title": "Sales leaders",
+   "url": "https://www.quotain.com/roles/sales-leaders",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Quotain",
+   "website": "quotain.com",
+   "src": "yc",
+   "page": "https://www.quotain.com/",
+   "crawledAt": 1794201052926
+  },
+  {
+   "title": "Sales managers",
+   "url": "https://www.quotain.com/roles/sales-managers",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Quotain",
+   "website": "quotain.com",
+   "src": "yc",
+   "page": "https://www.quotain.com/",
+   "crawledAt": 1794201052926
+  },
+  {
+   "title": "Sales reps",
+   "url": "https://www.quotain.com/roles/sales-reps",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Quotain",
+   "website": "quotain.com",
+   "src": "yc",
+   "page": "https://www.quotain.com/",
+   "crawledAt": 1794201052926
+  },
+  {
+   "title": "Network Systems Engineer",
+   "url": "https://efference.ai/careers/wireless-networking-engineer/",
+   "datePosted": "2026-10-19",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Efference",
+   "website": "efference.ai",
+   "src": "yc",
+   "page": "https://efference.ai/careers/wireless-networking-engineer/",
+   "crawledAt": 1794201133453
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
