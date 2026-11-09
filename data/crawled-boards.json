@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T08:37:08.767Z",
+ "generated": "2026-11-09T08:40:47.235Z",
  "companies": 7508,
  "status": {
   "found": 1722,
   "down": 986,
-  "no-ats": 4122,
-  "site": 678
+  "no-ats": 4117,
+  "site": 683
  },
  "byType": {
   "dover": 7,
@@ -61755,6 +61755,34 @@
    "crawledAt": 1794158799563
   },
   {
+   "title": "iOS Developer",
+   "url": "https://www.qure.ai/us/events/qurecareer#ios-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Qure AI",
+   "website": "qure.ai",
+   "src": "nyc",
+   "page": "https://www.qure.ai/us/events/qurecareer",
+   "crawledAt": 1794213501708
+  },
+  {
+   "title": "Site Reliability Engineer",
+   "url": "https://www.qure.ai/us/events/qurecareer#site-reliability-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Qure AI",
+   "website": "qure.ai",
+   "src": "nyc",
+   "page": "https://www.qure.ai/us/events/qurecareer",
+   "crawledAt": 1794213501708
+  },
+  {
    "title": "Head of People",
    "url": "https://app.zookeep.com/career/Recursive/head-of-people-10122",
    "datePosted": null,
@@ -61815,6 +61843,34 @@
    "crawledAt": 1794186715563
   },
   {
+   "title": "Telephone Operator cum Customer Care Executive",
+   "url": "https://reliable.co.in/RW.HomeV1.Careers.aspx#telephone-operator-cum-customer-care-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Reliable Software",
+   "website": "reliable.co.in",
+   "src": "nyc",
+   "page": "https://reliable.co.in/RW.HomeV1.Careers.aspx",
+   "crawledAt": 1794213559645
+  },
+  {
+   "title": "Studio Manager",
+   "url": "https://www.restore.com/careers#studio-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Restore Hyper Wellness",
+   "website": "restore.com",
+   "src": "nyc",
+   "page": "https://www.restore.com/careers",
+   "crawledAt": 1794213566752
+  },
+  {
    "title": "Data Analyst Research Remote Apply now",
    "url": "https://www.reveliolabs.com/careers/87704391-8f54-4d51-817d-afd710d485fb",
    "datePosted": null,
@@ -61873,6 +61929,90 @@
    "src": "nyc",
    "page": "https://www.infinity.co/uk/about/career-hub",
    "crawledAt": 1794158808067
+  },
+  {
+   "title": "Community Lead",
+   "url": "https://www.rowy.io/jobs#community-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rowy",
+   "website": "rowy.io",
+   "src": "nyc",
+   "page": "https://www.rowy.io/jobs",
+   "crawledAt": 1794213606338
+  },
+  {
+   "title": "Product / Software Engineer",
+   "url": "https://www.rowy.io/jobs#product-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rowy",
+   "website": "rowy.io",
+   "src": "nyc",
+   "page": "https://www.rowy.io/jobs",
+   "crawledAt": 1794213606338
+  },
+  {
+   "title": "Part Time Program Manager - St. Margaret Mary School",
+   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-st-margaret-mary-school",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "text",
+   "company": "Right at School",
+   "website": "rightatschool.com",
+   "src": "nyc",
+   "page": "https://rightatschool.sensehq.cloud/jobs",
+   "crawledAt": 1794213616737
+  },
+  {
+   "title": "Part Time Program Manager - Hillsboro School District",
+   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-hillsboro-school-district",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "text",
+   "company": "Right at School",
+   "website": "rightatschool.com",
+   "src": "nyc",
+   "page": "https://rightatschool.sensehq.cloud/jobs",
+   "crawledAt": 1794213616737
+  },
+  {
+   "title": "Part Time Program Manager - Penn-Trafford School District",
+   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-penn-trafford-school-district",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "text",
+   "company": "Right at School",
+   "website": "rightatschool.com",
+   "src": "nyc",
+   "page": "https://rightatschool.sensehq.cloud/jobs",
+   "crawledAt": 1794213616737
+  },
+  {
+   "title": "Part-Time Before School Site Program Manager",
+   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-before-school-site-program-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "text",
+   "company": "Right at School",
+   "website": "rightatschool.com",
+   "src": "nyc",
+   "page": "https://rightatschool.sensehq.cloud/jobs",
+   "crawledAt": 1794213616737
   },
   {
    "title": "IT Support Specialist",
