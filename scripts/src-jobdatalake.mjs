@@ -6,6 +6,7 @@ export const LANES = [
   { q: 'lifecycle marketing', fn: 'marketing' }, { q: 'CRM', fn: 'marketing' }, { q: 'growth', fn: 'marketing' }, { q: 'growth', fn: 'product' },
   { q: 'product marketing', fn: 'marketing' }, { q: 'product manager', fn: 'product' }, { q: 'strategy operations' }, { q: 'business operations' },
   { q: 'pricing' }, { q: 'chief of staff' }, { q: 'AI transformation' }, { q: 'marketing analytics' },
+  { q: 'growth program' }, { q: 'growth operations' }, { q: 'digital transformation' }, { q: 'technology strategy' }, { q: 'associate program' }, { q: 'January 2027' },
 ];
 const WHERE = [{ location: 'New York', countries: 'US' }, { countries: 'US' }];
 const RESERVE = 100;
