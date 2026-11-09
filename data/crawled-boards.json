@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T07:58:50.618Z",
+ "generated": "2026-11-09T08:02:33.360Z",
  "companies": 7508,
  "status": {
-  "found": 1715,
+  "found": 1716,
   "down": 986,
-  "no-ats": 4204,
-  "site": 603
+  "no-ats": 4199,
+  "site": 607
  },
  "byType": {
   "dover": 7,
@@ -19,7 +19,7 @@
   "bamboohr": 84,
   "smartrecruiters": 11,
   "recruitee": 14,
-  "icims": 32,
+  "icims": 33,
   "oracle": 13,
   "eightfold": 13,
   "successfactors": 2
@@ -10833,6 +10833,15 @@
    "label": "Kilter Group",
    "website": "kiltergroup.com",
    "page": "https://kiltergroup.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
+   "token": "kearnybank",
+   "url": "careers-kearnybank.icims.com",
+   "label": "Kearny Bank",
+   "website": "kearnybank.com",
+   "page": "https://www.kearnybank.com/about-us/careers",
    "src": "nyc"
   },
   {
@@ -53671,6 +53680,104 @@
    "src": "nyc",
    "page": "https://kaizentek.com/news-events/news/ironbound-community-corporation-job-fair",
    "crawledAt": 1794211127263
+  },
+  {
+   "title": "Senior Release / CI Engineer",
+   "url": "https://www.izotope.com/pages/work-with-us#senior-release-ci-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "iZotope",
+   "website": "izotope.com",
+   "src": "nyc",
+   "page": "https://www.izotope.com/pages/work-with-us",
+   "crawledAt": 1794211217042
+  },
+  {
+   "title": "Senior Software Engineer",
+   "url": "https://www.izotope.com/pages/work-with-us#senior-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "iZotope",
+   "website": "izotope.com",
+   "src": "nyc",
+   "page": "https://www.izotope.com/pages/work-with-us",
+   "crawledAt": 1794211217042
+  },
+  {
+   "title": "President and Chief Operating Officer",
+   "url": "https://www.kleintools.com/careers/leadership#president-and-chief-operating-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Klein Tools",
+   "website": "kleintools.com",
+   "src": "nyc",
+   "page": "https://www.kleintools.com/careers/benefits",
+   "crawledAt": 1794211261758
+  },
+  {
+   "title": "Compose in a beautiful web-based editor",
+   "url": "https://laterpress.com/jobs#compose-in-a-beautiful-web-based-editor",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Laterpress",
+   "website": "laterpress.com",
+   "src": "nyc",
+   "page": "https://laterpress.com/jobs",
+   "crawledAt": 1794211301074
+  },
+  {
+   "title": "Corporate Management Analyst",
+   "url": "https://landa.app/careers/#corporate-management-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Landa",
+   "website": "landa.app",
+   "src": "nyc",
+   "page": "https://landa.app/jobs",
+   "crawledAt": 1794211305824
+  },
+  {
+   "title": "Full Stack Engineer",
+   "url": "https://landa.app/careers/#full-stack-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Landa",
+   "website": "landa.app",
+   "src": "nyc",
+   "page": "https://landa.app/jobs",
+   "crawledAt": 1794211305824
+  },
+  {
+   "title": "Customer Service Specialist",
+   "url": "https://landa.app/careers/#customer-service-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Landa",
+   "website": "landa.app",
+   "src": "nyc",
+   "page": "https://landa.app/jobs",
+   "crawledAt": 1794211305824
   },
   {
    "title": "Engagement Manager",
