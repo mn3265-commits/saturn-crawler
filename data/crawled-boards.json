@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:15:54.679Z",
+ "generated": "2026-11-09T03:18:51.231Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4487,
+  "no-ats": 4485,
   "down": 983,
-  "site": 195
+  "site": 197
  },
  "byType": {
   "dover": 7,
@@ -16216,6 +16216,66 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
    "crawledAt": 1794194124372
+  },
+  {
+   "title": "Backend Engineer",
+   "url": "https://www.ycombinator.com/companies/dart/jobs/fY0s284-backend-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Dart",
+   "website": "dartai.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/dart/jobs",
+   "crawledAt": 1794194220426
+  },
+  {
+   "title": "Frontend Engineer",
+   "url": "https://www.ycombinator.com/companies/dart/jobs/AMpkzCj-frontend-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Dart",
+   "website": "dartai.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/dart/jobs",
+   "crawledAt": 1794194220426
+  },
+  {
+   "title": "Wealth & Investment Advisor — AI Product Consultant",
+   "url": "https://www.ycombinator.com/companies/goodfin/jobs/ElnnH2M-wealth-investment-advisor-ai-product-consultant",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "goodfin",
+   "website": "goodfin.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/goodfin/jobs",
+   "crawledAt": 1794194286286
+  },
+  {
+   "title": "AI Engineer",
+   "url": "https://www.ycombinator.com/companies/goodfin/jobs/2nt2lZN-ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "goodfin",
+   "website": "goodfin.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/goodfin/jobs",
+   "crawledAt": 1794194286286
+  },
+  {
+   "title": "Staff AI Engineer",
+   "url": "https://www.ycombinator.com/companies/goodfin/jobs/TWZ9MRF-staff-ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "goodfin",
+   "website": "goodfin.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/goodfin/jobs",
+   "crawledAt": 1794194286286
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
