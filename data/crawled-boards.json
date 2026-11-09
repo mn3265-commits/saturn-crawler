@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-09T00:39:15.098Z",
+ "generated": "2026-11-09T01:12:55.745Z",
  "companies": 7280,
  "status": {
-  "found": 1581,
-  "no-ats": 4568,
+  "found": 1583,
+  "no-ats": 4565,
   "down": 983,
-  "site": 148
+  "site": 149
  },
  "byType": {
   "dover": 7,
   "ashby": 598,
-  "lever": 139,
+  "lever": 140,
   "gh": 490,
   "gem": 56,
   "workable": 103,
-  "rippling": 89,
+  "rippling": 91,
   "bamboohr": 75,
   "smartrecruiters": 8,
   "recruitee": 13,
@@ -11942,6 +11942,14 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "radformation",
+   "label": "Radformation",
+   "website": "radformation.com",
+   "page": "https://www.radformation.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "raptive",
    "label": "Raptive",
@@ -12019,6 +12027,22 @@
    "label": "Relay Commerce",
    "website": "relaycommerce.io",
    "page": "https://relaycommerce.io/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "red-antler",
+   "label": "Red Antler",
+   "website": "redantler.com",
+   "page": "https://www.redantler.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "fat-earth",
+   "label": "Red Antler",
+   "website": "redantler.com",
+   "page": "https://www.redantler.com/careers",
    "src": "nyc"
   },
   {
@@ -26735,6 +26759,66 @@
    "src": "nyc",
    "page": "https://www.rag-bone.com/our-company/careers.html",
    "crawledAt": 1794158799563
+  },
+  {
+   "title": "Head of People",
+   "url": "https://app.zookeep.com/career/Recursive/head-of-people-10122",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Recursive",
+   "website": "recursiveai.co.jp",
+   "src": "nyc",
+   "page": "https://recursiveai.co.jp/join-us",
+   "crawledAt": 1794186715563
+  },
+  {
+   "title": "Machine Learning Engineer (FDE)",
+   "url": "https://app.zookeep.com/career/Recursive/machine-learning-engineer-fde-10080",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Recursive",
+   "website": "recursiveai.co.jp",
+   "src": "nyc",
+   "page": "https://recursiveai.co.jp/join-us",
+   "crawledAt": 1794186715563
+  },
+  {
+   "title": "Technical Lead (Bilingual)",
+   "url": "https://app.zookeep.com/career/Recursive/technical-lead-bilingual-10064",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Recursive",
+   "website": "recursiveai.co.jp",
+   "src": "nyc",
+   "page": "https://recursiveai.co.jp/join-us",
+   "crawledAt": 1794186715563
+  },
+  {
+   "title": "Software Engineer (FDE)",
+   "url": "https://app.zookeep.com/career/Recursive/software-engineer-fde-10025",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Recursive",
+   "website": "recursiveai.co.jp",
+   "src": "nyc",
+   "page": "https://recursiveai.co.jp/join-us",
+   "crawledAt": 1794186715563
+  },
+  {
+   "title": "Business Solutions Architect",
+   "url": "https://app.zookeep.com/career/Recursive/business-solutions-architect-10026",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Recursive",
+   "website": "recursiveai.co.jp",
+   "src": "nyc",
+   "page": "https://recursiveai.co.jp/join-us",
+   "crawledAt": 1794186715563
   },
   {
    "title": "Data Analyst Research Remote Apply now",
