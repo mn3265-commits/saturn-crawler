@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-09T06:37:30.076Z",
+ "generated": "2026-11-09T06:40:21.383Z",
  "companies": 7493,
  "status": {
-  "found": 1672,
-  "down": 1032,
-  "no-ats": 4366,
-  "site": 423
+  "found": 1681,
+  "down": 992,
+  "no-ats": 4395,
+  "site": 425
  },
  "byType": {
   "dover": 7,
   "ashby": 606,
-  "workday": 108,
+  "workday": 115,
   "lever": 147,
   "gh": 500,
   "gem": 58,
@@ -20,8 +20,8 @@
   "smartrecruiters": 11,
   "recruitee": 14,
   "eightfold": 10,
-  "icims": 15,
-  "oracle": 4,
+  "icims": 16,
+  "oracle": 7,
   "successfactors": 2
  },
  "boards": [
@@ -13950,6 +13950,24 @@
    "src": "chrome-only"
   },
   {
+   "type": "workday",
+   "token": "aresmgmt.wd1.myworkdayjobs.com",
+   "url": "aresmgmt.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "Ares Management",
+   "website": "aresmgmt.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
+   "token": "cat.wd5.myworkdayjobs.com",
+   "url": "cat.wd5.myworkdayjobs.com/CaterpillarCareers",
+   "site": "CaterpillarCareers",
+   "label": "Caterpillar Inc.",
+   "website": "cat.com",
+   "src": "chrome-only"
+  },
+  {
    "type": "successfactors",
    "token": "aosmith",
    "url": "career8.successfactors.com/career?company=aosmith",
@@ -13966,6 +13984,14 @@
    "label": "Kering",
    "website": "kering.com",
    "page": "https://www.kering.com/en/talent/job-offers/",
+   "src": "chrome-only"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers",
+   "label": "CSX Corporation",
+   "website": "csx.com",
    "src": "chrome-only"
   },
   {
@@ -14020,6 +14046,24 @@
    "label": "Lam Research",
    "website": "lamresearch.com",
    "page": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
+   "token": "loewscorp.wd1.myworkdayjobs.com",
+   "url": "loewscorp.wd1.myworkdayjobs.com/loewscorp",
+   "site": "loewscorp",
+   "label": "Loews Corporation",
+   "website": "loews.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
+   "token": "mpc.wd1.myworkdayjobs.com",
+   "url": "mpc.wd1.myworkdayjobs.com/MPCCareers",
+   "site": "MPCCareers",
+   "label": "Marathon Petroleum",
+   "website": "marathonpetroleum.com",
    "src": "chrome-only"
   },
   {
@@ -14087,6 +14131,15 @@
   },
   {
    "type": "workday",
+   "token": "ur.wd1.myworkdayjobs.com",
+   "url": "ur.wd1.myworkdayjobs.com/en-US/URcareers",
+   "site": "URcareers",
+   "label": "United Rentals",
+   "website": "unitedrentals.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
    "token": "u002fflir.wd1.myworkdayjobs.com",
    "url": "u002fflir.wd1.myworkdayjobs.com",
    "label": "Teledyne Technologies",
@@ -14101,6 +14154,31 @@
    "label": "Steel Dynamics",
    "website": "steeldynamics.com",
    "page": "https://www.steeldynamics.com/careersnew/",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
+   "token": "vrtx.wd5.myworkdayjobs.com",
+   "url": "vrtx.wd5.myworkdayjobs.com",
+   "label": "Vertex Pharmaceuticals",
+   "website": "vrtx.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
+   "token": "vrtx.wd501.myworkdayjobs.com",
+   "url": "vrtx.wd501.myworkdayjobs.com/vertex_careers",
+   "site": "vertex_careers",
+   "label": "Vertex Pharmaceuticals",
+   "website": "vrtx.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "icims",
+   "token": "waters",
+   "url": "careers-waters.icims.com",
+   "label": "Waters Corporation",
+   "website": "waters.com",
    "src": "chrome-only"
   },
   {
@@ -14155,6 +14233,22 @@
    "label": "W. R. Berkley Corporation",
    "website": "berkley.com",
    "page": "https://www.berkley.com/about-us/careers",
+   "src": "chrome-only"
+  },
+  {
+   "type": "oracle",
+   "token": "ehac.fa.us6.oraclecloud.com",
+   "url": "ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "Williams-Sonoma, Inc.",
+   "website": "williams-sonoma.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "oracle",
+   "token": "u002Fehac.fa.us6.oraclecloud.com",
+   "url": "u002Fehac.fa.us6.oraclecloud.com",
+   "label": "Williams-Sonoma, Inc.",
+   "website": "williams-sonoma.com",
    "src": "chrome-only"
   },
   {
@@ -44498,6 +44592,19 @@
    "crawledAt": 1794205752843
   },
   {
+   "title": "Product",
+   "url": "https://www.costargroup.com/careers/product",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "CoStar Group",
+   "website": "costar.com",
+   "src": "chrome-only",
+   "crawledAt": 1794206328164
+  },
+  {
    "title": "Ehsan, Engineering Manager",
    "url": "https://www.apple.com/careers/us/#ehsan-engineering-manager",
    "datePosted": null,
@@ -45574,6 +45681,19 @@
    "src": "chrome-only",
    "page": "https://careers.moodys.com/en",
    "crawledAt": 1794205778523
+  },
+  {
+   "title": "Product Specialist",
+   "url": "https://www.te.com/en/about-te/careers.html#product-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TE Connectivity",
+   "website": "te.com",
+   "src": "chrome-only",
+   "crawledAt": 1794206385693
   },
   {
    "title": "Staff Engineer, Research",
