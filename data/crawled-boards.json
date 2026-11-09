@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:22:12.817Z",
+ "generated": "2026-11-09T03:25:45.863Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4481,
+  "no-ats": 4479,
   "down": 983,
-  "site": 201
+  "site": 203
  },
  "byType": {
   "dover": 7,
@@ -16576,6 +16576,138 @@
    "src": "yc",
    "page": "https://wolfia.com/",
    "crawledAt": 1794194530178
+  },
+  {
+   "title": "Cloud Engineer",
+   "url": "https://careerkarma.com/careers/cloud-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Customer Success Manager",
+   "url": "https://careerkarma.com/careers/customer-success-manager/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Data Analyst",
+   "url": "https://careerkarma.com/careers/data-analytics/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Data Scientist",
+   "url": "https://careerkarma.com/careers/data-science/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Interaction Designer",
+   "url": "https://careerkarma.com/careers/interaction-designer/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Machine Learning Engineer",
+   "url": "https://careerkarma.com/careers/machine-learning/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Network Engineer",
+   "url": "https://careerkarma.com/careers/network-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Quality Assurance Engineer",
+   "url": "https://careerkarma.com/careers/quality-assurance-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://careerkarma.com/careers/software-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Tech Sales Representative",
+   "url": "https://careerkarma.com/careers/tech-sales-representative/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Avocademy",
+   "website": "avocademy.com",
+   "src": "yc",
+   "page": "https://careerkarma.com/schools/avocademy/",
+   "crawledAt": 1794194607606
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.ycombinator.com/companies/ciro/jobs/c7NK9Eu-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Ciro",
+   "website": "ciro.io",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/ciro/jobs",
+   "crawledAt": 1794194622311
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
