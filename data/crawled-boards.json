@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:35:36.026Z",
+ "generated": "2026-11-09T03:38:46.120Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4472,
+  "no-ats": 4467,
   "down": 983,
-  "site": 210
+  "site": 215
  },
  "byType": {
   "dover": 7,
@@ -17020,6 +17020,69 @@
    "src": "yc",
    "page": "https://relace.ai/careers",
    "crawledAt": 1794195235094
+  },
+  {
+   "title": "intern.md",
+   "url": "https://github.com/BoundaryML/baml/blob/canary/jobs/intern.md",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Boundary",
+   "website": "boundaryml.com",
+   "src": "yc",
+   "page": "https://github.com/BoundaryML/baml/tree/canary/jobs",
+   "crawledAt": 1794195446564
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://rivet.dev/careers/",
+   "datePosted": "2026-08-19",
+   "locations": [
+    "Remote"
+   ],
+   "employmentType": "",
+   "via": "jsonld",
+   "company": "Rivet",
+   "website": "rivet.dev",
+   "src": "yc",
+   "page": "https://rivet.dev/careers/",
+   "crawledAt": 1794195454027
+  },
+  {
+   "title": "Founding Full Stack Engineer - LLM, Applied AI (no prior LLM experience required)",
+   "url": "https://www.ycombinator.com/companies/berry/jobs/zyTnhbD-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Berry",
+   "website": "berryai.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/berry/jobs",
+   "crawledAt": 1794195506482
+  },
+  {
+   "title": "Founder's Office – GTM & Partnerships",
+   "url": "https://www.ycombinator.com/companies/shortloop/jobs/auaDPwt-founder-s-office-gtm-partnerships",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "ShortLoop",
+   "website": "shortloop.dev",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/shortloop/jobs",
+   "crawledAt": 1794195512132
+  },
+  {
+   "title": "Founding Product Engineer",
+   "url": "https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Type",
+   "website": "type.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/type/jobs",
+   "crawledAt": 1794195515147
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
