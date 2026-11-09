@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T05:52:26.483Z",
+ "generated": "2026-11-09T05:54:55.370Z",
  "companies": 7313,
  "status": {
   "found": 1640,
-  "no-ats": 4363,
+  "no-ats": 4362,
   "down": 983,
-  "site": 327
+  "site": 328
  },
  "byType": {
   "dover": 7,
@@ -23236,6 +23236,20 @@
    "src": "yc",
    "page": "https://careers.belvedir.ai/",
    "crawledAt": 1794203542265
+  },
+  {
+   "title": "Founding Product Engineer",
+   "url": "https://www.ycombinator.com/companies/mochi/jobs/BeGodLa-founding-product-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Mochi",
+   "website": "mochi.tv",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/mochi/jobs",
+   "crawledAt": 1794203677049
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
