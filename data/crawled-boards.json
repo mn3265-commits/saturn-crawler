@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:23:37.897Z",
+ "generated": "2026-11-09T02:28:04.803Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4518,
+  "no-ats": 4517,
   "down": 983,
-  "site": 164
+  "site": 165
  },
  "byType": {
   "dover": 7,
@@ -13870,6 +13870,18 @@
    "src": "yc",
    "page": "https://slite.com/jobs",
    "crawledAt": 1794190850484
+  },
+  {
+   "title": "Game Designer",
+   "url": "https://www.dreamcraft.com/careers/TechnicalDesigner",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "DreamCraft Entertainment, Inc.",
+   "website": "dreamcraft.com",
+   "src": "yc",
+   "page": "https://www.dreamcraft.com/careers/",
+   "crawledAt": 1794191266971
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
