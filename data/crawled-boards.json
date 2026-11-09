@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-09T01:58:26.479Z",
+ "generated": "2026-11-09T02:01:38.008Z",
  "companies": 7280,
  "status": {
-  "found": 1613,
-  "no-ats": 4530,
+  "found": 1615,
+  "no-ats": 4525,
   "down": 983,
-  "site": 154
+  "site": 157
  },
  "byType": {
   "dover": 7,
-  "ashby": 600,
+  "ashby": 601,
   "lever": 146,
   "gh": 496,
   "gem": 57,
-  "workable": 105,
+  "workable": 106,
   "rippling": 94,
   "bamboohr": 83,
   "smartrecruiters": 9,
@@ -13574,6 +13574,14 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "label": "Zearn",
+   "website": "zearn.org",
+   "page": "https://www.zearn.org/jobs",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "zonecompanysoftwareconsultingllc",
    "label": "Zone & Co",
@@ -13587,6 +13595,14 @@
    "label": "ZoomRx",
    "website": "zoomrx.com",
    "page": "https://zoomrx.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "zowie",
+   "label": "Zowie",
+   "website": "getzowie.com",
+   "page": "https://getzowie.com/careers",
    "src": "nyc"
   },
   {
@@ -13615,6 +13631,54 @@
   }
  ],
  "siteJobs": [
+  {
+   "title": "Customer Service Specialist (Contract — Remote)",
+   "url": "https://www.anylist.com/jobs/customer-service",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "AnyList",
+   "website": "anylist.com",
+   "src": "yc",
+   "page": "https://www.anylist.com/jobs",
+   "crawledAt": 1794189672114
+  },
+  {
+   "title": "Sales Representative",
+   "url": "https://www.screenleap.com/careers/sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Screenleap",
+   "website": "screenleap.com",
+   "src": "yc",
+   "page": "https://www.screenleap.com/jobs",
+   "crawledAt": 1794189684675
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.screenleap.com/careers/software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Screenleap",
+   "website": "screenleap.com",
+   "src": "yc",
+   "page": "https://www.screenleap.com/jobs",
+   "crawledAt": 1794189684675
+  },
+  {
+   "title": "Mechatronics Engineer",
+   "url": "https://app.hireart.com/jobs/9596ceb3/apply",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "HireArt",
+   "website": "hireart.com",
+   "src": "yc",
+   "page": "https://app.hireart.com/browse",
+   "crawledAt": 1794189695894
+  },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
    "url": "https://www.rho.co/careers/8bde2063-84aa-4753-a0c1-eb5c7929b07b",
