@@ -70,8 +70,18 @@ export function siteJobs(html, base) {
     if (!same(u) || !JOB_PATH.test(new URL(u).pathname) || text.length < 6 || text.length > 140 || !ROLE_WORD.test(text) || /^(view|see|apply|learn|all|open|explore|browse)\b/i.test(text)) continue;
     if (!out.has(u)) out.set(u, { title: text.slice(0, 120), url: u, datePosted: null, locations: [], employmentType: linkType(text), startDate: (text.match(START_HINT) || [])[0] || null, via: 'link' });
   }
+  let path = ''; try { path = new URL(base).pathname; } catch {}
+  if (!out.size && /career|jobs?\b|join|hiring|position|opening|work-with/i.test(path)) for (const m of String(html).matchAll(/<(h[1-6]|li|strong|b|dt|td|p|span|div|a)\b[^>]*>\s*([^<>]{6,80}?)\s*<\//gi)) {
+    const t = m[2].replace(/&amp;/g, '&').replace(/&nbsp;|&#160;/g, ' ').replace(/\s+/g, ' ').trim();
+    if (!TEXT_TITLE.test(t) || t.split(' ').length > 9 || /[.!?:;]$|\b(you|your|we|our|us|at|of the|life|meet|day)\b|^(view|see|apply|learn|all|open|explore|browse|contact|talk|for|about|join)\b/i.test(t)) continue;
+    const u = base.split('#')[0] + '#' + t.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+    if (!out.has(u)) out.set(u, { title: t, url: u, datePosted: null, locations: [], employmentType: linkType(t), startDate: (t.match(START_HINT) || [])[0] || null, via: 'text' });
+  }
   return [...out.values()].slice(0, 80);
 }
+const TEXT_TITLE = /^[A-Z][\w&/,()'’ -]*\b(manager|lead|head|director|analyst|associate|specialist|strategist|coordinator|engineer|designer|scientist|marketer|recruiter|counsel|officer|executive|intern|consultant|writer|editor|researcher|developer|architect|planner|producer|generalist|administrator|representative)\b(\s*[-–—,(|].{0,30})?$/i;
+console.assert(siteJobs('<h3>Software Engineer</h3><p>Our initial product,</p><a>Contact sales</a><h4>A Day In The Life of Jenny, Designer at X</h4><li>Growth Marketing Manager (NYC)</li>', 'https://tumult.com/jobs/').map(j => j.title).join('|') === 'Software Engineer|Growth Marketing Manager (NYC)', 'siteJobs text fallback self-check');
+console.assert(siteJobs('<h3>Software Engineer</h3>', 'https://tumult.com/').length === 0, 'text fallback only on careers pages');
 async function get(url) {
   try { const r = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' }, redirect: 'follow' });
     if (!r.ok) return null; const t = await r.text(); return { url: r.url, html: t.slice(0, 6e6) }; } catch { return null; }
@@ -133,7 +143,7 @@ async function renderPass(cache, list) {
     })()]); } catch {}
     await page.close().catch(() => {});
     const uniq = [...new Map(boards.map(b => [b.type + '|' + b.token.toLowerCase(), b])).values()];
-    cache[d] = { ...v, at: Date.now(), rendered: true, rv: 2, ...(landed ? { landed, portal } : {}), status: uniq.length ? 'found' : jobs.length ? 'site' : 'no-ats', boards: uniq, ...(jobs.length && !uniq.length ? { jobs } : {}) };
+    cache[d] = { ...v, at: Date.now(), rendered: true, rv: 3, ...(landed ? { landed, portal } : {}), status: uniq.length ? 'found' : jobs.length ? 'site' : 'no-ats', boards: uniq, ...(jobs.length && !uniq.length ? { jobs } : {}) };
     if (uniq.length) found++;
     if (++done % 100 === 0) { console.error(`  render ${done}/${list.length} found ${found} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
   await browser.close().catch(() => {});
@@ -170,7 +180,7 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
   if (process.argv.includes('--render')) {
     const doms = new Set(list.map(c => c.domain));
     const big = d => /chrome-only|program/.test(cache[d].src || '');
-    const rl = Object.keys(cache).filter(d => doms.has(d) && (big(d) && cache[d].status === 'down' && !cache[d].rendered || cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 2) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
+    const rl = Object.keys(cache).filter(d => doms.has(d) && (big(d) && cache[d].status === 'down' && !cache[d].rendered || cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 3) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
     const pr = d => (big(d) ? -8 : 0) + (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
     rl.sort((a, b) => pr(a) - pr(b));
     const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);
