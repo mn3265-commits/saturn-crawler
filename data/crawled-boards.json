@@ -1,27 +1,28 @@
 {
- "generated": "2026-11-09T06:23:04.714Z",
- "companies": 7313,
+ "generated": "2026-11-09T06:33:13.722Z",
+ "companies": 7493,
  "status": {
-  "found": 1641,
-  "down": 983,
-  "no-ats": 4296,
-  "site": 393
+  "found": 1668,
+  "down": 1052,
+  "no-ats": 4352,
+  "site": 421
  },
  "byType": {
   "dover": 7,
   "ashby": 606,
-  "workday": 102,
+  "workday": 107,
   "lever": 147,
-  "gh": 497,
+  "gh": 499,
   "gem": 58,
   "workable": 106,
   "rippling": 94,
   "bamboohr": 83,
   "smartrecruiters": 11,
   "recruitee": 14,
-  "eightfold": 4,
-  "icims": 1,
-  "oracle": 2
+  "eightfold": 10,
+  "icims": 15,
+  "oracle": 2,
+  "successfactors": 2
  },
  "boards": [
   {
@@ -13915,16 +13916,6 @@
   },
   {
    "type": "workday",
-   "token": "jj.wd5.myworkdayjobs.com",
-   "url": "jj.wd5.myworkdayjobs.com/JJ",
-   "site": "JJ",
-   "label": "Johnson & Johnson",
-   "website": "jnj.com",
-   "page": "https://www.jnj.com/jobs",
-   "src": "chrome-only"
-  },
-  {
-   "type": "workday",
    "token": "ag.wd3.myworkdayjobs.com",
    "url": "ag.wd3.myworkdayjobs.com/Airbus",
    "site": "Airbus",
@@ -13953,21 +13944,21 @@
    "src": "chrome-only"
   },
   {
-   "type": "successfactors",
-   "token": "C0003043182P",
-   "url": "career8.successfactors.com/career?company=C0003043182P",
-   "label": "Edison International",
-   "website": "edison.com",
-   "page": "https://www.edisoncareers.com/",
-   "src": "chrome-only"
-  },
-  {
    "type": "gh",
    "token": "eqtcorporation",
    "url": "boards.greenhouse.io/embed/job_board/js?for=eqtcorporation",
    "label": "EQT Corporation",
    "website": "eqt.com",
    "page": "https://www.eqt.com/careers",
+   "src": "chrome-only"
+  },
+  {
+   "type": "successfactors",
+   "token": "C0003043182P",
+   "url": "career8.successfactors.com/career?company=C0003043182P",
+   "label": "Edison International",
+   "website": "edison.com",
+   "page": "https://www.edisoncareers.com/",
    "src": "chrome-only"
   },
   {
@@ -13989,15 +13980,6 @@
    "src": "chrome-only"
   },
   {
-   "type": "eightfold",
-   "token": "lamresearch",
-   "url": "lamresearch.eightfold.ai",
-   "label": "Lam Research",
-   "website": "lamresearch.com",
-   "page": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
-   "src": "chrome-only"
-  },
-  {
    "type": "gh",
    "token": "stage",
    "url": "boards.greenhouse.io/embed/job_board/js?for=stage",
@@ -14007,12 +13989,12 @@
    "src": "chrome-only"
   },
   {
-   "type": "icims",
-   "token": "lennox",
-   "url": "careers-lennox.icims.com",
-   "label": "Lennox International",
-   "website": "lennoxnas.com",
-   "page": "https://www.lennox.com/careers/",
+   "type": "eightfold",
+   "token": "lamresearch",
+   "url": "lamresearch.eightfold.ai",
+   "label": "Lam Research",
+   "website": "lamresearch.com",
+   "page": "https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity",
    "src": "chrome-only"
   },
   {
@@ -14031,6 +14013,24 @@
    "label": "Northrop Grumman",
    "website": "northropgrumman.com",
    "page": "https://www.northropgrumman.com/",
+   "src": "chrome-only"
+  },
+  {
+   "type": "eightfold",
+   "token": "lockheedmartin",
+   "url": "lockheedmartin.eightfold.ai",
+   "label": "Lockheed Martin",
+   "website": "lmco.com",
+   "page": "https://www.lockheedmartin.com/en-us/404.html",
+   "src": "chrome-only"
+  },
+  {
+   "type": "icims",
+   "token": "lennox",
+   "url": "careers-lennox.icims.com",
+   "label": "Lennox International",
+   "website": "lennoxnas.com",
+   "page": "https://www.lennox.com/careers/",
    "src": "chrome-only"
   },
   {
@@ -14053,15 +14053,6 @@
   },
   {
    "type": "eightfold",
-   "token": "lockheedmartin",
-   "url": "lockheedmartin.eightfold.ai",
-   "label": "Lockheed Martin",
-   "website": "lmco.com",
-   "page": "https://www.lockheedmartin.com/en-us/404.html",
-   "src": "chrome-only"
-  },
-  {
-   "type": "eightfold",
    "token": "starbucks",
    "url": "starbucks.eightfold.ai",
    "label": "Starbucks",
@@ -14079,30 +14070,12 @@
    "src": "chrome-only"
   },
   {
-   "type": "eightfold",
-   "token": "hp-sandbox",
-   "url": "hp-sandbox.eightfold.ai",
-   "label": "HP Inc.",
-   "website": "hp.com",
-   "page": "https://jobs.hp.com/",
-   "src": "chrome-only"
-  },
-  {
    "type": "icims",
    "token": "steeldynamics",
    "url": "careers-steeldynamics.icims.com",
    "label": "Steel Dynamics",
    "website": "steeldynamics.com",
    "page": "https://www.steeldynamics.com/careersnew/",
-   "src": "chrome-only"
-  },
-  {
-   "type": "smartrecruiters",
-   "token": "WesternDigital",
-   "url": "careers.smartrecruiters.com/WesternDigital",
-   "label": "Western Digital",
-   "website": "westerndigital.com",
-   "page": "https://www.westerndigital.com/careers",
    "src": "chrome-only"
   },
   {
@@ -14157,6 +14130,24 @@
    "label": "W. R. Berkley Corporation",
    "website": "berkley.com",
    "page": "https://www.berkley.com/about-us/careers",
+   "src": "chrome-only"
+  },
+  {
+   "type": "eightfold",
+   "token": "hp-sandbox",
+   "url": "hp-sandbox.eightfold.ai",
+   "label": "HP Inc.",
+   "website": "hp.com",
+   "page": "https://jobs.hp.com/",
+   "src": "chrome-only"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "WesternDigital",
+   "url": "careers.smartrecruiters.com/WesternDigital",
+   "label": "Western Digital",
+   "website": "westerndigital.com",
+   "page": "https://www.westerndigital.com/careers",
    "src": "chrome-only"
   },
   {
@@ -44335,6 +44326,244 @@
    "crawledAt": 1794197238155
   },
   {
+   "title": "Gross to Net Program-Managing Director",
+   "url": "https://www.danone.com/careers.html#gross-to-net-program-managing-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Danone",
+   "website": "danone.com",
+   "src": "chrome-only",
+   "page": "https://careers.danone.com/en-global/home.html",
+   "crawledAt": 1794205752020
+  },
+  {
+   "title": "Global Learning Director",
+   "url": "https://www.danone.com/careers.html#global-learning-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Danone",
+   "website": "danone.com",
+   "src": "chrome-only",
+   "page": "https://careers.danone.com/en-global/home.html",
+   "crawledAt": 1794205752020
+  },
+  {
+   "title": "Gross to Net Program-Managing Director",
+   "url": "https://www.danone.com/at/en/careers.html#gross-to-net-program-managing-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Danone",
+   "website": "danone.com",
+   "src": "chrome-only",
+   "page": "https://careers.danone.com/en-global/home.html",
+   "crawledAt": 1794205752020
+  },
+  {
+   "title": "Global Learning Director",
+   "url": "https://www.danone.com/at/en/careers.html#global-learning-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Danone",
+   "website": "danone.com",
+   "src": "chrome-only",
+   "page": "https://careers.danone.com/en-global/home.html",
+   "crawledAt": 1794205752020
+  },
+  {
+   "title": "Gross to Net Program-Managing Director",
+   "url": "https://www.danone.com/ch/de/careers.html#gross-to-net-program-managing-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Danone",
+   "website": "danone.com",
+   "src": "chrome-only",
+   "page": "https://careers.danone.com/en-global/home.html",
+   "crawledAt": 1794205752020
+  },
+  {
+   "title": "Global Learning Director",
+   "url": "https://www.danone.com/ch/de/careers.html#global-learning-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Danone",
+   "website": "danone.com",
+   "src": "chrome-only",
+   "page": "https://careers.danone.com/en-global/home.html",
+   "crawledAt": 1794205752020
+  },
+  {
+   "title": "Lease Compliance Analyst, Real Estate – Lakeland",
+   "url": "https://jobs.publix.com/department/corporate-careers/#lease-compliance-analyst-real-estate-lakeland",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Publix",
+   "website": "publix.com",
+   "src": "chrome-only",
+   "page": "https://jobs.publix.com/",
+   "crawledAt": 1794205752843
+  },
+  {
+   "title": "Facility Retail Support Specialist – Refrigeration",
+   "url": "https://jobs.publix.com/department/corporate-careers/#facility-retail-support-specialist-refrigeration",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Publix",
+   "website": "publix.com",
+   "src": "chrome-only",
+   "page": "https://jobs.publix.com/",
+   "crawledAt": 1794205752843
+  },
+  {
+   "title": "Ehsan, Engineering Manager",
+   "url": "https://www.apple.com/careers/us/#ehsan-engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Hardware engineer",
+   "url": "https://www.apple.com/careers/us/#hardware-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Software engineer",
+   "url": "https://www.apple.com/careers/us/#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Ehsan, Engineering Manager",
+   "url": "https://www.apple.com/careers/ae/#ehsan-engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Hardware engineer",
+   "url": "https://www.apple.com/careers/ae/#hardware-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Software engineer",
+   "url": "https://www.apple.com/careers/ae/#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Ehsan, Engineering Manager",
+   "url": "https://www.apple.com/careers/at/#ehsan-engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Hardware Engineer",
+   "url": "https://www.apple.com/careers/at/#hardware-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.apple.com/careers/at/#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apple Inc.",
+   "website": "apple.com",
+   "src": "chrome-only",
+   "page": "https://www.apple.com/careers/us/",
+   "crawledAt": 1794205754422
+  },
+  {
    "title": "Sales & Consulting",
    "url": "https://www.cbre.com/careers/sales-careers",
    "datePosted": null,
@@ -44346,7 +44575,7 @@
    "website": "cbre.com",
    "src": "chrome-only",
    "page": "https://www.cbre.com/careers/benefits",
-   "crawledAt": 1794205461269
+   "crawledAt": 1794205754873
   },
   {
    "title": "Building Operations & Management",
@@ -44360,7 +44589,7 @@
    "website": "cbre.com",
    "src": "chrome-only",
    "page": "https://www.cbre.com/careers/benefits",
-   "crawledAt": 1794205461269
+   "crawledAt": 1794205754873
   },
   {
    "title": "Consulting Manager, Organizational Change Management",
@@ -44374,7 +44603,7 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1794205577773
+   "crawledAt": 1794205858258
   },
   {
    "title": "Senior Java Full Stack Engineer – Spring Boot & AWS",
@@ -44388,7 +44617,7 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1794205577773
+   "crawledAt": 1794205858258
   },
   {
    "title": "Senior Full Stack Engineer – .NET & C#",
@@ -44402,7 +44631,7 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1794205577773
+   "crawledAt": 1794205858258
   },
   {
    "title": "Senior .NET Full Stack Developer – C#",
@@ -44416,7 +44645,287 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1794205577773
+   "crawledAt": 1794205858258
+  },
+  {
+   "title": "IT CRM Solutions Engineer",
+   "url": "https://www.crowncastle.com/careers/data-technology#it-crm-solutions-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Crown Castle",
+   "website": "crowncastle.com",
+   "src": "chrome-only",
+   "page": "https://www.crowncastle.com/careers/",
+   "crawledAt": 1794205755459
+  },
+  {
+   "title": "Supporting Your Growth",
+   "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Product Management & Innovation",
+   "url": "https://www.bain.com/careers/work-with-us/our-work-areas/product-management-innovation/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Business Operations",
+   "url": "https://www.bain.com/careers/work-with-us/our-work-areas/business-operations/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Marketing",
+   "url": "https://www.bain.com/careers/work-with-us/our-work-areas/marketing/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Business Operations",
+   "url": "https://www.bain.com/de/careers/work-with-us/our-work-areas/business-operations/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Marketing",
+   "url": "https://www.bain.com/de/careers/work-with-us/our-work-areas/marketing/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Product Management & Innovation",
+   "url": "https://www.bain.com/de/careers/work-with-us/our-work-areas/product-management-innovation/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Marketing",
+   "url": "https://www.bain.com/fr/careers/work-with-us/our-work-areas/marketing/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Bain & Company",
+   "website": "bain.com",
+   "src": "chrome-only",
+   "page": "https://www.bain.com/careers/work-with-us/find-your-place/",
+   "crawledAt": 1794205756117
+  },
+  {
+   "title": "Cincinnati Customer Care Center Manager",
+   "url": "https://www.cinfin.com/cincinnati-insurance-careers#cincinnati-customer-care-center-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cincinnati Financial",
+   "website": "cinfin.com",
+   "src": "chrome-only",
+   "page": "https://www.cinfin.com/cincinnati-insurance-careers/student-internship",
+   "crawledAt": 1794205756191
+  },
+  {
+   "title": "IT Web Portals Architect",
+   "url": "https://www.cinfin.com/cincinnati-insurance-careers#it-web-portals-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cincinnati Financial",
+   "website": "cinfin.com",
+   "src": "chrome-only",
+   "page": "https://www.cinfin.com/cincinnati-insurance-careers/student-internship",
+   "crawledAt": 1794205756191
+  },
+  {
+   "title": "Senior Manager, Systems Engineering",
+   "url": "https://careers.dexcom.com/careers/index#senior-manager-systems-engineering",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Sr Process Engineer",
+   "url": "https://careers.dexcom.com/careers/index#sr-process-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Regional Sales Manager",
+   "url": "https://careers.dexcom.com/careers/index#regional-sales-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Biomedical Engineer",
+   "url": "https://careers.dexcom.com/careers/north-america#biomedical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://careers.dexcom.com/careers/north-america#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Manufacturing Associate",
+   "url": "https://careers.dexcom.com/careers/north-america#manufacturing-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Process Sustaining Engineer",
+   "url": "https://careers.dexcom.com/careers/north-america#process-sustaining-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Dexcom",
+   "website": "dexcom.com",
+   "src": "chrome-only",
+   "page": "https://careers.dexcom.com/careers/index",
+   "crawledAt": 1794205757212
+  },
+  {
+   "title": "Carla Chaney, Chief Human Resources Officer",
+   "url": "https://www.equifax.com/about-equifax/culture-careers/#carla-chaney-chief-human-resources-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Equifax",
+   "website": "equifax.com",
+   "src": "chrome-only",
+   "page": "https://www.equifax.com/about-equifax/culture-careers/",
+   "crawledAt": 1794205759924
+  },
+  {
+   "title": "Self-starters with a desire to serve and lead",
+   "url": "https://www.citizensfinancial.co/join-our-team-2/#self-starters-with-a-desire-to-serve-and-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Citizens Financial Group",
+   "website": "citizensfinancial.co",
+   "src": "chrome-only",
+   "page": "https://www.citizensfinancial.co/join-our-team-2/",
+   "crawledAt": 1794205761621
   },
   {
    "title": "Field Clinical Specialist",
@@ -44429,8 +44938,8 @@
    "company": "Edwards Lifesciences",
    "website": "edwards.com",
    "src": "chrome-only",
-   "page": "https://www.edwards.com/careers/about-us/what-we-do",
-   "crawledAt": 1794205462783
+   "page": "https://edwards.com/careers/about-us/what-we-do",
+   "crawledAt": 1794205762560
   },
   {
    "title": "Marketing",
@@ -44443,8 +44952,8 @@
    "company": "Edwards Lifesciences",
    "website": "edwards.com",
    "src": "chrome-only",
-   "page": "https://www.edwards.com/careers/about-us/what-we-do",
-   "crawledAt": 1794205462783
+   "page": "https://edwards.com/careers/about-us/what-we-do",
+   "crawledAt": 1794205762560
   },
   {
    "title": "Field Clinical Specialist",
@@ -44457,8 +44966,8 @@
    "company": "Edwards Lifesciences",
    "website": "edwards.com",
    "src": "chrome-only",
-   "page": "https://www.edwards.com/careers/about-us/what-we-do",
-   "crawledAt": 1794205462783
+   "page": "https://edwards.com/careers/about-us/what-we-do",
+   "crawledAt": 1794205762560
   },
   {
    "title": "Marketing",
@@ -44471,64 +44980,50 @@
    "company": "Edwards Lifesciences",
    "website": "edwards.com",
    "src": "chrome-only",
-   "page": "https://www.edwards.com/careers/about-us/what-we-do",
-   "crawledAt": 1794205462783
+   "page": "https://edwards.com/careers/about-us/what-we-do",
+   "crawledAt": 1794205762560
   },
   {
-   "title": "IT Lead Developer, SAP Solutions (Hybrid)",
-   "url": "https://jobs.eversource.com/job/berlin/it-lead-developer-sap-solutions-hybrid/7774/102956827664",
+   "title": "Senior Global Category Manager (all genders)",
+   "url": "https://www.beiersdorf.com/career/locations/headquarters#senior-global-category-manager-all-genders-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
-   "company": "Eversource Energy",
-   "website": "eversource.com",
+   "via": "text",
+   "company": "Beiersdorf",
+   "website": "beiersdorf.com",
    "src": "chrome-only",
-   "page": "https://jobs.eversource.com/",
-   "crawledAt": 1794205464323
+   "page": "https://www.beiersdorf.com/career/locations/headquarters",
+   "crawledAt": 1794205763256
   },
   {
-   "title": "IT Lead Developer, SAP Applications (Hybrid)",
-   "url": "https://jobs.eversource.com/job/berlin/it-lead-developer-sap-applications-hybrid/7774/102956827632",
+   "title": "Brand Management Intern",
+   "url": "https://www.beiersdorf.com/career/students/overview#brand-management-intern",
    "datePosted": null,
    "locations": [],
-   "employmentType": null,
+   "employmentType": "INTERN",
    "startDate": null,
-   "via": "link",
-   "company": "Eversource Energy",
-   "website": "eversource.com",
+   "via": "text",
+   "company": "Beiersdorf",
+   "website": "beiersdorf.com",
    "src": "chrome-only",
-   "page": "https://jobs.eversource.com/",
-   "crawledAt": 1794205464323
+   "page": "https://www.beiersdorf.com/career/locations/headquarters",
+   "crawledAt": 1794205763256
   },
   {
-   "title": "Electric Distribution Designer 3 L (HYBRID)",
-   "url": "https://jobs.eversource.com/job/tamworth/electric-distribution-designer-3-l-hybrid/7774/102892205200",
+   "title": "TCCSA Intern",
+   "url": "https://www.beiersdorf.com/career/students/overview#tccsa-intern",
    "datePosted": null,
    "locations": [],
-   "employmentType": null,
+   "employmentType": "INTERN",
    "startDate": null,
-   "via": "link",
-   "company": "Eversource Energy",
-   "website": "eversource.com",
+   "via": "text",
+   "company": "Beiersdorf",
+   "website": "beiersdorf.com",
    "src": "chrome-only",
-   "page": "https://jobs.eversource.com/",
-   "crawledAt": 1794205464323
-  },
-  {
-   "title": "Electric Distribution Designer 3 L (HYBRID)",
-   "url": "https://jobs.eversource.com/job/nashua/electric-distribution-designer-3-l-hybrid/7774/102284564864",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Eversource Energy",
-   "website": "eversource.com",
-   "src": "chrome-only",
-   "page": "https://jobs.eversource.com/",
-   "crawledAt": 1794205464323
+   "page": "https://www.beiersdorf.com/career/locations/headquarters",
+   "crawledAt": 1794205763256
   },
   {
    "title": "R&D Engineer I",
@@ -44542,7 +45037,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "D497 Structural Engineer",
@@ -44556,7 +45051,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "D497 Structural Engineer Sr/Spec/Princ",
@@ -44570,7 +45065,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "Engineer Senior/Spec/Principle - Structural",
@@ -44584,7 +45079,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "Embedded Engineer - COLUMBIA Missile Compartment Project Engineering Entry Level",
@@ -44598,7 +45093,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "Senior Engineering Module Lead - COLUMBIA Missile Compartment Project Engineering",
@@ -44612,7 +45107,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "Aircraft Support Manager",
@@ -44626,7 +45121,7 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
   },
   {
    "title": "Admin Associate Sr - Security Enterprise",
@@ -44640,7 +45135,245 @@
    "website": "gd.com",
    "src": "chrome-only",
    "page": "https://www.gd.com/careers/veterans",
-   "crawledAt": 1794205465183
+   "crawledAt": 1794205763379
+  },
+  {
+   "title": "IT Lead Developer, SAP Solutions (Hybrid)",
+   "url": "https://jobs.eversource.com/job/berlin/it-lead-developer-sap-solutions-hybrid/7774/102956827664",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Eversource Energy",
+   "website": "eversource.com",
+   "src": "chrome-only",
+   "page": "https://jobs.eversource.com/",
+   "crawledAt": 1794205763751
+  },
+  {
+   "title": "IT Lead Developer, SAP Applications (Hybrid)",
+   "url": "https://jobs.eversource.com/job/berlin/it-lead-developer-sap-applications-hybrid/7774/102956827632",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Eversource Energy",
+   "website": "eversource.com",
+   "src": "chrome-only",
+   "page": "https://jobs.eversource.com/",
+   "crawledAt": 1794205763751
+  },
+  {
+   "title": "Electric Distribution Designer 3 L (HYBRID)",
+   "url": "https://jobs.eversource.com/job/tamworth/electric-distribution-designer-3-l-hybrid/7774/102892205200",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Eversource Energy",
+   "website": "eversource.com",
+   "src": "chrome-only",
+   "page": "https://jobs.eversource.com/",
+   "crawledAt": 1794205763751
+  },
+  {
+   "title": "Electric Distribution Designer 3 L (HYBRID)",
+   "url": "https://jobs.eversource.com/job/nashua/electric-distribution-designer-3-l-hybrid/7774/102284564864",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Eversource Energy",
+   "website": "eversource.com",
+   "src": "chrome-only",
+   "page": "https://jobs.eversource.com/",
+   "crawledAt": 1794205763751
+  },
+  {
+   "title": "AML & Risk Operations Associate",
+   "url": "https://careers.vinted.com/jobs#aml-risk-operations-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Ad Operations Manager",
+   "url": "https://careers.vinted.com/jobs#ad-operations-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Authentication Specialist",
+   "url": "https://careers.vinted.com/jobs#authentication-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Backend Engineer, Security",
+   "url": "https://careers.vinted.com/jobs#backend-engineer-security",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Billing Process Manager",
+   "url": "https://careers.vinted.com/jobs#billing-process-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Carrier Sales Manager",
+   "url": "https://careers.vinted.com/jobs#carrier-sales-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Community Support Manager – Resource Planning (FTC)",
+   "url": "https://careers.vinted.com/jobs#community-support-manager-resource-planning-ftc-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Complaints Management Specialist, Vinted Pay",
+   "url": "https://careers.vinted.com/jobs#complaints-management-specialist-vinted-pay",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Compliance Manager - Digital Services Act (DSA)",
+   "url": "https://careers.vinted.com/jobs#compliance-manager-digital-services-act-dsa-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Content & Appeals Specialist, Trust & Safety Operations",
+   "url": "https://careers.vinted.com/jobs#content-appeals-specialist-trust-safety-operations",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Content Strategist, Help Content & VOC",
+   "url": "https://careers.vinted.com/jobs#content-strategist-help-content-voc",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Creative Producer - VintedGo, Brand Marketing",
+   "url": "https://careers.vinted.com/jobs#creative-producer-vintedgo-brand-marketing",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
+  },
+  {
+   "title": "Data & Insights Specialist, Trust & Safety Operations",
+   "url": "https://careers.vinted.com/jobs#data-insights-specialist-trust-safety-operations",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vinted",
+   "website": "vinted.com",
+   "src": "chrome-only",
+   "page": "https://careers.vinted.com/",
+   "crawledAt": 1794205763978
   },
   {
    "title": "Intern with Us",
@@ -44654,7 +45387,77 @@
    "website": "evergy.com",
    "src": "chrome-only",
    "page": "https://www.evergy.com/careers/careers-and-internships",
-   "crawledAt": 1794205464245
+   "crawledAt": 1794205775843
+  },
+  {
+   "title": "What to Expect as an Evergy Intern",
+   "url": "https://www.evergy.com/careers/internships#what-to-expect-as-an-evergy-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "text",
+   "company": "Evergy",
+   "website": "evergy.com",
+   "src": "chrome-only",
+   "page": "https://www.evergy.com/careers/careers-and-internships",
+   "crawledAt": 1794205775843
+  },
+  {
+   "title": "Eli Loney, Engineer",
+   "url": "https://www.evergy.com/careers/internships#eli-loney-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Evergy",
+   "website": "evergy.com",
+   "src": "chrome-only",
+   "page": "https://www.evergy.com/careers/careers-and-internships",
+   "crawledAt": 1794205775843
+  },
+  {
+   "title": "Elaine, Managing Director, CF&O - Risk, Dallas",
+   "url": "https://www.goldmansachs.com/careers#elaine-managing-director-cf-o-risk-dallas",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Goldman Sachs",
+   "website": "goldmansachs.com",
+   "src": "chrome-only",
+   "page": "https://www.goldmansachs.com/careers/benefits",
+   "crawledAt": 1794205952662
+  },
+  {
+   "title": "Stephanie, Managing Director, Global Compliance, Hong Kong",
+   "url": "https://www.goldmansachs.com/careers#stephanie-managing-director-global-compliance-hong-kong",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Goldman Sachs",
+   "website": "goldmansachs.com",
+   "src": "chrome-only",
+   "page": "https://www.goldmansachs.com/careers/benefits",
+   "crawledAt": 1794205952662
+  },
+  {
+   "title": "Joanna, Associate, Wealth Management, Shenzhen",
+   "url": "https://www.goldmansachs.com/careers#joanna-associate-wealth-management-shenzhen",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Goldman Sachs",
+   "website": "goldmansachs.com",
+   "src": "chrome-only",
+   "page": "https://www.goldmansachs.com/careers/benefits",
+   "crawledAt": 1794205952662
   },
   {
    "title": "Associate Director- Relationship Manager (Corporate& Government)",
@@ -44668,7 +45471,7 @@
    "website": "moodys.com",
    "src": "chrome-only",
    "page": "https://careers.moodys.com/en",
-   "crawledAt": 1794205472904
+   "crawledAt": 1794205778523
   },
   {
    "title": "Cyber Product Management & Product Marketing Summer Intern",
@@ -44682,7 +45485,7 @@
    "website": "moodys.com",
    "src": "chrome-only",
    "page": "https://careers.moodys.com/en",
-   "crawledAt": 1794205472904
+   "crawledAt": 1794205778523
   },
   {
    "title": "Sr Associate Account Management",
@@ -44696,7 +45499,7 @@
    "website": "moodys.com",
    "src": "chrome-only",
    "page": "https://careers.moodys.com/en",
-   "crawledAt": 1794205472904
+   "crawledAt": 1794205778523
   },
   {
    "title": "Senior Software Engineer",
@@ -44710,7 +45513,273 @@
    "website": "moodys.com",
    "src": "chrome-only",
    "page": "https://careers.moodys.com/en",
-   "crawledAt": 1794205472904
+   "crawledAt": 1794205778523
+  },
+  {
+   "title": "Staff Engineer, Research",
+   "url": "https://www.seagate.com/careers/#staff-engineer-research",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Manufacturing Specialist",
+   "url": "https://www.seagate.com/careers/#manufacturing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Staff Engineer, Wafer Equipment",
+   "url": "https://www.seagate.com/careers/#staff-engineer-wafer-equipment",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Digital Enablement Analyst",
+   "url": "https://www.seagate.com/careers/#digital-enablement-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Staff Engineer, Research",
+   "url": "https://www.seagate.com/ca/en/careers/#staff-engineer-research",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Manufacturing Specialist",
+   "url": "https://www.seagate.com/ca/en/careers/#manufacturing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Staff Engineer, Wafer Equipment",
+   "url": "https://www.seagate.com/ca/en/careers/#staff-engineer-wafer-equipment",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Digital Enablement Analyst",
+   "url": "https://www.seagate.com/ca/en/careers/#digital-enablement-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Staff Engineer, Research",
+   "url": "https://www.seagate.com/in/en/careers/#staff-engineer-research",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Manufacturing Specialist",
+   "url": "https://www.seagate.com/in/en/careers/#manufacturing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Staff Engineer, Wafer Equipment",
+   "url": "https://www.seagate.com/in/en/careers/#staff-engineer-wafer-equipment",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Digital Enablement Analyst",
+   "url": "https://www.seagate.com/in/en/careers/#digital-enablement-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Engineering Manager",
+   "url": "https://www.seagate.com/careers/culture/#engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "IT Enterprise Applications Manager",
+   "url": "https://www.seagate.com/careers/culture/#it-enterprise-applications-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Engineering Manager",
+   "url": "https://www.seagate.com/ca/en/careers/culture/#engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "IT Enterprise Applications Manager",
+   "url": "https://www.seagate.com/ca/en/careers/culture/#it-enterprise-applications-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Engineering Manager",
+   "url": "https://www.seagate.com/in/en/careers/culture/#engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "IT Enterprise Applications Manager",
+   "url": "https://www.seagate.com/in/en/careers/culture/#it-enterprise-applications-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Seagate Technology",
+   "website": "seagate.com",
+   "src": "chrome-only",
+   "page": "https://www.seagate.com/careers/culture/",
+   "crawledAt": 1794205779878
+  },
+  {
+   "title": "Internships & Co-ops",
+   "url": "https://www.intuit.com/careers/programs/internships/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Intuit",
+   "website": "intuit.com",
+   "src": "chrome-only",
+   "page": "https://www.intuit.com/careers/working-at-intuit/",
+   "crawledAt": 1794205781006
   },
   {
    "title": "Operations",
@@ -44724,7 +45793,7 @@
    "website": "valero.com",
    "src": "chrome-only",
    "page": "https://www.valero.com/careers/careers-renewables",
-   "crawledAt": 1794205488260
+   "crawledAt": 1794205781167
   },
   {
    "title": "Intern Programs",
@@ -44738,7 +45807,7 @@
    "website": "valero.com",
    "src": "chrome-only",
    "page": "https://www.valero.com/careers/careers-renewables",
-   "crawledAt": 1794205488260
+   "crawledAt": 1794205781167
   },
   {
    "title": "Your Career Growth",
@@ -44752,7 +45821,7 @@
    "website": "valero.com",
    "src": "chrome-only",
    "page": "https://www.valero.com/careers/careers-renewables",
-   "crawledAt": 1794205488260
+   "crawledAt": 1794205781167
   },
   {
    "title": "Growth and Development",
@@ -44766,7 +45835,7 @@
    "website": "weyerhaeuser.com",
    "src": "chrome-only",
    "page": "https://www.weyerhaeuser.com/careers/who-we-need/",
-   "crawledAt": 1794205489307
+   "crawledAt": 1794205782965
   },
   {
    "title": "Verification Engineer",
@@ -44780,7 +45849,7 @@
    "website": "synopsys.com",
    "src": "chrome-only",
    "page": "https://careers.synopsys.com/",
-   "crawledAt": 1794205486459
+   "crawledAt": 1794205783899
   },
   {
    "title": "ASIC Infrastructure/ Digital Design Engineer",
@@ -44794,7 +45863,7 @@
    "website": "synopsys.com",
    "src": "chrome-only",
    "page": "https://careers.synopsys.com/",
-   "crawledAt": 1794205486459
+   "crawledAt": 1794205783899
   },
   {
    "title": "CAD Software Engineer, Principal-18736",
@@ -44808,7 +45877,35 @@
    "website": "synopsys.com",
    "src": "chrome-only",
    "page": "https://careers.synopsys.com/",
-   "crawledAt": 1794205486459
+   "crawledAt": 1794205783899
+  },
+  {
+   "title": "Tim, General Manager",
+   "url": "https://careers.walmart.com/us/en/home/careers-areas/Military#tim-general-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Walmart",
+   "website": "walmart.com",
+   "src": "chrome-only",
+   "page": "https://careers.walmart.com/us/en/home",
+   "crawledAt": 1794205784247
+  },
+  {
+   "title": "Kim, Store Manager",
+   "url": "https://careers.walmart.com/us/en/home/careers-areas/Military#kim-store-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Walmart",
+   "website": "walmart.com",
+   "src": "chrome-only",
+   "page": "https://careers.walmart.com/us/en/home",
+   "crawledAt": 1794205784247
   },
   {
    "title": "Senior Research Coordinator - Rehab Medicine",
@@ -44822,7 +45919,7 @@
    "website": "nyulangone.org",
    "src": "chrome-only",
    "page": "https://jobs.nyulangone.org/",
-   "crawledAt": 1794205489913
+   "crawledAt": 1794205784468
   },
   {
    "title": "Nurse Manager - Ambulatory Surgery Center Manhasset OR (OR Exp Required)",
@@ -44836,7 +45933,7 @@
    "website": "nyulangone.org",
    "src": "chrome-only",
    "page": "https://jobs.nyulangone.org/",
-   "crawledAt": 1794205489913
+   "crawledAt": 1794205784468
   },
   {
    "title": "Clinical Pharmacotherapy Specialist - Adult Transplant Services",
@@ -44850,7 +45947,7 @@
    "website": "nyulangone.org",
    "src": "chrome-only",
    "page": "https://jobs.nyulangone.org/",
-   "crawledAt": 1794205489913
+   "crawledAt": 1794205784468
   },
   {
    "title": "Tenant Coordinator",
@@ -44864,7 +45961,7 @@
    "website": "nyulangone.org",
    "src": "chrome-only",
    "page": "https://jobs.nyulangone.org/",
-   "crawledAt": 1794205489913
+   "crawledAt": 1794205784468
   },
   {
    "title": "*Interview Day: Child Life Specialist, Emergency Department - Wednesday, 11/18",
@@ -44878,7 +45975,7 @@
    "website": "nyulangone.org",
    "src": "chrome-only",
    "page": "https://jobs.nyulangone.org/",
-   "crawledAt": 1794205489913
+   "crawledAt": 1794205784468
   },
   {
    "title": "Donor Experience Specialist",
@@ -44892,7 +45989,21 @@
    "website": "nyulangone.org",
    "src": "chrome-only",
    "page": "https://jobs.nyulangone.org/",
-   "crawledAt": 1794205489913
+   "crawledAt": 1794205784468
+  },
+  {
+   "title": "Hilton Head",
+   "url": "https://careers.unitedhealthgroup.com/search-jobs#hilton-head",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "UnitedHealth Group",
+   "website": "unitedhealthgroup.com",
+   "src": "chrome-only",
+   "page": "https://www.unitedhealthgroup.com/careers/en/job-seeker-resources/join-our-talent-community.html",
+   "crawledAt": 1794205785001
   },
   {
    "title": "Advertising, Marketing & PR",
@@ -44906,21 +46017,49 @@
    "website": "northwestern.edu",
    "src": "chrome-only",
    "page": "https://hr.northwestern.edu/careers/",
-   "crawledAt": 1794205491377
+   "crawledAt": 1794205785100
   },
   {
-   "title": "Marketing Yourself- International Students",
-   "url": "https://www.northwestern.edu/careers/resources/international-job-search/marketing-yourself--international-students.html",
+   "title": "Real Conversation Planner",
+   "url": "https://hr.northwestern.edu/careers/#real-conversation-planner",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
+   "via": "text",
    "company": "Northwestern University",
    "website": "northwestern.edu",
    "src": "chrome-only",
    "page": "https://hr.northwestern.edu/careers/",
-   "crawledAt": 1794205491377
+   "crawledAt": 1794205785100
+  },
+  {
+   "title": "Real Conversation Planner",
+   "url": "https://hr.northwestern.edu/careers/paths/staff-positions.html#real-conversation-planner",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Northwestern University",
+   "website": "northwestern.edu",
+   "src": "chrome-only",
+   "page": "https://hr.northwestern.edu/careers/",
+   "crawledAt": 1794205785100
+  },
+  {
+   "title": "Real Conversation Planner",
+   "url": "https://hr.northwestern.edu/careers/paths/temporary-positions.html#real-conversation-planner",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Northwestern University",
+   "website": "northwestern.edu",
+   "src": "chrome-only",
+   "page": "https://hr.northwestern.edu/careers/",
+   "crawledAt": 1794205785100
   }
  ]
 }
