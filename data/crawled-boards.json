@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:08:35.888Z",
+ "generated": "2026-11-09T02:11:55.994Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4523,
+  "no-ats": 4520,
   "down": 983,
-  "site": 159
+  "site": 162
  },
  "byType": {
   "dover": 7,
@@ -13738,6 +13738,90 @@
    "src": "yc",
    "page": "https://www.grubmarket.com/",
    "crawledAt": 1794190061650
+  },
+  {
+   "title": "Lugger - On-Demand Mover",
+   "url": "https://lugg.com/mover/jobs/become-a-lugger",
+   "datePosted": "2026-11-01",
+   "locations": [
+    "Alexandria, VA, US",
+    "Atlanta, GA, US",
+    "Austin, TX, US",
+    "Boston, MA, US",
+    "Boulder, CO, US",
+    "Brooklyn, NY, US",
+    "Chicago, IL, US",
+    "Dallas, TX, US",
+    "Fort Lauderdale, FL, US",
+    "Hartford, CT, US",
+    "Houston, TX, US",
+    "Las Vegas, NV, US",
+    "Los Angeles, CA, US",
+    "Oakland, CA, US",
+    "Olympia, WA, US",
+    "Philadelphia, PA, US",
+    "Phoenix, AZ, US",
+    "Portland, OR, US",
+    "Sacramento, CA, US",
+    "Salt Lake City, UT, US",
+    "San Antonio, TX, US",
+    "San Diego, CA, US"
+   ],
+   "employmentType": "CONTRACTOR",
+   "via": "jsonld",
+   "company": "Lugg",
+   "website": "lugg.com",
+   "src": "yc",
+   "page": "https://lugg.com/mover/jobs/become-a-lugger",
+   "crawledAt": 1794190226815
+  },
+  {
+   "title": "{{ product.displayName }}",
+   "url": "https://www.deako.com/careers/%7B%7B%20product.url%20%7D%7D",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Deako",
+   "website": "deako.com",
+   "src": "yc",
+   "page": "https://www.deako.com/",
+   "crawledAt": 1794190243209
+  },
+  {
+   "title": "Senior User Acquisition Manager (Mobile, Subscription Apps) Ukraine, USA and worldwide UUaw",
+   "url": "https://petcube.com/careers/senior-user-acquisition-manager-mobile-subscription-apps/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Petcube",
+   "website": "petcube.com",
+   "src": "yc",
+   "page": "https://petcube.com/careers/",
+   "crawledAt": 1794190278520
+  },
+  {
+   "title": "User Acquisition Manager Remote R",
+   "url": "https://petcube.com/careers/user-acquisition-manager-2/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Petcube",
+   "website": "petcube.com",
+   "src": "yc",
+   "page": "https://petcube.com/careers/",
+   "crawledAt": 1794190278520
+  },
+  {
+   "title": "Creative Strategist Remote R",
+   "url": "https://petcube.com/careers/creative-strategist/",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Petcube",
+   "website": "petcube.com",
+   "src": "yc",
+   "page": "https://petcube.com/careers/",
+   "crawledAt": 1794190278520
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
