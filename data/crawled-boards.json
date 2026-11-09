@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:49:05.991Z",
+ "generated": "2026-11-09T02:53:50.207Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4502,
+  "no-ats": 4501,
   "down": 983,
-  "site": 180
+  "site": 181
  },
  "byType": {
   "dover": 7,
@@ -15023,6 +15023,30 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
    "crawledAt": 1794192498229
+  },
+  {
+   "title": "Customer Success Manager",
+   "url": "https://www.ycombinator.com/companies/quadrant-health/jobs/JaGyNRA-customer-success-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Quadrant Health",
+   "website": "quadrant.health",
+   "src": "yc",
+   "page": "https://quadrant.health/jobs",
+   "crawledAt": 1794192617476
+  },
+  {
+   "title": "Full Stack Engineer",
+   "url": "https://www.ycombinator.com/companies/quadrant-health/jobs/GcmJ5pT-full-stack-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Quadrant Health",
+   "website": "quadrant.health",
+   "src": "yc",
+   "page": "https://quadrant.health/jobs",
+   "crawledAt": 1794192617476
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
