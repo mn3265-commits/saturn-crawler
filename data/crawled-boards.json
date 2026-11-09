@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T07:34:05.248Z",
- "companies": 7493,
+ "generated": "2026-11-09T07:37:45.478Z",
+ "companies": 7494,
  "status": {
-  "found": 1698,
+  "found": 1700,
   "down": 983,
-  "no-ats": 4265,
-  "site": 547
+  "no-ats": 4259,
+  "site": 552
  },
  "byType": {
   "dover": 7,
@@ -19,7 +19,7 @@
   "bamboohr": 83,
   "smartrecruiters": 11,
   "recruitee": 14,
-  "icims": 26,
+  "icims": 28,
   "oracle": 11,
   "eightfold": 11,
   "successfactors": 2
@@ -9753,6 +9753,15 @@
    "src": "nyc"
   },
   {
+   "type": "icims",
+   "token": "encorefireprotection",
+   "url": "careers-encorefireprotection.icims.com",
+   "label": "Encore Fire Protection",
+   "website": "encorefireprotection.com",
+   "page": "https://careers-encorefireprotection.icims.com/jobs/search?hashed=-625912811&",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "equitymultiple",
    "label": "EquityMultiple",
@@ -9870,6 +9879,15 @@
    "label": "ExtraHop",
    "website": "extrahop.com",
    "page": "https://www.extrahop.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
+   "token": "enerpac",
+   "url": "careers-enerpac.icims.com",
+   "label": "Enerpac Tool Group",
+   "website": "enerpactoolgroup.com",
+   "page": "https://careers.enerpactoolgroup.com/rewards",
    "src": "nyc"
   },
   {
@@ -48245,6 +48263,34 @@
    "crawledAt": 1794158424874
   },
   {
+   "title": "Strategic Account Manager",
+   "url": "https://getequiem.com/careers#strategic-account-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Equiem",
+   "website": "getequiem.com",
+   "src": "nyc",
+   "page": "https://getequiem.com/careers",
+   "crawledAt": 1794209710219
+  },
+  {
+   "title": "Chief Relationship Officer",
+   "url": "https://egamigroup.com/careers/#chief-relationship-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "EGAMI Group",
+   "website": "egamigroup.com",
+   "src": "nyc",
+   "page": "https://egamigroup.com/careers/",
+   "crawledAt": 1794209748662
+  },
+  {
    "title": "Central Operations Careers",
    "url": "https://www.everlaw.com/careers/operations/",
    "datePosted": null,
@@ -48293,6 +48339,104 @@
    "crawledAt": 1794158434250
   },
   {
+   "title": "Software Engineer",
+   "url": "https://fadel.com/careers/#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "FADEL",
+   "website": "fadel.com",
+   "src": "nyc",
+   "page": "https://fadel.com/careers/",
+   "crawledAt": 1794209774794
+  },
+  {
+   "title": "Database Developer",
+   "url": "https://fadel.com/careers/#database-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "FADEL",
+   "website": "fadel.com",
+   "src": "nyc",
+   "page": "https://fadel.com/careers/",
+   "crawledAt": 1794209774794
+  },
+  {
+   "title": "Senior CloudOps Engineer",
+   "url": "https://fadel.com/careers/#senior-cloudops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "FADEL",
+   "website": "fadel.com",
+   "src": "nyc",
+   "page": "https://fadel.com/careers/",
+   "crawledAt": 1794209774794
+  },
+  {
+   "title": "Software Engineer – Python & JAVA",
+   "url": "https://fadel.com/careers/#software-engineer-python-java",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "FADEL",
+   "website": "fadel.com",
+   "src": "nyc",
+   "page": "https://fadel.com/careers/",
+   "crawledAt": 1794209774794
+  },
+  {
+   "title": "Account Coordinator",
+   "url": "https://www.exubrancy.com/work-with-us#account-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Exubrancy",
+   "website": "exubrancy.com",
+   "src": "nyc",
+   "page": "https://www.exubrancy.com/work-with-us",
+   "crawledAt": 1794209796415
+  },
+  {
+   "title": "Account Manager",
+   "url": "https://www.exubrancy.com/work-with-us#account-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Exubrancy",
+   "website": "exubrancy.com",
+   "src": "nyc",
+   "page": "https://www.exubrancy.com/work-with-us",
+   "crawledAt": 1794209796415
+  },
+  {
+   "title": "Business Development Intern",
+   "url": "https://www.exubrancy.com/work-with-us#business-development-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "text",
+   "company": "Exubrancy",
+   "website": "exubrancy.com",
+   "src": "nyc",
+   "page": "https://www.exubrancy.com/work-with-us",
+   "crawledAt": 1794209796415
+  },
+  {
    "title": "Communities Program Manager Konstantina Papadea on building strong communities through genuine engagement",
    "url": "https://blog.mozilla.org/careers/communities-program-manager-konstantina-papadea-on-building-strong-communities-through-genuine-engagement/",
    "datePosted": null,
@@ -48327,6 +48471,62 @@
    "src": "nyc",
    "page": "https://blog.mozilla.org/careers/",
    "crawledAt": 1794158471133
+  },
+  {
+   "title": "TEST ENGINEER",
+   "url": "https://cerebrumx.ai/company/careers/#test-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "CEREBRUMX",
+   "website": "cerebrumx.ai",
+   "src": "nyc",
+   "page": "https://cerebrumx.ai/company/careers/",
+   "crawledAt": 1794209865282
+  },
+  {
+   "title": "ANGULAR FRONT-END SENIOR DEVELOPER",
+   "url": "https://cerebrumx.ai/company/careers/#angular-front-end-senior-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "CEREBRUMX",
+   "website": "cerebrumx.ai",
+   "src": "nyc",
+   "page": "https://cerebrumx.ai/company/careers/",
+   "crawledAt": 1794209865282
+  },
+  {
+   "title": "TECHNICAL PROJECT MANAGER",
+   "url": "https://cerebrumx.ai/company/careers/#technical-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "CEREBRUMX",
+   "website": "cerebrumx.ai",
+   "src": "nyc",
+   "page": "https://cerebrumx.ai/company/careers/",
+   "crawledAt": 1794209865282
+  },
+  {
+   "title": "PRODUCT MANAGER- AUTOMOTIVE DOMAIN",
+   "url": "https://cerebrumx.ai/company/careers/#product-manager-automotive-domain",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "CEREBRUMX",
+   "website": "cerebrumx.ai",
+   "src": "nyc",
+   "page": "https://cerebrumx.ai/company/careers/",
+   "crawledAt": 1794209865282
   },
   {
    "title": "Senior Content Designer",
