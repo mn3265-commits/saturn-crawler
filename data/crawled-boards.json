@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-09T01:28:27.185Z",
+ "generated": "2026-11-09T01:31:57.999Z",
  "companies": 7280,
  "status": {
-  "found": 1592,
-  "no-ats": 4556,
+  "found": 1595,
+  "no-ats": 4553,
   "down": 983,
   "site": 149
  },
  "byType": {
   "dover": 7,
   "ashby": 599,
-  "lever": 142,
+  "lever": 143,
   "gh": 492,
-  "gem": 56,
+  "gem": 57,
   "workable": 103,
   "rippling": 91,
   "bamboohr": 78,
   "smartrecruiters": 9,
   "recruitee": 13,
-  "workday": 86
+  "workday": 87
  },
  "boards": [
   {
@@ -12622,6 +12622,14 @@
    "src": "nyc"
   },
   {
+   "type": "gem",
+   "token": "superblocks",
+   "label": "Superblocks",
+   "website": "superblocks.com",
+   "page": "https://www.superblocks.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "studypoint",
    "label": "StudyPoint",
@@ -12659,6 +12667,14 @@
    "label": "Surgimate",
    "website": "surgimate.com",
    "page": "https://www.surgimate.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "sunshinesachs",
+   "label": "Sunshine Sachs Morgan & Lylis",
+   "website": "ssmandl.com",
+   "page": "https://ssmandl.com/careers/",
    "src": "nyc"
   },
   {
@@ -12731,6 +12747,14 @@
    "label": "Taktile",
    "website": "taktile.com",
    "page": "https://taktile.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "wwwinc.wd1.myworkdayjobs.com",
+   "label": "Sweaty Betty",
+   "website": "sweatybetty.com",
+   "page": "https://www.sweatybetty.com/",
    "src": "nyc"
   },
   {
