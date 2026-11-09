@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T05:49:33.130Z",
+ "generated": "2026-11-09T05:52:26.483Z",
  "companies": 7313,
  "status": {
   "found": 1640,
-  "no-ats": 4369,
+  "no-ats": 4363,
   "down": 983,
-  "site": 321
+  "site": 327
  },
  "byType": {
   "dover": 7,
@@ -22910,6 +22910,332 @@
    "src": "yc",
    "page": "https://manicule.com/careers",
    "crawledAt": 1794203360475
+  },
+  {
+   "title": "QA Engineer",
+   "url": "https://www.ycombinator.com/companies/astraea/jobs/B99nCmA-qa-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Astraea",
+   "website": "tryastraea.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/astraea/jobs",
+   "crawledAt": 1794203471958
+  },
+  {
+   "title": "Founding GTM Lead",
+   "url": "https://www.ycombinator.com/companies/astraea/jobs/FPEy38E-founding-gtm-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Astraea",
+   "website": "tryastraea.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/astraea/jobs",
+   "crawledAt": 1794203471958
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/astraea/jobs/Pv0rNPd-founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Astraea",
+   "website": "tryastraea.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/astraea/jobs",
+   "crawledAt": 1794203471958
+  },
+  {
+   "title": "Founding AI engineer - Paris",
+   "url": "https://www.ycombinator.com/companies/huscarl/jobs/svTBnyf-founding-ai-engineer-paris",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Huscarl",
+   "website": "huscarl.io",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/huscarl/jobs",
+   "crawledAt": 1794203483436
+  },
+  {
+   "title": "Founding Business Lead - Paris",
+   "url": "https://www.ycombinator.com/companies/huscarl/jobs/KPgPO4F-founding-business-lead-paris",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Huscarl",
+   "website": "huscarl.io",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/huscarl/jobs",
+   "crawledAt": 1794203483436
+  },
+  {
+   "title": "Principal Engineer, Embedded Systems",
+   "url": "https://app.notion.com/p/Principal-Engineer-Embedded-Systems-3d80855c9448815d904dc12866b1388b?source=copy_link",
+   "datePosted": "2026-09-11T16:08:41Z",
+   "locations": [
+    "Palo Alto, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Mechanical Engineer",
+   "url": "https://app.notion.com/p/Mechanical-Engineer-3d80855c9448810c8711d547142929bc?source=copy_link",
+   "datePosted": "2026-09-11T15:56:44Z",
+   "locations": [
+    "Palo Alto, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Electrical Engineer",
+   "url": "https://app.notion.com/p/Electrical-Engineer-3d80855c944881ddb0aac9ab9d254732?source=copy_link",
+   "datePosted": "2026-09-11T15:42:50Z",
+   "locations": [
+    "Palo Alto, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Firmware Engineer",
+   "url": "https://app.notion.com/p/Firmware-Engineer-3d80855c9448813398a4e914852bb8ea?source=copy_link",
+   "datePosted": "2026-09-11T15:51:22Z",
+   "locations": [
+    "Palo Alto, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://app.notion.com/p/Software-Engineer-3d80855c944881a8b2b1e222cef7fb49?source=copy_link",
+   "datePosted": "2026-09-11T15:53:29Z",
+   "locations": [
+    "Palo Alto, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Supply Chain Engineer",
+   "url": "https://app.notion.com/p/Supply-Chain-Engineer-3dc0855c944880b88a25d032f703cd75?source=copy_link",
+   "datePosted": "2026-09-18T17:55:02Z",
+   "locations": [
+    "Palo Alto, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Senior Field Engineer",
+   "url": "https://app.notion.com/p/Field-Engineer-3d80855c9448819bb725d0dd7e1eb533?source=copy_link",
+   "datePosted": "2026-10-08T13:12:06Z",
+   "locations": [
+    "Kyiv, UA"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Mechanical Prototyper",
+   "url": "https://app.notion.com/p/Mechanical-Prototyper-3ff0855c944880719768f0a1bf641012?source=copy_link",
+   "datePosted": "2026-10-21T09:18:30Z",
+   "locations": [
+    "Kyiv, UA"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://app.notion.com/p/Software-Engineer-4020855c9448806fbb2dd97a952d13e3?source=copy_link",
+   "datePosted": "2026-10-25T18:16:10Z",
+   "locations": [
+    "Kyiv, UA"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Edgerun",
+   "website": "edgerun.com",
+   "src": "yc",
+   "page": "https://www.edgerun.com/careers",
+   "crawledAt": 1794203487225
+  },
+  {
+   "title": "Robotics Intern",
+   "url": "https://www.ycombinator.com/companies/intelligence-factory/jobs/wECFMfP-robotics-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "Intelligence Factory",
+   "website": "intelligence-factory.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
+   "crawledAt": 1794203489380
+  },
+  {
+   "title": "Electronics Engineer (India)",
+   "url": "https://www.ycombinator.com/companies/intelligence-factory/jobs/pN7uLK1-electronics-engineer-india",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Intelligence Factory",
+   "website": "intelligence-factory.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
+   "crawledAt": 1794203489380
+  },
+  {
+   "title": "Founding Engineer: Manipulation",
+   "url": "https://www.ycombinator.com/companies/intelligence-factory/jobs/gTQaSpW-founding-engineer-manipulation",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Intelligence Factory",
+   "website": "intelligence-factory.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
+   "crawledAt": 1794203489380
+  },
+  {
+   "title": "Physical Infrastructure Engineer (any discipline)",
+   "url": "https://www.ycombinator.com/companies/torus/jobs/7TMYD7B-physical-infrastructure-engineer-any-discipline",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Torus",
+   "website": "usetorus.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/torus/jobs",
+   "crawledAt": 1794203513011
+  },
+  {
+   "title": "Electrical Engineer",
+   "url": "https://www.ycombinator.com/companies/torus/jobs/kNWpYEu-electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Torus",
+   "website": "usetorus.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/torus/jobs",
+   "crawledAt": 1794203513011
+  },
+  {
+   "title": "AI Engineer (interested in physical infrastructure)",
+   "url": "https://www.ycombinator.com/companies/torus/jobs/jIERZ3O-ai-engineer-interested-in-physical-infrastructure",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Torus",
+   "website": "usetorus.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/torus/jobs",
+   "crawledAt": 1794203513011
+  },
+  {
+   "title": "Member of Technical Staff, Intern Technical Staff · San Francisco, CA · Internship · On-site",
+   "url": "https://careers.belvedir.ai/jobs/member-of-technical-staff-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "Belvedir",
+   "website": "belvedir.ai",
+   "src": "yc",
+   "page": "https://careers.belvedir.ai/",
+   "crawledAt": 1794203542265
+  },
+  {
+   "title": "Chief of Staff Operations · San Francisco, CA · Full time · On-site",
+   "url": "https://careers.belvedir.ai/jobs/chief-of-staff",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Belvedir",
+   "website": "belvedir.ai",
+   "src": "yc",
+   "page": "https://careers.belvedir.ai/",
+   "crawledAt": 1794203542265
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
