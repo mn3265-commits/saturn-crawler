@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-09T01:46:40.931Z",
+ "generated": "2026-11-09T01:50:24.515Z",
  "companies": 7280,
  "status": {
-  "found": 1607,
-  "no-ats": 4538,
+  "found": 1608,
+  "no-ats": 4537,
   "down": 983,
   "site": 152
  },
@@ -14,7 +14,7 @@
   "gh": 495,
   "gem": 57,
   "workable": 104,
-  "rippling": 93,
+  "rippling": 94,
   "bamboohr": 82,
   "smartrecruiters": 9,
   "recruitee": 14,
@@ -13251,6 +13251,14 @@
    "label": "Very Good Ventures",
    "website": "verygood.ventures",
    "page": "https://verygood.ventures/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "label": "Vcheck",
+   "website": "vcheckglobal.com",
+   "page": "https://vcheckglobal.com/careers/",
    "src": "nyc"
   },
   {
