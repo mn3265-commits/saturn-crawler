@@ -135,7 +135,7 @@ function universe(yc, nyc, dw, seeds, nycU = {}) {
   for (const c of nycU.companies || []) add(c.name, c.website, 'nyc');
   for (const c of yc) if (c.status === 'Active' && /United States|USA|Remote/i.test(JSON.stringify(c.all_locations || ''))) add(c.name, c.website, 'yc');
   for (const e of nyc.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'nyc-startups'); }
-  for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }   // data/crawl-seeds.json: his finds + lookalikes
+  for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }   // data/crawl-seeds.json: seed companies + lookalikes
   for (const e of [...(dw.companies || dw.watch || []), ...(Array.isArray(dw) ? dw : [])]) add(e.company || e.name, e.website || e.site || e.domain, 'diaspora-watch');
   return [...m.values()];
 }
