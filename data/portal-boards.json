@@ -1,14 +1,18 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-09-29T07:20:54.981Z",
+ "generated": "2026-11-09T04:10:35.418Z",
  "counts": {
-  "successfactors": 33,
-  "phenom": 19,
-  "jibe": 12,
-  "oracle": 28,
+  "successfactors": 41,
+  "phenom": 24,
+  "jibe": 19,
+  "oracle": 39,
   "avature": 3,
   "tiktok": 1,
-  "tencent": 1
+  "tencent": 1,
+  "amazon": 1,
+  "microsoft": 1,
+  "google": 1,
+  "apple": 1
  },
  "boards": [
   {
@@ -1058,6 +1062,332 @@
    "industry": "consumer tech",
    "type": "apple",
    "verified": "2026-10-05 public career-site JSON answers (see src-portals.mjs)"
+  },
+  {
+   "company": "Liberty Latin America",
+   "group": "telco",
+   "tier": 2,
+   "industry": "telco",
+   "type": "jibe",
+   "base": "https://careers.lla.com",
+   "jobs": 39,
+   "verified": "jibe portal answers (39 jobs)"
+  },
+  {
+   "company": "Altice USA",
+   "group": "telco",
+   "tier": 1,
+   "industry": "telco/cable",
+   "type": "successfactors",
+   "base": "https://www.optimumcareers.com",
+   "jobs": 177,
+   "verified": "successfactors portal answers (177 jobs)"
+  },
+  {
+   "company": "Atos",
+   "group": "global",
+   "tier": 2,
+   "industry": "consulting/IT",
+   "type": "successfactors",
+   "base": "https://jobs.atos.net",
+   "jobs": 481,
+   "verified": "successfactors portal answers (481 jobs)"
+  },
+  {
+   "company": "Schneider Electric",
+   "group": "global",
+   "tier": 2,
+   "industry": "industrial",
+   "type": "jibe",
+   "base": "https://careers.se.com",
+   "jobs": 3934,
+   "verified": "jibe portal answers (3934 jobs)"
+  },
+  {
+   "company": "Boston Consulting Group",
+   "group": "private",
+   "tier": 1,
+   "industry": "consulting",
+   "type": "phenom",
+   "base": "https://careers.bcg.com",
+   "locale": "global/en",
+   "jobs": 50,
+   "verified": "phenom portal answers (50 jobs)"
+  },
+  {
+   "company": "EY",
+   "group": "private",
+   "tier": 1,
+   "industry": "consulting",
+   "type": "successfactors",
+   "base": "https://careers.ey.com",
+   "jobs": 8853,
+   "verified": "successfactors portal answers (8853 jobs)"
+  },
+  {
+   "company": "Camden Property Trust",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "ehap.fa.us2.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 57,
+   "verified": "oracle portal answers (57 jobs)"
+  },
+  {
+   "company": "Charles River Laboratories",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://careers.criver.com",
+   "jobs": 388,
+   "verified": "successfactors portal answers (388 jobs)"
+  },
+  {
+   "company": "Consolidated Edison",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "ejcu.fa.us6.oraclecloud.com",
+   "site": "CX_1033",
+   "jobs": 66,
+   "verified": "oracle portal answers (66 jobs)"
+  },
+  {
+   "company": "Corning Inc.",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "phenom",
+   "base": "https://careers.corning.com",
+   "locale": "us/en",
+   "jobs": 50,
+   "verified": "phenom portal answers (50 jobs)"
+  },
+  {
+   "company": "Coherent Corp.",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "hcwp.fa.us2.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 323,
+   "verified": "oracle portal answers (323 jobs)"
+  },
+  {
+   "company": "Carnival Corporation",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "eicl.fa.em5.oraclecloud.com",
+   "site": "CORP",
+   "jobs": 218,
+   "verified": "oracle portal answers (218 jobs)"
+  },
+  {
+   "company": "Exelon",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "jibe",
+   "base": "https://jobs.exeloncorp.com",
+   "jobs": 106,
+   "verified": "jibe portal answers (106 jobs)"
+  },
+  {
+   "company": "FirstEnergy",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 333,
+   "verified": "oracle portal answers (333 jobs)"
+  },
+  {
+   "company": "ON Semiconductor",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "hctz.fa.us2.oraclecloud.com",
+   "site": "CX_1001",
+   "jobs": 717,
+   "verified": "oracle portal answers (717 jobs)"
+  },
+  {
+   "company": "Royal Caribbean Group",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://jobs.royalcaribbeangroup.com",
+   "jobs": 253,
+   "verified": "successfactors portal answers (253 jobs)"
+  },
+  {
+   "company": "Thermo Fisher Scientific",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "phenom",
+   "base": "https://jobs.thermofisher.com",
+   "locale": "global/en",
+   "jobs": 50,
+   "verified": "phenom portal answers (50 jobs)"
+  },
+  {
+   "company": "Texas Instruments",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "edbz.fa.us2.oraclecloud.com",
+   "site": "CX",
+   "jobs": 907,
+   "verified": "oracle portal answers (907 jobs)"
+  },
+  {
+   "company": "Union Pacific Corporation",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://up.jobs",
+   "jobs": 83,
+   "verified": "successfactors portal answers (83 jobs)"
+  },
+  {
+   "company": "Waste Management",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "emcm.fa.us2.oraclecloud.com",
+   "site": "WMCareers",
+   "jobs": 1132,
+   "verified": "oracle portal answers (1132 jobs)"
+  },
+  {
+   "company": "West Pharmaceutical Services",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://careers.westpharma.com",
+   "jobs": 276,
+   "verified": "successfactors portal answers (276 jobs)"
+  },
+  {
+   "company": "Mount Sinai Health System",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "hospital",
+   "type": "jibe",
+   "base": "https://careers.mountsinai.org",
+   "jobs": 1689,
+   "verified": "jibe portal answers (1689 jobs)"
+  },
+  {
+   "company": "Southern Company",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "emje.fa.us6.oraclecloud.com",
+   "site": "SouthernCompanyJobs",
+   "jobs": 105,
+   "verified": "oracle portal answers (105 jobs)"
+  },
+  {
+   "company": "Duke University",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "university",
+   "type": "successfactors",
+   "base": "https://careers.duke.edu",
+   "jobs": 1118,
+   "verified": "successfactors portal answers (1118 jobs)"
+  },
+  {
+   "company": "UCLA",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "university",
+   "type": "jibe",
+   "base": "https://jobs.ucla.edu",
+   "jobs": 100,
+   "verified": "jibe portal answers (100 jobs)"
+  },
+  {
+   "company": "Emory University",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "university",
+   "type": "jibe",
+   "base": "https://careers.emory.edu",
+   "jobs": 1892,
+   "verified": "jibe portal answers (1892 jobs)"
+  },
+  {
+   "company": "Battelle",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "research nonprofit",
+   "type": "phenom",
+   "base": "https://jobs.battelle.org",
+   "locale": "us/en",
+   "jobs": 50,
+   "verified": "phenom portal answers (50 jobs)"
+  },
+  {
+   "company": "MITRE",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "research nonprofit",
+   "type": "phenom",
+   "base": "https://careers.mitre.org",
+   "locale": "us/en",
+   "jobs": 50,
+   "verified": "phenom portal answers (50 jobs)"
+  },
+  {
+   "company": "PepsiCo",
+   "group": "program",
+   "tier": 1,
+   "industry": "early-career program",
+   "type": "jibe",
+   "base": "https://www.pepsicojobs.com",
+   "jobs": 2504,
+   "verified": "jibe portal answers (2504 jobs)"
+  },
+  {
+   "company": "Vanderbilt University",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "university",
+   "type": "oracle",
+   "host": "ecsr.fa.us2.oraclecloud.com",
+   "site": "3",
+   "jobs": 126,
+   "verified": "oracle portal answers (126 jobs)"
+  },
+  {
+   "company": "Northwell Health",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "hospital",
+   "type": "oracle",
+   "host": "eppr.fa.us2.oraclecloud.com",
+   "site": "3810",
+   "jobs": 928,
+   "verified": "oracle portal answers (928 jobs)"
   }
  ]
 }
