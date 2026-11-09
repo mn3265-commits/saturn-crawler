@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T05:54:55.370Z",
+ "generated": "2026-11-09T05:57:12.406Z",
  "companies": 7313,
  "status": {
   "found": 1640,
-  "no-ats": 4362,
+  "no-ats": 4361,
   "down": 983,
-  "site": 328
+  "site": 329
  },
  "byType": {
   "dover": 7,
@@ -23250,6 +23250,20 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mochi/jobs",
    "crawledAt": 1794203677049
+  },
+  {
+   "title": "Founding Engineer London, in person →",
+   "url": "https://www.whitespacehq.ai/careers/founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Whitespace",
+   "website": "whitespacehq.ai",
+   "src": "yc",
+   "page": "https://www.whitespacehq.ai/careers",
+   "crawledAt": 1794203821717
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
