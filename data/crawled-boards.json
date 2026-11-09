@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-09T06:33:13.722Z",
+ "generated": "2026-11-09T06:37:30.076Z",
  "companies": 7493,
  "status": {
-  "found": 1668,
-  "down": 1052,
-  "no-ats": 4352,
-  "site": 421
+  "found": 1672,
+  "down": 1032,
+  "no-ats": 4366,
+  "site": 423
  },
  "byType": {
   "dover": 7,
   "ashby": 606,
-  "workday": 107,
+  "workday": 108,
   "lever": 147,
-  "gh": 499,
+  "gh": 500,
   "gem": 58,
   "workable": 106,
   "rippling": 94,
@@ -21,7 +21,7 @@
   "recruitee": 14,
   "eightfold": 10,
   "icims": 15,
-  "oracle": 2,
+  "oracle": 4,
   "successfactors": 2
  },
  "boards": [
@@ -13916,12 +13916,37 @@
   },
   {
    "type": "workday",
+   "token": "abglobal.wd1.myworkdayjobs.com",
+   "url": "abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers",
+   "site": "alliancebernsteincareers",
+   "label": "AllianceBernstein",
+   "website": "alliancebernstein.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
    "token": "ag.wd3.myworkdayjobs.com",
    "url": "ag.wd3.myworkdayjobs.com/Airbus",
    "site": "Airbus",
    "label": "Airbus",
    "website": "airbus.com",
    "page": "https://www.airbus.com/jobs",
+   "src": "chrome-only"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WarbyParkerCareers",
+   "label": "Warby Parker",
+   "website": "warbyparker.com",
+   "src": "chrome-only"
+  },
+  {
+   "type": "gh",
+   "token": "goatgroup",
+   "url": "job-boards.greenhouse.io/goatgroup",
+   "label": "Goat",
+   "website": "goat.com",
    "src": "chrome-only"
   },
   {
@@ -14186,6 +14211,15 @@
    "label": "Simons Foundation",
    "website": "simonsfoundation.org",
    "page": "https://www.simonsfoundation.org/open-positions/",
+   "src": "chrome-only"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-exuf-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-exuf-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "Stanford University",
+   "website": "stanford.edu",
+   "page": "https://careered.stanford.edu/",
    "src": "chrome-only"
   }
  ],
@@ -44326,6 +44360,32 @@
    "crawledAt": 1794197238155
   },
   {
+   "title": "Account management",
+   "url": "https://www.ericsson.com/en/careers/account-management",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Ericsson",
+   "website": "ericsson.com",
+   "src": "chrome-only",
+   "crawledAt": 1794206210059
+  },
+  {
+   "title": "Marketing and communications",
+   "url": "https://www.ericsson.com/en/careers/marketing-and-communications",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Ericsson",
+   "website": "ericsson.com",
+   "src": "chrome-only",
+   "crawledAt": 1794206210059
+  },
+  {
    "title": "Gross to Net Program-Managing Director",
    "url": "https://www.danone.com/careers.html#gross-to-net-program-managing-director",
    "datePosted": null,
@@ -46060,6 +46120,146 @@
    "src": "chrome-only",
    "page": "https://hr.northwestern.edu/careers/",
    "crawledAt": 1794205785100
+  },
+  {
+   "title": "Software Support Specialist",
+   "url": "https://www.tylertech.com/careers/job-listings/software-support-specialist-26-25537-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Implementation Consultant - Enforcement Mobile",
+   "url": "https://www.tylertech.com/careers/job-listings/implementation-consultant-enforcement-mobile-26-25712-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Implementation Consultant, ERP, National",
+   "url": "https://www.tylertech.com/careers/job-listings/implementation-consultant-erp-national-26-25965-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.tylertech.com/careers/job-listings/software-engineer-26-26159-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Clerical Lead",
+   "url": "https://www.tylertech.com/careers/job-listings/clerical-lead-26-26168-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Clerical Lead",
+   "url": "https://www.tylertech.com/careers/job-listings/clerical-lead-26-oid1afwg-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Supervisory Team Lead - Technical Recruiting",
+   "url": "https://www.tylertech.com/careers/job-listings/supervisory-team-lead-technical-recruiting-26-26043-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Business Development Representative - ERP Pro",
+   "url": "https://www.tylertech.com/careers/job-listings/business-development-representative-erp-pro-26-owfzafwu-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Business Development Representative - ERP Pro",
+   "url": "https://www.tylertech.com/careers/job-listings/business-development-representative-erp-pro-26-oquzafw3-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
+  },
+  {
+   "title": "Associate Software Support Specialist",
+   "url": "https://www.tylertech.com/careers/job-listings/associate-software-support-specialist-26-26046-01",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Tyler Technologies",
+   "website": "tylertech.com",
+   "src": "chrome-only",
+   "page": "https://www.tylertech.com/careers/job-openings",
+   "crawledAt": 1794206140780
   }
  ]
 }
