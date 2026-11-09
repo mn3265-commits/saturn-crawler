@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-09T01:31:57.999Z",
+ "generated": "2026-11-09T01:39:16.889Z",
  "companies": 7280,
  "status": {
-  "found": 1595,
-  "no-ats": 4553,
+  "found": 1597,
+  "no-ats": 4549,
   "down": 983,
-  "site": 149
+  "site": 151
  },
  "byType": {
   "dover": 7,
   "ashby": 599,
   "lever": 143,
-  "gh": 492,
+  "gh": 493,
   "gem": 57,
   "workable": 103,
   "rippling": 91,
-  "bamboohr": 78,
+  "bamboohr": 79,
   "smartrecruiters": 9,
   "recruitee": 13,
   "workday": 87
@@ -12806,6 +12806,14 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "taxbit",
+   "label": "TaxBit",
+   "website": "taxbit.com",
+   "page": "https://www.taxbit.com/company/careers?hsLang=en",
+   "src": "nyc"
+  },
+  {
    "type": "workday",
    "token": "stellamccartney.wd3.myworkdayjobs.com",
    "label": "Stella McCartney",
@@ -12827,6 +12835,14 @@
    "label": "Teza Technologies",
    "website": "teza.com",
    "page": "https://www.teza.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "thecallgurus",
+   "label": "The Call Gurus",
+   "website": "thecallgurus.com",
+   "page": "https://www.thecallgurus.com/",
    "src": "nyc"
   },
   {
@@ -27261,6 +27277,96 @@
    "crawledAt": 1794158960274
   },
   {
+   "title": "Senior Test Engineer - Salesforce",
+   "url": "https://testingmavens.com/careers/submit/senior-test-engineer-salesforce",
+   "datePosted": "2026-10-06",
+   "locations": [
+    "India"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Testing Mavens",
+   "website": "testingmavens.com",
+   "src": "nyc",
+   "page": "https://www.testingmavens.com/",
+   "crawledAt": 1794188073903
+  },
+  {
+   "title": "Senior Test Engineer - US Health Insurance",
+   "url": "https://testingmavens.com/careers/submit/senior-test-engineer-us-health",
+   "datePosted": "2026-10-06",
+   "locations": [
+    "India"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Testing Mavens",
+   "website": "testingmavens.com",
+   "src": "nyc",
+   "page": "https://www.testingmavens.com/",
+   "crawledAt": 1794188073903
+  },
+  {
+   "title": "Test Engineer/ Senior Test Engineer - ETL",
+   "url": "https://testingmavens.com/careers/submit/test-engineer-senior-test-engineer-3",
+   "datePosted": "2026-10-06",
+   "locations": [
+    "India"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Testing Mavens",
+   "website": "testingmavens.com",
+   "src": "nyc",
+   "page": "https://www.testingmavens.com/",
+   "crawledAt": 1794188073903
+  },
+  {
+   "title": "Test Engineer / Senior Test Engineer - Manual + Data",
+   "url": "https://testingmavens.com/careers/submit/test-engineer-senior-test-engineer-4",
+   "datePosted": "2026-10-06",
+   "locations": [
+    "India"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Testing Mavens",
+   "website": "testingmavens.com",
+   "src": "nyc",
+   "page": "https://www.testingmavens.com/",
+   "crawledAt": 1794188073903
+  },
+  {
+   "title": "Test Lead - US Health Insurance",
+   "url": "https://testingmavens.com/careers/submit/test-lead-us-health-insurance",
+   "datePosted": "2026-10-06",
+   "locations": [
+    "India"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Testing Mavens",
+   "website": "testingmavens.com",
+   "src": "nyc",
+   "page": "https://www.testingmavens.com/",
+   "crawledAt": 1794188073903
+  },
+  {
+   "title": "Senior Test Engineer - Manual + Mobile",
+   "url": "https://testingmavens.com/careers/submit/senior-test-engineer-manual-mobile-1",
+   "datePosted": "2026-10-05",
+   "locations": [
+    "India"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Testing Mavens",
+   "website": "testingmavens.com",
+   "src": "nyc",
+   "page": "https://www.testingmavens.com/",
+   "crawledAt": 1794188073903
+  },
+  {
    "title": "Customer Account Manager (New England)",
    "url": "https://www.tenna.com/careers/posting/",
    "datePosted": null,
@@ -27271,6 +27377,138 @@
    "src": "nyc",
    "page": "https://www.tenna.com/careers/",
    "crawledAt": 1794158959885
+  },
+  {
+   "title": "Associate / Senior Associate – Operations",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646392",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Senior Manager, Business Development - Solar Panel Recycling Lead",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645325",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Manager, Business Development (Commercial)",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4642795",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Manager, Business Development - Commercial",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640156",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Senior Manager, Creative",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4614478",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Associate, Account Management",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4607515",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Warehouse Associate - Disassembly",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4093880",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Senior Manager, Business Development - West Coast",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4006595",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Senior Manager, Business Development - Mountain West",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4006478",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Warehouse Associate - Disassembly",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3120128",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
+  },
+  {
+   "title": "Associate, Warehouse - Consolidation",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2306237",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "TerraCycle",
+   "website": "terracycle.com",
+   "src": "nyc",
+   "page": "https://www.terracycle.com/en-US/",
+   "crawledAt": 1794188312650
   },
   {
    "title": "Associate Sales Representative",
