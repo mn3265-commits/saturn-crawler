@@ -5,6 +5,7 @@ name: sweep
 on:
   schedule: [{ cron: '30 1,4,7,10,13,16,19,22 * * *' }]
   workflow_dispatch:
+  workflow_run: { workflows: [sources], types: [completed] }   # 2026-11-09: the new cron did not fire; chain after every sources run too
 permissions: { contents: write }
 concurrency: { group: sweep, cancel-in-progress: false }
 jobs:

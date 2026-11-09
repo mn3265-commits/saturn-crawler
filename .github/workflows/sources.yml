@@ -30,4 +30,4 @@ jobs:
         timeout-minutes: 45
       - name: upload
         if: always()
-        run: ls -la data/sources && gh release upload sources data/sources/*.json.gz --clobber
+        run: ls -la data/sources && rm -f data/sources/sweep.json.gz && gh release upload sources data/sources/*.json.gz --clobber   # 2026-11-09: never re-upload the sweep asset it downloaded (sweep.yml owns it; this clobbered fresh sweeps with stale ones)
