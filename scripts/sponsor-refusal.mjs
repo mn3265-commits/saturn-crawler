@@ -7,6 +7,7 @@ export const REFUSALS = [
   /\b(?:must|required to|need to)\s+be\s+(?:currently\s+|legally\s+)*(?:authorized|eligible)[^?!]{0,90}?\bwithout\s+(?:the\s+need\s+for\s+|requiring\s+|needing\s+)?(?:current\s+or\s+future\s+|now\s+or\s+in\s+the\s+future\s+)?(?:visa\s+|employer\s+|employment\s+|company\s+)?sponsor/i,
   /\bonly\s+(?:u\.?s\.?\s+)?citizens\b|\bu\.?s\.?\s+citizenship\s+(?:is\s+)?required\b/i,
   /not eligible for (?:(?:current|future|any|present)(?:\s+(?:or|and|\/)\s+(?:current|future))?\s+)?(?:visa |immigration |work )?(?:visa |immigration )?sponsorship/i,
+  /\b(?:will not|won'?t|cannot|do(?:es)? not)\s+(?:hire|consider|employ)\b[^.?!]{0,60}?\b(?:who|that)\s+(?:will\s+)?(?:need|require)s?\b[^.?!]{0,40}?\bsponsorship/i,
   /\bineligible for (?:(?:current|future|any)\s+(?:or\s+(?:current|future)\s+)?)?(?:(?:employment|visa|immigration|work)[- ])*(?:visa\s+)?sponsorship/i,
 ];
 export function findRefusal(text) {

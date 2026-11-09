@@ -22,6 +22,7 @@ export const CORE_FRESH = /\b(lifecycle|crm|retention|loyalty|customer (?:market
 export const HEAVY_TECH = /\b(software|backend|back-end|front-?end|full[- ]?stack|ml|machine learning|deep learning|data engineer|data platform|infrastructure|platform|devops|sre|site reliability|firmware|embedded|hardware|mechanical|electrical|civil|chemical|structural|security engineer|cloud engineer|network engineer|compiler|kernel|robotics|research|scientist|ios|android|mobile)\b/i;
 export const LIGHT_TECH = t => /\bengineer/i.test(t || '') && !HEAVY_TECH.test(t || '') && !/\b(senior|sr\.?|staff|principal|lead|head|director|manager)\b/i.test(t || '')
   && (LOWER_RUNG(t) || /\b(implementation|solutions?|support|integration|automation|ai enablement|prompt|onboarding|customer|technical account|analytics|forward deployed|deployment|sales)\b/i.test(t || ''));
+export const PICKED_SEAT = t => /\brevenue architect\b/i.test(t || '') && !/\b(staff|principal|head|director|vp|vice president)\b/i.test(t || '');
 export const freshWindowDays = (company, { title = '', priority = false } = {}) =>
   capExempt(company) || multilateral(company) ? CAP_EXEMPT_DAYS : CORE_FRESH.test(title || '') ? CORE_DAYS : LOWER_RUNG(title) ? LOWER_DAYS : (priority || AI_TITLE.test(title || '')) ? PRIORITY_DAYS : RECENT_DAYS;
 

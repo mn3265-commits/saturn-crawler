@@ -49,6 +49,8 @@ export function careerLinks(html, base) {
 
 const ROLE_WORD = /\b(manager|lead|head|director|analyst|associate|specialist|strategist|coordinator|engineer|designer|scientist|marketer|marketing|product|growth|operations|ops|partnerships?|account|success|sales|recruiter|counsel|chief|officer|executive|intern|consultant|writer|editor|researcher|developer|architect|planner|producer|generalist|administrator|representative)\b/i;
 const JOB_PATH = /\/(?:careers?|jobs?|positions?|openings?|roles?|opportunities|vacancies|join(?:-us)?)\/[^/?#]*[a-z0-9-]{6,}/i;
+const JOB_HOST = /^(?:jobs|careers|apply|hire|hiring|talent|work|join)\./i;
+export const jobLink = u => { try { const x = new URL(u); return JOB_PATH.test(x.pathname) || JOB_HOST.test(x.hostname) && /\/[^/?#]*[a-z0-9-]{6,}/i.test(x.pathname); } catch { return false; } };
 const START_HINT = /\b(?:spring|winter|summer|fall|january|february|march)\s+20\d\d\b/i;
 export const linkType = t => (/\b(intern(?:ship)?|co-?op)\b/i.test(t) ? 'INTERN' : /\bfellow(?:ship)?\b/i.test(t) ? 'FELLOWSHIP' : /\bpart[- ]time\b/i.test(t) ? 'PART_TIME' : /\b(contract(?:or)?|temporary|temp|freelance)\b/i.test(t) ? 'CONTRACTOR' : null);
 export function siteJobs(html, base) {
@@ -66,8 +68,8 @@ export function siteJobs(html, base) {
   }
   if (!out.size) for (const m of String(html).matchAll(/<a\b[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]{3,300}?)<\/a>/gi)) {
     let u; try { u = new URL(m[1], base).href.split('?')[0]; } catch { continue; }
-    const text = m[2].replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&nbsp;|&#160;/g, ' ').replace(/\s+/g, ' ').trim();
-    if (!same(u) || !JOB_PATH.test(new URL(u).pathname) || /\/(solutions|blog|about|news|press|resources)\//i.test(new URL(u).pathname) || /\bjobs?$/i.test(text) ||   /* 2026-11-09 precision audit: 32% real; SEO 'X jobs' pages + /solutions/role/ links were junk */ text.length < 6 || text.length > 140 || !ROLE_WORD.test(text) || /^(view|see|apply|learn|all|open|explore|browse)\b/i.test(text)) continue;
+    const text = m[2].replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&nbsp;|&#160;/g, ' ').replace(/\s+/g, ' ').trim().replace(/\s+\$\s?\d[\d,.]*\s?[kK]?\b.*$/, '');
+    if (!same(u) || !jobLink(u) || /\/(solutions|blog|about|news|press|resources)\//i.test(new URL(u).pathname) || /\bjobs?$/i.test(text) ||   /* 2026-11-09 precision audit: 32% real; SEO 'X jobs' pages + /solutions/role/ links were junk */ text.length < 6 || text.length > 140 || !ROLE_WORD.test(text) || /^(view|see|apply|learn|all|open|explore|browse)\b/i.test(text)) continue;
     if (!out.has(u)) out.set(u, { title: text.slice(0, 120), url: u, datePosted: null, locations: [], employmentType: linkType(text), startDate: (text.match(START_HINT) || [])[0] || null, via: 'link' });
   }
   let path = ''; try { path = new URL(base).pathname; } catch {}
