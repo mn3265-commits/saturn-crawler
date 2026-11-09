@@ -35,7 +35,7 @@ export const BROAD_KEYWORDS = ['product manager', 'associate product manager', '
   'growth program manager', 'growth operations manager', 'growth strategy manager', 'growth strategy and operations', 'growth manager',
   'growth lead', 'growth initiatives', 'growth associate', 'growth operations associate', 'growth project manager',
   'contract marketing manager', 'contract product manager', 'CRM consultant contract', 'lifecycle marketing contract', 'part-time marketing manager',
-  'spring 2027 internship', 'january 2027 start', 'marketing fellowship', 'technology fellowship', 'product management internship 2027',
+  'spring 2027 internship', 'january 2027 start', 'january 2027 analyst', 'january 2027 associate', 'winter 2027', 'early 2027 start', 'marketing fellowship', 'technology fellowship', 'product management internship 2027',
   'solutions consultant', 'solutions engineer', 'technical account manager', 'implementation consultant', 'forward deployed',
   'AI automation', 'AI deployment', 'data analyst', 'business systems analyst', 'technical product manager',
   'data analyst intern', 'technology intern', 'AI engineer intern',
