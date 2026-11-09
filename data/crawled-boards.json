@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:25:45.863Z",
+ "generated": "2026-11-09T03:29:07.382Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4479,
+  "no-ats": 4477,
   "down": 983,
-  "site": 203
+  "site": 205
  },
  "byType": {
   "dover": 7,
@@ -16708,6 +16708,54 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ciro/jobs",
    "crawledAt": 1794194622311
+  },
+  {
+   "title": "Electrical Engineer",
+   "url": "https://airhartaero.com/careers/electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Airhart Aeronautics",
+   "website": "airhartaero.com",
+   "src": "yc",
+   "page": "https://airhartaero.com/careers",
+   "crawledAt": 1794194832492
+  },
+  {
+   "title": "Avionics Manufacturing Engineer II",
+   "url": "https://airhartaero.com/careers/manufacturing-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Airhart Aeronautics",
+   "website": "airhartaero.com",
+   "src": "yc",
+   "page": "https://airhartaero.com/careers",
+   "crawledAt": 1794194832492
+  },
+  {
+   "title": "Backend Engineer (AI-Native) — Risk Infrastructure & Integrations",
+   "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coris",
+   "website": "coris.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coris/jobs",
+   "crawledAt": 1794194864128
+  },
+  {
+   "title": "Chief of Staff",
+   "url": "https://www.ycombinator.com/companies/coris/jobs/I26T5Uv-chief-of-staff",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Coris",
+   "website": "coris.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/coris/jobs",
+   "crawledAt": 1794194864128
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
