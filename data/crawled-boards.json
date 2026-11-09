@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:15:11.894Z",
+ "generated": "2026-11-09T02:19:14.028Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4520,
+  "no-ats": 4519,
   "down": 983,
-  "site": 162
+  "site": 163
  },
  "byType": {
   "dover": 7,
@@ -13822,6 +13822,30 @@
    "src": "yc",
    "page": "https://petcube.com/careers/",
    "crawledAt": 1794190278520
+  },
+  {
+   "title": "Scaled Customer Success Manager",
+   "url": "https://www.hirenimble.com/roles/scaled-customer-success-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Nimble",
+   "website": "hirenimble.com",
+   "src": "yc",
+   "page": "https://app.hirenimble.com/jobs",
+   "crawledAt": 1794190729008
+  },
+  {
+   "title": "Senior Contract Software Engineer (Data & Platform)",
+   "url": "https://www.hirenimble.com/roles/senior-software-engineer-contract",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Nimble",
+   "website": "hirenimble.com",
+   "src": "yc",
+   "page": "https://app.hirenimble.com/jobs",
+   "crawledAt": 1794190729008
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
