@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T04:23:27.384Z",
+ "generated": "2026-11-09T04:26:13.301Z",
  "companies": 7313,
  "status": {
   "found": 1633,
-  "no-ats": 4457,
+  "no-ats": 4454,
   "down": 983,
-  "site": 240
+  "site": 243
  },
  "byType": {
   "dover": 7,
@@ -18308,6 +18308,76 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/stacksync/jobs",
    "crawledAt": 1794198173297
+  },
+  {
+   "title": "Growth Engineer",
+   "url": "https://www.ycombinator.com/companies/rove/jobs/bJWUbv2-growth-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Rove",
+   "website": "rove.com",
+   "src": "yc",
+   "page": "https://www.rove.com/?redirect=%2Fjobs",
+   "crawledAt": 1794198288283
+  },
+  {
+   "title": "Software Engineer (Mid to Senior)",
+   "url": "https://www.ycombinator.com/companies/rove/jobs/WOiFl9H-software-engineer-mid-to-senior",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Rove",
+   "website": "rove.com",
+   "src": "yc",
+   "page": "https://www.rove.com/?redirect=%2Fjobs",
+   "crawledAt": 1794198288283
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/yarn-2/jobs/hPsZzYe-founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Yarn",
+   "website": "yarn.so",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/yarn-2/jobs",
+   "crawledAt": 1794198332628
+  },
+  {
+   "title": "Founding Product Designer",
+   "url": "https://www.ycombinator.com/companies/yarn-2/jobs/knZEX3U-founding-product-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Yarn",
+   "website": "yarn.so",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/yarn-2/jobs",
+   "crawledAt": 1794198332628
+  },
+  {
+   "title": "Software Engineer (Full Stack)",
+   "url": "https://www.ycombinator.com/companies/apten/jobs/9vu8UGR-software-engineer-full-stack",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Apten",
+   "website": "apten.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/apten/jobs",
+   "crawledAt": 1794198365367
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
