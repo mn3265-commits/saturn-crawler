@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T04:42:14.446Z",
+ "generated": "2026-11-09T04:44:51.694Z",
  "companies": 7313,
  "status": {
   "found": 1633,
-  "no-ats": 4444,
+  "no-ats": 4442,
   "down": 983,
-  "site": 253
+  "site": 255
  },
  "byType": {
   "dover": 7,
@@ -19316,6 +19316,102 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/finosu/jobs",
    "crawledAt": 1794199274347
+  },
+  {
+   "title": "Systems Engineer",
+   "url": "https://www.freestyle.sh/careers",
+   "datePosted": "2025-01-15",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Freestyle",
+   "website": "freestyle.sh",
+   "src": "yc",
+   "page": "https://www.freestyle.sh/careers",
+   "crawledAt": 1794199421768
+  },
+  {
+   "title": "Platform Engineer",
+   "url": "https://www.freestyle.sh/careers",
+   "datePosted": "2025-01-15",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Freestyle",
+   "website": "freestyle.sh",
+   "src": "yc",
+   "page": "https://www.freestyle.sh/careers",
+   "crawledAt": 1794199421768
+  },
+  {
+   "title": "Infrastructure & Reliability Engineer",
+   "url": "https://www.freestyle.sh/careers",
+   "datePosted": "2025-01-15",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Freestyle",
+   "website": "freestyle.sh",
+   "src": "yc",
+   "page": "https://www.freestyle.sh/careers",
+   "crawledAt": 1794199421768
+  },
+  {
+   "title": "Developer Advocate",
+   "url": "https://www.freestyle.sh/careers",
+   "datePosted": "2025-01-15",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Freestyle",
+   "website": "freestyle.sh",
+   "src": "yc",
+   "page": "https://www.freestyle.sh/careers",
+   "crawledAt": 1794199421768
+  },
+  {
+   "title": "Technical Operations Lead",
+   "url": "https://www.freestyle.sh/careers",
+   "datePosted": "2025-01-15",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Freestyle",
+   "website": "freestyle.sh",
+   "src": "yc",
+   "page": "https://www.freestyle.sh/careers",
+   "crawledAt": 1794199421768
+  },
+  {
+   "title": "Senior Software Engineer",
+   "url": "https://www.ycombinator.com/companies/diode-computers-inc/jobs/V8LqvBH-senior-software-engineer",
+   "datePosted": "2025-05-28T17:29:19Z",
+   "locations": [
+    "New York, New York, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Diode Computers, Inc.",
+   "website": "diode.computer",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/diode-computers-inc/jobs/V8LqvBH-senior-software-engineer",
+   "crawledAt": 1794199436195
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
