@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-09T05:12:13.594Z",
+ "generated": "2026-11-09T05:17:19.871Z",
  "companies": 7313,
  "status": {
-  "found": 1634,
-  "no-ats": 4403,
+  "found": 1635,
+  "no-ats": 4402,
   "down": 983,
   "site": 293
  },
@@ -12,7 +12,7 @@
   "ashby": 602,
   "lever": 147,
   "gh": 496,
-  "gem": 57,
+  "gem": 58,
   "workable": 106,
   "rippling": 94,
   "bamboohr": 83,
@@ -4799,6 +4799,15 @@
    "label": "Wardstone",
    "website": "wardstone.us",
    "page": "https://wardstone.space/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gem",
+   "token": "unsiloed-ai",
+   "url": "jobs.gem.com/unsiloed-ai",
+   "label": "Unsiloed AI",
+   "website": "unsiloed.ai",
+   "page": "https://www.unsiloed.ai/jobs",
    "src": "yc"
   },
   {
