@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:19:14.028Z",
+ "generated": "2026-11-09T02:23:37.897Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4519,
+  "no-ats": 4518,
   "down": 983,
-  "site": 163
+  "site": 164
  },
  "byType": {
   "dover": 7,
@@ -13846,6 +13846,30 @@
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
    "crawledAt": 1794190729008
+  },
+  {
+   "title": "Product Lead Remote (Europe/North America) Learn more →",
+   "url": "https://slite.com/jobs/product-lead",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Slite",
+   "website": "slite.com",
+   "src": "yc",
+   "page": "https://slite.com/jobs",
+   "crawledAt": 1794190850484
+  },
+  {
+   "title": "Senior Product Engineer Remote (Europe/North America) Learn more →",
+   "url": "https://slite.com/jobs/senior-product-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Slite",
+   "website": "slite.com",
+   "src": "yc",
+   "page": "https://slite.com/jobs",
+   "crawledAt": 1794190850484
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
