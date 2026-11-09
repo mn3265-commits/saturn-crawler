@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-09T01:12:55.745Z",
+ "generated": "2026-11-09T01:16:27.766Z",
  "companies": 7280,
  "status": {
-  "found": 1583,
-  "no-ats": 4565,
+  "found": 1584,
+  "no-ats": 4564,
   "down": 983,
   "site": 149
  },
@@ -11,7 +11,7 @@
   "dover": 7,
   "ashby": 598,
   "lever": 140,
-  "gh": 490,
+  "gh": 491,
   "gem": 56,
   "workable": 103,
   "rippling": 91,
@@ -12171,6 +12171,14 @@
    "label": "RoseRyan",
    "website": "roseryan.com",
    "page": "https://www.zrgpartners.com/join-our-team",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "rocketmiles",
+   "label": "Rocketmiles",
+   "website": "rocketmiles.com",
+   "page": "https://search.rocketmiles.com/",
    "src": "nyc"
   },
   {
