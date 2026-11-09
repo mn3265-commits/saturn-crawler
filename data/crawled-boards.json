@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:38:46.120Z",
+ "generated": "2026-11-09T04:06:17.744Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4467,
+  "no-ats": 4464,
   "down": 983,
-  "site": 215
+  "site": 218
  },
  "byType": {
   "dover": 7,
@@ -17083,6 +17083,201 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/type/jobs",
    "crawledAt": 1794195515147
+  },
+  {
+   "title": "Customer Success Engineer Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/01e6eb42-142b-4f33-9944-ca153bd3ae86",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Backend Engineer Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Backend Engineer Europe / Remote / Full-time",
+   "url": "https://resend.com/careers/6589bee8-3ec9-4620-90b6-890b23464c4d",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Backend Engineer, MTA Europe / Remote / Full-time",
+   "url": "https://resend.com/careers/c4c5eb8c-e6ac-49f5-9dc7-a68ce0948929",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Backend Engineer, MTA Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/053bde8f-294e-4cce-9d62-2301282120a2",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Platform Engineer Europe / Remote / Full-time",
+   "url": "https://resend.com/careers/76dcf582-cf8b-49dd-899b-d453d6af430e",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Platform Engineer Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/a9fc1d02-cace-4be9-8d3d-16f4fb137b39",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Security Engineer, Platform Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/cde17f7c-4c70-435f-be38-ef5abe94ff22",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Security Engineer, Platform Europe / Remote / Full-time",
+   "url": "https://resend.com/careers/8c290ac4-22b4-4072-86e0-b6f5a97213d6",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Software Engineer, Developer Tools Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/53d3710a-2d55-42ac-ba90-cdfd306bf560",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Software Engineer, Developer Tools Europe / Remote / Full-time",
+   "url": "https://resend.com/careers/2e3d92c5-79d9-4511-8faf-e2326e7a081e",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Software Engineer, Trust & Safety Europe / Remote / Full-time",
+   "url": "https://resend.com/careers/73a37f4c-02d9-40e4-a116-70507ed413b9",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Software Engineer, Trust & Safety Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/729ad3fa-10a2-4a07-ba9c-13b6eec6adb1",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Technical Account Executive Americas / Remote / Full-time",
+   "url": "https://resend.com/careers/50cc0eb8-4a93-455d-bcdb-fe8eb080b55d",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Resend",
+   "website": "resend.com",
+   "src": "yc",
+   "page": "https://resend.com/careers",
+   "crawledAt": 1794197073313
+  },
+  {
+   "title": "Forward Deployed Engineer",
+   "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Kyber",
+   "website": "askkyber.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/kyber/jobs",
+   "crawledAt": 1794197084345
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://kino.ai/careers",
+   "datePosted": "2026-01-01",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "via": "jsonld",
+   "company": "Kino AI",
+   "website": "kino.ai",
+   "src": "yc",
+   "page": "https://kino.ai/?sidebar=jobs",
+   "crawledAt": 1794197131745
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
