@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T06:00:02.565Z",
+ "generated": "2026-11-09T06:02:39.107Z",
  "companies": 7313,
  "status": {
   "found": 1640,
-  "no-ats": 4360,
+  "no-ats": 4357,
   "down": 983,
-  "site": 330
+  "site": 333
  },
  "byType": {
   "dover": 7,
@@ -23376,6 +23376,90 @@
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
    "crawledAt": 1794203920948
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/provenmetal/jobs/rBRC3Vu-founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ProvenMetal",
+   "website": "provenmetal.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/provenmetal/jobs",
+   "crawledAt": 1794204072949
+  },
+  {
+   "title": "Founding Engineer, Product",
+   "url": "https://www.ycombinator.com/companies/pennant/jobs/Y5USzcY-founding-engineer-product",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Pennant",
+   "website": "getpennant.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/pennant/jobs",
+   "crawledAt": 1794204082810
+  },
+  {
+   "title": "Founding Engineer, Data & AI",
+   "url": "https://www.ycombinator.com/companies/pennant/jobs/z6mIB9W-founding-engineer-data-ai",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Pennant",
+   "website": "getpennant.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/pennant/jobs",
+   "crawledAt": 1794204082810
+  },
+  {
+   "title": "Full-Stack Software Engineer (Argentina)",
+   "url": "https://openrelay.inc/careers/full-stack-engineer-argentina",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "OpenRelay",
+   "website": "openrelay.inc",
+   "src": "yc",
+   "page": "https://openrelay.inc/about",
+   "crawledAt": 1794204129123
+  },
+  {
+   "title": "Infrastructure Engineer (Argentina)",
+   "url": "https://openrelay.inc/careers/infrastructure-engineer-argentina",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "OpenRelay",
+   "website": "openrelay.inc",
+   "src": "yc",
+   "page": "https://openrelay.inc/about",
+   "crawledAt": 1794204129123
+  },
+  {
+   "title": "Technical Marketer (Argentina)",
+   "url": "https://openrelay.inc/careers/technical-marketer-argentina",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "OpenRelay",
+   "website": "openrelay.inc",
+   "src": "yc",
+   "page": "https://openrelay.inc/about",
+   "crawledAt": 1794204129123
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
