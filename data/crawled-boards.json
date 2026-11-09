@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T05:19:52.737Z",
+ "generated": "2026-11-09T05:22:40.426Z",
  "companies": 7313,
  "status": {
   "found": 1635,
-  "no-ats": 4395,
+  "no-ats": 4390,
   "down": 983,
-  "site": 300
+  "site": 305
  },
  "byType": {
   "dover": 7,
@@ -21295,6 +21295,233 @@
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
    "crawledAt": 1794201592623
+  },
+  {
+   "title": "Security Researcher",
+   "url": "https://www.ycombinator.com/companies/antigen/jobs/CAQhaJY-security-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Antigen",
+   "website": "antigen.sh",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/antigen/jobs",
+   "crawledAt": 1794201690177
+  },
+  {
+   "title": "Applied Research Platform Engineer",
+   "url": "https://ndea.com/jobs/applied-research-platform-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Ndea",
+   "website": "ndea.com",
+   "src": "yc",
+   "page": "https://ndea.com/jobs/",
+   "crawledAt": 1794201703465
+  },
+  {
+   "title": "Applied Deep Learning Engineer",
+   "url": "https://ndea.com/jobs/applied-deep-learning-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Ndea",
+   "website": "ndea.com",
+   "src": "yc",
+   "page": "https://ndea.com/jobs/",
+   "crawledAt": 1794201703465
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/bDlpoLM-founding-engineer",
+   "datePosted": "2026-07-24",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "Founding AI Engineer",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/SoiB0TW-founding-ai-engineer",
+   "datePosted": "2026-07-24",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "Senior Corporate Counsel",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/qACKx6Q-senior-corporate-counsel",
+   "datePosted": "2026-07-24",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "ECVC Associate",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/8SrWHg5-ecvc-associate",
+   "datePosted": "2026-07-25",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "Senior Commercial Counsel",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/313muoh-senior-commercial-counsel",
+   "datePosted": "2026-07-24",
+   "locations": [
+    "San Francisco, CA, US",
+    "CO, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "Junior Commercial Counsel",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/h2CYE5P-junior-commercial-counsel",
+   "datePosted": "2026-07-24",
+   "locations": [
+    "San Francisco, CA, US",
+    "CO, US",
+    "Remote"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "Founding GTM Manager",
+   "url": "https://www.ycombinator.com/companies/vector-legal/jobs/qNxMUbU-founding-gtm-manager",
+   "datePosted": "2026-07-24",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Vector Legal",
+   "website": "vectorlegal.com",
+   "src": "yc",
+   "page": "https://www.vectorlegal.com/careers",
+   "crawledAt": 1794201706208
+  },
+  {
+   "title": "Electrical Engineering Intern",
+   "url": "https://www.ycombinator.com/companies/voltair/jobs/tuE1IRN-electrical-engineering-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "Voltair",
+   "website": "voltairlabs.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/voltair/jobs",
+   "crawledAt": 1794201710907
+  },
+  {
+   "title": "Flight Test Engineer",
+   "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Voltair",
+   "website": "voltairlabs.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/voltair/jobs",
+   "crawledAt": 1794201710907
+  },
+  {
+   "title": "Account Executive",
+   "url": "https://www.ycombinator.com/companies/clicks-health/jobs/dNaVu8Q-account-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Clicks Health",
+   "website": "goclicks.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/clicks-health/jobs",
+   "crawledAt": 1794201723856
+  },
+  {
+   "title": "Forward Deployed Strategist",
+   "url": "https://www.ycombinator.com/companies/clicks-health/jobs/YsqWAXA-forward-deployed-strategist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Clicks Health",
+   "website": "goclicks.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/clicks-health/jobs",
+   "crawledAt": 1794201723856
+  },
+  {
+   "title": "Founding Field Sales Rep",
+   "url": "https://www.ycombinator.com/companies/clicks-health/jobs/3AP4VEI-founding-field-sales-rep",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Clicks Health",
+   "website": "goclicks.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/clicks-health/jobs",
+   "crawledAt": 1794201723856
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
