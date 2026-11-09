@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:31:04.491Z",
+ "generated": "2026-11-09T02:34:52.253Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4513,
+  "no-ats": 4511,
   "down": 983,
-  "site": 169
+  "site": 171
  },
  "byType": {
   "dover": 7,
@@ -14126,6 +14126,78 @@
    "src": "yc",
    "page": "https://employer.gotlanded.com/use-cases/hourly-hiring",
    "crawledAt": 1794191415172
+  },
+  {
+   "title": "Customer Success Executive",
+   "url": "https://mudrex.careers-page.com/jobs/10ddbf5a-4d2e-48b3-bb38-d928e484766d",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Mudrex",
+   "website": "mudrex.com",
+   "src": "yc",
+   "page": "https://mudrex.careers-page.com/",
+   "crawledAt": 1794191532142
+  },
+  {
+   "title": "Sr Manager, Business Development",
+   "url": "https://mudrex.careers-page.com/jobs/a8daab4f-a1d5-4139-9ba5-2390b48ee5f6",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Mudrex",
+   "website": "mudrex.com",
+   "src": "yc",
+   "page": "https://mudrex.careers-page.com/",
+   "crawledAt": 1794191532142
+  },
+  {
+   "title": "Senior Product Manager, Investments & Derivatives Products",
+   "url": "https://mudrex.careers-page.com/jobs/348c3291-ed0a-4179-b046-4d844f983172",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Mudrex",
+   "website": "mudrex.com",
+   "src": "yc",
+   "page": "https://mudrex.careers-page.com/",
+   "crawledAt": 1794191532142
+  },
+  {
+   "title": "Financial Operations Specialist (SF, at Montgomery BART)",
+   "url": "https://www.ycombinator.com/companies/apero-health/jobs/vlGDQAg-financial-operations-specialist-sf-at-montgomery-bart",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Apero Health",
+   "website": "aperohealth.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/apero-health/jobs",
+   "crawledAt": 1794191598987
+  },
+  {
+   "title": "Software Engineer, Front-end (React, Javascript)",
+   "url": "https://www.ycombinator.com/companies/apero-health/jobs/4hDUDGBIC-software-engineer-front-end-react-javascript",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Apero Health",
+   "website": "aperohealth.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/apero-health/jobs",
+   "crawledAt": 1794191598987
+  },
+  {
+   "title": "Senior Software Engineer (Backend)",
+   "url": "https://www.ycombinator.com/companies/apero-health/jobs/o2arkMCAw-senior-software-engineer-backend",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Apero Health",
+   "website": "aperohealth.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/apero-health/jobs",
+   "crawledAt": 1794191598987
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
