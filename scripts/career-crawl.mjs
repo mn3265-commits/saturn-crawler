@@ -71,7 +71,7 @@ export function siteJobs(html, base) {
     if (!out.has(u)) out.set(u, { title: text.slice(0, 120), url: u, datePosted: null, locations: [], employmentType: linkType(text), startDate: (text.match(START_HINT) || [])[0] || null, via: 'link' });
   }
   let path = ''; try { path = new URL(base).pathname; } catch {}
-  if (!out.size && /career|jobs?\b|join|hiring|position|opening|work-with/i.test(path)) for (const m of String(html).matchAll(/<(h[1-6]|li|strong|b|dt|td|p|span|div|a)\b[^>]*>\s*([^<>]{6,80}?)\s*<\//gi)) {
+  if (!out.size && /career|jobs?\b|join|hiring|position|opening|work-with/i.test(path)) for (const m of String(html).replace(/<(nav|header|footer|script|style)\b[\s\S]*?<\/\1>/gi, ' ').matchAll(/<(h[1-6]|li|strong|b|dt|td|p|span|div|a)\b[^>]*>\s*([^<>]{6,80}?)\s*<\//gi)) {   /* menus are not job lists (audit: 'Order & trade manager' was a nav item) */
     const t = m[2].replace(/&amp;/g, '&').replace(/&nbsp;|&#160;/g, ' ').replace(/\s+/g, ' ').trim();
     if (!TEXT_TITLE.test(t) || t.split(' ').length > 9 || /[.!?:;]$|\b(you|your|we|our|us|at|of the|life|meet|day)\b|^(view|see|apply|learn|all|open|explore|browse|contact|talk|for|about|join)\b/i.test(t)) continue;
     const u = base.split('#')[0] + '#' + t.toLowerCase().replace(/[^a-z0-9]+/g, '-');
@@ -82,6 +82,7 @@ export function siteJobs(html, base) {
 const TEXT_TITLE = /^[A-Z][\w&/,()'’ -]*\b(manager|lead|head|director|analyst|associate|specialist|strategist|coordinator|engineer|designer|scientist|marketer|recruiter|counsel|officer|executive|intern|consultant|writer|editor|researcher|developer|architect|planner|producer|generalist|administrator|representative)\b(\s*[-–—,(|].{0,30})?$/i;
 console.assert(siteJobs('<h3>Software Engineer</h3><p>Our initial product,</p><a>Contact sales</a><h4>A Day In The Life of Jenny, Designer at X</h4><li>Growth Marketing Manager (NYC)</li>', 'https://tumult.com/jobs/').map(j => j.title).join('|') === 'Software Engineer|Growth Marketing Manager (NYC)', 'siteJobs text fallback self-check');
 console.assert(siteJobs('<h3>Software Engineer</h3>', 'https://tumult.com/').length === 0, 'text fallback only on careers pages');
+console.assert(siteJobs('<nav><a>Order &amp; trade manager</a></nav><h3>Growth Manager</h3>', 'https://x.com/careers').map(j => j.title).join('|') === 'Growth Manager', 'text fallback skips nav');
 async function get(url) {
   try { const r = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' }, redirect: 'follow' });
     if (!r.ok && (r.status === 403 || r.status === 429)) { const r2 = await fetch(url, { headers: { accept: 'text/html' }, redirect: 'follow' }).catch(() => null);
