@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-09T05:24:58.745Z",
+ "generated": "2026-11-09T05:27:34.796Z",
  "companies": 7313,
  "status": {
-  "found": 1636,
-  "no-ats": 4386,
+  "found": 1637,
+  "no-ats": 4383,
   "down": 983,
-  "site": 308
+  "site": 310
  },
  "byType": {
   "dover": 7,
-  "ashby": 603,
+  "ashby": 604,
   "lever": 147,
   "gh": 496,
   "gem": 58,
@@ -4897,6 +4897,15 @@
    "label": "Compresr",
    "website": "compresr.ai",
    "page": "https://compresr.ai/",
+   "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "beyondreachlabs",
+   "url": "jobs.ashbyhq.com/beyondreachlabs",
+   "label": "Beyond Reach Labs",
+   "website": "beyondreachlabs.com",
+   "page": "https://www.beyondreachlabs.com/careers/",
    "src": "yc"
   },
   {
@@ -22331,6 +22340,104 @@
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
    "crawledAt": 1794201897834
+  },
+  {
+   "title": "Senior Full Stack Engineer San Francisco",
+   "url": "https://www.drafted.ai/learn/careers/senior-full-stack-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Drafted",
+   "website": "drafted.ai",
+   "src": "yc",
+   "page": "https://www.drafted.ai/learn/careers",
+   "crawledAt": 1794202026794
+  },
+  {
+   "title": "Senior Backend / ML Ops Engineer San Francisco",
+   "url": "https://www.drafted.ai/learn/careers/senior-backend-ml-ops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Drafted",
+   "website": "drafted.ai",
+   "src": "yc",
+   "page": "https://www.drafted.ai/learn/careers",
+   "crawledAt": 1794202026794
+  },
+  {
+   "title": "Senior ML Engineer San Francisco",
+   "url": "https://www.drafted.ai/learn/careers/senior-ml-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Drafted",
+   "website": "drafted.ai",
+   "src": "yc",
+   "page": "https://www.drafted.ai/learn/careers",
+   "crawledAt": 1794202026794
+  },
+  {
+   "title": "Senior ML Researcher San Francisco",
+   "url": "https://www.drafted.ai/learn/careers/senior-ml-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Drafted",
+   "website": "drafted.ai",
+   "src": "yc",
+   "page": "https://www.drafted.ai/learn/careers",
+   "crawledAt": 1794202026794
+  },
+  {
+   "title": "Growth Engineer San Francisco",
+   "url": "https://www.drafted.ai/learn/careers/growth-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Drafted",
+   "website": "drafted.ai",
+   "src": "yc",
+   "page": "https://www.drafted.ai/learn/careers",
+   "crawledAt": 1794202026794
+  },
+  {
+   "title": "Senior Digital IC Engineer — RTL Design & Verification Contract · Remote (US) →",
+   "url": "https://www.visiblsemi.com/careers/senior-digital-ic-engineer-rtl-design-verification",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "Visibl Semiconductors",
+   "website": "visiblsemi.com",
+   "src": "yc",
+   "page": "https://www.visiblsemi.com/careers",
+   "crawledAt": 1794202030031
+  },
+  {
+   "title": "Analog & Mixed-Signal IC Layout Engineer Contract · Remote (US) →",
+   "url": "https://www.visiblsemi.com/careers/analog-mixed-signal-ic-layout-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "Visibl Semiconductors",
+   "website": "visiblsemi.com",
+   "src": "yc",
+   "page": "https://www.visiblsemi.com/careers",
+   "crawledAt": 1794202030031
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
