@@ -1,0 +1,43 @@
+name: crawl
+on:
+  schedule: [{ cron: '0 0 * * *' }]   # 19:00 ET (EST): up to 5.7h, so it lands before night-crawl 01:00 pulls it
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: crawl, cancel-in-progress: false }
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm install --no-audit --no-fund
+      # Each step saves progress; a timeout or crash keeps what was done (always-commit below).
+      - run: node scripts/resolve-websites.mjs
+        continue-on-error: true
+        timeout-minutes: 120
+      # 2026-11-06: one 3000-site Chrome starved the runner at 2h40m and nothing was committed. Now chunks of 300 sites,
+      # each a fresh node + Chrome, committed after every chunk, so a crash loses at most one chunk.
+      - name: render in chunks
+        continue-on-error: true
+        timeout-minutes: 280
+        env: { RENDER_PAGES: '2', RENDER_MAX: '40' }   # 2026-11-08: runner was killed ~34 min into the first 250-site chunk, so no chunk ever committed
+        run: |
+          git config user.name crawl-bot; git config user.email crawl-bot@users.noreply.github.com
+          # 2026-11-08: runner killed ~30-37 min in with no clue left; extra swap + a live 60s memory/disk/process monitor in the job log
+          sudo fallocate -l 6G /swapx && sudo chmod 600 /swapx && sudo mkswap -q /swapx && sudo swapon /swapx || true
+          (while sleep 60; do echo "MON $(date -u +%T) mem $(free -m | awk 'NR==2{print $3"/"$2" avail "$7}') swap $(free -m | awk 'NR==3{print $3"/"$2}') disk $(df -h / | awk 'NR==2{print $4}') chrome $(pgrep -c chrome) load $(cut -d' ' -f1 /proc/loadavg)"; done) &
+          for i in $(seq 1 40); do   # bounded by timeout-minutes; each chunk is committed, the next run resumes
+            # 2026-11-08: runner still killed ~35 min in (chunk 1 committed, chunk 2 died). Hard cap per chunk, kill leftover Chrome, log memory.
+            rc=0; timeout -k 30 900 node scripts/career-crawl.mjs --render 2> render.log || rc=$?; tail -2 render.log
+            pkill -9 -f chrome || true; free -m | sed -n 2p
+            git add data && git commit -qm "crawl chunk $i $(date -u +%F)" && { git pull -q --rebase -X ours origin main; git push -q; } || true
+            grep -q RENDER_MORE render.log || [ $rc -eq 124 ] || break
+            [ $rc -eq 0 ] || echo "chunk $i exit $rc, next chunk resumes"
+          done
+      - name: commit results
+        if: always()
+        run: |
+          git config user.name crawl-bot; git config user.email crawl-bot@users.noreply.github.com
+          git add data && git commit -qm "crawl $(date -u +%F)" && { git pull -q --rebase -X ours origin main; git push; } || echo "nothing to commit"
