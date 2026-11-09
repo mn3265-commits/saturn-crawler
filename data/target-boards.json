@@ -21196,6 +21196,30 @@
    "site": "CSHL",
    "verified": "Workday CXS cshl/CSHL answers (29 jobs); linked from the company's own careers page",
    "jobs": 29
+  },
+  {
+   "company": "Johnson & Johnson",
+   "tier": 1,
+   "industry": "CPG/health",
+   "source": "cloud-crawl cpg",
+   "ats": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ",
+   "verified": "Workday CXS jj/JJ answers (1707 jobs); linked from the company's own careers page",
+   "jobs": 1707
+  },
+  {
+   "company": "AT&T",
+   "tier": 1,
+   "industry": "early-career program",
+   "source": "cloud-crawl program",
+   "ats": "workday",
+   "tenant": "att",
+   "wd": "wd1",
+   "site": "ATTGeneral",
+   "verified": "Workday CXS att/ATTGeneral answers (1112 jobs); linked from the company's own careers page",
+   "jobs": 1112
   }
  ]
 }

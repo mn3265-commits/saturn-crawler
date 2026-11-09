@@ -84,6 +84,8 @@ console.assert(siteJobs('<h3>Software Engineer</h3><p>Our initial product,</p><a
 console.assert(siteJobs('<h3>Software Engineer</h3>', 'https://tumult.com/').length === 0, 'text fallback only on careers pages');
 async function get(url) {
   try { const r = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' }, redirect: 'follow' });
+    if (!r.ok && (r.status === 403 || r.status === 429)) { const r2 = await fetch(url, { headers: { accept: 'text/html' }, redirect: 'follow' }).catch(() => null);
+      if (r2?.ok) { const t = await r2.text(); return { url: r2.url, html: t.slice(0, 6e6) }; } }
     if (!r.ok) return null; const t = await r.text(); return { url: r.url, html: t.slice(0, 6e6) }; } catch { return null; }
 }
 async function crawl(site) {
@@ -180,7 +182,7 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
   if (process.argv.includes('--render')) {
     const doms = new Set(list.map(c => c.domain));
     const big = d => /chrome-only|program/.test(cache[d].src || '');
-    const rl = Object.keys(cache).filter(d => doms.has(d) && (big(d) && cache[d].status === 'down' && !cache[d].rendered || cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 3) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
+    const rl = Object.keys(cache).filter(d => doms.has(d) && (cache[d].status === 'down' && !cache[d].rendered ||   /* 2026-11-09 coverage audit: ~2/3 of 'down' startups answer a real browser (403/429 bot walls), so every down site gets one render, big ones first via pr() */ cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 3) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
     const pr = d => (big(d) ? -8 : 0) + (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
     rl.sort((a, b) => pr(a) - pr(b));
     const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);
