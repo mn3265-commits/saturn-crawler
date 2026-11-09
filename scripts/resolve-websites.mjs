@@ -27,6 +27,13 @@ if (process.argv[1] && (await import('node:fs')).realpathSync(process.argv[1]) =
     await Promise.all(Array.from({ length: 3 }, async () => { while (k < todo.length) { const n = todo[k++]; const hits = await suggest(clean(n)); if (hits) { dom[n] = pickSeed(n, hits); if (dom[n]) got++; } } }));
     await writeFile(DOM, JSON.stringify(dom, null, 1));
     console.log(`resolve-websites seeds: ${todo.length} tried, ${got} resolved, ${Object.values(dom).filter(Boolean).length}/${seeds.length} with domain`); }
+  { const seeds = (await readFile(join(ROOT, 'data', 'h1b-tech-seeds.json'), 'utf8').then(JSON.parse).catch(() => ({}))).companies || [];
+    const DOM = join(ROOT, 'data', 'h1b-domains.json'), dom = await readFile(DOM, 'utf8').then(JSON.parse).catch(() => ({}));
+    const todo = seeds.filter(n => !(n in dom)).slice(0, +process.env.H1B_MAX || 3000); let k = 0, got = 0, n = 0;
+    await Promise.all(Array.from({ length: 4 }, async () => { while (k < todo.length) { const nm = todo[k++]; const hits = await suggest(clean(nm)); if (hits) { dom[nm] = pickSeed(nm, hits); if (dom[nm]) got++; }
+      if (++n % 500 === 0) await writeFile(DOM, JSON.stringify(dom)); } }));
+    await writeFile(DOM, JSON.stringify(dom));
+    console.log(`resolve-websites h1b: ${todo.length} tried, ${got} resolved, ${Object.values(dom).filter(Boolean).length}/${seeds.length} with domain`); }
   const d = JSON.parse(await readFile(OUT, 'utf8'));
   const i0 = process.argv.indexOf('--limit'), lim = i0 > 0 ? +process.argv[i0 + 1] : Infinity;
   const need = d.companies.filter(c => !c.website && !c.resolveTried).slice(0, lim);

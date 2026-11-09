@@ -157,12 +157,13 @@ async function renderPass(cache, list) {
   return { rendered: done, found };
 }
 
-function universe(yc, nyc, dw, seeds, nycU = {}, co = {}, coDom = {}) {
+function universe(yc, nyc, dw, seeds, nycU = {}, co = {}, coDom = {}, h1b = {}) {
   const m = new Map(), add = (name, w, src, keyPath) => { if (!w) return; const site = /^https?:/.test(w) ? w : 'https://' + w; let d; try { const u = new URL(site); d = u.hostname.replace(/^www\./, '') + (keyPath ? u.pathname.replace(/\/$/, '') : ''); } catch { return; } if (!m.has(d)) m.set(d, { name, site, domain: d, src }); };
   for (const n of co.companies || []) add(n, coDom[n], 'chrome-only');
   for (const e of co.programs || []) { const [n, u] = String(e).split('|'); add(n, u, 'program', true); }
   for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }
   for (const c of nycU.companies || []) add(c.name, c.website, 'nyc');
+  for (const [n, d] of Object.entries(h1b)) if (d) add(n, d, 'h1b');
   for (const c of yc) if (c.status === 'Active' && /United States|USA|Remote/i.test(JSON.stringify(c.all_locations || ''))) add(c.name, c.website, 'yc');
   for (const e of nyc.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'nyc-startups'); }
   for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }
@@ -173,7 +174,7 @@ function universe(yc, nyc, dw, seeds, nycU = {}, co = {}, coDom = {}) {
 if (import.meta.url === (await import('node:url')).pathToFileURL((await import('node:fs')).realpathSync(process.argv[1])).href) {
   console.assert(atsLinks('https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs')[0]?.site === '2' && atsLinks('x.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1')[0]?.type === 'oracle', 'atsLinks portal self-check');
   const cache = await read(CACHE, {});
-  let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}), await read(join(ROOT, 'data', 'chrome-only-seeds.json'), {}), await read(join(ROOT, 'data', 'chrome-only-domains.json'), {}));
+  let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}), await read(join(ROOT, 'data', 'chrome-only-seeds.json'), {}), await read(join(ROOT, 'data', 'chrome-only-domains.json'), {}), await read(join(ROOT, 'data', 'h1b-domains.json'), {}));
   YC_SLUG = new Map((await read(join(ROOT, 'data', 'yc-companies.json'), [])).filter(c => c.isHiring && c.slug).map(c => [c.name, c.slug]));
   const only = arg('--only')?.split(',').map(s => s.trim().toLowerCase());
   if (only) list = list.filter(c => only.some(o => c.domain.includes(o) || c.name.toLowerCase().includes(o)));
