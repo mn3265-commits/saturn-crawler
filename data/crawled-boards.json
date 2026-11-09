@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-09T01:50:24.515Z",
+ "generated": "2026-11-09T01:54:10.881Z",
  "companies": 7280,
  "status": {
-  "found": 1608,
-  "no-ats": 4537,
+  "found": 1611,
+  "no-ats": 4532,
   "down": 983,
-  "site": 152
+  "site": 154
  },
  "byType": {
   "dover": 7,
   "ashby": 599,
-  "lever": 145,
-  "gh": 495,
+  "lever": 146,
+  "gh": 496,
   "gem": 57,
-  "workable": 104,
+  "workable": 105,
   "rippling": 94,
   "bamboohr": 82,
   "smartrecruiters": 9,
@@ -13327,6 +13327,14 @@
   },
   {
    "type": "gh",
+   "token": "videoamp",
+   "label": "VideoAmp",
+   "website": "videoamp.com",
+   "page": "https://videoamp.com/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "voxmedia",
    "label": "Vox Media",
    "website": "voxmedia.com",
@@ -13355,6 +13363,22 @@
    "label": "Walker Consultants",
    "website": "walkerconsultants.com",
    "page": "http://walkerconsultants.com/careers/join-us/",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "label": "WeatherBug",
+   "website": "weatherbug.com",
+   "page": "https://www.groundtruth.com/jobs/?job-company=4780",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "waremalcomb",
+   "label": "Ware Malcomb",
+   "website": "waremalcomb.com",
+   "page": "https://waremalcomb.com/join-our-team/",
    "src": "nyc"
   },
   {
@@ -28504,6 +28528,78 @@
    "src": "nyc",
    "page": "https://www.tradingcentral.com/about/careers",
    "crawledAt": 1794159468468
+  },
+  {
+   "title": "Frontend Engineer",
+   "url": "https://vienna.earth/meta/jobs/frontend",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Vienna Hypertext",
+   "website": "vienna.earth",
+   "src": "nyc",
+   "page": "https://vienna.earth/",
+   "crawledAt": 1794189122001
+  },
+  {
+   "title": "Full Stack Engineer",
+   "url": "https://vienna.earth/meta/jobs/full-stack",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Vienna Hypertext",
+   "website": "vienna.earth",
+   "src": "nyc",
+   "page": "https://vienna.earth/",
+   "crawledAt": 1794189122001
+  },
+  {
+   "title": "Designer",
+   "url": "https://vienna.earth/meta/jobs/design",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Vienna Hypertext",
+   "website": "vienna.earth",
+   "src": "nyc",
+   "page": "https://vienna.earth/",
+   "crawledAt": 1794189122001
+  },
+  {
+   "title": "Marketing Manager, U.S. East Coast",
+   "url": "https://career.vialytics.com/en-GB/jobs/8641693-marketing-manager-u-s-east-coast",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Vialytics",
+   "website": "vialytics.com",
+   "src": "nyc",
+   "page": "https://www.vialytics.com/",
+   "crawledAt": 1794189148404
+  },
+  {
+   "title": "Chief of Staff to the CEO (m/f/d)",
+   "url": "https://career.vialytics.com/en-GB/jobs/7877411-chief-of-staff-to-the-ceo-m-f-d",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Vialytics",
+   "website": "vialytics.com",
+   "src": "nyc",
+   "page": "https://www.vialytics.com/",
+   "crawledAt": 1794189148404
+  },
+  {
+   "title": "Account Executive, Atlanta",
+   "url": "https://career.vialytics.com/en-GB/jobs/7769496-account-executive-atlanta",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Vialytics",
+   "website": "vialytics.com",
+   "src": "nyc",
+   "page": "https://www.vialytics.com/",
+   "crawledAt": 1794189148404
   },
   {
    "title": "Organic Social Media Strategist",
