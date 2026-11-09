@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T04:47:34.395Z",
+ "generated": "2026-11-09T04:50:12.882Z",
  "companies": 7313,
  "status": {
   "found": 1633,
-  "no-ats": 4438,
+  "no-ats": 4435,
   "down": 983,
-  "site": 259
+  "site": 262
  },
  "byType": {
   "dover": 7,
@@ -19566,6 +19566,98 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/unusual/jobs",
    "crawledAt": 1794199651440
+  },
+  {
+   "title": "Firmware Engineer",
+   "url": "https://steinmetzmotors.com/careers/apply?role=firmware-engineer",
+   "datePosted": null,
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Steinmetz",
+   "website": "steinmetzmotors.com",
+   "src": "yc",
+   "page": "https://steinmetzmotors.com/careers",
+   "crawledAt": 1794199758166
+  },
+  {
+   "title": "Generalist Hardware/Firmware",
+   "url": "https://steinmetzmotors.com/careers/apply?role=generalist-hardware-firmware",
+   "datePosted": null,
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Steinmetz",
+   "website": "steinmetzmotors.com",
+   "src": "yc",
+   "page": "https://steinmetzmotors.com/careers",
+   "crawledAt": 1794199758166
+  },
+  {
+   "title": "Electrical Engineer",
+   "url": "https://steinmetzmotors.com/careers/apply?role=electrical-engineer",
+   "datePosted": null,
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Steinmetz",
+   "website": "steinmetzmotors.com",
+   "src": "yc",
+   "page": "https://steinmetzmotors.com/careers",
+   "crawledAt": 1794199758166
+  },
+  {
+   "title": "Product Designer",
+   "url": "https://www.ycombinator.com/companies/subimage/jobs/N6PmCch-product-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SubImage",
+   "website": "subimage.io",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/subimage/jobs",
+   "crawledAt": 1794199799581
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SubImage",
+   "website": "subimage.io",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/subimage/jobs",
+   "crawledAt": 1794199799581
+  },
+  {
+   "title": "Founding Engineer (All Levels)",
+   "url": "https://promptless.ai/jobs#founding-engineer",
+   "datePosted": "2025-01-01",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Promptless",
+   "website": "promptless.ai",
+   "src": "yc",
+   "page": "https://promptless.ai/jobs",
+   "crawledAt": 1794199811788
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
