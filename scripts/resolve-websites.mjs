@@ -7,10 +7,26 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data', 'nyc-startup-universe.json');
 export const norm = s => String(s || '').toLowerCase().replace(/&/g, 'and').replace(/\b(inc|llc|corp|co|ltd|the|hq)\b\.?/g, '').replace(/[^a-z0-9]/g, '');
 export const pick = (name, hits) => (hits || []).find(h => h.domain && norm(h.name) === norm(name))?.domain || null;
+const SUF = /\b(inc|incorporated|llc|lp|llp|corp|corporation|co|company|companies|ltd|limited|plc|ag|sa|nv|se|the|hq|group|holdings?)\b\.?/gi;
+export const clean = s => String(s || '').split('||')[0].normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’'.,]/g, '').replace(SUF, ' ').replace(/&\s*$/, '').replace(/\s+/g, ' ').trim();
+const sn = s => clean(s).toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]/g, '');
+export const pickSeed = (name, hits) => (hits || []).find(h => h.domain && sn(h.name) === sn(name))?.domain || null;
+const suggest = async q => { for (let t = 0; t < 4; t++) { try {
+  const r = await fetch('https://autocomplete.clearbit.com/v1/companies/suggest?query=' + encodeURIComponent(q), { signal: AbortSignal.timeout(10000) });
+  if (r.ok) return await r.json(); if (r.status !== 429 && r.status < 500) return [];
+} catch {} await new Promise(s => setTimeout(s, 5000 * (t + 1))); } return null; };
 
 if (process.argv[1] && (await import('node:fs')).realpathSync(process.argv[1]) === fileURLToPath(import.meta.url)) {
   console.assert(pick('Ramp', [{ name: 'Rampant', domain: 'rampant.tv' }, { name: 'Ramp', domain: 'ramp.com' }]) === 'ramp.com', 'pick self-check');
   console.assert(pick('10up', [{ name: 'UPS', domain: 'ups.com' }]) === null, 'pick rejects fuzzy');
+  console.assert(pickSeed('Estée Lauder Companies', [{ name: 'Estée Lauder', domain: 'esteelauder.com' }]) === 'esteelauder.com', 'pickSeed accents/suffix');
+  console.assert(pickSeed('Apple Inc.', [{ name: 'Apple News+', domain: 'apple.news' }]) === null, 'pickSeed rejects fuzzy');
+  { const seeds = (await readFile(join(ROOT, 'data', 'chrome-only-seeds.json'), 'utf8').then(JSON.parse).catch(() => ({}))).companies || [];
+    const DOM = join(ROOT, 'data', 'chrome-only-domains.json'), dom = await readFile(DOM, 'utf8').then(JSON.parse).catch(() => ({}));
+    const todo = seeds.filter(n => !(n in dom)); let k = 0, got = 0;
+    await Promise.all(Array.from({ length: 3 }, async () => { while (k < todo.length) { const n = todo[k++]; const hits = await suggest(clean(n)); if (hits) { dom[n] = pickSeed(n, hits); if (dom[n]) got++; } } }));
+    await writeFile(DOM, JSON.stringify(dom, null, 1));
+    console.log(`resolve-websites seeds: ${todo.length} tried, ${got} resolved, ${Object.values(dom).filter(Boolean).length}/${seeds.length} with domain`); }
   const d = JSON.parse(await readFile(OUT, 'utf8'));
   const i0 = process.argv.indexOf('--limit'), lim = i0 > 0 ? +process.argv[i0 + 1] : Infinity;
   const need = d.companies.filter(c => !c.website && !c.resolveTried).slice(0, lim);

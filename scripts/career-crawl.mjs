@@ -20,7 +20,11 @@ const ATS = [
   ['rippling', /ats\.rippling\.com\/([a-z0-9_-]+)/gi],
   ['bamboohr', /([a-z0-9-]+)\.bamboohr\.com\/(?:careers|jobs)/gi],
   ['smartrecruiters', /(?:careers|jobs)\.smartrecruiters\.com\/([A-Za-z0-9_-]+)/gi],
-  ['workday', /([a-z0-9-]+\.wd\d+\.myworkdayjobs\.com\/[A-Za-z0-9_-]+)/gi],
+  ['workday', /([a-z0-9-]+\.wd\d+\.myworkdayjobs\.com)(?:\/wday\/cxs\/[a-z0-9_-]+)?(?:\/[a-z]{2}-[A-Z]{2})?(?:\/([A-Za-z0-9_-]+))?/gi],
+  ['oracle', /([a-z0-9-]+\.fa\.(?:[a-z0-9-]+\.)*oraclecloud\.com)(?:\/hcmUI\/CandidateExperience\/[a-z_-]+\/sites\/[A-Za-z0-9_]+|\/hcmRestApi\/[^\s"'<>]{0,300}?siteNumber=[A-Za-z0-9_]+)?/gi],
+  ['eightfold', /([a-z0-9-]+)\.eightfold\.ai/gi],
+  ['icims', /careers-([a-z0-9-]+)\.icims\.com/gi],
+  ['successfactors', /career\d*\.successfactors\.(?:com|eu)\/career\?company=([A-Za-z0-9_]+)/gi],
   ['gem', /jobs\.gem\.com\/([a-z0-9_-]+)/gi],
   ['recruitee', /([a-z0-9-]+)\.recruitee\.com/gi],
   ['dover', /dover\.com\/([A-Za-z0-9_-]+)\/careers/gi],
@@ -30,8 +34,9 @@ export function atsLinks(html) {
   const out = new Map();
   for (const [type, re] of ATS) for (const m of String(html).matchAll(re)) {
     const token = decodeURIComponent(m[1]).replace(/[/?#].*$/, '').replace(/\.$/, '');
-    if (!token || JUNK.test(token)) continue;
-    out.set(type + '|' + token.toLowerCase(), { type, token });
+    if (!token || JUNK.test(token) || type === 'eightfold' && /^(app|static|www|careers)$/i.test(token)) continue;
+    const k = type + '|' + token.toLowerCase(), b = { type, token, url: m[0], ...(type === 'workday' && m[2] && !/^(wday|en|api|shared)$/i.test(m[2]) ? { site: m[2] } : {}) };
+    if (!out.has(k) || b.site && !out.get(k).site || b.url.length > out.get(k).url.length && !out.get(k).site) out.set(k, b);
   }
   return [...out.values()];
 }
@@ -105,7 +110,7 @@ async function renderPass(cache, list) {
   await Promise.all(Array.from({ length: Math.max(1, +process.env.RENDER_PAGES || 1) }, async () => { while (i < list.length) { const d = list[i++], v = cache[d];
     const page = await newPage(); const seen = [];
     page.on('request', q => seen.push(q.url()));
-    let boards = [], jobs = [];
+    let boards = [], jobs = [], landed = null, portal = [];
     const cap = new Promise(r => setTimeout(r, 60000));
     try { await Promise.race([cap, (async () => {
       for (const u of [...new Set([v.page, 'https://' + d + '/careers', 'https://' + d].filter(Boolean))]) {
@@ -116,6 +121,10 @@ async function renderPass(cache, list) {
           if (href) { await page.goto(href, { waitUntil: 'domcontentloaded', timeout: 12000 }).catch(() => {}); await page.waitForLoadState('networkidle', { timeout: 3000 }).catch(() => {}); }
         }
         const html = await page.content().catch(() => '');
+        if (/chrome-only|program/.test(v.src || '')) { landed = page.url();
+          portal = await page.evaluate(() => [...document.querySelectorAll('a')].map(a => a.href).filter(h => /^https?:/.test(h) && /search|job|career|position|opening|student|graduate|program/i.test(h))).catch(() => []);
+          const reg = h => { try { return new URL(h).hostname.split('.').slice(-2).join('.'); } catch { return ''; } };
+          portal = [...new Set(portal.filter(h => reg(h) === reg(landed) && new URL(h).hostname !== new URL(landed).hostname || /myworkdayjobs|oraclecloud|eightfold|icims|successfactors|phenom/i.test(h)).map(h => h.split('#')[0]))].slice(0, 6); }
         const frames = page.frames().map(f => f.url());
         boards = [...atsLinks(seen.join(' ')), ...atsLinks(frames.join(' ')), ...atsLinks(html)];
         if (boards.length) break;
@@ -124,15 +133,17 @@ async function renderPass(cache, list) {
     })()]); } catch {}
     await page.close().catch(() => {});
     const uniq = [...new Map(boards.map(b => [b.type + '|' + b.token.toLowerCase(), b])).values()];
-    cache[d] = { ...v, at: Date.now(), rendered: true, rv: 2, status: uniq.length ? 'found' : jobs.length ? 'site' : 'no-ats', boards: uniq, ...(jobs.length && !uniq.length ? { jobs } : {}) };
+    cache[d] = { ...v, at: Date.now(), rendered: true, rv: 2, ...(landed ? { landed, portal } : {}), status: uniq.length ? 'found' : jobs.length ? 'site' : 'no-ats', boards: uniq, ...(jobs.length && !uniq.length ? { jobs } : {}) };
     if (uniq.length) found++;
     if (++done % 100 === 0) { console.error(`  render ${done}/${list.length} found ${found} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
   await browser.close().catch(() => {});
   return { rendered: done, found };
 }
 
-function universe(yc, nyc, dw, seeds, nycU = {}) {
-  const m = new Map(), add = (name, w, src) => { if (!w) return; const site = /^https?:/.test(w) ? w : 'https://' + w; let d; try { d = new URL(site).hostname.replace(/^www\./, ''); } catch { return; } if (!m.has(d)) m.set(d, { name, site, domain: d, src }); };
+function universe(yc, nyc, dw, seeds, nycU = {}, co = {}, coDom = {}) {
+  const m = new Map(), add = (name, w, src, keyPath) => { if (!w) return; const site = /^https?:/.test(w) ? w : 'https://' + w; let d; try { const u = new URL(site); d = u.hostname.replace(/^www\./, '') + (keyPath ? u.pathname.replace(/\/$/, '') : ''); } catch { return; } if (!m.has(d)) m.set(d, { name, site, domain: d, src }); };
+  for (const n of co.companies || []) add(n, coDom[n], 'chrome-only');
+  for (const e of co.programs || []) { const [n, u] = String(e).split('|'); add(n, u, 'program', true); }
   for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }
   for (const c of nycU.companies || []) add(c.name, c.website, 'nyc');
   for (const c of yc) if (c.status === 'Active' && /United States|USA|Remote/i.test(JSON.stringify(c.all_locations || ''))) add(c.name, c.website, 'yc');
@@ -143,8 +154,9 @@ function universe(yc, nyc, dw, seeds, nycU = {}) {
 }
 
 if (import.meta.url === (await import('node:url')).pathToFileURL((await import('node:fs')).realpathSync(process.argv[1])).href) {
+  console.assert(atsLinks('https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs')[0]?.site === '2' && atsLinks('x.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1')[0]?.type === 'oracle', 'atsLinks portal self-check');
   const cache = await read(CACHE, {});
-  let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}));
+  let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}), await read(join(ROOT, 'data', 'chrome-only-seeds.json'), {}), await read(join(ROOT, 'data', 'chrome-only-domains.json'), {}));
   const only = arg('--only')?.split(',').map(s => s.trim().toLowerCase());
   if (only) list = list.filter(c => only.some(o => c.domain.includes(o) || c.name.toLowerCase().includes(o)));
   const todo = list.filter(c => process.argv.includes('--refresh') || only || !(cache[c.domain] && (cache[c.domain].status === 'site' && cache[c.domain].rendered || Date.now() - cache[c.domain].at < (cache[c.domain].status === 'site' ? 864e5 - 36e5 : TTL)))).slice(0, Number(arg('--limit')) || Infinity);
@@ -157,8 +169,9 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
   if (process.argv.includes('--render') && !process.env.CI && !process.argv.includes('--local-render')) { console.error('render pass skipped: runs in GitHub Actions (saturn-crawler), not on the Mac'); process.exit(0); }
   if (process.argv.includes('--render')) {
     const doms = new Set(list.map(c => c.domain));
-    const rl = Object.keys(cache).filter(d => doms.has(d) && (cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 2) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
-    const pr = d => (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
+    const big = d => /chrome-only|program/.test(cache[d].src || '');
+    const rl = Object.keys(cache).filter(d => doms.has(d) && (big(d) && cache[d].status === 'down' && !cache[d].rendered || cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 2) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
+    const pr = d => (big(d) ? -8 : 0) + (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
     rl.sort((a, b) => pr(a) - pr(b));
     const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);
     console.error(`render pass: ${chunk.length} of ${rl.length} sites`); console.error(JSON.stringify(await renderPass(cache, chunk)));
