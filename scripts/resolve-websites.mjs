@@ -1,9 +1,4 @@
 #!/usr/bin/env node
-// sponsorpath / resolve-websites.mjs (2026-11-05) - fills the missing website of companies in data/nyc-startup-universe.json.
-// Why: Built In NYC answers 429 to the company-page fetch, so 4,769 of 6,023 NYC startups had no website and were never crawled.
-// Source: Clearbit's free autocomplete (name -> domain). Only an exact normalized-name match is taken.
-// shortcut: exact name match can still pick a same-named company elsewhere; downstream gates check location, so it costs a wasted fetch only.
-//   node scripts/resolve-websites.mjs [--limit n]
 import { readFile, writeFile } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -32,7 +27,6 @@ if (process.argv[1] && (await import('node:fs')).realpathSync(process.argv[1]) =
     }
     if (++done % 250 === 0) { console.error(`resolve ${done}/${need.length} hit ${hit}`); await save(); } } }));
   await save();
-  // Pass 2: Built In blocks plain fetch (429) but serves headless Chrome, so read "View Website" there for the rest.
   if (!process.argv.includes('--no-chrome')) {
     const rest = d.companies.filter(c => !c.website && c.path && !c.biTried).slice(0, lim);
     if (rest.length) {

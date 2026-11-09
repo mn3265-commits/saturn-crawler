@@ -1,12 +1,4 @@
 #!/usr/bin/env node
-// sponsorpath / career-crawl.mjs (2026-11-05) - crawls each startup's OWN website to its careers page and reads the ATS board
-// behind it. His ask 2026-11-05: "km bisa check and crawl website mereka masing2 dan check career page, kaya si taptapsend aja
-// aku dptnya dr website mereka". nyc-startup-boards.mjs only GUESSES ATS slugs (495 NYC startups came back "none"); a link on
-// the company's own site is the proof the board is theirs.
-// Universe: active US YC companies (data/yc-companies.json), data/nyc-startups.json, data/crawl-seeds.json ("Name|domain").
-// Steps per company: homepage -> careers/jobs/join links (+ /careers, /jobs guesses) -> ATS embeds in any of those pages.
-// Cached per domain 14 days (data/career-crawl-cache.json). startup-sweep.mjs reads data/crawled-boards.json.
-//   node scripts/career-crawl.mjs [--limit N] [--refresh] [--render] [--only "taptapsend.com,ramp.com"]
 import './fetch-timeout.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
@@ -19,7 +11,6 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 const CACHE = join(ROOT, 'data', 'career-crawl-cache.json'), OUT = join(ROOT, 'data', 'crawled-boards.json');
 const TTL = 14 * 864e5;
 
-// ATS link patterns -> { type, token }. type names match startup-sweep.mjs poll() (gh / ashby / lever); others are recorded only.
 const ATS = [
   ['gh', /(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io\/(?:embed\/job_board(?:\/js)?\?for=)?([a-z0-9_-]+)/gi],
   ['gh', /boards-api\.greenhouse\.io\/v1\/boards\/([a-z0-9_-]+)/gi],
@@ -51,9 +42,6 @@ export function careerLinks(html, base) {
   return [...out].slice(0, 4);
 }
 
-// 2026-11-06 his "gak cuma di portal career tapi di career website dr masing2 company": read the roles a company lists on its
-// OWN careers page (no ATS behind it): schema.org JobPosting JSON-LD first (has datePosted), else same-site links that look like a
-// role (/careers/<slug>, /jobs/<slug>, /positions/..., link text with a role word). Max 80 per site; other hosts never count.
 const ROLE_WORD = /\b(manager|lead|head|director|analyst|associate|specialist|strategist|coordinator|engineer|designer|scientist|marketer|marketing|product|growth|operations|ops|partnerships?|account|success|sales|recruiter|counsel|chief|officer|executive|intern|consultant|writer|editor|researcher|developer|architect|planner|producer|generalist|administrator|representative)\b/i;
 const JOB_PATH = /\/(?:careers?|jobs?|positions?|openings?|roles?|opportunities|vacancies|join(?:-us)?)\/[^/?#]*[a-z0-9-]{6,}/i;
 export function siteJobs(html, base) {
@@ -84,7 +72,6 @@ async function get(url) {
 async function crawl(site) {
   const home = await get(site); if (!home) return { status: 'down', boards: [] };
   let boards = atsLinks(home.html), pages = [home.url]; const htmls = [[home.url, home.html]];
-  // /careers and /jobs first: scraped links can be tracking junk (ramp.com/plp/jobs?...).
   const next = [new URL('/careers', home.url).href, new URL('/jobs', home.url).href, ...careerLinks(home.html, home.url).filter(u => !/\?.{40,}/.test(u))];
   for (const u of [...new Set(next)].slice(0, 5)) {
     if (boards.length) break;
@@ -101,13 +88,8 @@ async function crawl(site) {
   return jobs.length ? { status: 'site', boards, jobs, page: pages.at(-1) } : { status: 'no-ats', boards, page: pages.at(-1) };
 }
 
-// 2026-11-05 his "employ a good skill to crawl ... thorough": --render = second pass over 'no-ats' sites with headless system Chrome
-// (playwright-core, channel chrome; its own temp profile, never his session). Renders JS, follows iframes, and records every
-// network request, so boards loaded by a widget (Greenhouse embed, Ashby/Lever/Workday/Dover APIs) are caught too.
 async function renderPass(cache, list) {
   const { chromium } = await import('playwright-core');
-  // 2026-11-05: Chrome died at site ~400 ("Failed to open a new tab") and the uncaught error killed the whole run.
-  // Now a failed newPage relaunches Chrome once; progress is saved every 100 sites, so a rerun resumes.
   let browser, ctx;
   const launch = async () => {
     await browser?.close().catch(() => {});
@@ -118,12 +100,10 @@ async function renderPass(cache, list) {
   const newPage = async () => { try { return await ctx.newPage(); } catch { await launch(); return ctx.newPage(); } };
   await launch();
   let i = 0, done = 0, found = 0; const t0 = Date.now();
-  // 2026-11-05: 6 parallel pages got the run killed for low memory; default is now 1 page (sequential). RENDER_PAGES=n to raise.
   await Promise.all(Array.from({ length: Math.max(1, +process.env.RENDER_PAGES || 1) }, async () => { while (i < list.length) { const d = list[i++], v = cache[d];
     const page = await newPage(); const seen = [];
     page.on('request', q => seen.push(q.url()));
     let boards = [], jobs = [];
-    // 2026-11-08: one hung page (content/evaluate have no timeout) could stall the runner; each site gets 60s, then the page is dropped.
     const cap = new Promise(r => setTimeout(r, 60000));
     try { await Promise.race([cap, (async () => {
       for (const u of [...new Set([v.page, 'https://' + d + '/careers', 'https://' + d].filter(Boolean))]) {
@@ -151,8 +131,6 @@ async function renderPass(cache, list) {
 
 function universe(yc, nyc, dw, seeds, nycU = {}) {
   const m = new Map(), add = (name, w, src) => { if (!w) return; const site = /^https?:/.test(w) ? w : 'https://' + w; let d; try { d = new URL(site).hostname.replace(/^www\./, ''); } catch { return; } if (!m.has(d)) m.set(d, { name, site, domain: d, src }); };
-  // 2026-11-05 his "please crawl every startup in NYC specially": the NYC universe (nyc-startup-universe.mjs: Built In NYC <= 1000
-  // employees + YC NYC + own list) goes first, so NYC is crawled before the rest of the US.
   for (const e of seeds.companies || []) { const [n, d] = String(e).split('|'); add(n, d, 'seed'); }
   for (const c of nycU.companies || []) add(c.name, c.website, 'nyc');
   for (const c of yc) if (c.status === 'Active' && /United States|USA|Remote/i.test(JSON.stringify(c.all_locations || ''))) add(c.name, c.website, 'yc');
@@ -174,12 +152,10 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
     cache[c.domain] = { name: c.name, src: c.src, at: Date.now(), ...(await crawl(c.site)) };
     if (++done % 200 === 0) { console.error(`  ${done}/${todo.length} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
   await writeFile(CACHE, JSON.stringify(cache));
-  // 2026-11-06 his "gabisa aku pake ini terus": render only in the cloud (GitHub Actions sets CI); the 8GB Air ran out of memory.
   if (process.argv.includes('--render') && !process.env.CI && !process.argv.includes('--local-render')) { console.error('render pass skipped: runs in GitHub Actions (saturn-crawler), not on the Mac'); process.exit(0); }
   if (process.argv.includes('--render')) {
     const doms = new Set(list.map(c => c.domain));
     const rl = Object.keys(cache).filter(d => doms.has(d) && (cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 2) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
-    // daily refresh of known job pages first, then NYC, then sites with a careers page (2026-11-05: homepage-only sites hit ~2%)
     const pr = d => (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
     rl.sort((a, b) => pr(a) - pr(b));
     const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);   // 2026-11-06: cloud runner lost memory on one 3000-site Chrome; chunks of RENDER_MAX, each a fresh process
@@ -188,8 +164,6 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
     await writeFile(CACHE, JSON.stringify(cache));
   }
   const boards = [], byType = {};
-  // 2026-11-05 Cargo bug: getcargo.ai/jobs is a job aggregator (300+ other companies' boards), so OpenAI roles were queued as
-  // "Cargo". A site's board counts only when it is clearly theirs: 1-2 boards on the site, or the token matches name / domain.
   const k = x => String(x || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const theirs = (domain, v, b) => { const t = k(b.token.split('.')[0]), n = k(v.name), d = k(domain.split('.')[0]);
     return t.length >= 3 && (t.includes(d) || d.includes(t) || t.includes(n) || (n.length >= 4 && n.includes(t))); };
