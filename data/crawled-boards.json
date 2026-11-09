@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-09T01:25:26.358Z",
+ "generated": "2026-11-09T01:28:27.185Z",
  "companies": 7280,
  "status": {
-  "found": 1586,
-  "no-ats": 4562,
+  "found": 1592,
+  "no-ats": 4556,
   "down": 983,
   "site": 149
  },
  "byType": {
   "dover": 7,
-  "ashby": 598,
-  "lever": 141,
-  "gh": 491,
+  "ashby": 599,
+  "lever": 142,
+  "gh": 492,
   "gem": 56,
   "workable": 103,
   "rippling": 91,
-  "bamboohr": 76,
-  "smartrecruiters": 8,
+  "bamboohr": 78,
+  "smartrecruiters": 9,
   "recruitee": 13,
   "workday": 86
  },
@@ -12430,6 +12430,14 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "solsten",
+   "label": "Solsten",
+   "website": "solsten.io",
+   "page": "https://solsten.io/careers",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "solutionsjournalism",
    "label": "Solutions Journalism Network",
@@ -12443,6 +12451,14 @@
    "label": "SourceScrub",
    "website": "sourcescrub.com",
    "page": "https://www.sourcescrub.com/about/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "solstice",
+   "label": "Solstice",
+   "website": "solstice.us",
+   "page": "https://solstice.us/about-solstice/careers/",
    "src": "nyc"
   },
   {
@@ -12462,6 +12478,14 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "sprig",
+   "label": "Sprig",
+   "website": "sprig.com",
+   "page": "https://sprig.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "realchemistry",
    "label": "Spring & Bond",
@@ -12475,6 +12499,14 @@
    "label": "SpotMe",
    "website": "spotme.com",
    "page": "https://spotme.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "Sosemo",
+   "label": "Sosemo",
+   "website": "sosemo.com",
+   "page": "https://sosemo.com/careers/",
    "src": "nyc"
   },
   {
@@ -12494,6 +12526,14 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "squirro",
+   "label": "Squirro",
+   "website": "squirro.com",
+   "page": "https://squirro.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "journey",
    "label": "Squint Opera",
@@ -12507,6 +12547,14 @@
    "label": "Staffbase",
    "website": "staffbase.com",
    "page": "https://staffbase.com/careers/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "spine-media",
+   "label": "Spine Media",
+   "website": "spinemedia.com",
+   "page": "https://spinemedia.com/",
    "src": "nyc"
   },
   {
