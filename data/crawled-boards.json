@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T03:12:38.234Z",
+ "generated": "2026-11-09T03:15:54.679Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4488,
+  "no-ats": 4487,
   "down": 983,
-  "site": 194
+  "site": 195
  },
  "byType": {
   "dover": 7,
@@ -16096,6 +16096,126 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/gym-class/jobs",
    "crawledAt": 1794193947350
+  },
+  {
+   "title": "Compute Partnerships Manager",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/EFHffcr-compute-partnerships-manager",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Head of Compute Operations",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/qwLlBWJ-head-of-compute-operations",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Product Engineer",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/QFlGNxn-product-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "GPU Cluster Infrastructure Engineer",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/tK37WS7-gpu-cluster-infrastructure-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Chief of Staff",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/RZW9Xu8-chief-of-staff",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Applied AI Research Engineer",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/AQyjV6c-applied-ai-research-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Site Reliability Engineer",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/CnrHNaM-site-reliability-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Network Engineer",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/ajXD7Ap-network-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Distributed Systems Engineer",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/lwlKfNI-distributed-systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
+  },
+  {
+   "title": "Head of GTM and Growth",
+   "url": "https://www.ycombinator.com/companies/beam/jobs/6rKakUF-head-of-gtm-and-growth",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Beam",
+   "website": "beam.cloud",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/beam/jobs",
+   "crawledAt": 1794194124372
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
