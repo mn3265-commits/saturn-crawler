@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T02:01:38.008Z",
+ "generated": "2026-11-09T02:05:18.002Z",
  "companies": 7280,
  "status": {
   "found": 1615,
-  "no-ats": 4525,
+  "no-ats": 4524,
   "down": 983,
-  "site": 157
+  "site": 158
  },
  "byType": {
   "dover": 7,
@@ -13678,6 +13678,54 @@
    "src": "yc",
    "page": "https://app.hireart.com/browse",
    "crawledAt": 1794189695894
+  },
+  {
+   "title": "Designer New York City",
+   "url": "https://experiment.com/jobs/designer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Experiment",
+   "website": "experiment.com",
+   "src": "yc",
+   "page": "https://experiment.com/jobs",
+   "crawledAt": 1794189906301
+  },
+  {
+   "title": "Intern New York City",
+   "url": "https://experiment.com/jobs/internship",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Experiment",
+   "website": "experiment.com",
+   "src": "yc",
+   "page": "https://experiment.com/jobs",
+   "crawledAt": 1794189906301
+  },
+  {
+   "title": "Product Engineer New York City",
+   "url": "https://experiment.com/jobs/engineer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Experiment",
+   "website": "experiment.com",
+   "src": "yc",
+   "page": "https://experiment.com/jobs",
+   "crawledAt": 1794189906301
+  },
+  {
+   "title": "Grant Officer New York City",
+   "url": "https://experiment.com/jobs/grant_officer",
+   "datePosted": null,
+   "locations": [],
+   "via": "link",
+   "company": "Experiment",
+   "website": "experiment.com",
+   "src": "yc",
+   "page": "https://experiment.com/jobs",
+   "crawledAt": 1794189906301
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
