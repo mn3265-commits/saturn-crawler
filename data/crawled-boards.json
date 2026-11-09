@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T05:57:12.406Z",
+ "generated": "2026-11-09T06:00:02.565Z",
  "companies": 7313,
  "status": {
   "found": 1640,
-  "no-ats": 4361,
+  "no-ats": 4360,
   "down": 983,
-  "site": 329
+  "site": 330
  },
  "byType": {
   "dover": 7,
@@ -23264,6 +23264,118 @@
    "src": "yc",
    "page": "https://www.whitespacehq.ai/careers",
    "crawledAt": 1794203821717
+  },
+  {
+   "title": "Machine Learning Engineer, 3D Reconstruction",
+   "url": "https://movingatoms.ai/careers/ml-engineer-3d-reconstruction/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
+  },
+  {
+   "title": "Machine Learning Engineer, Scene Understanding",
+   "url": "https://movingatoms.ai/careers/ml-engineer-scene-understanding/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
+  },
+  {
+   "title": "Robotics Simulation Engineer, SimReady",
+   "url": "https://movingatoms.ai/careers/robotics-simulation-engineer/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
+  },
+  {
+   "title": "Robot Learning Engineer",
+   "url": "https://movingatoms.ai/careers/robot-learning-engineer/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
+  },
+  {
+   "title": "BIM and Geometry Engineer",
+   "url": "https://movingatoms.ai/careers/bim-geometry-engineer/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
+  },
+  {
+   "title": "Infrastructure Engineer, 3D Data at Scale",
+   "url": "https://movingatoms.ai/careers/infrastructure-engineer-3d-data/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
+  },
+  {
+   "title": "Forward Deployed Engineer, Scan to BIM",
+   "url": "https://movingatoms.ai/careers/forward-deployed-engineer/",
+   "datePosted": "2026-10-20",
+   "locations": [
+    "San Francisco, CA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Moving Atoms",
+   "website": "movingatoms.ai",
+   "src": "yc",
+   "page": "https://movingatoms.ai/careers/",
+   "crawledAt": 1794203920948
   },
   {
    "title": "Account Executive, San Francisco (Startup Banking) GTM San Francisco ›",
