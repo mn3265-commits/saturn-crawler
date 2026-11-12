@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-12T08:19:33.881Z",
+ "generated": "2026-11-12T08:25:23.885Z",
  "companies": 22901,
  "status": {
   "found": 3135,
   "down": 4438,
-  "no-ats": 11904,
-  "site": 3424
+  "no-ats": 11905,
+  "site": 3423
  },
  "byType": {
   "dover": 7,
@@ -28634,108 +28634,140 @@
    "url": "https://www.anylist.com/jobs/customer-service",
    "datePosted": null,
    "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
    "via": "link",
    "company": "AnyList",
    "website": "anylist.com",
    "src": "yc",
    "page": "https://www.anylist.com/jobs",
-   "crawledAt": 1794189672114
+   "crawledAt": 1794471854092
   },
   {
    "title": "Sales Representative",
    "url": "https://www.screenleap.com/careers/sales-representative",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Screenleap",
    "website": "screenleap.com",
    "src": "yc",
    "page": "https://www.screenleap.com/jobs",
-   "crawledAt": 1794189684675
+   "crawledAt": 1794471856404
   },
   {
    "title": "Software Engineer",
    "url": "https://www.screenleap.com/careers/software-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Screenleap",
    "website": "screenleap.com",
    "src": "yc",
    "page": "https://www.screenleap.com/jobs",
-   "crawledAt": 1794189684675
+   "crawledAt": 1794471856404
   },
   {
-   "title": "Mechatronics Engineer",
-   "url": "https://app.hireart.com/jobs/9596ceb3/apply",
+   "title": "Supplier Quality Engineer - Supply Chain Quality & Reliability",
+   "url": "https://app.hireart.com/jobs/5e3c8c37/apply",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "HireArt",
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794189695894
+   "crawledAt": 1794471862108
+  },
+  {
+   "title": "Platform Engineer - Information Technology and Applications",
+   "url": "https://app.hireart.com/jobs/fb6260a1/apply",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HireArt",
+   "website": "hireart.com",
+   "src": "yc",
+   "page": "https://app.hireart.com/browse",
+   "crawledAt": 1794471862108
   },
   {
    "title": "Designer New York City",
    "url": "https://experiment.com/jobs/designer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Experiment",
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794189906301
+   "crawledAt": 1794471866415
   },
   {
    "title": "Intern New York City",
    "url": "https://experiment.com/jobs/internship",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "Experiment",
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794189906301
+   "crawledAt": 1794471866415
   },
   {
    "title": "Product Engineer New York City",
    "url": "https://experiment.com/jobs/engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Experiment",
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794189906301
+   "crawledAt": 1794471866415
   },
   {
    "title": "Grant Officer New York City",
    "url": "https://experiment.com/jobs/grant_officer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Experiment",
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794189906301
+   "crawledAt": 1794471866415
   },
   {
    "title": "Operations",
    "url": "https://www.grubmarket.com/hello/jobs/openings/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "GrubMarket",
    "website": "grubmarket.com",
    "src": "yc",
    "page": "https://www.grubmarket.com/",
-   "crawledAt": 1794190061650
+   "crawledAt": 1794471866898
   },
   {
    "title": "Lugger - On-Demand Mover",
@@ -28766,120 +28798,139 @@
     "San Diego, CA, US"
    ],
    "employmentType": "CONTRACTOR",
+   "startDate": null,
    "via": "jsonld",
    "company": "Lugg",
    "website": "lugg.com",
    "src": "yc",
    "page": "https://lugg.com/mover/jobs/become-a-lugger",
-   "crawledAt": 1794190226815
+   "crawledAt": 1794471879965
   },
   {
    "title": "{{ product.displayName }}",
    "url": "https://www.deako.com/careers/%7B%7B%20product.url%20%7D%7D",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Deako",
    "website": "deako.com",
    "src": "yc",
    "page": "https://www.deako.com/",
-   "crawledAt": 1794190243209
+   "crawledAt": 1794471879177
   },
   {
    "title": "Senior User Acquisition Manager (Mobile, Subscription Apps) Ukraine, USA and worldwide UUaw",
    "url": "https://petcube.com/careers/senior-user-acquisition-manager-mobile-subscription-apps/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Petcube",
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794190278520
+   "crawledAt": 1794471891773
   },
   {
    "title": "User Acquisition Manager Remote R",
    "url": "https://petcube.com/careers/user-acquisition-manager-2/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Petcube",
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794190278520
+   "crawledAt": 1794471891773
   },
   {
    "title": "Creative Strategist Remote R",
    "url": "https://petcube.com/careers/creative-strategist/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Petcube",
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794190278520
+   "crawledAt": 1794471891773
   },
   {
    "title": "Scaled Customer Success Manager",
    "url": "https://www.hirenimble.com/roles/scaled-customer-success-manager",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Nimble",
    "website": "hirenimble.com",
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
-   "crawledAt": 1794190729008
+   "crawledAt": 1794471887407
   },
   {
    "title": "Senior Contract Software Engineer (Data & Platform)",
    "url": "https://www.hirenimble.com/roles/senior-software-engineer-contract",
    "datePosted": null,
    "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
    "via": "link",
    "company": "Nimble",
    "website": "hirenimble.com",
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
-   "crawledAt": 1794190729008
+   "crawledAt": 1794471887407
   },
   {
    "title": "Product Lead Remote (Europe/North America) Learn more →",
    "url": "https://slite.com/jobs/product-lead",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Slite",
    "website": "slite.com",
    "src": "yc",
    "page": "https://slite.com/jobs",
-   "crawledAt": 1794190850484
+   "crawledAt": 1794471896412
   },
   {
    "title": "Senior Product Engineer Remote (Europe/North America) Learn more →",
    "url": "https://slite.com/jobs/senior-product-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Slite",
    "website": "slite.com",
    "src": "yc",
    "page": "https://slite.com/jobs",
-   "crawledAt": 1794190850484
+   "crawledAt": 1794471896412
   },
   {
    "title": "Game Designer",
    "url": "https://www.dreamcraft.com/careers/TechnicalDesigner",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "DreamCraft Entertainment, Inc.",
    "website": "dreamcraft.com",
    "src": "yc",
    "page": "https://www.dreamcraft.com/careers/",
-   "crawledAt": 1794191266971
+   "crawledAt": 1794471896234
   },
   {
    "title": "Sales Engineer",
@@ -28890,312 +28941,377 @@
     "Remote"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Centaur",
    "website": "centaur.ai",
    "src": "yc",
    "page": "https://centaur.ai/careers",
-   "crawledAt": 1794191341486
+   "crawledAt": 1794471899574
   },
   {
    "title": "Full-Stack Engineer",
-   "url": "https://wanderlog.com/blog/jobs/full-stack-engineer/",
+   "url": "https://wanderlog.com/blog/jobs/?eventToTrackOnLoad=Click%20jobs%20link%20on%20marketing%20page#full-stack-engineer",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Wanderlog",
    "website": "wanderlog.com",
    "src": "yc",
    "page": "https://wanderlog.com/",
-   "crawledAt": 1794191400642
+   "crawledAt": 1794471903456
   },
   {
    "title": "More info AI Image Generation Specialist (Pooling) Metro Manila Full Time AI Ops",
    "url": "https://www.snappr.com/careers/jobs/ai-image-generation-specialist-pooling--28acb716-bab7-4d40-8040-c29967313f7b",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info AI Operations Manager Metro Manila Full Time AI Ops",
    "url": "https://www.snappr.com/careers/jobs/ai-operations-manager-467cb384-0a2e-46f1-825f-85d22aa4cfb1",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info AI Operations Team Lead (25328) Metro Manila Full Time AI Ops",
    "url": "https://www.snappr.com/careers/jobs/ai-operations-team-lead-25328--e92fb14b-0d00-4e4c-aa1f-12e163fe6b31",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Demand Generation Manager Metro Manila Full Time Marketing",
    "url": "https://www.snappr.com/careers/jobs/demand-generation-manager-ba8dd756-d39c-43cc-89f7-e9a6c7e9bff3",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Enterprise Account Executive San Francisco, CA Full Time Executive",
    "url": "https://www.snappr.com/careers/jobs/enterprise-account-executive-6a0bc185-2ea1-4a7e-958b-8b8cd0a8d2bd",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Enterprise Account Executive San Francisco, CA Full Time Executive",
    "url": "https://www.snappr.com/careers/jobs/enterprise-account-executive-f82ba1d9-04be-434d-a83b-d45ed0d9ff8b",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Enterprise Sales Development Representative Metro Manila Full Time Marketing",
    "url": "https://www.snappr.com/careers/jobs/enterprise-sales-development-representative-f63ab38b-9a65-43fd-9730-36d624691ccf",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Google Ads Manager (SEM) Metro Manila Full Time Marketing",
    "url": "https://www.snappr.com/careers/jobs/google-ads-manager-sem--955e72b3-132e-4e7b-a908-63de3d576ff1",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Photo Editing Associate (For Pooling) Metro Manila Full Time Editing Operations",
    "url": "https://www.snappr.com/careers/jobs/photo-editing-associate-for-pooling--0ba8a2fd-223b-4722-bea6-34e2afe77fc0",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Photo Editing Lead Metro Manila Full Time Editing Operations",
    "url": "https://www.snappr.com/careers/jobs/photo-editing-lead-16e6eaf6-5d60-47fa-a4a1-0287adf6488f",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Photo Quality Reviewer Metro Manila Full Time Creative Operations",
    "url": "https://www.snappr.com/careers/jobs/photo-quality-reviewer-eea70981-77e0-494b-ab66-8bab21632fa6",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Product Marketing Manager Metro Manila Full Time Marketing",
    "url": "https://www.snappr.com/careers/jobs/product-marketing-manager-a92e3ebe-a9f8-44cb-a8b8-7eb1363158a3",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Sales Associate (2622 - For SRS) Metro Manila Full Time Customer Acquisition",
    "url": "https://www.snappr.com/careers/jobs/sales-associate-2622---for-srs--5708f18a-46df-4161-a53f-99edddaddb29",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Senior Recruitment Specialist Metro Manila Full Time People Operations",
    "url": "https://www.snappr.com/careers/jobs/senior-recruitment-specialist-5113499e-aef4-47ca-9c8b-cac973832eb9",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Senior Software Engineer (Fullstack) Medellin Full Time Engineering",
    "url": "https://www.snappr.com/careers/jobs/senior-software-engineer-fullstack--c3cd3ece-222c-4606-adf4-9ca30106f431",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Senior Software Engineer (Fullstack) - Mexico City Mexico City Full Time Engineering",
    "url": "https://www.snappr.com/careers/jobs/senior-software-engineer-fullstack---mexico-city-0630e180-d8b3-4234-a742-831d36b59562",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "More info Support Operations Manager Metro Manila Full Time Customer Success",
    "url": "https://www.snappr.com/careers/jobs/support-operations-manager-73d1de4f-deb0-40c8-8068-12417c928004",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Snappr",
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794191416556
+   "crawledAt": 1794471909764
   },
   {
    "title": "contact_page Operations Work Smarter, Not Harder",
    "url": "https://employer.gotlanded.com/use-cases/role/operations",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Landed",
    "website": "gotlanded.com",
    "src": "yc",
    "page": "https://employer.gotlanded.com/use-cases/hourly-hiring",
-   "crawledAt": 1794191415172
+   "crawledAt": 1794471910954
+  },
+  {
+   "title": "Performance Marketing Manager",
+   "url": "https://mudrex.careers-page.com/jobs/057449e9-1a77-460f-be8d-ef15aa5ab3eb",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Mudrex",
+   "website": "mudrex.com",
+   "src": "yc",
+   "page": "https://mudrex.careers-page.com/",
+   "crawledAt": 1794471923585
   },
   {
    "title": "Customer Success Executive",
    "url": "https://mudrex.careers-page.com/jobs/10ddbf5a-4d2e-48b3-bb38-d928e484766d",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Mudrex",
    "website": "mudrex.com",
    "src": "yc",
    "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794191532142
+   "crawledAt": 1794471923585
   },
   {
    "title": "Sr Manager, Business Development",
    "url": "https://mudrex.careers-page.com/jobs/a8daab4f-a1d5-4139-9ba5-2390b48ee5f6",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Mudrex",
    "website": "mudrex.com",
    "src": "yc",
    "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794191532142
+   "crawledAt": 1794471923585
   },
   {
    "title": "Senior Product Manager, Investments & Derivatives Products",
    "url": "https://mudrex.careers-page.com/jobs/348c3291-ed0a-4179-b046-4d844f983172",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Mudrex",
    "website": "mudrex.com",
    "src": "yc",
    "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794191532142
+   "crawledAt": 1794471923585
   },
   {
    "title": "Financial Operations Specialist (SF, at Montgomery BART)",
    "url": "https://www.ycombinator.com/companies/apero-health/jobs/vlGDQAg-financial-operations-specialist-sf-at-montgomery-bart",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Apero Health",
    "website": "aperohealth.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apero-health/jobs",
-   "crawledAt": 1794191598987
+   "crawledAt": 1794471917606
   },
   {
    "title": "Software Engineer, Front-end (React, Javascript)",
    "url": "https://www.ycombinator.com/companies/apero-health/jobs/4hDUDGBIC-software-engineer-front-end-react-javascript",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Apero Health",
    "website": "aperohealth.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apero-health/jobs",
-   "crawledAt": 1794191598987
+   "crawledAt": 1794471917606
   },
   {
    "title": "Senior Software Engineer (Backend)",
    "url": "https://www.ycombinator.com/companies/apero-health/jobs/o2arkMCAw-senior-software-engineer-backend",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Apero Health",
    "website": "aperohealth.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apero-health/jobs",
-   "crawledAt": 1794191598987
+   "crawledAt": 1794471917606
   },
   {
    "title": "Infrastructure Lead",
@@ -29205,12 +29321,13 @@
     "San Francisco, CA, US"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Aden",
    "website": "adenhq.com",
    "src": "yc",
    "page": "https://adenhq.com/careers",
-   "crawledAt": 1794191840576
+   "crawledAt": 1794471921206
   },
   {
    "title": "Go to Market Lead",
@@ -29220,12 +29337,13 @@
     "San Francisco, CA, US"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Aden",
    "website": "adenhq.com",
    "src": "yc",
    "page": "https://adenhq.com/careers",
-   "crawledAt": 1794191840576
+   "crawledAt": 1794471921206
   },
   {
    "title": "Hardware Lead",
@@ -29235,12 +29353,13 @@
     "San Francisco, CA, US"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Aden",
    "website": "adenhq.com",
    "src": "yc",
    "page": "https://adenhq.com/careers",
-   "crawledAt": 1794191840576
+   "crawledAt": 1794471921206
   },
   {
    "title": "For Product Designers",
@@ -74837,7 +74956,7 @@
    "website": "quid.com",
    "src": "nyc",
    "page": "https://www.quid.com/careers",
-   "crawledAt": 1794213338463
+   "crawledAt": 1794471642590
   },
   {
    "title": "Strategic Account Executive",
@@ -74851,7 +74970,7 @@
    "website": "quid.com",
    "src": "nyc",
    "page": "https://www.quid.com/careers",
-   "crawledAt": 1794213338463
+   "crawledAt": 1794471642590
   },
   {
    "title": "Senior Django/React Developer",
@@ -74865,7 +74984,7 @@
    "website": "ramseytheorygroup.com",
    "src": "nyc",
    "page": "https://www.ramseytheory.com/careers",
-   "crawledAt": 1794213390655
+   "crawledAt": 1794471634134
   },
   {
    "title": "Assistant Manager",
@@ -75999,7 +76118,7 @@
    "website": "qure.ai",
    "src": "nyc",
    "page": "https://www.qure.ai/us/events/qurecareer",
-   "crawledAt": 1794213501708
+   "crawledAt": 1794471641896
   },
   {
    "title": "Site Reliability Engineer",
@@ -76013,67 +76132,63 @@
    "website": "qure.ai",
    "src": "nyc",
    "page": "https://www.qure.ai/us/events/qurecareer",
-   "crawledAt": 1794213501708
+   "crawledAt": 1794471641896
   },
   {
-   "title": "Head of People",
-   "url": "https://app.zookeep.com/career/Recursive/head-of-people-10122",
+   "title": "Business Solution Architect",
+   "url": "https://recursiveai.co.jp/join-us#business-solution-architect",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Recursive",
    "website": "recursiveai.co.jp",
    "src": "nyc",
    "page": "https://recursiveai.co.jp/join-us",
-   "crawledAt": 1794186715563
+   "crawledAt": 1794471652725
   },
   {
-   "title": "Machine Learning Engineer (FDE)",
-   "url": "https://app.zookeep.com/career/Recursive/machine-learning-engineer-fde-10080",
+   "title": "Software Engineer",
+   "url": "https://recursiveai.co.jp/join-us#software-engineer",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Recursive",
    "website": "recursiveai.co.jp",
    "src": "nyc",
    "page": "https://recursiveai.co.jp/join-us",
-   "crawledAt": 1794186715563
+   "crawledAt": 1794471652725
   },
   {
-   "title": "Technical Lead (Bilingual)",
-   "url": "https://app.zookeep.com/career/Recursive/technical-lead-bilingual-10064",
+   "title": "Solution Designer",
+   "url": "https://recursiveai.co.jp/join-us#solution-designer",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Recursive",
    "website": "recursiveai.co.jp",
    "src": "nyc",
    "page": "https://recursiveai.co.jp/join-us",
-   "crawledAt": 1794186715563
+   "crawledAt": 1794471652725
   },
   {
-   "title": "Software Engineer (FDE)",
-   "url": "https://app.zookeep.com/career/Recursive/software-engineer-fde-10025",
+   "title": "Machine Learning Engineer",
+   "url": "https://recursiveai.co.jp/join-us#machine-learning-engineer",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Recursive",
    "website": "recursiveai.co.jp",
    "src": "nyc",
    "page": "https://recursiveai.co.jp/join-us",
-   "crawledAt": 1794186715563
-  },
-  {
-   "title": "Business Solutions Architect",
-   "url": "https://app.zookeep.com/career/Recursive/business-solutions-architect-10026",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Recursive",
-   "website": "recursiveai.co.jp",
-   "src": "nyc",
-   "page": "https://recursiveai.co.jp/join-us",
-   "crawledAt": 1794186715563
+   "crawledAt": 1794471652725
   },
   {
    "title": "Telephone Operator cum Customer Care Executive",
@@ -76087,7 +76202,7 @@
    "website": "reliable.co.in",
    "src": "nyc",
    "page": "https://reliable.co.in/RW.HomeV1.Careers.aspx",
-   "crawledAt": 1794213559645
+   "crawledAt": 1794471655476
   },
   {
    "title": "Studio Manager",
@@ -76101,7 +76216,7 @@
    "website": "restore.com",
    "src": "nyc",
    "page": "https://www.restore.com/careers",
-   "crawledAt": 1794213566752
+   "crawledAt": 1794471686502
   },
   {
    "title": "Data Analyst Research Remote Apply now",
@@ -76185,7 +76300,7 @@
    "website": "rowy.io",
    "src": "nyc",
    "page": "https://www.rowy.io/jobs",
-   "crawledAt": 1794213606338
+   "crawledAt": 1794471663678
   },
   {
    "title": "Product / Software Engineer",
@@ -76199,11 +76314,25 @@
    "website": "rowy.io",
    "src": "nyc",
    "page": "https://www.rowy.io/jobs",
-   "crawledAt": 1794213606338
+   "crawledAt": 1794471663678
   },
   {
-   "title": "Part Time Program Manager - St. Margaret Mary School",
-   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-st-margaret-mary-school",
+   "title": "Educational Support Specialist - Santa Clara",
+   "url": "https://rightatschool.sensehq.cloud/jobs#educational-support-specialist-santa-clara",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Right at School",
+   "website": "rightatschool.com",
+   "src": "nyc",
+   "page": "https://rightatschool.sensehq.cloud/jobs",
+   "crawledAt": 1794471672963
+  },
+  {
+   "title": "Part Time Child Care Program Manager (Highline School District)",
+   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-child-care-program-manager-highline-school-district-",
    "datePosted": null,
    "locations": [],
    "employmentType": "PART_TIME",
@@ -76213,11 +76342,11 @@
    "website": "rightatschool.com",
    "src": "nyc",
    "page": "https://rightatschool.sensehq.cloud/jobs",
-   "crawledAt": 1794213616737
+   "crawledAt": 1794471672963
   },
   {
-   "title": "Part Time Program Manager - Hillsboro School District",
-   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-hillsboro-school-district",
+   "title": "Part Time Program Manager - Henrico County Public Schools",
+   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-henrico-county-public-schools",
    "datePosted": null,
    "locations": [],
    "employmentType": "PART_TIME",
@@ -76227,35 +76356,7 @@
    "website": "rightatschool.com",
    "src": "nyc",
    "page": "https://rightatschool.sensehq.cloud/jobs",
-   "crawledAt": 1794213616737
-  },
-  {
-   "title": "Part Time Program Manager - Penn-Trafford School District",
-   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-program-manager-penn-trafford-school-district",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "PART_TIME",
-   "startDate": null,
-   "via": "text",
-   "company": "Right at School",
-   "website": "rightatschool.com",
-   "src": "nyc",
-   "page": "https://rightatschool.sensehq.cloud/jobs",
-   "crawledAt": 1794213616737
-  },
-  {
-   "title": "Part-Time Before School Site Program Manager",
-   "url": "https://rightatschool.sensehq.cloud/jobs#part-time-before-school-site-program-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "PART_TIME",
-   "startDate": null,
-   "via": "text",
-   "company": "Right at School",
-   "website": "rightatschool.com",
-   "src": "nyc",
-   "page": "https://rightatschool.sensehq.cloud/jobs",
-   "crawledAt": 1794213616737
+   "crawledAt": 1794471672963
   },
   {
    "title": "IT Support Specialist",
@@ -76325,7 +76426,7 @@
    "website": "rx-diet.com",
    "src": "nyc",
    "page": "https://careers.rxdiet.com/",
-   "crawledAt": 1794213733414
+   "crawledAt": 1794471679752
   },
   {
    "title": "Patient Coordinator Specialist",
@@ -76339,7 +76440,7 @@
    "website": "rx-diet.com",
    "src": "nyc",
    "page": "https://careers.rxdiet.com/",
-   "crawledAt": 1794213733414
+   "crawledAt": 1794471679752
   },
   {
    "title": "Program Manager",
@@ -76353,7 +76454,7 @@
    "website": "rx-diet.com",
    "src": "nyc",
    "page": "https://careers.rxdiet.com/",
-   "crawledAt": 1794213733414
+   "crawledAt": 1794471679752
   },
   {
    "title": "Revenue Cycle Specialist",
@@ -76367,7 +76468,7 @@
    "website": "rx-diet.com",
    "src": "nyc",
    "page": "https://careers.rxdiet.com/",
-   "crawledAt": 1794213733414
+   "crawledAt": 1794471679752
   },
   {
    "title": "DevOps Engineer",
@@ -76381,7 +76482,7 @@
    "website": "saturncloud.io",
    "src": "nyc",
    "page": "https://saturncloud.io/careers/",
-   "crawledAt": 1794213739222
+   "crawledAt": 1794471686570
   },
   {
    "title": "Solutions Architect",
@@ -76395,7 +76496,7 @@
    "website": "saturncloud.io",
    "src": "nyc",
    "page": "https://saturncloud.io/careers/",
-   "crawledAt": 1794213739222
+   "crawledAt": 1794471686570
   },
   {
    "title": "Chief Product Officer",
@@ -76409,7 +76510,7 @@
    "website": "saturncloud.io",
    "src": "nyc",
    "page": "https://saturncloud.io/careers/",
-   "crawledAt": 1794213739222
+   "crawledAt": 1794471686570
   },
   {
    "title": "Marketing Coordinator",
@@ -76423,7 +76524,7 @@
    "website": "saturncloud.io",
    "src": "nyc",
    "page": "https://saturncloud.io/careers/",
-   "crawledAt": 1794213739222
+   "crawledAt": 1794471686570
   },
   {
    "title": "Investment Associate",
@@ -76437,7 +76538,7 @@
    "website": "safeholdinc.com",
    "src": "nyc",
    "page": "https://www.safeholdinc.com/about-us/our-careers/",
-   "crawledAt": 1794213742909
+   "crawledAt": 1794471690360
   },
   {
    "title": "Professional Growth",
@@ -76465,7 +76566,7 @@
    "website": "scribbledata.io",
    "src": "nyc",
    "page": "https://www.scribbledata.io/careers/",
-   "crawledAt": 1794213784071
+   "crawledAt": 1794471692987
   },
   {
    "title": "Data Architect",
@@ -76479,7 +76580,7 @@
    "website": "scribbledata.io",
    "src": "nyc",
    "page": "https://www.scribbledata.io/careers/",
-   "crawledAt": 1794213784071
+   "crawledAt": 1794471692987
   },
   {
    "title": "Business Development Specialist",
@@ -76493,7 +76594,7 @@
    "website": "scribbledata.io",
    "src": "nyc",
    "page": "https://www.scribbledata.io/careers/",
-   "crawledAt": 1794213784071
+   "crawledAt": 1794471692987
   },
   {
    "title": "Product and Content Marketing Lead",
@@ -76507,7 +76608,7 @@
    "website": "scribbledata.io",
    "src": "nyc",
    "page": "https://www.scribbledata.io/careers/",
-   "crawledAt": 1794213784071
+   "crawledAt": 1794471692987
   },
   {
    "title": "Lead Engineer",
@@ -76521,7 +76622,7 @@
    "website": "scribbledata.io",
    "src": "nyc",
    "page": "https://www.scribbledata.io/careers/",
-   "crawledAt": 1794213784071
+   "crawledAt": 1794471692987
   },
   {
    "title": "Solution Architect",
@@ -76535,21 +76636,7 @@
    "website": "scribbledata.io",
    "src": "nyc",
    "page": "https://www.scribbledata.io/careers/",
-   "crawledAt": 1794213784071
-  },
-  {
-   "title": "Data Lead",
-   "url": "https://www.comeet.com/jobs/sedric/0A.00F#data-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Sedric",
-   "website": "sedric.ai",
-   "src": "nyc",
-   "page": "https://www.comeet.com/jobs/sedric/0A.00F",
-   "crawledAt": 1794213794517
+   "crawledAt": 1794471692987
   },
   {
    "title": "AI Engineering Tech Lead – Hands-on",
@@ -76563,7 +76650,7 @@
    "website": "sedric.ai",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/sedric/0A.00F",
-   "crawledAt": 1794213794517
+   "crawledAt": 1794471703404
   },
   {
    "title": "Senior Full Stack Engineer",
@@ -76577,7 +76664,7 @@
    "website": "sendfriend.io",
    "src": "nyc",
    "page": "https://sendfriend.io/jobs",
-   "crawledAt": 1794213792814
+   "crawledAt": 1794471696229
   },
   {
    "title": "Assistant Manager - HR Operations",
@@ -76591,7 +76678,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Technical Lead - Python",
@@ -76605,7 +76692,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Senior Manager - Finance",
@@ -76619,7 +76706,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Senior Executive - Finance",
@@ -76633,7 +76720,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Senior Software Developer",
@@ -76647,7 +76734,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Sales Director",
@@ -76661,7 +76748,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Market Research Analyst",
@@ -76675,7 +76762,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Technical Project Manager",
@@ -76689,7 +76776,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Python Architect/lead",
@@ -76703,7 +76790,7 @@
    "website": "sacumen.com",
    "src": "nyc",
    "page": "https://sacumen.com/careers/",
-   "crawledAt": 1794213902324
+   "crawledAt": 1794471711708
   },
   {
    "title": "Clinical Research Associate/Coordinator (CRA)",
@@ -76717,7 +76804,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794213904067
+   "crawledAt": 1794471715926
   },
   {
    "title": "Regulatory affairs specialist",
@@ -76731,7 +76818,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794213904067
+   "crawledAt": 1794471715926
   },
   {
    "title": "Chief Medical Informatics Officer (CMIO)",
@@ -76745,7 +76832,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794213904067
+   "crawledAt": 1794471715926
   },
   {
    "title": "Hospital administrator/manager",
@@ -76759,7 +76846,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794213904067
+   "crawledAt": 1794471715926
   },
   {
    "title": "Public health policy analyst",
@@ -76773,7 +76860,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794213904067
+   "crawledAt": 1794471715926
   },
   {
    "title": "Senior Factoring Underwriter & Credit Specialist",
@@ -76849,7 +76936,7 @@
    "website": "sesameworkshop.org",
    "src": "nyc",
    "page": "https://sesameworkshop.org/about-us/careers/",
-   "crawledAt": 1794213930756
+   "crawledAt": 1794471716690
   },
   {
    "title": "LATEST BY DESIGNER",
@@ -76863,7 +76950,7 @@
    "website": "shopshopslive.com",
    "src": "nyc",
    "page": "https://www.shopshopslive.com/",
-   "crawledAt": 1794213931350
+   "crawledAt": 1794471725805
   },
   {
    "title": "Accounting Manager",
@@ -76877,7 +76964,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1794213941860
+   "crawledAt": 1794471727862
   },
   {
    "title": "Software Engineer",
@@ -76891,7 +76978,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1794213941860
+   "crawledAt": 1794471727862
   },
   {
    "title": "Staff Designer",
@@ -76905,7 +76992,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1794213941860
+   "crawledAt": 1794471727862
   },
   {
    "title": "Job File Coordinator",
@@ -76935,7 +77022,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "National Sales Director - Australia",
@@ -76949,7 +77036,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "County Manager - Japan",
@@ -76963,7 +77050,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Country Director - Thailand",
@@ -76977,7 +77064,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Account Manager - UK (Hybrid)",
@@ -76991,7 +77078,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Account Manager - Germany (Düsseldorf)",
@@ -77005,7 +77092,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Front-End Developer (Video Player)",
@@ -77019,7 +77106,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Associate Product Manager",
@@ -77033,7 +77120,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Assistant Manager - Sales",
@@ -77047,7 +77134,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Account Executive",
@@ -77061,7 +77148,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Senior Sales Manager/Sales Director | Publicis",
@@ -77075,7 +77162,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Senior Sales Manager/Sales Director | GroupM/Indies",
@@ -77089,7 +77176,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Global Agency Partnership Director – UK",
@@ -77103,7 +77190,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Senior Sales Manager",
@@ -77117,7 +77204,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "Senior Sales Manager/Sales Director - Omnicom",
@@ -77131,7 +77218,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794213958547
+   "crawledAt": 1794471738547
   },
   {
    "title": "nCino/Salesforce Solution Architect (Remote)",
@@ -77145,7 +77232,7 @@
    "website": "silverlinecrm.com",
    "src": "nyc",
    "page": "https://silverlinecrm.com/careers/",
-   "crawledAt": 1794213969418
+   "crawledAt": 1794471742924
   },
   {
    "title": "Pre-Sales Solution Architect (Remote)",
@@ -77159,7 +77246,7 @@
    "website": "silverlinecrm.com",
    "src": "nyc",
    "page": "https://silverlinecrm.com/careers/",
-   "crawledAt": 1794213969418
+   "crawledAt": 1794471742924
   },
   {
    "title": "Cyber Security Manager",
@@ -77173,7 +77260,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1794213979877
+   "crawledAt": 1794471747213
   },
   {
    "title": "Full Stack Engineer (Ruby on Rails)",
@@ -77187,7 +77274,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1794213979877
+   "crawledAt": 1794471747213
   },
   {
    "title": "Senior Full Stack Engineer (Ruby on Rails)",
@@ -77201,7 +77288,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1794213979877
+   "crawledAt": 1794471747213
   },
   {
    "title": "DATABASE DEVELOPER",
@@ -77215,7 +77302,7 @@
    "website": "simplesolve.com",
    "src": "nyc",
    "page": "https://www.simplesolve.com/careers",
-   "crawledAt": 1794213991014
+   "crawledAt": 1794471749912
   },
   {
    "title": "Retail operations leaders",
@@ -77232,6 +77319,132 @@
    "crawledAt": 1794467572726
   },
   {
+   "title": "Content Writer",
+   "url": "https://silenteight.teamtailor.com/jobs#content-writer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "Enterprise Sales Executive",
+   "url": "https://silenteight.teamtailor.com/jobs#enterprise-sales-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "HR Specialist",
+   "url": "https://silenteight.teamtailor.com/jobs#hr-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "In-House Counsel",
+   "url": "https://silenteight.teamtailor.com/jobs#in-house-counsel",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "Marketing Automation Specialist",
+   "url": "https://silenteight.teamtailor.com/jobs#marketing-automation-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "Sales Enablement Associate",
+   "url": "https://silenteight.teamtailor.com/jobs#sales-enablement-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "Sales Engineer",
+   "url": "https://silenteight.teamtailor.com/jobs#sales-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "Strategic Account Director",
+   "url": "https://silenteight.teamtailor.com/jobs#strategic-account-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
+   "title": "AI Solutions Consultant",
+   "url": "https://silenteight.teamtailor.com/jobs#ai-solutions-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Silent Eight",
+   "website": "silenteight.com",
+   "src": "nyc",
+   "page": "https://silenteight.teamtailor.com/jobs",
+   "crawledAt": 1794471807264
+  },
+  {
    "title": "Solution Architect (APAC)",
    "url": "https://silenteight.teamtailor.com/jobs#solution-architect-apac-",
    "datePosted": null,
@@ -77243,7 +77456,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794214116432
+   "crawledAt": 1794471807264
   },
   {
    "title": "Enterprise Sales Director – Europe (Poland)",
@@ -77257,7 +77470,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794214116432
+   "crawledAt": 1794471807264
   },
   {
    "title": "Enterprise Sales Director",
@@ -77271,7 +77484,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794214116432
+   "crawledAt": 1794471807264
   },
   {
    "title": "Data Engineer",
@@ -77285,7 +77498,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1794214067348
+   "crawledAt": 1794471758529
   },
   {
    "title": "Technical Progam Manager",
@@ -77299,7 +77512,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1794214067348
+   "crawledAt": 1794471758529
   },
   {
    "title": "Sr Data Scientist",
@@ -77313,7 +77526,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1794214067348
+   "crawledAt": 1794471758529
   },
   {
    "title": "Principal / Director, Head of Client Service",
@@ -77387,7 +77600,7 @@
    "website": "signature-inc.net",
    "src": "nyc",
    "page": "https://signaturemoorestowngroup.com/pages/service-areas/business-consulting-career-opportunities-deptford-nj/",
-   "crawledAt": 1794214102788
+   "crawledAt": 1794471767590
   },
   {
    "title": "SEO Manager (UK Shift)",
@@ -77401,7 +77614,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "SEO Executive",
@@ -77415,7 +77628,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "SEO Project Manager",
@@ -77429,7 +77642,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "SEO Content Writer",
@@ -77443,7 +77656,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Web Development Manager",
@@ -77457,7 +77670,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Web Developer - (UK Shift)",
@@ -77471,7 +77684,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Web Developer",
@@ -77485,7 +77698,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Business Development Head - Digital Sales",
@@ -77499,7 +77712,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Business Development Executive (Outbound)",
@@ -77513,7 +77726,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Sales Coordinator",
@@ -77527,7 +77740,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Business Development/Lead Generation Executive",
@@ -77541,7 +77754,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Senior Business Development Executive",
@@ -77555,7 +77768,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Business Development Executive",
@@ -77569,7 +77782,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "SMO Executive",
@@ -77583,7 +77796,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "HR Executive",
@@ -77597,7 +77810,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Sr PPC Executive",
@@ -77611,7 +77824,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "PPC Executive",
@@ -77625,7 +77838,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Client Servicing Executive",
@@ -77639,7 +77852,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "IT Support Executive",
@@ -77653,7 +77866,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Admin cum Front Desk Executive",
@@ -77667,7 +77880,7 @@
    "website": "savit.in",
    "src": "nyc",
    "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794214192301
+   "crawledAt": 1794471780102
   },
   {
    "title": "Marketing Intern",
@@ -77681,7 +77894,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1794214198981
+   "crawledAt": 1794471786737
   },
   {
    "title": "Senior Software Engineer, Frontend",
@@ -77695,7 +77908,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1794214198981
+   "crawledAt": 1794471786737
   },
   {
    "title": "Senior Software Engineer - iOS - Paris",
@@ -77709,7 +77922,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1794214198981
+   "crawledAt": 1794471786737
   },
   {
    "title": "Compliance Officer",
@@ -77723,7 +77936,7 @@
    "website": "soliduslabs.com",
    "src": "nyc",
    "page": "https://www.soliduslabs.com/digital-asset-compliance-careers",
-   "crawledAt": 1794214214971
+   "crawledAt": 1794471795958
   },
   {
    "title": "Regulatory Compliance Manager, Malta",
@@ -77737,7 +77950,7 @@
    "website": "soliduslabs.com",
    "src": "nyc",
    "page": "https://www.soliduslabs.com/digital-asset-compliance-careers",
-   "crawledAt": 1794214214971
+   "crawledAt": 1794471795958
   },
   {
    "title": "User Experience Designer",
@@ -77751,7 +77964,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794214234713
+   "crawledAt": 1794471801191
   },
   {
    "title": "Project Manager",
@@ -77765,7 +77978,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794214234713
+   "crawledAt": 1794471801191
   },
   {
    "title": "Senior Art Director",
@@ -77779,7 +77992,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794214234713
+   "crawledAt": 1794471801191
   },
   {
    "title": "Web Developer",
@@ -77793,7 +78006,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794214234713
+   "crawledAt": 1794471801191
   },
   {
    "title": "Platform Engineer",
@@ -77807,7 +78020,7 @@
    "website": "spareroom.com",
    "src": "nyc",
    "page": "https://www.spareroom.com/content/about/jobs",
-   "crawledAt": 1794214240564
+   "crawledAt": 1794471805792
   },
   {
    "title": "Senior Security Analyst",
@@ -77821,7 +78034,7 @@
    "website": "spectramedix.com",
    "src": "nyc",
    "page": "https://www.spectramedix.com/job-opportunities",
-   "crawledAt": 1794214261418
+   "crawledAt": 1794471815456
   },
   {
    "title": "Senior Business Data Analyst",
@@ -77835,7 +78048,7 @@
    "website": "spectramedix.com",
    "src": "nyc",
    "page": "https://www.spectramedix.com/job-opportunities",
-   "crawledAt": 1794214261418
+   "crawledAt": 1794471815456
   },
   {
    "title": "Jared Riegler / Senior Marketing Manager",
@@ -77849,7 +78062,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1794214263432
+   "crawledAt": 1794471816421
   },
   {
    "title": "Chris Mathew / Training & Operations Manager",
@@ -77863,7 +78076,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1794214263432
+   "crawledAt": 1794471816421
   },
   {
    "title": "Account Executive",
@@ -77877,7 +78090,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1794214263432
+   "crawledAt": 1794471816421
   },
   {
    "title": "Human Resource Manager",
@@ -77891,7 +78104,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Chief Business Officer",
@@ -77905,7 +78118,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Technology Lead",
@@ -77919,7 +78132,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Quality Assurance Manager",
@@ -77933,7 +78146,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Senior Cloud Specialist",
@@ -77947,7 +78160,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Product Manager",
@@ -77961,7 +78174,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Mobility Lead",
@@ -77975,7 +78188,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Technical Manager",
@@ -77989,7 +78202,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Lead Engineer",
@@ -78003,7 +78216,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "HR Manager",
@@ -78017,7 +78230,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794214269538
+   "crawledAt": 1794471822196
   },
   {
    "title": "Customer Hero Operations Specialist",
@@ -78031,7 +78244,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794214274914
+   "crawledAt": 1794471822500
   },
   {
    "title": "Security & Risk Analyst",
@@ -78045,7 +78258,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794214274914
+   "crawledAt": 1794471822500
   },
   {
    "title": "Marketing Analyst",
@@ -78059,7 +78272,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794214274914
+   "crawledAt": 1794471822500
   },
   {
    "title": "Product Manager, Acquisitions",
@@ -78073,7 +78286,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794214274914
+   "crawledAt": 1794471822500
   },
   {
    "title": "Senior Account Executive, Client Services",
@@ -78087,7 +78300,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1794214279984
+   "crawledAt": 1794471827564
   },
   {
    "title": "Project Manager",
@@ -78101,7 +78314,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1794214279984
+   "crawledAt": 1794471827564
   },
   {
    "title": "Account Director",
@@ -78115,7 +78328,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1794214279984
+   "crawledAt": 1794471827564
   },
   {
    "title": "Platform Engineer",
@@ -78129,7 +78342,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "Partnerships Director",
@@ -78143,7 +78356,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "Lead Engineer",
@@ -78157,7 +78370,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "Senior Platform Engineer",
@@ -78171,7 +78384,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "FMCG Team Lead, UK",
@@ -78185,7 +78398,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "Customer Success Manager",
@@ -78199,7 +78412,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "People Experience Manager",
@@ -78213,7 +78426,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "People Manager",
@@ -78227,7 +78440,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794214289507
+   "crawledAt": 1794471835069
   },
   {
    "title": "Senior / Lead Engineering Operations Manager",
@@ -78771,12 +78984,13 @@
     "India"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Testing Mavens",
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794188073903
+   "crawledAt": 1794471842773
   },
   {
    "title": "Senior Test Engineer - US Health Insurance",
@@ -78786,12 +79000,13 @@
     "India"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Testing Mavens",
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794188073903
+   "crawledAt": 1794471842773
   },
   {
    "title": "Test Engineer/ Senior Test Engineer - ETL",
@@ -78801,12 +79016,13 @@
     "India"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Testing Mavens",
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794188073903
+   "crawledAt": 1794471842773
   },
   {
    "title": "Test Engineer / Senior Test Engineer - Manual + Data",
@@ -78816,12 +79032,13 @@
     "India"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Testing Mavens",
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794188073903
+   "crawledAt": 1794471842773
   },
   {
    "title": "Test Lead - US Health Insurance",
@@ -78831,12 +79048,13 @@
     "India"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Testing Mavens",
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794188073903
+   "crawledAt": 1794471842773
   },
   {
    "title": "Senior Test Engineer - Manual + Mobile",
@@ -78846,12 +79064,13 @@
     "India"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Testing Mavens",
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794188073903
+   "crawledAt": 1794471842773
   },
   {
    "title": "Customer Account Manager (New England)",
@@ -78872,768 +79091,154 @@
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646392",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Senior Manager, Business Development - Solar Panel Recycling Lead",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645325",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Manager, Business Development (Commercial)",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4642795",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Manager, Business Development - Commercial",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640156",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Senior Manager, Creative",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4614478",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Associate, Account Management",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4607515",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Warehouse Associate - Disassembly",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4093880",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Senior Manager, Business Development - West Coast",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4006595",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Senior Manager, Business Development - Mountain West",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4006478",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Warehouse Associate - Disassembly",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3120128",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
+   "crawledAt": 1794471844285
   },
   {
    "title": "Associate, Warehouse - Consolidation",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2306237",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "TerraCycle",
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794188312650
-  },
-  {
-   "title": "District Manager jobs",
-   "url": "https://www.linkedin.com/jobs/district-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Director of Product Development jobs",
-   "url": "https://www.linkedin.com/jobs/director-of-product-development-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Marketing Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/marketing-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Front of House Manager jobs",
-   "url": "https://www.linkedin.com/jobs/front-of-house-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Director jobs",
-   "url": "https://www.linkedin.com/jobs/director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Customer Experience Manager jobs",
-   "url": "https://www.linkedin.com/jobs/customer-experience-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Intern jobs",
-   "url": "https://www.linkedin.com/jobs/intern-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Assistant General Manager jobs",
-   "url": "https://www.linkedin.com/jobs/assistant-general-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Senior Director Communications jobs",
-   "url": "https://www.linkedin.com/jobs/senior-director-communications-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Account Director jobs",
-   "url": "https://www.linkedin.com/jobs/account-director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Community Manager jobs",
-   "url": "https://www.linkedin.com/jobs/community-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Senior Communications Manager jobs",
-   "url": "https://www.linkedin.com/jobs/senior-communications-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Retail Director jobs",
-   "url": "https://www.linkedin.com/jobs/retail-director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Director of Brand Marketing jobs",
-   "url": "https://www.linkedin.com/jobs/director-of-brand-marketing-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Marketing Coordinator jobs",
-   "url": "https://www.linkedin.com/jobs/marketing-coordinator-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Head jobs",
-   "url": "https://www.linkedin.com/jobs/head-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Brand Director jobs",
-   "url": "https://www.linkedin.com/jobs/brand-director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Coordinator jobs",
-   "url": "https://www.linkedin.com/jobs/coordinator-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Marketing Lead jobs",
-   "url": "https://www.linkedin.com/jobs/marketing-lead-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Account Manager jobs",
-   "url": "https://www.linkedin.com/jobs/account-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Communications Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/communications-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Producer jobs",
-   "url": "https://www.linkedin.com/jobs/producer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Head of Marketing jobs",
-   "url": "https://www.linkedin.com/jobs/head-of-marketing-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Marketing Manager jobs",
-   "url": "https://www.linkedin.com/jobs/marketing-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Territory Manager jobs",
-   "url": "https://www.linkedin.com/jobs/territory-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Sales Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/sales-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Recruiter jobs",
-   "url": "https://www.linkedin.com/jobs/recruiter-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Manager jobs",
-   "url": "https://www.linkedin.com/jobs/manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Consultant jobs",
-   "url": "https://www.linkedin.com/jobs/consultant-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Associate jobs",
-   "url": "https://www.linkedin.com/jobs/associate-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Membership Manager jobs",
-   "url": "https://www.linkedin.com/jobs/membership-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Experience Manager jobs",
-   "url": "https://www.linkedin.com/jobs/experience-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Event Manager jobs",
-   "url": "https://www.linkedin.com/jobs/event-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Project Manager jobs",
-   "url": "https://www.linkedin.com/jobs/project-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Business Development Representative jobs",
-   "url": "https://www.linkedin.com/jobs/business-development-representative-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Quality Assurance Manager jobs",
-   "url": "https://www.linkedin.com/jobs/quality-assurance-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Director of Operations jobs",
-   "url": "https://www.linkedin.com/jobs/director-of-operations-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Operational Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/operational-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Event Producer jobs",
-   "url": "https://www.linkedin.com/jobs/event-producer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Senior Manager jobs",
-   "url": "https://www.linkedin.com/jobs/senior-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Partnerships Manager jobs",
-   "url": "https://www.linkedin.com/jobs/partnerships-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Furniture Designer jobs",
-   "url": "https://www.linkedin.com/jobs/furniture-designer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Head of Design jobs",
-   "url": "https://www.linkedin.com/jobs/head-of-design-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Account Executive jobs",
-   "url": "https://www.linkedin.com/jobs/account-executive-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Business Development Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/business-development-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Design Director jobs",
-   "url": "https://www.linkedin.com/jobs/design-director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Plant Manager jobs",
-   "url": "https://www.linkedin.com/jobs/plant-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Industrial Designer jobs",
-   "url": "https://www.linkedin.com/jobs/industrial-designer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/engineer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Bar Manager jobs",
-   "url": "https://www.linkedin.com/jobs/bar-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Assistant Manager jobs",
-   "url": "https://www.linkedin.com/jobs/assistant-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "People Manager jobs",
-   "url": "https://www.linkedin.com/jobs/people-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
-  },
-  {
-   "title": "Designer jobs",
-   "url": "https://www.linkedin.com/jobs/designer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "The Malin",
-   "website": "themalin.co",
-   "src": "nyc",
-   "page": "https://themalin.co/",
-   "crawledAt": 1794188426358
+   "crawledAt": 1794471844285
   },
   {
    "title": "Associate Sales Representative",
@@ -79978,72 +79583,98 @@
    "url": "https://vienna.earth/meta/jobs/frontend",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Vienna Hypertext",
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794189122001
+   "crawledAt": 1794471851031
   },
   {
    "title": "Full Stack Engineer",
    "url": "https://vienna.earth/meta/jobs/full-stack",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Vienna Hypertext",
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794189122001
+   "crawledAt": 1794471851031
   },
   {
    "title": "Designer",
    "url": "https://vienna.earth/meta/jobs/design",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Vienna Hypertext",
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794189122001
+   "crawledAt": 1794471851031
+  },
+  {
+   "title": "(Senior) Director Finance (m/f/d)",
+   "url": "https://career.vialytics.com/en-GB/jobs/8673423-senior-director-finance-m-f-d",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Vialytics",
+   "website": "vialytics.com",
+   "src": "nyc",
+   "page": "https://www.vialytics.com/",
+   "crawledAt": 1794471863994
   },
   {
    "title": "Marketing Manager, U.S. East Coast",
    "url": "https://career.vialytics.com/en-GB/jobs/8641693-marketing-manager-u-s-east-coast",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Vialytics",
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794189148404
+   "crawledAt": 1794471863994
   },
   {
    "title": "Chief of Staff to the CEO (m/f/d)",
    "url": "https://career.vialytics.com/en-GB/jobs/7877411-chief-of-staff-to-the-ceo-m-f-d",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Vialytics",
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794189148404
+   "crawledAt": 1794471863994
   },
   {
    "title": "Account Executive, Atlanta",
    "url": "https://career.vialytics.com/en-GB/jobs/7769496-account-executive-atlanta",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Vialytics",
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794189148404
+   "crawledAt": 1794471863994
   },
   {
    "title": "Organic Social Media Strategist",
