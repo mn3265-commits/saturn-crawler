@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-12T08:25:23.885Z",
+ "generated": "2026-11-12T08:30:31.410Z",
  "companies": 22901,
  "status": {
-  "found": 3135,
+  "found": 3136,
   "down": 4438,
-  "no-ats": 11905,
-  "site": 3423
+  "no-ats": 11908,
+  "site": 3419
  },
  "byType": {
   "dover": 7,
@@ -19,10 +19,10 @@
   "bamboohr": 161,
   "smartrecruiters": 54,
   "recruitee": 27,
+  "eightfold": 36,
   "icims": 153,
   "oracle": 89,
-  "successfactors": 14,
-  "eightfold": 35
+  "successfactors": 14
  },
  "boards": [
   {
@@ -3144,6 +3144,15 @@
    "label": "Eventual",
    "website": "daft.ai",
    "page": "https://www.eventual.ai/careers",
+   "src": "yc"
+  },
+  {
+   "type": "eightfold",
+   "token": "trust",
+   "url": "trust.eightfold.ai",
+   "label": "Wolfia",
+   "website": "wolfia.com",
+   "page": "https://wolfia.com/",
    "src": "yc"
   },
   {
@@ -29366,804 +29375,840 @@
    "url": "https://www.dittowords.com/roles/for-product-designers",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Ditto",
    "website": "dittowords.com",
    "src": "yc",
    "page": "https://www.dittowords.com/careers",
-   "crawledAt": 1794191857048
+   "crawledAt": 1794471987324
   },
   {
    "title": "Founding Security Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/UdlFqlr-founding-security-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "DevOps Support Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/Fc0Rzny-devops-support-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Staff Frontend Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/UrP0LRr-staff-frontend-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Staff Infrastructure Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/Tz5EW2n-staff-infrastructure-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Frontend Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/GD7hwtI-frontend-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Growth/Product Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/V5kia33-growth-product-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Backend Engineer (Go)",
    "url": "https://www.ycombinator.com/companies/porter/jobs/GjO3enf-backend-engineer-go",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Full Stack Engineer",
    "url": "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Porter",
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794191882439
+   "crawledAt": 1794471990094
   },
   {
    "title": "Back End Engineer Full Time, Seattle (or remote)",
    "url": "https://adyn.com/careers/back-end-engineer/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "adyn",
    "website": "adyn.com",
    "src": "yc",
    "page": "https://adyn.com/careers/",
-   "crawledAt": 1794192080344
+   "crawledAt": 1794471994705
   },
   {
    "title": "Digital Storytelling Intern Internship, Seattle (or remote)",
    "url": "https://adyn.com/careers/digital-storytelling-intern/",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "adyn",
    "website": "adyn.com",
    "src": "yc",
    "page": "https://adyn.com/careers/",
-   "crawledAt": 1794192080344
+   "crawledAt": 1794471994705
   },
   {
    "title": "Partner Growth/Enablement Manager",
    "url": "https://www.ycombinator.com/companies/seam/jobs/N1sq3yK-partner-growth-enablement-manager",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
    "title": "Senior Product Engineer (Onsite - SF)",
    "url": "https://www.ycombinator.com/companies/seam/jobs/Pmhmq4Q-senior-product-engineer-onsite-sf",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
    "title": "Solutions Engineer",
    "url": "https://www.ycombinator.com/companies/seam/jobs/0necGNh-solutions-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
    "title": "Senior Platform Engineer (Onsite - SF)",
    "url": "https://www.ycombinator.com/companies/seam/jobs/gQHJoK2-senior-platform-engineer-onsite-sf",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
    "title": "Developer Relations Lead - Content & Enablement",
    "url": "https://www.ycombinator.com/companies/seam/jobs/5l3orHA-developer-relations-lead-content-enablement",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
    "title": "Senior Software Engineer (Onsite - SF)",
    "url": "https://www.ycombinator.com/companies/seam/jobs/TlDr05F-senior-software-engineer-onsite-sf",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
    "title": "Senior Product Designer (Onsite - SF)",
    "url": "https://www.ycombinator.com/companies/seam/jobs/51CIHNf-senior-product-designer-onsite-sf",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Seam",
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794192208600
+   "crawledAt": 1794471999303
   },
   {
-   "title": "Chief Meteorologist jobs",
-   "url": "https://www.linkedin.com/jobs/chief-meteorologist-jobs",
+   "title": "Atmospheric Transport and Dispersion Modeler - Staff Scientist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#atmospheric-transport-and-dispersion-modeler-staff-scientist",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Donor Relations Coordinator jobs",
-   "url": "https://www.linkedin.com/jobs/donor-relations-coordinator-jobs",
+   "title": "Data Scientist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#data-scientist",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Air Quality Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/air-quality-specialist-jobs",
+   "title": "Senior Wind Energy Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-wind-energy-analyst",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "News Director jobs",
-   "url": "https://www.linkedin.com/jobs/news-director-jobs",
+   "title": "Senior Renewable Energy Analytics & Performance Lead",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-renewable-energy-analytics-performance-lead",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Public Information Officer jobs",
-   "url": "https://www.linkedin.com/jobs/public-information-officer-jobs",
+   "title": "Atmospheric Sciences - Postdoctoral Researcher",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#atmospheric-sciences-postdoctoral-researcher",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Director of Broadcasting jobs",
-   "url": "https://www.linkedin.com/jobs/director-of-broadcasting-jobs",
+   "title": "Resilience & Emergency Response Program Manager",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#resilience-emergency-response-program-manager",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Public Information Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/public-information-specialist-jobs",
+   "title": "Senior Catastrophe Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-catastrophe-analyst",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Land Use Planner jobs",
-   "url": "https://www.linkedin.com/jobs/land-use-planner-jobs",
+   "title": "Environmental Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#environmental-specialist",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Membership Associate jobs",
-   "url": "https://www.linkedin.com/jobs/membership-associate-jobs",
+   "title": "Graduate Risk & Resilience Consultant (Available 2027)",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#graduate-risk-resilience-consultant-available-2027-",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Flight Operations Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/flight-operations-engineer-jobs",
+   "title": "Research Engineer, Bellwether, X",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#research-engineer-bellwether-x",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Associate Publisher jobs",
-   "url": "https://www.linkedin.com/jobs/associate-publisher-jobs",
+   "title": "Associate Engineer / Associate Water Resources Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#associate-engineer-associate-water-resources-specialist",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Business Management Analyst jobs",
-   "url": "https://www.linkedin.com/jobs/business-management-analyst-jobs",
+   "title": "Space Systems Engineer, Space Operations",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#space-systems-engineer-space-operations",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Instrument Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/instrument-specialist-jobs",
+   "title": "WATER QUALITY & REMOTE SENSING RESEARCH SCIENTIST",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#water-quality-remote-sensing-research-scientist",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Emergency Management Coordinator jobs",
-   "url": "https://www.linkedin.com/jobs/emergency-management-coordinator-jobs",
+   "title": "Data Scientist, Sensors",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#data-scientist-sensors",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Emergency Coordinator jobs",
-   "url": "https://www.linkedin.com/jobs/emergency-coordinator-jobs",
+   "title": "Technical Project Manager, Constellation Ops Team",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#technical-project-manager-constellation-ops-team",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Laboratory Lead jobs",
-   "url": "https://www.linkedin.com/jobs/laboratory-lead-jobs",
+   "title": "Mission Manager",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#mission-manager",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Air Quality Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/air-quality-engineer-jobs",
+   "title": "Geospatial Data Engineer , WW Sustainability",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#geospatial-data-engineer-ww-sustainability",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Youth Development Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/youth-development-specialist-jobs",
+   "title": "Operations Analyst, User Safety & Risk Operations",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#operations-analyst-user-safety-risk-operations",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Environmental Scientist jobs",
-   "url": "https://www.linkedin.com/jobs/environmental-scientist-jobs",
+   "title": "Expert Quantitative Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#expert-quantitative-analyst",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Installation Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/installation-engineer-jobs",
+   "title": "Fleet Coordinator",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#fleet-coordinator",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
-   "title": "Senior Energy Analyst jobs",
-   "url": "https://www.linkedin.com/jobs/senior-energy-analyst-jobs",
+   "title": "Staff Software Quality Safety Operations Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#staff-software-quality-safety-operations-specialist",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Atmo",
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Senior Instrument Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/senior-instrument-engineer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Emergency Manager jobs",
-   "url": "https://www.linkedin.com/jobs/emergency-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Trade Consultant jobs",
-   "url": "https://www.linkedin.com/jobs/trade-consultant-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Technical Project Lead jobs",
-   "url": "https://www.linkedin.com/jobs/technical-project-lead-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Fraud Prevention Manager jobs",
-   "url": "https://www.linkedin.com/jobs/fraud-prevention-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Software Engineering Analyst jobs",
-   "url": "https://www.linkedin.com/jobs/software-engineering-analyst-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
-  },
-  {
-   "title": "Youth Coordinator jobs",
-   "url": "https://www.linkedin.com/jobs/youth-coordinator-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794192216708
+   "crawledAt": 1794472001543
   },
   {
    "title": "Sales Development Representative (SDR)",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/lbbQXJj-sales-development-representative-sdr",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Full Stack Software Engineer Intern [Summer 2026]",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/dcyipuS-full-stack-software-engineer-intern-summer-2026",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": "Summer 2026",
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Sales Intern [Summer 2026]",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/iz7AKOn-sales-intern-summer-2026",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": "Summer 2026",
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Full-Cycle Sales AE",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/9H1KM0B-full-cycle-sales-ae",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Software Testing Engineer (QA)",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/rm6wwJu-software-testing-engineer-qa",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Backend Engineer (Golang)",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/bAPaF28-backend-engineer-golang",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Frontend Engineer (Vue, Browser Extensions, AI Agent)",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/aDnRu3L-frontend-engineer-vue-browser-extensions-ai-agent",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "DevOps Engineer",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/094hpfh-devops-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Backend Developer (Scala/Java)",
    "url": "https://www.ycombinator.com/companies/swif-ai/jobs/VoDI7UY-backend-developer-scala-java",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Swif.ai",
    "website": "swif.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/swif-ai/jobs",
-   "crawledAt": 1794192225397
+   "crawledAt": 1794472006990
   },
   {
    "title": "Sell Side Account Executive",
    "url": "https://www.mobiusmaterials.com/jobs/sell-side-account-executive",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Mobius Materials",
    "website": "mobiusmaterials.com",
    "src": "yc",
    "page": "https://www.mobiusmaterials.com/jobs",
-   "crawledAt": 1794192284864
+   "crawledAt": 1794472009203
   },
   {
    "title": "Director of Sales",
    "url": "https://www.mobiusmaterials.com/jobs/director-of-sales",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Mobius Materials",
    "website": "mobiusmaterials.com",
    "src": "yc",
    "page": "https://www.mobiusmaterials.com/jobs",
-   "crawledAt": 1794192284864
+   "crawledAt": 1794472009203
   },
   {
    "title": "Solution Engineer",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/5fJvq8p-solution-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "Forward Deployed Engineer",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/XHbeA0g-forward-deployed-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "AI Researcher",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/LMQUjYq-ai-researcher",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "AI Engineer",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/FpFSOhJ-ai-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "Founding Product Designer",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/WHv3neF-founding-product-designer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "Account Executive",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/zAGbZFP-account-executive",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "Business Development Representative",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/GGQBdkF-business-development-representative",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "Founding Full-Stack Engineer",
    "url": "https://www.ycombinator.com/companies/arnata/jobs/0ICIGd7-founding-full-stack-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "arnata",
    "website": "arnata.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arnata/jobs",
-   "crawledAt": 1794192498229
+   "crawledAt": 1794472014105
   },
   {
    "title": "Customer Success Manager",
    "url": "https://www.ycombinator.com/companies/quadrant-health/jobs/JaGyNRA-customer-success-manager",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Quadrant Health",
    "website": "quadrant.health",
    "src": "yc",
    "page": "https://quadrant.health/jobs",
-   "crawledAt": 1794192617476
+   "crawledAt": 1794472016182
   },
   {
    "title": "Full Stack Engineer",
    "url": "https://www.ycombinator.com/companies/quadrant-health/jobs/GcmJ5pT-full-stack-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Quadrant Health",
    "website": "quadrant.health",
    "src": "yc",
    "page": "https://quadrant.health/jobs",
-   "crawledAt": 1794192617476
+   "crawledAt": 1794472016182
   },
   {
    "title": "Designer",
@@ -30174,12 +30219,13 @@
     "San Francisco, United States"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Terra API",
    "website": "tryterra.co",
    "src": "yc",
    "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
+   "crawledAt": 1794472023717
   },
   {
    "title": "Forward Deployed Engineer",
@@ -30191,12 +30237,45 @@
     "Remote"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Terra API",
    "website": "tryterra.co",
    "src": "yc",
    "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
+   "crawledAt": 1794472023717
+  },
+  {
+   "title": "Frontend Engineer",
+   "url": "https://revolutpeople.com/terraapi/public/careers/position/frontend-engineer-a516af32-4355-4ef9-9bd2-0dd92d3b4d8a",
+   "datePosted": "2025-01-15",
+   "locations": [
+    "London, United Kingdom"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Terra API",
+   "website": "tryterra.co",
+   "src": "yc",
+   "page": "https://tryterra.co/careers",
+   "crawledAt": 1794472023717
+  },
+  {
+   "title": "Commercial Lead",
+   "url": "https://revolutpeople.com/terraapi/public/careers/position/commercial-lead-e181e789-95d2-4b84-9d92-23f3afc989dc",
+   "datePosted": "2026-03-31",
+   "locations": [
+    "London, United Kingdom"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Terra API",
+   "website": "tryterra.co",
+   "src": "yc",
+   "page": "https://tryterra.co/careers",
+   "crawledAt": 1794472023717
   },
   {
    "title": "AI Engineer",
@@ -30207,42 +30286,13 @@
     "San Francisco, United States"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Terra API",
    "website": "tryterra.co",
    "src": "yc",
    "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
-  },
-  {
-   "title": "Frontend Engineer",
-   "url": "https://revolutpeople.com/terraapi/public/careers/position/frontend-engineer-a516af32-4355-4ef9-9bd2-0dd92d3b4d8a",
-   "datePosted": "2025-01-15",
-   "locations": [
-    "London, United Kingdom"
-   ],
-   "employmentType": "FULL_TIME",
-   "via": "jsonld",
-   "company": "Terra API",
-   "website": "tryterra.co",
-   "src": "yc",
-   "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
-  },
-  {
-   "title": "Commercial Lead",
-   "url": "https://revolutpeople.com/terraapi/public/careers/position/commercial-lead-e181e789-95d2-4b84-9d92-23f3afc989dc",
-   "datePosted": "2026-03-31",
-   "locations": [
-    "London, United Kingdom"
-   ],
-   "employmentType": "FULL_TIME",
-   "via": "jsonld",
-   "company": "Terra API",
-   "website": "tryterra.co",
-   "src": "yc",
-   "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
+   "crawledAt": 1794472023717
   },
   {
    "title": "Sales Strategist",
@@ -30253,12 +30303,13 @@
     "San Francisco, United States"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Terra API",
    "website": "tryterra.co",
    "src": "yc",
    "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
+   "crawledAt": 1794472023717
   },
   {
    "title": "Senior Software Engineer",
@@ -30268,12 +30319,13 @@
     "London, United Kingdom"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Terra API",
    "website": "tryterra.co",
    "src": "yc",
    "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
+   "crawledAt": 1794472023717
   },
   {
    "title": "AI and Health Researcher",
@@ -30283,1872 +30335,1497 @@
     "London, United Kingdom"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Terra API",
    "website": "tryterra.co",
    "src": "yc",
    "page": "https://tryterra.co/careers",
-   "crawledAt": 1794192922641
+   "crawledAt": 1794472023717
   },
   {
    "title": "Software Engineer",
    "url": "https://www.ycombinator.com/companies/palettehq/jobs/xLrlp89-software-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "PaletteHQ",
    "website": "palettehq.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/palettehq/jobs",
-   "crawledAt": 1794192958141
-  },
-  {
-   "title": "Community Manager jobs",
-   "url": "https://www.linkedin.com/jobs/community-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Sales Executive jobs",
-   "url": "https://www.linkedin.com/jobs/sales-executive-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Analyst jobs",
-   "url": "https://www.linkedin.com/jobs/analyst-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Bilingual Customer Service Representative jobs",
-   "url": "https://www.linkedin.com/jobs/bilingual-customer-service-representative-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Graphic Designer jobs",
-   "url": "https://www.linkedin.com/jobs/graphic-designer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Marketing Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/marketing-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Graphic Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/graphic-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Back End Developer jobs",
-   "url": "https://www.linkedin.com/jobs/back-end-developer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Business Development Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/business-development-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Network Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/network-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Developer jobs",
-   "url": "https://www.linkedin.com/jobs/developer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/engineer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Python Developer jobs",
-   "url": "https://www.linkedin.com/jobs/python-developer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Civil Engineer jobs",
-   "url": "https://www.linkedin.com/jobs/civil-engineer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Chief Officer jobs",
-   "url": "https://www.linkedin.com/jobs/chief-officer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Design Project Manager jobs",
-   "url": "https://www.linkedin.com/jobs/design-project-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Pricing Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/pricing-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Support Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/support-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Assistant Manager jobs",
-   "url": "https://www.linkedin.com/jobs/assistant-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Assistant to the Director jobs",
-   "url": "https://www.linkedin.com/jobs/assistant-to-the-director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Intern jobs",
-   "url": "https://www.linkedin.com/jobs/intern-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Video Editor jobs",
-   "url": "https://www.linkedin.com/jobs/video-editor-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Ecommerce Manager jobs",
-   "url": "https://www.linkedin.com/jobs/ecommerce-manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Editor jobs",
-   "url": "https://www.linkedin.com/jobs/editor-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Protection Officer jobs",
-   "url": "https://www.linkedin.com/jobs/protection-officer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Sales Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/sales-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Marketing Director jobs",
-   "url": "https://www.linkedin.com/jobs/marketing-director-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Data Analyst jobs",
-   "url": "https://www.linkedin.com/jobs/data-analyst-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Senior Graphic Designer jobs",
-   "url": "https://www.linkedin.com/jobs/senior-graphic-designer-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Sales Agent jobs",
-   "url": "https://www.linkedin.com/jobs/sales-agent-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Executive jobs",
-   "url": "https://www.linkedin.com/jobs/executive-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Advertising Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/advertising-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Maintenance Specialist jobs",
-   "url": "https://www.linkedin.com/jobs/maintenance-specialist-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Manager jobs",
-   "url": "https://www.linkedin.com/jobs/manager-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Account Executive jobs",
-   "url": "https://www.linkedin.com/jobs/account-executive-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Sales Cashier jobs",
-   "url": "https://www.linkedin.com/jobs/sales-cashier-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Representative jobs",
-   "url": "https://www.linkedin.com/jobs/representative-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
-  },
-  {
-   "title": "Sports Editor jobs",
-   "url": "https://www.linkedin.com/jobs/sports-editor-jobs",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Yummy",
-   "website": "yummysuperapp.com",
-   "src": "yc",
-   "page": "https://www.yummysuperapp.com/",
-   "crawledAt": 1794193037490
+   "crawledAt": 1794472024570
   },
   {
    "title": "User Acquisition Manager (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/5DhWIvt-user-acquisition-manager-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Senior Data Scientist (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/bnsCrdy-senior-data-scientist-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Creative Strategist (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/SWPv3RZ-creative-strategist-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Senior Product Manager (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/BGIPF3u-senior-product-manager-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Product Manager Intern",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/V34Dn97-product-manager-intern",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Machine Learning Researcher Engineer (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/RqUMi2H-machine-learning-researcher-engineer-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Content Creator Intern",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/pxM2M98-content-creator-intern",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Senior Product Designer (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/vqMgV88-senior-product-designer-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Fullstack Engineer (NYC)",
    "url": "https://www.ycombinator.com/companies/boldvoice/jobs/BSms6T6-fullstack-engineer-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "BoldVoice",
    "website": "boldvoice.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/boldvoice/jobs",
-   "crawledAt": 1794193182153
+   "crawledAt": 1794472034075
   },
   {
    "title": "Chief Compliance Officer and General Counsel",
    "url": "https://www.ycombinator.com/companies/aqua/jobs/50a8BlO-chief-compliance-officer-and-general-counsel",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aqua",
    "website": "investwithaqua.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/aqua/jobs",
-   "crawledAt": 1794193235953
+   "crawledAt": 1794472037245
   },
   {
    "title": "GTM Associate",
    "url": "https://www.ycombinator.com/companies/aqua/jobs/OMpYiit-gtm-associate",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aqua",
    "website": "investwithaqua.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/aqua/jobs",
-   "crawledAt": 1794193235953
+   "crawledAt": 1794472037245
   },
   {
    "title": "Founding Engineer",
    "url": "https://www.ycombinator.com/companies/aqua/jobs/lkRXWZR-founding-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aqua",
    "website": "investwithaqua.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/aqua/jobs",
-   "crawledAt": 1794193235953
+   "crawledAt": 1794472037245
   },
   {
    "title": "Lead Registered Dental Hygienist (RDH) - San Francisco, California",
    "url": "https://www.ycombinator.com/companies/rinse/jobs/HftV3zx-lead-registered-dental-hygienist-rdh-san-francisco-california",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Rinse",
    "website": "rinse.dental",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rinse/jobs",
-   "crawledAt": 1794193272917
+   "crawledAt": 1794472043759
   },
   {
    "title": "Lead Dentist",
    "url": "https://www.ycombinator.com/companies/rinse/jobs/iLgOZxH-lead-dentist",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Rinse",
    "website": "rinse.dental",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rinse/jobs",
-   "crawledAt": 1794193272917
+   "crawledAt": 1794472043759
   },
   {
    "title": "LC-MS Research Associate I (Contract)",
    "url": "https://aoadx.com/careers/lcms-research-associate/",
    "datePosted": null,
    "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
    "via": "link",
    "company": "AOA Dx",
    "website": "aoadx.com",
    "src": "yc",
    "page": "https://aoadx.com/careers-opportunities/",
-   "crawledAt": 1794193289171
+   "crawledAt": 1794472043082
   },
   {
    "title": "Retail Associate",
    "url": "https://www.linkedin.com/jobs/retail-associate-jobs-san-antonio-tx",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Zen",
    "website": "lnkd.in",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs",
-   "crawledAt": 1794193299180
+   "crawledAt": 1794472061644
   },
   {
    "title": "Operations",
    "url": "https://www.linkedin.com/jobs/operations-jobs-san-antonio-tx",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Zen",
    "website": "lnkd.in",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs",
-   "crawledAt": 1794193299180
+   "crawledAt": 1794472061644
   },
   {
    "title": "Marketing",
    "url": "https://www.linkedin.com/jobs/marketing-jobs-san-antonio-tx",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Zen",
    "website": "lnkd.in",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs",
-   "crawledAt": 1794193299180
+   "crawledAt": 1794472061644
   },
   {
    "title": "Product Management",
    "url": "https://www.linkedin.com/jobs/product-management-jobs-san-antonio-tx",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Zen",
    "website": "lnkd.in",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs",
-   "crawledAt": 1794193299180
+   "crawledAt": 1794472061644
   },
   {
    "title": "Developer Relations",
    "url": "https://www.ycombinator.com/companies/coast/jobs/BGupCWi-developer-relations",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
    "title": "AI Engineer",
    "url": "https://www.ycombinator.com/companies/coast/jobs/R9FnGRK-ai-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
    "title": "Design Engineer, Product",
    "url": "https://www.ycombinator.com/companies/coast/jobs/RCMnjjA-design-engineer-product",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
    "title": "Senior Software Engineer",
    "url": "https://www.ycombinator.com/companies/coast/jobs/ms86GPV-senior-software-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
    "title": "Enterprise Account Executive",
    "url": "https://www.ycombinator.com/companies/coast/jobs/330lPgZ-enterprise-account-executive",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
    "title": "Technical Account Manager",
    "url": "https://www.ycombinator.com/companies/coast/jobs/aKaS86h-technical-account-manager",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
    "title": "Technical Solutions Engineer",
    "url": "https://www.ycombinator.com/companies/coast/jobs/6OkeH0b-technical-solutions-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coast",
    "website": "trycoast.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coast/jobs",
-   "crawledAt": 1794193562646
+   "crawledAt": 1794472051110
   },
   {
-   "title": "Software Engineer Jobs in San Francisco",
-   "url": "https://www.workatastartup.com/jobs/san-francisco/software-engineer",
+   "title": "Software engineer, Forward Deployed",
+   "url": "https://www.ycombinator.com/companies/aviator/jobs/DTTCGHC-software-engineer-forward-deployed",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aviator",
    "website": "aviator.co",
    "src": "yc",
    "page": "https://www.workatastartup.com/companies/aviator",
-   "crawledAt": 1794193777925
+   "crawledAt": 1794472060273
   },
   {
-   "title": "Product Manager Jobs in San Francisco",
-   "url": "https://www.workatastartup.com/jobs/san-francisco/product-manager",
+   "title": "Senior Software engineer, Founding team",
+   "url": "https://www.ycombinator.com/companies/aviator/jobs/IrbbNyF-senior-software-engineer-founding-team",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aviator",
    "website": "aviator.co",
    "src": "yc",
    "page": "https://www.workatastartup.com/companies/aviator",
-   "crawledAt": 1794193777925
+   "crawledAt": 1794472060273
   },
   {
-   "title": "Software Engineer Jobs in New York",
-   "url": "https://www.workatastartup.com/jobs/new-york/software-engineer",
+   "title": "Software engineer, Fullstack",
+   "url": "https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aviator",
    "website": "aviator.co",
    "src": "yc",
    "page": "https://www.workatastartup.com/companies/aviator",
-   "crawledAt": 1794193777925
+   "crawledAt": 1794472060273
   },
   {
-   "title": "Product Manager Jobs in New York",
-   "url": "https://www.workatastartup.com/jobs/new-york/product-manager",
+   "title": "Technical Product Manager, Founding team",
+   "url": "https://www.ycombinator.com/companies/aviator/jobs/v0U88eq-technical-product-manager-founding-team",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Aviator",
    "website": "aviator.co",
    "src": "yc",
    "page": "https://www.workatastartup.com/companies/aviator",
-   "crawledAt": 1794193777925
+   "crawledAt": 1794472060273
   },
   {
-   "title": "Software Engineer Jobs in Los Angeles",
-   "url": "https://www.workatastartup.com/jobs/los-angeles/software-engineer",
+   "title": "Software Engineering Intern",
+   "url": "https://www.ycombinator.com/companies/aviator/jobs/aaMaqQu-software-engineering-intern",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "Aviator",
    "website": "aviator.co",
    "src": "yc",
    "page": "https://www.workatastartup.com/companies/aviator",
-   "crawledAt": 1794193777925
-  },
-  {
-   "title": "Product Manager Jobs in Los Angeles",
-   "url": "https://www.workatastartup.com/jobs/los-angeles/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Aviator",
-   "website": "aviator.co",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/aviator",
-   "crawledAt": 1794193777925
+   "crawledAt": 1794472060273
   },
   {
    "title": "Product Teams",
    "url": "https://www.growthbook.io/roles/product-management",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "GrowthBook",
    "website": "growthbook.io",
    "src": "yc",
    "page": "https://www.growthbook.io/careers",
-   "crawledAt": 1794193786561
+   "crawledAt": 1794472069763
   },
   {
    "title": "Growth Teams",
    "url": "https://www.growthbook.io/roles/growth-teams",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "GrowthBook",
    "website": "growthbook.io",
    "src": "yc",
    "page": "https://www.growthbook.io/careers",
-   "crawledAt": 1794193786561
+   "crawledAt": 1794472069763
   },
   {
    "title": "Founding Engineer",
    "url": "https://www.ycombinator.com/companies/spot-health/jobs/dy9ZiK1-founding-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spot Health",
    "website": "spotdx.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/spot-health/jobs",
-   "crawledAt": 1794193870241
+   "crawledAt": 1794472068148
   },
   {
    "title": "Operations Associate",
    "url": "https://www.ycombinator.com/companies/spot-health/jobs/fXuPeXx-operations-associate",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spot Health",
    "website": "spotdx.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/spot-health/jobs",
-   "crawledAt": 1794193870241
+   "crawledAt": 1794472068148
   },
   {
    "title": "Growth Operations",
    "url": "https://www.ycombinator.com/companies/spot-health/jobs/iC9fBXs-growth-operations",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spot Health",
    "website": "spotdx.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/spot-health/jobs",
-   "crawledAt": 1794193870241
+   "crawledAt": 1794472068148
   },
   {
    "title": "Design Engineer (Senior / Staff / Principal)",
    "url": "https://www.ycombinator.com/companies/gym-class/jobs/ywXHGBv-design-engineer-senior-staff-principal",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Gym Class",
    "website": "gymclass.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/gym-class/jobs",
-   "crawledAt": 1794193947350
+   "crawledAt": 1794472074996
   },
   {
    "title": "Compute Partnerships Manager",
    "url": "https://www.ycombinator.com/companies/beam/jobs/EFHffcr-compute-partnerships-manager",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Head of Compute Operations",
    "url": "https://www.ycombinator.com/companies/beam/jobs/qwLlBWJ-head-of-compute-operations",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Product Engineer",
    "url": "https://www.ycombinator.com/companies/beam/jobs/QFlGNxn-product-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "GPU Cluster Infrastructure Engineer",
    "url": "https://www.ycombinator.com/companies/beam/jobs/tK37WS7-gpu-cluster-infrastructure-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Chief of Staff",
    "url": "https://www.ycombinator.com/companies/beam/jobs/RZW9Xu8-chief-of-staff",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Applied AI Research Engineer",
    "url": "https://www.ycombinator.com/companies/beam/jobs/AQyjV6c-applied-ai-research-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Site Reliability Engineer",
    "url": "https://www.ycombinator.com/companies/beam/jobs/CnrHNaM-site-reliability-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Network Engineer",
    "url": "https://www.ycombinator.com/companies/beam/jobs/ajXD7Ap-network-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Distributed Systems Engineer",
    "url": "https://www.ycombinator.com/companies/beam/jobs/lwlKfNI-distributed-systems-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Head of GTM and Growth",
    "url": "https://www.ycombinator.com/companies/beam/jobs/6rKakUF-head-of-gtm-and-growth",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Beam",
    "website": "beam.cloud",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/beam/jobs",
-   "crawledAt": 1794194124372
+   "crawledAt": 1794472076182
   },
   {
    "title": "Backend Engineer",
    "url": "https://www.ycombinator.com/companies/dart/jobs/fY0s284-backend-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Dart",
    "website": "dartai.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/dart/jobs",
-   "crawledAt": 1794194220426
+   "crawledAt": 1794472083495
   },
   {
    "title": "Frontend Engineer",
    "url": "https://www.ycombinator.com/companies/dart/jobs/AMpkzCj-frontend-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Dart",
    "website": "dartai.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/dart/jobs",
-   "crawledAt": 1794194220426
+   "crawledAt": 1794472083495
   },
   {
    "title": "Wealth & Investment Advisor — AI Product Consultant",
    "url": "https://www.ycombinator.com/companies/goodfin/jobs/ElnnH2M-wealth-investment-advisor-ai-product-consultant",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "goodfin",
    "website": "goodfin.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/goodfin/jobs",
-   "crawledAt": 1794194286286
+   "crawledAt": 1794472086624
   },
   {
    "title": "AI Engineer",
    "url": "https://www.ycombinator.com/companies/goodfin/jobs/2nt2lZN-ai-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "goodfin",
    "website": "goodfin.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/goodfin/jobs",
-   "crawledAt": 1794194286286
+   "crawledAt": 1794472086624
   },
   {
    "title": "Staff AI Engineer",
    "url": "https://www.ycombinator.com/companies/goodfin/jobs/TWZ9MRF-staff-ai-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "goodfin",
    "website": "goodfin.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/goodfin/jobs",
-   "crawledAt": 1794194286286
+   "crawledAt": 1794472086624
   },
   {
    "title": "Sales Development Representative (NYC)",
    "url": "https://www.ycombinator.com/companies/arpari/jobs/fwgePE7-sales-development-representative-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Arpari",
    "website": "arpari.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arpari/jobs",
-   "crawledAt": 1794194408244
+   "crawledAt": 1794472090503
   },
   {
    "title": "Full Stack Engineer (India)",
    "url": "https://www.ycombinator.com/companies/arpari/jobs/P0ToXTK-full-stack-engineer-india",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Arpari",
    "website": "arpari.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arpari/jobs",
-   "crawledAt": 1794194408244
+   "crawledAt": 1794472090503
   },
   {
    "title": "Software Engineer (NYC)",
    "url": "https://www.ycombinator.com/companies/arpari/jobs/Nf4apLy-software-engineer-nyc",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Arpari",
    "website": "arpari.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/arpari/jobs",
-   "crawledAt": 1794194408244
+   "crawledAt": 1794472090503
   },
   {
    "title": "Account Executive - Enterprise Banks New York, NY",
    "url": "https://www.spade.com/careers/jobs/6297ade8-b25d-4b9f-8c53-6654849f14e8/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Account Executive - Fintech New York, NY",
    "url": "https://www.spade.com/careers/jobs/dd8dac4f-c69a-49cd-b0ca-950d67a96295/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Account Executive - Mid-Market New York, NY",
    "url": "https://www.spade.com/careers/jobs/dc8faaa1-6434-4947-b49f-aadddf8305bd/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Account Manager - Enterprise New York, NY",
    "url": "https://www.spade.com/careers/jobs/c7132883-f918-444f-95c4-37ee03ff5afd/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Product Marketing Manager New York, NY",
    "url": "https://www.spade.com/careers/jobs/0fd06e93-4b6d-4537-b324-d24119962183/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Data Scientist - AI/ML (Mid & Sr Levels) Remote (US/Canada)",
    "url": "https://www.spade.com/careers/jobs/eeca5a13-7958-46b4-b295-8d48da58cd65/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Product Performance Analyst New York, NY",
    "url": "https://www.spade.com/careers/jobs/0e0ae162-6a3a-4b36-a434-74ccceacee49/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Backend Engineer (Mid-Level) Remote (US/Canada)",
    "url": "https://www.spade.com/careers/jobs/087011f5-17f1-4f27-a352-ac11f6a5ba58/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Fullstack Engineer (Mid-Level) New York, NY",
    "url": "https://www.spade.com/careers/jobs/d514b2a0-523e-48ac-ba3d-d756f38fb717/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
-  },
-  {
-   "title": "Senior Platform Security Engineer Remote (US/Canada)",
-   "url": "https://www.spade.com/careers/jobs/891399ac-d654-4828-a8be-d8ec1585ca59/",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Spade",
-   "website": "spade.com",
-   "src": "yc",
-   "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Product Manager - Agent Platform New York, NY",
    "url": "https://www.spade.com/careers/jobs/847519dc-6275-4a32-bb2b-787d95840b5d/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
    "title": "Product Manager - Enrichment New York, NY",
    "url": "https://www.spade.com/careers/jobs/79633ccb-008d-42c1-afc3-f8ad85a36529/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Spade",
    "website": "spade.com",
    "src": "yc",
    "page": "https://www.spade.com/careers/",
-   "crawledAt": 1794194447128
+   "crawledAt": 1794472092824
   },
   {
-   "title": "General Counsel",
-   "url": "https://www.medplum.com/careers/general-counsel",
+   "title": "Senior Software Engineer, Ro",
+   "url": "https://www.medplum.com/jobs#senior-software-engineer-ro",
    "datePosted": null,
    "locations": [],
-   "via": "link",
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
    "company": "Medplum",
    "website": "medplum.com",
    "src": "yc",
    "page": "https://www.medplum.com/jobs",
-   "crawledAt": 1794194506780
-  },
-  {
-   "title": "Head of Security",
-   "url": "https://www.medplum.com/careers/head-of-security",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Medplum",
-   "website": "medplum.com",
-   "src": "yc",
-   "page": "https://www.medplum.com/jobs",
-   "crawledAt": 1794194506780
-  },
-  {
-   "title": "Security Engineer",
-   "url": "https://www.medplum.com/careers/security-engineer",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Medplum",
-   "website": "medplum.com",
-   "src": "yc",
-   "page": "https://www.medplum.com/jobs",
-   "crawledAt": 1794194506780
-  },
-  {
-   "title": "Full Stack Engineer",
-   "url": "https://www.medplum.com/careers/fullstack-engineer",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Medplum",
-   "website": "medplum.com",
-   "src": "yc",
-   "page": "https://www.medplum.com/jobs",
-   "crawledAt": 1794194506780
-  },
-  {
-   "title": "Forward Deployed Engineer",
-   "url": "https://www.medplum.com/careers/forward-deployed-engineer",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Medplum",
-   "website": "medplum.com",
-   "src": "yc",
-   "page": "https://www.medplum.com/jobs",
-   "crawledAt": 1794194506780
-  },
-  {
-   "title": "Account Executive",
-   "url": "https://www.medplum.com/careers/account-executive",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Medplum",
-   "website": "medplum.com",
-   "src": "yc",
-   "page": "https://www.medplum.com/jobs",
-   "crawledAt": 1794194506780
-  },
-  {
-   "title": "AI Evaluation Specialist Up to $ 17 /hr Bachelor's · Master's · Ph.Ds · Postdocs",
-   "url": "https://joinhandshake.com/ai/opportunities/generalist-bachelor-ai-eveluation-specialist",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Wolfia",
-   "website": "wolfia.com",
-   "src": "yc",
-   "page": "https://wolfia.com/",
-   "crawledAt": 1794194530178
-  },
-  {
-   "title": "FP&A Analyst Up to $ 80 /hr Postdocs · Ph.Ds · Master's · Bachelor's · Associate's",
-   "url": "https://joinhandshake.com/ai/opportunities/fpa-analyst",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Wolfia",
-   "website": "wolfia.com",
-   "src": "yc",
-   "page": "https://wolfia.com/",
-   "crawledAt": 1794194530178
-  },
-  {
-   "title": "Game Developer Up to $ 125 /hr Bachelor's · Master's · Ph.Ds · Postdocs",
-   "url": "https://joinhandshake.com/ai/opportunities/game-developer-designer",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Wolfia",
-   "website": "wolfia.com",
-   "src": "yc",
-   "page": "https://wolfia.com/",
-   "crawledAt": 1794194530178
-  },
-  {
-   "title": "PCB Tool Specialist Up to $ 125 /hr Bachelor's · Master's · Ph.Ds · Postdocs",
-   "url": "https://joinhandshake.com/ai/opportunities/pcb-designer-ai-trainer",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Wolfia",
-   "website": "wolfia.com",
-   "src": "yc",
-   "page": "https://wolfia.com/",
-   "crawledAt": 1794194530178
+   "crawledAt": 1794472096279
   },
   {
    "title": "Cloud Engineer",
    "url": "https://careerkarma.com/careers/cloud-engineer/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Customer Success Manager",
    "url": "https://careerkarma.com/careers/customer-success-manager/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Data Analyst",
    "url": "https://careerkarma.com/careers/data-analytics/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Data Scientist",
    "url": "https://careerkarma.com/careers/data-science/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Interaction Designer",
    "url": "https://careerkarma.com/careers/interaction-designer/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Machine Learning Engineer",
    "url": "https://careerkarma.com/careers/machine-learning/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Network Engineer",
    "url": "https://careerkarma.com/careers/network-engineer/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Quality Assurance Engineer",
    "url": "https://careerkarma.com/careers/quality-assurance-engineer/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Software Engineer",
    "url": "https://careerkarma.com/careers/software-engineer/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Tech Sales Representative",
    "url": "https://careerkarma.com/careers/tech-sales-representative/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Avocademy",
    "website": "avocademy.com",
    "src": "yc",
    "page": "https://careerkarma.com/schools/avocademy/",
-   "crawledAt": 1794194607606
+   "crawledAt": 1794472109198
   },
   {
    "title": "Software Engineer",
    "url": "https://www.ycombinator.com/companies/ciro/jobs/c7NK9Eu-software-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Ciro",
    "website": "ciro.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ciro/jobs",
-   "crawledAt": 1794194622311
+   "crawledAt": 1794472102606
   },
   {
    "title": "Electrical Engineer",
    "url": "https://airhartaero.com/careers/electrical-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Airhart Aeronautics",
    "website": "airhartaero.com",
    "src": "yc",
    "page": "https://airhartaero.com/careers",
-   "crawledAt": 1794194832492
+   "crawledAt": 1794472106232
   },
   {
    "title": "Avionics Manufacturing Engineer II",
    "url": "https://airhartaero.com/careers/manufacturing-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Airhart Aeronautics",
    "website": "airhartaero.com",
    "src": "yc",
    "page": "https://airhartaero.com/careers",
-   "crawledAt": 1794194832492
+   "crawledAt": 1794472106232
   },
   {
    "title": "Backend Engineer (AI-Native) — Risk Infrastructure & Integrations",
    "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coris",
    "website": "coris.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coris/jobs",
-   "crawledAt": 1794194864128
+   "crawledAt": 1794472114303
   },
   {
    "title": "Chief of Staff",
    "url": "https://www.ycombinator.com/companies/coris/jobs/I26T5Uv-chief-of-staff",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Coris",
    "website": "coris.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/coris/jobs",
-   "crawledAt": 1794194864128
+   "crawledAt": 1794472114303
   },
   {
    "title": "Marketing & Growth Lead",
    "url": "https://www.ycombinator.com/companies/primevault/jobs/3FXwQzR-marketing-growth-lead",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "PrimeVault",
    "website": "primevault.com",
    "src": "yc",
    "page": "https://www.primevault.com/",
-   "crawledAt": 1794195006411
+   "crawledAt": 1794472114971
   },
   {
    "title": "Full-time Backend Engineer",
    "url": "https://www.ycombinator.com/companies/primevault/jobs/zH4amoV-full-time-backend-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "PrimeVault",
    "website": "primevault.com",
    "src": "yc",
    "page": "https://www.primevault.com/",
-   "crawledAt": 1794195006411
+   "crawledAt": 1794472114971
   },
   {
    "title": "Senior Backend Engineer Engineering • India • Full time",
    "url": "https://getfinn.us/careers/senior-backend-engineer-india/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Finn",
    "website": "getfinn.us",
    "src": "yc",
    "page": "https://getfinn.us/careers/",
-   "crawledAt": 1794195063014
+   "crawledAt": 1794472120599
   },
   {
    "title": "Senior LLM Engineer Engineering • India • Full time",
    "url": "https://getfinn.us/careers/senior-llm-engineer-india/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Finn",
    "website": "getfinn.us",
    "src": "yc",
    "page": "https://getfinn.us/careers/",
-   "crawledAt": 1794195063014
+   "crawledAt": 1794472120599
   },
   {
    "title": "Chief of Staff Operations • San Francisco • Full time",
    "url": "https://getfinn.us/careers/chief-of-staff-san-francisco/",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Finn",
    "website": "getfinn.us",
    "src": "yc",
    "page": "https://getfinn.us/careers/",
-   "crawledAt": 1794195063014
+   "crawledAt": 1794472120599
   },
   {
    "title": "Marketing Intern Operations • San Francisco • Intern",
    "url": "https://getfinn.us/careers/marketing-intern-san-francisco/",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "Finn",
    "website": "getfinn.us",
    "src": "yc",
    "page": "https://getfinn.us/careers/",
-   "crawledAt": 1794195063014
+   "crawledAt": 1794472120599
   },
   {
    "title": "Chief of Staff",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/CDXewep-chief-of-staff",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "Software Engineer",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/zjGOpBA-software-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "Deployment Strategist",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/t57WHNq-deployment-strategist",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "Senior Sales Development Representative (SDR)",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/jWWWgqU-senior-sales-development-representative-sdr",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "GTM Lead",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/L7D8Q6R-gtm-lead",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "Forward Deployed Engineer",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/JtSDIe3-forward-deployed-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "Founding Sales Development Representative (SDR)",
    "url": "https://www.ycombinator.com/companies/reflex/jobs/0BmuKm6-founding-sales-development-representative-sdr",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Reflex",
    "website": "reflex.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reflex/jobs",
-   "crawledAt": 1794195074660
+   "crawledAt": 1794472122779
   },
   {
    "title": "Full Stack Software Engineer",
    "url": "https://loopfour.ai/careers/full-stack-software-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Forward Deployed Engineer",
    "url": "https://loopfour.ai/careers/forward-deployed-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Technical Implementations Engineer",
    "url": "https://loopfour.ai/careers/technical-implementations-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Full Stack Software Developer",
    "url": "https://loopfour.ai/careers/full-stack-software-developer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Remote Sales Representative",
    "url": "https://loopfour.ai/careers/remote-sales-representative",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Finance Implementation & Customer Success Manager",
    "url": "https://loopfour.ai/careers/finance-implementation-customer-success-manager",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Social Media Intern",
    "url": "https://loopfour.ai/careers/social-media-intern",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "loopfour",
    "website": "loopfour.com",
    "src": "yc",
    "page": "https://loopfour.ai/careers",
-   "crawledAt": 1794195174655
+   "crawledAt": 1794472127669
   },
   {
    "title": "Distributed Systems Engineer",
    "url": "https://relace.ai/careers/distributed-systems-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Relace",
    "website": "relace.ai",
    "src": "yc",
    "page": "https://relace.ai/careers",
-   "crawledAt": 1794195235094
+   "crawledAt": 1794472126184
   },
   {
    "title": "GPU Kernel Engineer",
    "url": "https://relace.ai/careers/gpu-kernel-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Relace",
    "website": "relace.ai",
    "src": "yc",
    "page": "https://relace.ai/careers",
-   "crawledAt": 1794195235094
+   "crawledAt": 1794472126184
   },
   {
    "title": "intern.md",
    "url": "https://github.com/BoundaryML/baml/blob/canary/jobs/intern.md",
    "datePosted": null,
    "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
    "via": "link",
    "company": "Boundary",
    "website": "boundaryml.com",
    "src": "yc",
    "page": "https://github.com/BoundaryML/baml/tree/canary/jobs",
-   "crawledAt": 1794195446564
+   "crawledAt": 1794472130857
   },
   {
    "title": "Software Engineer",
@@ -32158,228 +31835,251 @@
     "Remote"
    ],
    "employmentType": "",
+   "startDate": null,
    "via": "jsonld",
    "company": "Rivet",
    "website": "rivet.dev",
    "src": "yc",
    "page": "https://rivet.dev/careers/",
-   "crawledAt": 1794195454027
+   "crawledAt": 1794472133932
   },
   {
    "title": "Founding Full Stack Engineer - LLM, Applied AI (no prior LLM experience required)",
    "url": "https://www.ycombinator.com/companies/berry/jobs/zyTnhbD-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Berry",
    "website": "berryai.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/berry/jobs",
-   "crawledAt": 1794195506482
+   "crawledAt": 1794472137044
   },
   {
    "title": "Founder's Office – GTM & Partnerships",
    "url": "https://www.ycombinator.com/companies/shortloop/jobs/auaDPwt-founder-s-office-gtm-partnerships",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "ShortLoop",
    "website": "shortloop.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/shortloop/jobs",
-   "crawledAt": 1794195512132
+   "crawledAt": 1794472147212
   },
   {
    "title": "Founding Product Engineer",
    "url": "https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Type",
    "website": "type.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/type/jobs",
-   "crawledAt": 1794195515147
+   "crawledAt": 1794472144539
   },
   {
    "title": "Customer Success Engineer Americas / Remote / Full-time",
    "url": "https://resend.com/careers/01e6eb42-142b-4f33-9944-ca153bd3ae86",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Backend Engineer Americas / Remote / Full-time",
    "url": "https://resend.com/careers/df2fe05d-87ca-4e87-a66d-50bb2c9c4859",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Backend Engineer Europe / Remote / Full-time",
    "url": "https://resend.com/careers/6589bee8-3ec9-4620-90b6-890b23464c4d",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Backend Engineer, MTA Europe / Remote / Full-time",
    "url": "https://resend.com/careers/c4c5eb8c-e6ac-49f5-9dc7-a68ce0948929",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Backend Engineer, MTA Americas / Remote / Full-time",
    "url": "https://resend.com/careers/053bde8f-294e-4cce-9d62-2301282120a2",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Platform Engineer Europe / Remote / Full-time",
    "url": "https://resend.com/careers/76dcf582-cf8b-49dd-899b-d453d6af430e",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Platform Engineer Americas / Remote / Full-time",
    "url": "https://resend.com/careers/a9fc1d02-cace-4be9-8d3d-16f4fb137b39",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Security Engineer, Platform Americas / Remote / Full-time",
    "url": "https://resend.com/careers/cde17f7c-4c70-435f-be38-ef5abe94ff22",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Security Engineer, Platform Europe / Remote / Full-time",
    "url": "https://resend.com/careers/8c290ac4-22b4-4072-86e0-b6f5a97213d6",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Software Engineer, Developer Tools Americas / Remote / Full-time",
    "url": "https://resend.com/careers/53d3710a-2d55-42ac-ba90-cdfd306bf560",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Software Engineer, Developer Tools Europe / Remote / Full-time",
    "url": "https://resend.com/careers/2e3d92c5-79d9-4511-8faf-e2326e7a081e",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Software Engineer, Trust & Safety Europe / Remote / Full-time",
    "url": "https://resend.com/careers/73a37f4c-02d9-40e4-a116-70507ed413b9",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Software Engineer, Trust & Safety Americas / Remote / Full-time",
    "url": "https://resend.com/careers/729ad3fa-10a2-4a07-ba9c-13b6eec6adb1",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
+   "crawledAt": 1794472152410
   },
   {
    "title": "Technical Account Executive Americas / Remote / Full-time",
    "url": "https://resend.com/careers/50cc0eb8-4a93-455d-bcdb-fe8eb080b55d",
    "datePosted": null,
    "locations": [],
+   "employmentType": null,
+   "startDate": null,
    "via": "link",
    "company": "Resend",
    "website": "resend.com",
    "src": "yc",
    "page": "https://resend.com/careers",
-   "crawledAt": 1794197073313
-  },
-  {
-   "title": "Forward Deployed Engineer",
-   "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-   "datePosted": null,
-   "locations": [],
-   "via": "link",
-   "company": "Kyber",
-   "website": "askkyber.com",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/kyber/jobs",
-   "crawledAt": 1794197084345
+   "crawledAt": 1794472152410
   },
   {
    "title": "Founding Engineer",
@@ -32389,12 +32089,27 @@
     "San Francisco, CA, US"
    ],
    "employmentType": "FULL_TIME",
+   "startDate": null,
    "via": "jsonld",
    "company": "Kino AI",
    "website": "kino.ai",
    "src": "yc",
    "page": "https://kino.ai/?sidebar=jobs",
-   "crawledAt": 1794197131745
+   "crawledAt": 1794472161678
+  },
+  {
+   "title": "AI Engineer, Platform",
+   "url": "https://www.ycombinator.com/companies/readily/jobs/Wx4vvAv-ai-engineer-platform",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Readily",
+   "website": "readily.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/readily/jobs",
+   "crawledAt": 1794472166099
   },
   {
    "title": "🚀 Marketing Manager",
@@ -32408,7 +32123,7 @@
    "website": "readily.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/readily/jobs",
-   "crawledAt": 1794197371822
+   "crawledAt": 1794472166099
   },
   {
    "title": "🚀 Founding Account Executive",
@@ -32422,7 +32137,7 @@
    "website": "readily.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/readily/jobs",
-   "crawledAt": 1794197371822
+   "crawledAt": 1794472166099
   },
   {
    "title": "🚀 Senior Full-Stack Engineer",
@@ -32436,7 +32151,7 @@
    "website": "readily.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/readily/jobs",
-   "crawledAt": 1794197371822
+   "crawledAt": 1794472166099
   },
   {
    "title": "🚀 Compliance Program Manager",
@@ -32450,7 +32165,7 @@
    "website": "readily.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/readily/jobs",
-   "crawledAt": 1794197371822
+   "crawledAt": 1794472166099
   },
   {
    "title": "🚀 Full-Stack Engineer",
@@ -32464,7 +32179,7 @@
    "website": "readily.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/readily/jobs",
-   "crawledAt": 1794197371822
+   "crawledAt": 1794472166099
   },
   {
    "title": "🚀 Forward Deployed Engineer",
@@ -32478,7 +32193,7 @@
    "website": "readily.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/readily/jobs",
-   "crawledAt": 1794197371822
+   "crawledAt": 1794472166099
   },
   {
    "title": "Software Engineer (new grad)",
@@ -32492,7 +32207,7 @@
    "website": "usemargin.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/margin/jobs",
-   "crawledAt": 1794197379433
+   "crawledAt": 1794472168615
   },
   {
    "title": "Software Engineer II",
@@ -32506,7 +32221,7 @@
    "website": "usemargin.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/margin/jobs",
-   "crawledAt": 1794197379433
+   "crawledAt": 1794472168615
   },
   {
    "title": "Senior Signal Processing Engineer - Biosensor Readout",
@@ -32520,7 +32235,7 @@
    "website": "numen.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/numen/jobs",
-   "crawledAt": 1794197379374
+   "crawledAt": 1794472171821
   },
   {
    "title": "Engineer I - Electromechanical Integration",
@@ -32534,7 +32249,7 @@
    "website": "numen.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/numen/jobs",
-   "crawledAt": 1794197379374
+   "crawledAt": 1794472171821
   },
   {
    "title": "Visual Designer",
@@ -32548,7 +32263,7 @@
    "website": "numen.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/numen/jobs",
-   "crawledAt": 1794197379374
+   "crawledAt": 1794472171821
   },
   {
    "title": "Founding DevOps Engineer - Jordan",
@@ -32562,7 +32277,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Founding DevOps Engineer - California",
@@ -32576,7 +32291,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Security Researcher",
@@ -32590,7 +32305,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Software engineer - California",
@@ -32604,7 +32319,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Software engineer - Jordan",
@@ -32618,7 +32333,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Senior software engineer - Jordan",
@@ -32632,7 +32347,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Senior software engineer - California",
@@ -32646,7 +32361,7 @@
    "website": "corgea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/corgea/jobs",
-   "crawledAt": 1794197392665
+   "crawledAt": 1794472175706
   },
   {
    "title": "Software Engineer, Full Stack",
@@ -32660,7 +32375,7 @@
    "website": "mavenbio.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/maven-bio/jobs",
-   "crawledAt": 1794197411609
+   "crawledAt": 1794472178793
   },
   {
    "title": "Account Associate",
@@ -32674,7 +32389,7 @@
    "website": "flintk12.com",
    "src": "yc",
    "page": "https://flintk12.com/careers",
-   "crawledAt": 1794197494961
+   "crawledAt": 1794472180810
   },
   {
    "title": "AI Research Intern",
@@ -32688,7 +32403,7 @@
    "website": "silimate.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/silimate/jobs",
-   "crawledAt": 1794197572409
+   "crawledAt": 1794472214745
   },
   {
    "title": "Applied AI Intern",
@@ -32702,7 +32417,7 @@
    "website": "silimate.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/silimate/jobs",
-   "crawledAt": 1794197572409
+   "crawledAt": 1794472214745
   },
   {
    "title": "Chip/Software Engineer",
@@ -32716,7 +32431,7 @@
    "website": "silimate.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/silimate/jobs",
-   "crawledAt": 1794197572409
+   "crawledAt": 1794472214745
   },
   {
    "title": "Applied AI Engineer",
@@ -32730,7 +32445,7 @@
    "website": "silimate.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/silimate/jobs",
-   "crawledAt": 1794197572409
+   "crawledAt": 1794472214745
   },
   {
    "title": "Chip/EDA/Software Intern",
@@ -32744,7 +32459,7 @@
    "website": "silimate.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/silimate/jobs",
-   "crawledAt": 1794197572409
+   "crawledAt": 1794472214745
   },
   {
    "title": "Product Engineer — Vault Platform",
@@ -32758,7 +32473,7 @@
    "website": "collectpure.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pure/jobs",
-   "crawledAt": 1794197584438
+   "crawledAt": 1794472191660
   },
   {
    "title": "Product Engineer — Marketplace",
@@ -32772,7 +32487,7 @@
    "website": "collectpure.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pure/jobs",
-   "crawledAt": 1794197584438
+   "crawledAt": 1794472191660
   },
   {
    "title": "Social Media & Content Lead",
@@ -32786,7 +32501,7 @@
    "website": "collectpure.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pure/jobs",
-   "crawledAt": 1794197584438
+   "crawledAt": 1794472191660
   },
   {
    "title": "Growth Marketing Intern",
@@ -32800,7 +32515,7 @@
    "website": "collectpure.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pure/jobs",
-   "crawledAt": 1794197584438
+   "crawledAt": 1794472191660
   },
   {
    "title": "Product Engineering Intern",
@@ -32814,21 +32529,7 @@
    "website": "collectpure.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pure/jobs",
-   "crawledAt": 1794197584438
-  },
-  {
-   "title": "Founding Account Executive",
-   "url": "https://www.ycombinator.com/companies/morph/jobs/PSesvJB-founding-account-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Morph",
-   "website": "morphllm.com",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/morph/jobs",
-   "crawledAt": 1794197736877
+   "crawledAt": 1794472191660
   },
   {
    "title": "Mid-Market Account Executive",
@@ -32842,7 +32543,7 @@
    "website": "tracecat.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tracecat/jobs",
-   "crawledAt": 1794197764456
+   "crawledAt": 1794472208251
   },
   {
    "title": "Forward Deployed Engineer (Security)",
@@ -32856,7 +32557,7 @@
    "website": "tracecat.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tracecat/jobs",
-   "crawledAt": 1794197764456
+   "crawledAt": 1794472208251
   },
   {
    "title": "Software Engineer (Full-stack)",
@@ -32870,7 +32571,7 @@
    "website": "tracecat.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tracecat/jobs",
-   "crawledAt": 1794197764456
+   "crawledAt": 1794472208251
   },
   {
    "title": "LLM/ML Engineer (Inference)",
@@ -32884,7 +32585,7 @@
    "website": "reducto.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reducto/jobs",
-   "crawledAt": 1794197775294
+   "crawledAt": 1794472219164
   },
   {
    "title": "Machine Learning Engineer",
@@ -32898,7 +32599,7 @@
    "website": "reducto.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reducto/jobs",
-   "crawledAt": 1794197775294
+   "crawledAt": 1794472219164
   },
   {
    "title": "Software Engineer",
@@ -32912,55 +32613,49 @@
    "website": "reducto.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/reducto/jobs",
-   "crawledAt": 1794197775294
+   "crawledAt": 1794472219164
   },
   {
-   "title": "AI Engineer",
-   "url": "https://happenstance.ai/careers#ai-engineer",
-   "datePosted": "2025-12-03",
-   "locations": [
-    "San Francisco, CA, US"
-   ],
-   "employmentType": "FULL_TIME",
+   "title": "Applied AI Engineer, Anthropic",
+   "url": "https://happenstance.ai/for/job-seekers#applied-ai-engineer-anthropic",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
    "startDate": null,
-   "via": "jsonld",
+   "via": "text",
    "company": "Happenstance",
    "website": "happenstance.ai",
    "src": "yc",
    "page": "https://happenstance.ai/for/job-seekers",
-   "crawledAt": 1794197892186
+   "crawledAt": 1794472228521
   },
   {
-   "title": "Backend Engineer",
-   "url": "https://happenstance.ai/careers#backend-engineer",
-   "datePosted": "2025-12-03",
-   "locations": [
-    "San Francisco, CA, US"
-   ],
-   "employmentType": "FULL_TIME",
+   "title": "Staff Engineer, Notion",
+   "url": "https://happenstance.ai/for/job-seekers#staff-engineer-notion",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
    "startDate": null,
-   "via": "jsonld",
+   "via": "text",
    "company": "Happenstance",
    "website": "happenstance.ai",
    "src": "yc",
    "page": "https://happenstance.ai/for/job-seekers",
-   "crawledAt": 1794197892186
+   "crawledAt": 1794472228521
   },
   {
-   "title": "Design Engineer",
-   "url": "https://happenstance.ai/careers#design-engineer",
-   "datePosted": "2025-06-01",
-   "locations": [
-    "San Francisco, CA, US"
-   ],
-   "employmentType": "FULL_TIME",
+   "title": "Staff Talent Researcher, Waymo",
+   "url": "https://happenstance.ai/for/job-seekers#staff-talent-researcher-waymo",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
    "startDate": null,
-   "via": "jsonld",
+   "via": "text",
    "company": "Happenstance",
    "website": "happenstance.ai",
    "src": "yc",
    "page": "https://happenstance.ai/for/job-seekers",
-   "crawledAt": 1794197892186
+   "crawledAt": 1794472228521
   },
   {
    "title": "Founding Engineer",
@@ -32974,7 +32669,7 @@
    "website": "meticulate.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/meticulate/jobs",
-   "crawledAt": 1794197915512
+   "crawledAt": 1794472226684
   },
   {
    "title": "Founding Engineer #2",
@@ -32988,7 +32683,7 @@
    "website": "meticulate.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/meticulate/jobs",
-   "crawledAt": 1794197915512
+   "crawledAt": 1794472226684
   },
   {
    "title": "General Interest",
@@ -33002,7 +32697,7 @@
    "website": "guidelabs.ai",
    "src": "yc",
    "page": "https://www.guidelabs.ai/",
-   "crawledAt": 1794197933022
+   "crawledAt": 1794472231014
   },
   {
    "title": "Enterprise Sales Development Representative",
