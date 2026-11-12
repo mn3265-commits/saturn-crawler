@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-12T09:18:19.329Z",
+ "generated": "2026-11-12T09:23:59.735Z",
  "companies": 22901,
  "status": {
-  "found": 3152,
-  "down": 4398,
-  "no-ats": 11870,
-  "site": 3481
+  "found": 3160,
+  "down": 4338,
+  "no-ats": 11919,
+  "site": 3484
  },
  "byType": {
   "dover": 7,
   "ashby": 715,
-  "workday": 550,
-  "lever": 261,
-  "gh": 886,
+  "workday": 552,
+  "lever": 262,
+  "gh": 891,
   "gem": 73,
   "workable": 176,
   "rippling": 135,
@@ -6812,6 +6812,15 @@
    "src": "nyc"
   },
   {
+   "type": "workday",
+   "token": "digitalturbine.wd501.myworkdayjobs.com",
+   "url": "digitalturbine.wd501.myworkdayjobs.com/Digital_Turbine_External_Careers",
+   "site": "Digital_Turbine_External_Careers",
+   "label": "Fyber",
+   "website": "fyber.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "garnerhealth",
    "label": "Garner Health",
@@ -6868,6 +6877,14 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "huntress",
+   "url": "job-boards.greenhouse.io/huntress",
+   "label": "Huntress",
+   "website": "huntress.com",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "j",
    "label": "Global Gateway Advisors",
@@ -6889,6 +6906,15 @@
    "label": "Hume AI",
    "website": "hume.ai",
    "page": "https://www.hume.ai/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "curemd.wd1.myworkdayjobs.com",
+   "url": "curemd.wd1.myworkdayjobs.com/en-US/CureMD",
+   "site": "CureMD",
+   "label": "CureMD",
+   "website": "curemd.com",
    "src": "nyc"
   },
   {
@@ -6953,6 +6979,14 @@
    "label": "ID5",
    "website": "id5.io",
    "page": "https://id5.io/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "ivalua",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=ivalua",
+   "label": "Ivalua",
+   "website": "ivalua.com",
    "src": "nyc"
   },
   {
@@ -7049,6 +7083,14 @@
    "label": "Levy Electric",
    "website": "levyelectric.com",
    "page": "https://www.levyelectric.com/work-with-us",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "ltx",
+   "url": "boards-api.greenhouse.io/v1/boards/ltx",
+   "label": "LTX",
+   "website": "ltx.io",
    "src": "nyc"
   },
   {
@@ -7340,6 +7382,14 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "reformation",
+   "url": "boards-api.greenhouse.io/v1/boards/reformation",
+   "label": "Reformation",
+   "website": "thereformation.com",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "regal.ai",
    "label": "Regal",
@@ -7470,11 +7520,27 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "theathletic",
+   "url": "jobs.lever.co/theathletic",
+   "label": "The Athletic",
+   "website": "theathletic.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "thefarmersdog",
    "label": "The Farmer\\u0027s Dog",
    "website": "thefarmersdog.com",
    "page": "https://www.thefarmersdog.com/p/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "trustpilot",
+   "url": "boards-api.greenhouse.io/v1/boards/trustpilot",
+   "label": "Trustpilot",
+   "website": "trustpilot.com",
    "src": "nyc"
   },
   {
@@ -46564,6 +46630,19 @@
    "crawledAt": 1794469961823
   },
   {
+   "title": "Senior Associate, Development",
+   "url": "https://cleancapital.com/careers/#senior-associate-development",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "CleanCapital",
+   "website": "cleancapital.com",
+   "src": "nyc",
+   "crawledAt": 1794475242632
+  },
+  {
    "title": "Technical Product Manager",
    "url": "https://diligencevault.com/careers/#technical-product-manager",
    "datePosted": null,
@@ -46744,6 +46823,331 @@
    "src": "nyc",
    "page": "https://hraadvisors.com/who-we-are/careers/internships/",
    "crawledAt": 1794469976712
+  },
+  {
+   "title": "Application Programmer / Developer",
+   "url": "https://www.jeanmartin.com/careers#application-programmer-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "SEO Analyst",
+   "url": "https://www.jeanmartin.com/careers#seo-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "SEO Content Writer",
+   "url": "https://www.jeanmartin.com/careers#seo-content-writer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Search Engine Marketing (SEM) Specialist",
+   "url": "https://www.jeanmartin.com/careers#search-engine-marketing-sem-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Data Engineer",
+   "url": "https://www.jeanmartin.com/careers#data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Technology Solutions Consultant",
+   "url": "https://www.jeanmartin.com/careers#technology-solutions-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Cloud Support Engineer",
+   "url": "https://www.jeanmartin.com/careers#cloud-support-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Quality Assurance Lead",
+   "url": "https://www.jeanmartin.com/careers#quality-assurance-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Automation Engineer",
+   "url": "https://www.jeanmartin.com/careers#automation-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "AI/ML Analyst",
+   "url": "https://www.jeanmartin.com/careers#ai-ml-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "API Integration Developer",
+   "url": "https://www.jeanmartin.com/careers#api-integration-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Database Administrator",
+   "url": "https://www.jeanmartin.com/careers#database-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Machine Learning Engineer",
+   "url": "https://www.jeanmartin.com/careers#machine-learning-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Cloud DevOps Specialist",
+   "url": "https://www.jeanmartin.com/careers#cloud-devops-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "CRM Implementation Specialist",
+   "url": "https://www.jeanmartin.com/careers#crm-implementation-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Software Developer",
+   "url": "https://www.jeanmartin.com/careers#software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Business Intelligence (BI) Analyst",
+   "url": "https://www.jeanmartin.com/careers#business-intelligence-bi-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "IT Support Engineer",
+   "url": "https://www.jeanmartin.com/careers#it-support-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Cybersecurity Specialist / Analyst",
+   "url": "https://www.jeanmartin.com/careers#cybersecurity-specialist-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Social Media Strategist",
+   "url": "https://www.jeanmartin.com/careers#social-media-strategist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Sales Operations Analyst",
+   "url": "https://www.jeanmartin.com/careers#sales-operations-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Python Developer",
+   "url": "https://www.jeanmartin.com/careers#python-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Full-Stack Developer",
+   "url": "https://www.jeanmartin.com/careers#full-stack-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "UI/UX Designer",
+   "url": "https://www.jeanmartin.com/careers#ui-ux-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
+  },
+  {
+   "title": "Email Marketing Specialist",
+   "url": "https://www.jeanmartin.com/careers#email-marketing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Jean Martin",
+   "website": "jeanmartin.com",
+   "src": "nyc",
+   "crawledAt": 1794475254945
   },
   {
    "title": "Assistant Store Manager",
@@ -47976,6 +48380,45 @@
    "src": "nyc",
    "page": "https://infologitech.com/careers/",
    "crawledAt": 1794470030773
+  },
+  {
+   "title": "Senior Software Engineer/Architect",
+   "url": "https://careers.embark.com/contact/seniorsoftwareindia",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Embark Corporation",
+   "website": "embark.com",
+   "src": "nyc",
+   "crawledAt": 1794475307543
+  },
+  {
+   "title": "Senior Support Specialist",
+   "url": "https://careers.embark.com/contact/seniorsupportspecialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Embark Corporation",
+   "website": "embark.com",
+   "src": "nyc",
+   "crawledAt": 1794475307543
+  },
+  {
+   "title": "Technical Implementation Associate",
+   "url": "https://careers.embark.com/contact/videointerview",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Embark Corporation",
+   "website": "embark.com",
+   "src": "nyc",
+   "crawledAt": 1794475307543
   },
   {
    "title": "Strong knowledge of Google Ad Manager",
