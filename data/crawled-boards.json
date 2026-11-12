@@ -1,26 +1,26 @@
 {
- "generated": "2026-11-12T10:03:23.097Z",
+ "generated": "2026-11-12T10:08:12.845Z",
  "companies": 22901,
  "status": {
-  "found": 3191,
-  "down": 3858,
-  "no-ats": 12323,
-  "site": 3529
+  "found": 3199,
+  "down": 3798,
+  "no-ats": 12368,
+  "site": 3536
  },
  "byType": {
   "dover": 7,
   "ashby": 718,
-  "workday": 554,
+  "workday": 556,
   "lever": 264,
-  "gh": 904,
+  "gh": 906,
   "gem": 74,
-  "workable": 181,
+  "workable": 183,
   "rippling": 137,
-  "bamboohr": 163,
+  "bamboohr": 164,
   "smartrecruiters": 54,
   "recruitee": 27,
   "eightfold": 38,
-  "icims": 154,
+  "icims": 155,
   "oracle": 91,
   "successfactors": 14
  },
@@ -13308,6 +13308,14 @@
   },
   {
    "type": "gh",
+   "token": "smallgirlspr2",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=smallgirlspr2",
+   "label": "Small Girls PR",
+   "website": "smallgirlspr.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "smartpass",
    "label": "SmartPass",
    "website": "smartpass.app",
@@ -13443,6 +13451,14 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Squiz",
+   "website": "squiz.net",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "spotme",
    "label": "SpotMe",
@@ -13560,6 +13576,14 @@
    "label": "Studs",
    "website": "studs.com",
    "page": "https://studs.com/pages/studs-careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "supernormal",
+   "url": "apply.workable.com/supernormal",
+   "label": "Supernormal",
+   "website": "supernormal.com",
    "src": "nyc"
   },
   {
@@ -13715,6 +13739,15 @@
    "src": "nyc"
   },
   {
+   "type": "workday",
+   "token": "wonder.wd1.myworkdayjobs.com",
+   "url": "wonder.wd1.myworkdayjobs.com/WG",
+   "site": "WG",
+   "label": "Tastemade",
+   "website": "tastemade.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "tankww",
    "label": "Tank Worldwide",
@@ -13779,11 +13812,44 @@
    "src": "nyc"
   },
   {
+   "type": "workday",
+   "token": "atlanticmedia.wd1.myworkdayjobs.com",
+   "url": "atlanticmedia.wd1.myworkdayjobs.com/Careers",
+   "site": "Careers",
+   "label": "The Atlantic",
+   "website": "theatlantic.com",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "teza-technologies",
    "label": "Teza Technologies",
    "website": "teza.com",
    "page": "https://www.teza.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "thedurstorganization",
+   "url": "boards-api.greenhouse.io/v1/boards/thedurstorganization",
+   "label": "The Durst Organization",
+   "website": "durst.org",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "theevokeagency",
+   "url": "theevokeagency.bamboohr.com/jobs",
+   "label": "The Evoke Agency",
+   "website": "theevokeagency.com",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
+   "token": "theharrispoll",
+   "url": "careers-theharrispoll.icims.com",
+   "label": "The Harris Poll",
+   "website": "theharrispoll.com",
    "src": "nyc"
   },
   {
@@ -82390,6 +82456,32 @@
    "crawledAt": 1794471795958
   },
   {
+   "title": "Chief Delivery Officer | Spaulding Ridge",
+   "url": "https://spauldingridge.com/about-us/careers#chief-delivery-officer-spaulding-ridge",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spaulding Ridge",
+   "website": "spauldingridge.com",
+   "src": "nyc",
+   "crawledAt": 1794477850563
+  },
+  {
+   "title": "Human Resources Associate | Spaulding Ridge",
+   "url": "https://spauldingridge.com/about-us/careers#human-resources-associate-spaulding-ridge",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spaulding Ridge",
+   "website": "spauldingridge.com",
+   "src": "nyc",
+   "crawledAt": 1794477850563
+  },
+  {
    "title": "User Experience Designer",
    "url": "https://www.softnice.com/careers/#user-experience-designer",
    "datePosted": null,
@@ -82878,6 +82970,19 @@
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
    "crawledAt": 1794471835069
+  },
+  {
+   "title": "Scheduling Coordinator",
+   "url": "https://apply.clearcompany.com/starpediatrics",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Star Pediatric Home Care Agency",
+   "website": "starpediatrics.com",
+   "src": "nyc",
+   "crawledAt": 1794477878121
   },
   {
    "title": "Senior / Lead Engineering Operations Manager",
@@ -84912,6 +85017,19 @@
    "crawledAt": 1794473632275
   },
   {
+   "title": "Bancroft Restaurant Manager",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4279238",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "The Bancroft",
+   "website": "the-bancroft.com",
+   "src": "nyc",
+   "crawledAt": 1794478000889
+  },
+  {
    "title": "Devops Engineer",
    "url": "https://www.tekskillsinc.com/careers#devops-engineer",
    "datePosted": null,
@@ -85134,6 +85252,19 @@
    "crawledAt": 1794467574501
   },
   {
+   "title": "Chief Operating Officer",
+   "url": "https://www.communitysolutions.com/careers#chief-operating-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Center for Community Solutions",
+   "website": "communitysolutions.com",
+   "src": "nyc",
+   "crawledAt": 1794478027880
+  },
+  {
    "title": "Associate / Senior Associate – Operations",
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646392",
    "datePosted": null,
@@ -85286,6 +85417,71 @@
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
    "crawledAt": 1794471844285
+  },
+  {
+   "title": "Consultant, Life Sciences Consulting",
+   "url": "https://careers.dedhamgroup.com/jobs/14553321-consultant-life-sciences-consulting",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "The Dedham Group",
+   "website": "dedhamgroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478041486
+  },
+  {
+   "title": "Senior Analyst, Life Sciences Consulting",
+   "url": "https://careers.dedhamgroup.com/jobs/14551635-senior-analyst-life-sciences-consulting",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "The Dedham Group",
+   "website": "dedhamgroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478041486
+  },
+  {
+   "title": "Sales Head",
+   "url": "https://www.thedigitalgroup.com/careers#sales-head",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Digital Group",
+   "website": "thedigitalgroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478051040
+  },
+  {
+   "title": "React Developer",
+   "url": "https://www.thedigitalgroup.com/careers#react-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Digital Group",
+   "website": "thedigitalgroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478051040
+  },
+  {
+   "title": "Lead Generation Executive",
+   "url": "https://www.thedigitalgroup.com/careers#lead-generation-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Digital Group",
+   "website": "thedigitalgroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478051040
   },
   {
    "title": "Senior Implementation Manager, Copenhagen",
@@ -85566,6 +85762,19 @@
    "src": "nyc",
    "page": "https://www.ltvco.com/careers/?location=costa%20rica",
    "crawledAt": 1794473942817
+  },
+  {
+   "title": "Director of Engineering – Pittsburgh",
+   "url": "https://www.theswitch.tv/careers/director-of-engineering-pittsburgh/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "The Switch",
+   "website": "theswitch.tv",
+   "src": "nyc",
+   "crawledAt": 1794478092533
   },
   {
    "title": "Sales Engineer vs Solutions Engineer",
