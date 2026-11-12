@@ -26,6 +26,8 @@ jobs:
       - name: static pass (new sites)
         continue-on-error: true
         timeout-minutes: 90
+        # 2026-11-12: graceful budget (cache written) 8 min before the hard timeout; a site can never hold a worker > 2 min
+        env: { SP_STATIC_BUDGET_SEC: '4500', SP_SITE_CAP_MS: '120000' }
         run: |
           git config user.name crawl-bot; git config user.email crawl-bot@users.noreply.github.com
           timeout -k 30 5000 node scripts/career-crawl.mjs 2> static.log || true; tail -3 static.log
@@ -35,7 +37,11 @@ jobs:
       - name: render in chunks
         continue-on-error: true
         timeout-minutes: 280
-        env: { RENDER_PAGES: '2', RENDER_MAX: '40' }   # 2026-11-08: runner was killed ~34 min into the first 250-site chunk, so no chunk ever committed
+        # 2026-11-08: runner was killed ~34 min into the first 250-site chunk, so no chunk ever committed.
+        # 2026-11-12: 13 chunks in a row died at "12449 to crawl" because --render re-ran the whole static pass first
+        # (career-crawl.mjs now skips it with --render) and nothing was saved before the 900 s kill. Each chunk now
+        # ends itself at 12 min with the cache written (SP_RENDER_BUDGET_SEC), 60 sites per chunk, 2 pages.
+        env: { RENDER_PAGES: '2', RENDER_MAX: '60', SP_RENDER_BUDGET_SEC: '720' }
         run: |
           git config user.name crawl-bot; git config user.email crawl-bot@users.noreply.github.com
           # 2026-11-08: runner killed ~30-37 min in with no clue left; extra swap + a live 60s memory/disk/process monitor in the job log
