@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-12T09:23:59.735Z",
+ "generated": "2026-11-12T09:27:37.978Z",
  "companies": 22901,
  "status": {
-  "found": 3160,
-  "down": 4338,
-  "no-ats": 11919,
-  "site": 3484
+  "found": 3165,
+  "down": 4278,
+  "no-ats": 11970,
+  "site": 3488
  },
  "byType": {
   "dover": 7,
   "ashby": 715,
   "workday": 552,
   "lever": 262,
-  "gh": 891,
-  "gem": 73,
+  "gh": 893,
+  "gem": 74,
   "workable": 176,
-  "rippling": 135,
+  "rippling": 137,
   "bamboohr": 161,
   "smartrecruiters": 54,
   "recruitee": 27,
@@ -7965,6 +7965,14 @@
    "src": "nyc"
   },
   {
+   "type": "rippling",
+   "token": "en-GB",
+   "url": "ats.rippling.com/en-GB",
+   "label": "Advocate Technologies",
+   "website": "tryadvocate.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "aegisventures",
    "label": "Aegis Ventures",
@@ -8087,6 +8095,14 @@
    "src": "nyc"
   },
   {
+   "type": "rippling",
+   "token": "allied-global-marketing",
+   "url": "ats.rippling.com/allied-global-marketing",
+   "label": "Allied Global Marketing",
+   "website": "alliedglobalmarketing.com",
+   "src": "nyc"
+  },
+  {
    "type": "bamboohr",
    "token": "aklamio",
    "label": "Aklamio",
@@ -8165,6 +8181,14 @@
    "label": "Alma",
    "website": "helloalma.com",
    "page": "https://helloalma.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gem",
+   "token": "soundhound",
+   "url": "jobs.gem.com/soundhound",
+   "label": "Amelia",
+   "website": "amelia.com",
    "src": "nyc"
   },
   {
@@ -8418,6 +8442,14 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "axios",
+   "url": "boards.greenhouse.io/axios",
+   "label": "Axios",
+   "website": "axios.com",
+   "src": "nyc"
+  },
+  {
    "type": "rippling",
    "token": "en-GB",
    "label": "Atrium",
@@ -8431,6 +8463,14 @@
    "label": "August Law",
    "website": "augustlaw.com",
    "page": "https://www.august.law/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "axial",
+   "url": "boards.greenhouse.io/axial",
+   "label": "Axial",
+   "website": "axial.net",
    "src": "nyc"
   },
   {
@@ -51347,6 +51387,19 @@
    "crawledAt": 1794470149080
   },
   {
+   "title": "Website Administrator",
+   "url": "https://symbiont.io/careers#website-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Symbiont",
+   "website": "symbiont.io",
+   "src": "nyc",
+   "crawledAt": 1794475446239
+  },
+  {
    "title": "Director, Asia Trader",
    "url": "https://gqg.com/position/director-trader-2/",
    "datePosted": null,
@@ -52059,6 +52112,19 @@
    "src": "nyc",
    "page": "https://www.monks.com/careers",
    "crawledAt": 1794470157372
+  },
+  {
+   "title": "Employees success stories",
+   "url": "https://careers.abtasty.com/pages/discover-some-of-our-talents-success-stories",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "AB Tasty",
+   "website": "abtasty.com",
+   "src": "nyc",
+   "crawledAt": 1794475462440
   },
   {
    "title": "Financial Crime Manager",
@@ -55756,6 +55822,58 @@
    "crawledAt": 1794470336312
   },
   {
+   "title": "AI Engineer",
+   "url": "https://apiiro.com/careers#ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apiiro",
+   "website": "apiiro.com",
+   "src": "nyc",
+   "crawledAt": 1794475555568
+  },
+  {
+   "title": "AI Research Engineer, Security",
+   "url": "https://apiiro.com/careers#ai-research-engineer-security",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apiiro",
+   "website": "apiiro.com",
+   "src": "nyc",
+   "crawledAt": 1794475555568
+  },
+  {
+   "title": "Product Manager",
+   "url": "https://apiiro.com/careers#product-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apiiro",
+   "website": "apiiro.com",
+   "src": "nyc",
+   "crawledAt": 1794475555568
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://apiiro.com/careers#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apiiro",
+   "website": "apiiro.com",
+   "src": "nyc",
+   "crawledAt": 1794475555568
+  },
+  {
    "title": "Content Developer Manager",
    "url": "https://www.anyword.com/careers#content-developer-manager",
    "datePosted": null,
@@ -57438,6 +57556,19 @@
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
    "crawledAt": 1794470428187
+  },
+  {
+   "title": "Senior Packaging Engineer",
+   "url": "https://mybillie.com/pages/careers#senior-packaging-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Billie",
+   "website": "mybillie.com",
+   "src": "nyc",
+   "crawledAt": 1794475657662
   },
   {
    "title": "outpost/lead-flows-js/error.gif",
