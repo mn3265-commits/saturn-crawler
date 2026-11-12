@@ -1,26 +1,26 @@
 {
- "generated": "2026-11-12T10:08:12.845Z",
+ "generated": "2026-11-12T10:13:22.854Z",
  "companies": 22901,
  "status": {
-  "found": 3199,
-  "down": 3798,
-  "no-ats": 12368,
-  "site": 3536
+  "found": 3211,
+  "down": 3738,
+  "no-ats": 12411,
+  "site": 3541
  },
  "byType": {
   "dover": 7,
-  "ashby": 718,
+  "ashby": 722,
   "workday": 556,
-  "lever": 264,
-  "gh": 906,
+  "lever": 266,
+  "gh": 909,
   "gem": 74,
-  "workable": 183,
+  "workable": 185,
   "rippling": 137,
   "bamboohr": 164,
-  "smartrecruiters": 54,
+  "smartrecruiters": 56,
   "recruitee": 27,
   "eightfold": 38,
-  "icims": 155,
+  "icims": 156,
   "oracle": 91,
   "successfactors": 14
  },
@@ -13870,6 +13870,14 @@
   },
   {
    "type": "workable",
+   "token": "thetie",
+   "url": "apply.workable.com/thetie",
+   "label": "The TIE",
+   "website": "thetie.io",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
    "token": "j",
    "label": "The Marketing Practice",
    "website": "themarketingpractice.com",
@@ -13890,6 +13898,14 @@
    "label": "TheGuarantors",
    "website": "theguarantors.com",
    "page": "https://www.theguarantors.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "thimble",
+   "url": "jobs.lever.co/thimble",
+   "label": "Thimble",
+   "website": "thimble.com",
    "src": "nyc"
   },
   {
@@ -13986,6 +14002,14 @@
    "label": "Togetherhood",
    "website": "togetherhood.us",
    "page": "https://www.togetherhood.us/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "trainingthestreet",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=trainingthestreet",
+   "label": "Training The Street",
+   "website": "trainingthestreet.com",
    "src": "nyc"
   },
   {
@@ -14213,6 +14237,14 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "vendelux",
+   "url": "jobs.ashbyhq.com/vendelux",
+   "label": "Vendelux",
+   "website": "vendelux.com",
+   "src": "nyc"
+  },
+  {
    "type": "rippling",
    "token": "veefriends-llc",
    "label": "VeeFriends",
@@ -14322,6 +14354,86 @@
    "label": "Verra Mobility",
    "website": "verramobility.com",
    "page": "https://careers.verramobility.com/?utm_source=verramobility.com&utm_medium=referral&utm_campaign=Corporate_Site/",
+   "src": "nyc"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "Vizrt1",
+   "url": "careers.smartrecruiters.com/Vizrt1",
+   "label": "Vizrt Group",
+   "website": "vizrtgroup.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "vistar",
+   "url": "jobs.ashbyhq.com/vistar",
+   "label": "Vistar Media",
+   "website": "vistarmedia.com",
+   "src": "nyc"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "Vizrt1",
+   "url": "careers.smartrecruiters.com/Vizrt1",
+   "label": "Vizrt",
+   "website": "vizrt.com",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
+   "token": "vizio",
+   "url": "careers-vizio.icims.com",
+   "label": "VIZIO",
+   "website": "vizio.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "volleythat",
+   "url": "boards-api.greenhouse.io/v1/boards/volleythat",
+   "label": "Volley",
+   "website": "volleythat.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "weekend",
+   "url": "jobs.ashbyhq.com/weekend",
+   "label": "Volley",
+   "website": "volleythat.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "voladynamics",
+   "url": "jobs.ashbyhq.com/voladynamics",
+   "label": "Vola Dynamics",
+   "website": "voladynamics.com",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Vortexa",
+   "website": "vortexa.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "vts",
+   "url": "job-boards.greenhouse.io/vts",
+   "label": "VTS",
+   "website": "vts.com",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "vts",
+   "url": "jobs.lever.co/vts",
+   "label": "VTS",
+   "website": "vts.com",
    "src": "nyc"
   },
   {
@@ -85777,6 +85889,162 @@
    "crawledAt": 1794478092533
   },
   {
+   "title": "Project Coordinator",
+   "url": "https://www.thetustingroup.com/careers/#project-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "USA Mechanical - Construction Sales Representative",
+   "url": "https://www.thetustingroup.com/careers/#usa-mechanical-construction-sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "USA Mechanical - Controls Sales Representative",
+   "url": "https://www.thetustingroup.com/careers/#usa-mechanical-controls-sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "HVAC Project Manager",
+   "url": "https://www.thetustingroup.com/careers/#hvac-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Controls General Manager - Energy",
+   "url": "https://www.thetustingroup.com/careers/#controls-general-manager-energy",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Outside Sales Representative",
+   "url": "https://www.thetustingroup.com/careers/#outside-sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Project Manager",
+   "url": "https://www.thetustingroup.com/careers/#project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Service Coordinator",
+   "url": "https://www.thetustingroup.com/careers/#service-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Customer Care Manager",
+   "url": "https://www.thetustingroup.com/careers/#customer-care-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Technician, specialist, or coordinator",
+   "url": "https://www.thetustingroup.com/careers/#technician-specialist-or-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Senior, lead, or foreman",
+   "url": "https://www.thetustingroup.com/careers/#senior-lead-or-foreman",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
+   "title": "Full-time in-house training manager",
+   "url": "https://www.thetustingroup.com/careers/#full-time-in-house-training-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Tustin Group",
+   "website": "thetustingroup.com",
+   "src": "nyc",
+   "crawledAt": 1794478159189
+  },
+  {
    "title": "Sales Engineer vs Solutions Engineer",
    "url": "https://www.tsetalent.com/about-us/startup-recruitment-agency/startup-hiring-faq#sales-engineer-vs-solutions-engineer",
    "datePosted": null,
@@ -85789,6 +86057,84 @@
    "src": "nyc",
    "page": "https://www.thesearchex.com/",
    "crawledAt": 1794473958396
+  },
+  {
+   "title": "Senior software developer",
+   "url": "https://www.tftus.com/career#senior-software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Think Future Technologies",
+   "website": "tftus.com",
+   "src": "nyc",
+   "crawledAt": 1794478187912
+  },
+  {
+   "title": "Daniel, General Manager - Israel",
+   "url": "https://www.tftus.com/career#daniel-general-manager-israel",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Think Future Technologies",
+   "website": "tftus.com",
+   "src": "nyc",
+   "crawledAt": 1794478187912
+  },
+  {
+   "title": "AI/ML Engineer",
+   "url": "https://www.tftus.com/career#ai-ml-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Think Future Technologies",
+   "website": "tftus.com",
+   "src": "nyc",
+   "crawledAt": 1794478187912
+  },
+  {
+   "title": "QA Automation Engineer",
+   "url": "https://www.tftus.com/career#qa-automation-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Think Future Technologies",
+   "website": "tftus.com",
+   "src": "nyc",
+   "crawledAt": 1794478187912
+  },
+  {
+   "title": "DevOps Engineer",
+   "url": "https://www.tftus.com/career#devops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Think Future Technologies",
+   "website": "tftus.com",
+   "src": "nyc",
+   "crawledAt": 1794478187912
+  },
+  {
+   "title": "GCP Data Engineer",
+   "url": "https://www.tftus.com/career#gcp-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Think Future Technologies",
+   "website": "tftus.com",
+   "src": "nyc",
+   "crawledAt": 1794478187912
   },
   {
    "title": "Solutions Manager",
@@ -86365,6 +86711,19 @@
    "crawledAt": 1794474051916
   },
   {
+   "title": "Sr Graphic Designer, Digital",
+   "url": "https://www.tommyjohn.com/pages/careers#sr-graphic-designer-digital",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Tommy John",
+   "website": "tommyjohn.com",
+   "src": "nyc",
+   "crawledAt": 1794478223287
+  },
+  {
    "title": "Talent Acquisition Manager",
    "url": "https://tipstat.com/work-with-us/#talent-acquisition-manager",
    "datePosted": null,
@@ -86885,6 +87244,97 @@
    "crawledAt": 1794474104711
   },
   {
+   "title": "Senior Account Manager North America M/F/Mx",
+   "url": "https://jobs.trustpair.com/jobs/8627704-senior-account-manager-north-america-m-f-mx",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
+   "title": "Partnerships Manager EMEA M/F/Mx",
+   "url": "https://jobs.trustpair.com/jobs/8613781-partnerships-manager-emea-m-f-mx",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
+   "title": "Customer Success Manager (USA)",
+   "url": "https://jobs.trustpair.com/jobs/8473711-customer-success-manager-usa",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
+   "title": "Technical Integrations Manager USA",
+   "url": "https://jobs.trustpair.com/jobs/8473289-technical-integrations-manager-usa",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
+   "title": "Customer Success Manager (France) M/F/Mx",
+   "url": "https://jobs.trustpair.com/jobs/8077241-customer-success-manager-france-m-f-mx",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
+   "title": "Head of Pre-Sales USA",
+   "url": "https://jobs.trustpair.com/jobs/7940598-head-of-pre-sales-usa",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
+   "title": "Engineering Manager M/F/Mx",
+   "url": "https://jobs.trustpair.com/jobs/6755906-engineering-manager-m-f-mx",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Trustpair",
+   "website": "trustpair.fr",
+   "src": "nyc",
+   "crawledAt": 1794478238723
+  },
+  {
    "title": "Commercial Operations Specialist",
    "url": "https://transfix.io/current-openings#commercial-operations-specialist",
    "datePosted": null,
@@ -87387,6 +87837,36 @@
    "src": "nyc",
    "page": "https://www.unifocus.com/en/careers",
    "crawledAt": 1794474277421
+  },
+  {
+   "title": "Content Writing Instructor, Digital Content and AI-Assisted Writing",
+   "url": "https://userhub.com.bd/about/career/content-writing-instructor/",
+   "datePosted": "2026-05-30T17:25:45+06:00",
+   "locations": [
+    "Remote"
+   ],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "UserHub",
+   "website": "userhub.com.bd",
+   "src": "nyc",
+   "crawledAt": 1794478252910
+  },
+  {
+   "title": "UI Design Instructor, AI-Assisted Interface Design",
+   "url": "https://userhub.com.bd/about/career/ui-design-instructor/",
+   "datePosted": "2026-05-30T13:42:21+06:00",
+   "locations": [
+    "Remote"
+   ],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "UserHub",
+   "website": "userhub.com.bd",
+   "src": "nyc",
+   "crawledAt": 1794478252910
   },
   {
    "title": "Lead Developer, Uptime User",
