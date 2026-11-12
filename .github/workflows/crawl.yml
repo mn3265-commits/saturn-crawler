@@ -25,12 +25,13 @@ jobs:
         timeout-minutes: 60
       - name: static pass (new sites)
         continue-on-error: true
-        timeout-minutes: 90
+        timeout-minutes: 115
         # 2026-11-12: graceful budget (cache written) 8 min before the hard timeout; a site can never hold a worker > 2 min
-        env: { SP_STATIC_BUDGET_SEC: '4500', SP_SITE_CAP_MS: '120000' }
+        # 2026-11-12 (H-1B widening: 12,700 sponsor domains still uncrawled at ~1,500/run): 48 fetch-only workers, 105 min budget
+        env: { SP_STATIC_BUDGET_SEC: '6300', SP_SITE_CAP_MS: '120000', SP_CRAWL_CONC: '48' }
         run: |
           git config user.name crawl-bot; git config user.email crawl-bot@users.noreply.github.com
-          timeout -k 30 5000 node scripts/career-crawl.mjs 2> static.log || true; tail -3 static.log
+          timeout -k 30 6800 node scripts/career-crawl.mjs 2> static.log || true; tail -3 static.log
           git add data && git commit -qm "static pass $(date -u +%F)" && { git pull -q --rebase -X ours origin main; git push -q; } || true
       # 2026-11-06: one 3000-site Chrome starved the runner at 2h40m and nothing was committed. Now chunks of 300 sites,
       # each a fresh node + Chrome, committed after every chunk, so a crash loses at most one chunk.
