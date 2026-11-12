@@ -1,25 +1,25 @@
 {
- "generated": "2026-11-12T09:27:37.978Z",
+ "generated": "2026-11-12T09:33:07.047Z",
  "companies": 22901,
  "status": {
-  "found": 3165,
-  "down": 4278,
-  "no-ats": 11970,
-  "site": 3488
+  "found": 3167,
+  "down": 4218,
+  "no-ats": 12025,
+  "site": 3491
  },
  "byType": {
   "dover": 7,
   "ashby": 715,
   "workday": 552,
   "lever": 262,
-  "gh": 893,
+  "gh": 894,
   "gem": 74,
   "workable": 176,
   "rippling": 137,
   "bamboohr": 161,
   "smartrecruiters": 54,
   "recruitee": 27,
-  "eightfold": 36,
+  "eightfold": 38,
   "icims": 154,
   "oracle": 89,
   "successfactors": 14
@@ -8827,6 +8827,22 @@
    "src": "nyc"
   },
   {
+   "type": "eightfold",
+   "token": "paypal",
+   "url": "paypal.eightfold.ai",
+   "label": "Braintree",
+   "website": "braintreepayments.com",
+   "src": "nyc"
+  },
+  {
+   "type": "eightfold",
+   "token": "2Fpaypal",
+   "url": "2Fpaypal.eightfold.ai",
+   "label": "Braintree",
+   "website": "braintreepayments.com",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "brandbastion",
    "label": "BrandBastion",
@@ -9106,6 +9122,14 @@
    "label": "Causaly",
    "website": "causaly.com",
    "page": "https://www.causaly.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "centerforemploymentopportunities",
+   "url": "boards-api.greenhouse.io/v1/boards/centerforemploymentopportunities",
+   "label": "Center for Employment Opportunities",
+   "website": "ceoworks.org",
    "src": "nyc"
   },
   {
@@ -57571,6 +57595,19 @@
    "crawledAt": 1794475657662
   },
   {
+   "title": "Cookie consent manager",
+   "url": "https://www.coinbase.com/careers#cookie-consent-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bison Trails",
+   "website": "bisontrails.co",
+   "src": "nyc",
+   "crawledAt": 1794475725888
+  },
+  {
    "title": "outpost/lead-flows-js/error.gif",
    "url": "https://www.biocatch.com/careers/candidate-privacy-notice#outpost-lead-flows-js-error-gif",
    "datePosted": null,
@@ -58468,6 +58505,19 @@
    "src": "nyc",
    "page": "https://braincheck.com/about/careers/",
    "crawledAt": 1794470477536
+  },
+  {
+   "title": "Senior SEO Strategist",
+   "url": "https://breaktheweb.agency/careers/#senior-seo-strategist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Break The Web",
+   "website": "breaktheweb.agency",
+   "src": "nyc",
+   "crawledAt": 1794475819595
   },
   {
    "title": "Senior Staff Accountant",
@@ -59438,6 +59488,58 @@
    "src": "nyc",
    "page": "https://www.cellectar.com/careers",
    "crawledAt": 1794470595219
+  },
+  {
+   "title": "Environmental Health & Safety Manager",
+   "url": "https://www.cascade-env.com/careers#environmental-health-safety-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cascade Environmental",
+   "website": "cascade-env.com",
+   "src": "nyc",
+   "crawledAt": 1794475875988
+  },
+  {
+   "title": "Office Manager",
+   "url": "https://www.cascade-env.com/careers#office-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cascade Environmental",
+   "website": "cascade-env.com",
+   "src": "nyc",
+   "crawledAt": 1794475875988
+  },
+  {
+   "title": "Project Manager",
+   "url": "https://www.cascade-env.com/careers#project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cascade Environmental",
+   "website": "cascade-env.com",
+   "src": "nyc",
+   "crawledAt": 1794475875988
+  },
+  {
+   "title": "Technical Specialist",
+   "url": "https://www.cascade-env.com/careers#technical-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cascade Environmental",
+   "website": "cascade-env.com",
+   "src": "nyc",
+   "crawledAt": 1794475875988
   },
   {
    "title": "Part-Time On-Site Catering Coordinator",
