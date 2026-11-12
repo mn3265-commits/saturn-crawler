@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-12T08:30:31.410Z",
+ "generated": "2026-11-12T08:36:04.253Z",
  "companies": 22901,
  "status": {
   "found": 3136,
   "down": 4438,
-  "no-ats": 11908,
-  "site": 3419
+  "no-ats": 11910,
+  "site": 3417
  },
  "byType": {
   "dover": 7,
@@ -32711,7 +32711,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Senior Software Engineer",
@@ -32725,7 +32725,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Forward Deployed Engineer",
@@ -32739,7 +32739,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Content Marketing Lead",
@@ -32753,7 +32753,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Head of Sales",
@@ -32767,7 +32767,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Mid Market Account Executive",
@@ -32781,7 +32781,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Enterprise Account Executive",
@@ -32795,7 +32795,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Full Stack Engineer",
@@ -32809,7 +32809,7 @@
    "website": "monumint.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/monumint/jobs",
-   "crawledAt": 1794197953435
+   "crawledAt": 1794472297748
   },
   {
    "title": "Founding Full-Stack Software Engineer (React / Node.js / NestJS / PostgreSQL)",
@@ -32823,7 +32823,7 @@
    "website": "joincarma.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/carma/jobs",
-   "crawledAt": 1794197981288
+   "crawledAt": 1794472297658
   },
   {
    "title": "Founding Engineer - Full Stack",
@@ -32837,7 +32837,7 @@
    "website": "with-andy.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/andy-ai/jobs",
-   "crawledAt": 1794198006092
+   "crawledAt": 1794472304058
   },
   {
    "title": "Founding Engineer - Healthcare AI",
@@ -32851,7 +32851,7 @@
    "website": "with-andy.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/andy-ai/jobs",
-   "crawledAt": 1794198006092
+   "crawledAt": 1794472304058
   },
   {
    "title": "Full Stack Engineer (TS/SCI)",
@@ -32865,7 +32865,7 @@
    "website": "hazelai.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/hazel-2/jobs",
-   "crawledAt": 1794198101317
+   "crawledAt": 1794472305723
   },
   {
    "title": "AI Engineer",
@@ -32879,7 +32879,7 @@
    "website": "stacksync.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/stacksync/jobs",
-   "crawledAt": 1794198173297
+   "crawledAt": 1794472314196
   },
   {
    "title": "Forward Deployed Engineer + Product engineer",
@@ -32893,7 +32893,7 @@
    "website": "stacksync.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/stacksync/jobs",
-   "crawledAt": 1794198173297
+   "crawledAt": 1794472314196
   },
   {
    "title": "Full-Cycle Forward Deployed Sales Engineer - The Closer of All Closers!",
@@ -32907,7 +32907,7 @@
    "website": "stacksync.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/stacksync/jobs",
-   "crawledAt": 1794198173297
+   "crawledAt": 1794472314196
   },
   {
    "title": "Growth Engineer",
@@ -32921,7 +32921,7 @@
    "website": "rove.com",
    "src": "yc",
    "page": "https://www.rove.com/?redirect=%2Fjobs",
-   "crawledAt": 1794198288283
+   "crawledAt": 1794472315787
   },
   {
    "title": "Software Engineer (Mid to Senior)",
@@ -32935,7 +32935,7 @@
    "website": "rove.com",
    "src": "yc",
    "page": "https://www.rove.com/?redirect=%2Fjobs",
-   "crawledAt": 1794198288283
+   "crawledAt": 1794472315787
   },
   {
    "title": "Founding Engineer",
@@ -32949,7 +32949,7 @@
    "website": "yarn.so",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/yarn-2/jobs",
-   "crawledAt": 1794198332628
+   "crawledAt": 1794472322173
   },
   {
    "title": "Founding Product Designer",
@@ -32963,7 +32963,7 @@
    "website": "yarn.so",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/yarn-2/jobs",
-   "crawledAt": 1794198332628
+   "crawledAt": 1794472322173
   },
   {
    "title": "Software Engineer (Full Stack)",
@@ -32977,7 +32977,7 @@
    "website": "apten.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apten/jobs",
-   "crawledAt": 1794198365367
+   "crawledAt": 1794472322877
   },
   {
    "title": "Account Executive",
@@ -32991,7 +32991,7 @@
    "website": "mdhub.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mdhub/jobs",
-   "crawledAt": 1794198500144
+   "crawledAt": 1794472382733
   },
   {
    "title": "Deployment Strategist",
@@ -33005,7 +33005,7 @@
    "website": "mdhub.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mdhub/jobs",
-   "crawledAt": 1794198500144
+   "crawledAt": 1794472382733
   },
   {
    "title": "Forward Deployed Engineer",
@@ -33019,7 +33019,7 @@
    "website": "mdhub.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mdhub/jobs",
-   "crawledAt": 1794198500144
+   "crawledAt": 1794472382733
   },
   {
    "title": "Growth Strategist",
@@ -33033,7 +33033,7 @@
    "website": "mdhub.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mdhub/jobs",
-   "crawledAt": 1794198500144
+   "crawledAt": 1794472382733
   },
   {
    "title": "Forward Deployed Engineer San Francisco · On-site · Full time View role",
@@ -33047,7 +33047,7 @@
    "website": "dodo.ai",
    "src": "yc",
    "page": "https://dodo.ai/jobs",
-   "crawledAt": 1794198974820
+   "crawledAt": 1794472328318
   },
   {
    "title": "Senior ML Engineer San Francisco · On-site · Full time View role",
@@ -33061,7 +33061,7 @@
    "website": "dodo.ai",
    "src": "yc",
    "page": "https://dodo.ai/jobs",
-   "crawledAt": 1794198974820
+   "crawledAt": 1794472328318
   },
   {
    "title": "Account Executive San Francisco · On-site · Full time View role",
@@ -33075,7 +33075,7 @@
    "website": "dodo.ai",
    "src": "yc",
    "page": "https://dodo.ai/jobs",
-   "crawledAt": 1794198974820
+   "crawledAt": 1794472328318
   },
   {
    "title": "Enterprise Sales / GTM San Francisco · On-site · Full time View role",
@@ -33089,7 +33089,7 @@
    "website": "dodo.ai",
    "src": "yc",
    "page": "https://dodo.ai/jobs",
-   "crawledAt": 1794198974820
+   "crawledAt": 1794472328318
   },
   {
    "title": "Technical Platform Specialist San Francisco · On-site · Full time View role",
@@ -33103,7 +33103,7 @@
    "website": "dodo.ai",
    "src": "yc",
    "page": "https://dodo.ai/jobs",
-   "crawledAt": 1794198974820
+   "crawledAt": 1794472328318
   },
   {
    "title": "Senior Security Engineer San Francisco, CA · On-site",
@@ -33117,7 +33117,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Software Engineer, Applications San Francisco, CA · On-site",
@@ -33131,7 +33131,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Software Engineer, Cloud Infrastructure San Francisco, CA · On-site",
@@ -33145,7 +33145,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Software Engineer, Full Stack San Francisco, CA · On-site",
@@ -33159,7 +33159,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Product Operations San Francisco, CA · On-site",
@@ -33173,7 +33173,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Marketing Lead San Francisco, CA · On-site",
@@ -33187,7 +33187,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Industrial Designer San Francisco, CA · On-site",
@@ -33201,7 +33201,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "UI & Interaction Designer San Francisco, CA · On-site",
@@ -33215,7 +33215,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Fleet Lead San Francisco, CA · On-site",
@@ -33229,7 +33229,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Electrical Engineer, Motor Controllers San Francisco, CA · On-site",
@@ -33243,7 +33243,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Electrical Engineer, Power San Francisco, CA · On-site",
@@ -33257,7 +33257,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Electrical Engineer, Sensing San Francisco, CA · On-site",
@@ -33271,7 +33271,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "ML Research Engineer, Data San Francisco, CA · On-site",
@@ -33285,7 +33285,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "ML Research Engineer, Training San Francisco, CA · On-site",
@@ -33299,7 +33299,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "ML Research Scientist, Robot Learning San Francisco, CA · On-site",
@@ -33313,7 +33313,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Mechanical Design Engineer, Actuators San Francisco, CA · On-site",
@@ -33327,7 +33327,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Mechanical Design Engineer, Manufacturing San Francisco, CA · On-site",
@@ -33341,7 +33341,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Mechanical Design Engineer, Mechanisms San Francisco, CA · On-site",
@@ -33355,7 +33355,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "3D Perception & SLAM Engineer San Francisco, CA · On-site",
@@ -33369,7 +33369,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Mechatronics Engineer San Francisco, CA · On-site",
@@ -33383,7 +33383,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Principal Robotics Software Engineer San Francisco, CA · On-site",
@@ -33397,7 +33397,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Research Engineer, Teleoperation San Francisco, CA · On-site",
@@ -33411,7 +33411,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Software Engineer, Actuator Firmware San Francisco, CA · On-site",
@@ -33425,7 +33425,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Software Engineer, Autonomy San Francisco, CA · On-site",
@@ -33439,7 +33439,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Software Engineer, Controls San Francisco, CA · On-site",
@@ -33453,7 +33453,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Software Engineer, Simulation San Francisco, CA · On-site",
@@ -33467,7 +33467,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Systems Engineer, Generalist San Francisco, CA · On-site",
@@ -33481,7 +33481,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Robotics Systems Engineer, Triage San Francisco, CA · On-site",
@@ -33495,7 +33495,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Embedded Software Engineer San Francisco, CA · On-site",
@@ -33509,7 +33509,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Systems Software Engineer, Operating Systems San Francisco, CA · On-site",
@@ -33523,7 +33523,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Workplace Coordinator San Francisco, CA · On-site",
@@ -33537,7 +33537,7 @@
    "website": "weaverobotics.com",
    "src": "yc",
    "page": "https://www.weaverobotics.com/careers",
-   "crawledAt": 1794199056572
+   "crawledAt": 1794472334369
   },
   {
    "title": "Data Science Intern (Part-time): Data Storytelling",
@@ -33551,7 +33551,7 @@
    "website": "tandemspace.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tandem-2/jobs",
-   "crawledAt": 1794199069585
+   "crawledAt": 1794472343857
   },
   {
    "title": "Real Estate Lead (New York City)",
@@ -33565,7 +33565,7 @@
    "website": "tandemspace.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tandem-2/jobs",
-   "crawledAt": 1794199069585
+   "crawledAt": 1794472343857
   },
   {
    "title": "GTM & Biz Ops @ Tandem (New York City)",
@@ -33579,7 +33579,7 @@
    "website": "tandemspace.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tandem-2/jobs",
-   "crawledAt": 1794199069585
+   "crawledAt": 1794472343857
   },
   {
    "title": "GTM & Biz Ops @ Tandem (San Francisco)",
@@ -33593,7 +33593,7 @@
    "website": "tandemspace.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/tandem-2/jobs",
-   "crawledAt": 1794199069585
+   "crawledAt": 1794472343857
   },
   {
    "title": "Forward Deployed Engineer",
@@ -33607,7 +33607,7 @@
    "website": "titanio.ai",
    "src": "yc",
    "page": "https://www.titanio.ai/careers",
-   "crawledAt": 1794199138527
+   "crawledAt": 1794472356937
   },
   {
    "title": "Account Executive, Distribution",
@@ -33621,7 +33621,7 @@
    "website": "titanio.ai",
    "src": "yc",
    "page": "https://www.titanio.ai/careers",
-   "crawledAt": 1794199138527
+   "crawledAt": 1794472356937
   },
   {
    "title": "Business Operations Analyst",
@@ -33635,7 +33635,7 @@
    "website": "drillbit.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/drillbit/jobs",
-   "crawledAt": 1794199134827
+   "crawledAt": 1794472365087
   },
   {
    "title": "Operations Lead (Manager)",
@@ -33649,7 +33649,7 @@
    "website": "drillbit.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/drillbit/jobs",
-   "crawledAt": 1794199134827
+   "crawledAt": 1794472365087
   },
   {
    "title": "Staff Software Engineer, AI",
@@ -33663,7 +33663,7 @@
    "website": "drillbit.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/drillbit/jobs",
-   "crawledAt": 1794199134827
+   "crawledAt": 1794472365087
   },
   {
    "title": "Software Engineer, Product",
@@ -33677,7 +33677,7 @@
    "website": "drillbit.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/drillbit/jobs",
-   "crawledAt": 1794199134827
+   "crawledAt": 1794472365087
   },
   {
    "title": "AI Systems Engineer (NM)",
@@ -33691,7 +33691,7 @@
    "website": "conductorquantum.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/conductor-quantum/jobs",
-   "crawledAt": 1794199162492
+   "crawledAt": 1794472372727
   },
   {
    "title": "Quantum Engineer (Ion Trap)",
@@ -33705,7 +33705,7 @@
    "website": "conductorquantum.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/conductor-quantum/jobs",
-   "crawledAt": 1794199162492
+   "crawledAt": 1794472372727
   },
   {
    "title": "Quantum Engineer (Neutral Atom)",
@@ -33719,7 +33719,7 @@
    "website": "conductorquantum.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/conductor-quantum/jobs",
-   "crawledAt": 1794199162492
+   "crawledAt": 1794472372727
   },
   {
    "title": "AI Systems Engineer",
@@ -33733,7 +33733,7 @@
    "website": "conductorquantum.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/conductor-quantum/jobs",
-   "crawledAt": 1794199162492
+   "crawledAt": 1794472372727
   },
   {
    "title": "Quantum Engineer (Superconducting)",
@@ -33747,7 +33747,7 @@
    "website": "conductorquantum.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/conductor-quantum/jobs",
-   "crawledAt": 1794199162492
+   "crawledAt": 1794472372727
   },
   {
    "title": "Quantum Engineer (Spin)",
@@ -33761,7 +33761,7 @@
    "website": "conductorquantum.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/conductor-quantum/jobs",
-   "crawledAt": 1794199162492
+   "crawledAt": 1794472372727
   },
   {
    "title": "Senior Fullstack Software Engineer",
@@ -33775,7 +33775,7 @@
    "website": "intryc.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intryc/jobs",
-   "crawledAt": 1794199246602
+   "crawledAt": 1794472380142
   },
   {
    "title": "Head of Marketing",
@@ -33789,7 +33789,7 @@
    "website": "intryc.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intryc/jobs",
-   "crawledAt": 1794199246602
+   "crawledAt": 1794472380142
   },
   {
    "title": "Senior Product Designer",
@@ -33803,7 +33803,7 @@
    "website": "intryc.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intryc/jobs",
-   "crawledAt": 1794199246602
+   "crawledAt": 1794472380142
   },
   {
    "title": "Machine Learning Engineer",
@@ -33817,7 +33817,7 @@
    "website": "intryc.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intryc/jobs",
-   "crawledAt": 1794199246602
+   "crawledAt": 1794472380142
   },
   {
    "title": "Fullstack Software Engineer",
@@ -33831,7 +33831,7 @@
    "website": "intryc.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intryc/jobs",
-   "crawledAt": 1794199246602
+   "crawledAt": 1794472380142
   },
   {
    "title": "Electrical Engineer",
@@ -33845,7 +33845,7 @@
    "website": "guardianrf.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/guardian-rf/jobs",
-   "crawledAt": 1794199267359
+   "crawledAt": 1794472388133
   },
   {
    "title": "Electrical Engineer Intern (Summer)",
@@ -33859,7 +33859,21 @@
    "website": "guardianrf.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/guardian-rf/jobs",
-   "crawledAt": 1794199267359
+   "crawledAt": 1794472388133
+  },
+  {
+   "title": "Product & Operations",
+   "url": "https://www.ycombinator.com/companies/finosu/jobs/4nqgEcj-product-operations",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Finosu",
+   "website": "finosu.com",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/finosu/jobs",
+   "crawledAt": 1794472389563
   },
   {
    "title": "Forward Deployed Engineering Lead",
@@ -33873,7 +33887,7 @@
    "website": "finosu.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/finosu/jobs",
-   "crawledAt": 1794199274347
+   "crawledAt": 1794472389563
   },
   {
    "title": "Data Scientist",
@@ -33887,7 +33901,7 @@
    "website": "finosu.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/finosu/jobs",
-   "crawledAt": 1794199274347
+   "crawledAt": 1794472389563
   },
   {
    "title": "Forward Deployed Engineer",
@@ -33901,7 +33915,7 @@
    "website": "finosu.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/finosu/jobs",
-   "crawledAt": 1794199274347
+   "crawledAt": 1794472389563
   },
   {
    "title": "Infra Engineer",
@@ -33915,7 +33929,7 @@
    "website": "finosu.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/finosu/jobs",
-   "crawledAt": 1794199274347
+   "crawledAt": 1794472389563
   },
   {
    "title": "Systems Engineer",
@@ -33931,7 +33945,7 @@
    "website": "freestyle.sh",
    "src": "yc",
    "page": "https://www.freestyle.sh/careers",
-   "crawledAt": 1794199421768
+   "crawledAt": 1794472392058
   },
   {
    "title": "Platform Engineer",
@@ -33947,7 +33961,7 @@
    "website": "freestyle.sh",
    "src": "yc",
    "page": "https://www.freestyle.sh/careers",
-   "crawledAt": 1794199421768
+   "crawledAt": 1794472392058
   },
   {
    "title": "Infrastructure & Reliability Engineer",
@@ -33963,7 +33977,7 @@
    "website": "freestyle.sh",
    "src": "yc",
    "page": "https://www.freestyle.sh/careers",
-   "crawledAt": 1794199421768
+   "crawledAt": 1794472392058
   },
   {
    "title": "Developer Advocate",
@@ -33979,7 +33993,7 @@
    "website": "freestyle.sh",
    "src": "yc",
    "page": "https://www.freestyle.sh/careers",
-   "crawledAt": 1794199421768
+   "crawledAt": 1794472392058
   },
   {
    "title": "Technical Operations Lead",
@@ -33995,7 +34009,7 @@
    "website": "freestyle.sh",
    "src": "yc",
    "page": "https://www.freestyle.sh/careers",
-   "crawledAt": 1794199421768
+   "crawledAt": 1794472392058
   },
   {
    "title": "Senior Software Engineer",
@@ -34011,11 +34025,11 @@
    "website": "diode.computer",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/diode-computers-inc/jobs/V8LqvBH-senior-software-engineer",
-   "crawledAt": 1794199436195
+   "crawledAt": 1794472396654
   },
   {
-   "title": "Software Engineer Jobs in San Francisco",
-   "url": "https://www.workatastartup.com/jobs/san-francisco/software-engineer",
+   "title": "Business Development / Operations, Tokyo",
+   "url": "https://www.ycombinator.com/companies/outerport/jobs/xOHQwfu-business-development-operations-tokyo",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -34025,77 +34039,7 @@
    "website": "outerport.com",
    "src": "yc",
    "page": "https://www.workatastartup.com/companies/outerport",
-   "crawledAt": 1794199553473
-  },
-  {
-   "title": "Product Manager Jobs in San Francisco",
-   "url": "https://www.workatastartup.com/jobs/san-francisco/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Outerport",
-   "website": "outerport.com",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/outerport",
-   "crawledAt": 1794199553473
-  },
-  {
-   "title": "Software Engineer Jobs in New York",
-   "url": "https://www.workatastartup.com/jobs/new-york/software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Outerport",
-   "website": "outerport.com",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/outerport",
-   "crawledAt": 1794199553473
-  },
-  {
-   "title": "Product Manager Jobs in New York",
-   "url": "https://www.workatastartup.com/jobs/new-york/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Outerport",
-   "website": "outerport.com",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/outerport",
-   "crawledAt": 1794199553473
-  },
-  {
-   "title": "Software Engineer Jobs in Los Angeles",
-   "url": "https://www.workatastartup.com/jobs/los-angeles/software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Outerport",
-   "website": "outerport.com",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/outerport",
-   "crawledAt": 1794199553473
-  },
-  {
-   "title": "Product Manager Jobs in Los Angeles",
-   "url": "https://www.workatastartup.com/jobs/los-angeles/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Outerport",
-   "website": "outerport.com",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/outerport",
-   "crawledAt": 1794199553473
+   "crawledAt": 1794472398270
   },
   {
    "title": "Forward Deployed Engineer (US)",
@@ -34109,7 +34053,7 @@
    "website": "cekura.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/cekura-ai/jobs",
-   "crawledAt": 1794199598228
+   "crawledAt": 1794472404893
   },
   {
    "title": "Software Engineer (Remote)",
@@ -34123,7 +34067,7 @@
    "website": "keye.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/keye/jobs",
-   "crawledAt": 1794199619560
+   "crawledAt": 1794472409829
   },
   {
    "title": "Founding Private Equity Strategist",
@@ -34137,7 +34081,7 @@
    "website": "keye.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/keye/jobs",
-   "crawledAt": 1794199619560
+   "crawledAt": 1794472409829
   },
   {
    "title": "Agent Marketing Consultant",
@@ -34151,7 +34095,7 @@
    "website": "unusual.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/unusual/jobs",
-   "crawledAt": 1794199651440
+   "crawledAt": 1794472415301
   },
   {
    "title": "Founding Engineer - Full Stack",
@@ -34165,7 +34109,7 @@
    "website": "unusual.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/unusual/jobs",
-   "crawledAt": 1794199651440
+   "crawledAt": 1794472415301
   },
   {
    "title": "Firmware Engineer",
@@ -34181,7 +34125,7 @@
    "website": "steinmetzmotors.com",
    "src": "yc",
    "page": "https://steinmetzmotors.com/careers",
-   "crawledAt": 1794199758166
+   "crawledAt": 1794472412606
   },
   {
    "title": "Generalist Hardware/Firmware",
@@ -34197,7 +34141,7 @@
    "website": "steinmetzmotors.com",
    "src": "yc",
    "page": "https://steinmetzmotors.com/careers",
-   "crawledAt": 1794199758166
+   "crawledAt": 1794472412606
   },
   {
    "title": "Electrical Engineer",
@@ -34213,7 +34157,7 @@
    "website": "steinmetzmotors.com",
    "src": "yc",
    "page": "https://steinmetzmotors.com/careers",
-   "crawledAt": 1794199758166
+   "crawledAt": 1794472412606
   },
   {
    "title": "Product Designer",
@@ -34227,7 +34171,7 @@
    "website": "subimage.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/subimage/jobs",
-   "crawledAt": 1794199799581
+   "crawledAt": 1794472419396
   },
   {
    "title": "Founding Engineer",
@@ -34241,7 +34185,7 @@
    "website": "subimage.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/subimage/jobs",
-   "crawledAt": 1794199799581
+   "crawledAt": 1794472419396
   },
   {
    "title": "Founding Engineer (All Levels)",
@@ -34257,7 +34201,7 @@
    "website": "promptless.ai",
    "src": "yc",
    "page": "https://promptless.ai/jobs",
-   "crawledAt": 1794199811788
+   "crawledAt": 1794472420823
   },
   {
    "title": "Founding Product Engineer",
@@ -34271,91 +34215,7 @@
    "website": "humanlayer.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/humanlayer/jobs",
-   "crawledAt": 1794199889332
-  },
-  {
-   "title": "Software Engineer Jobs in San Francisco",
-   "url": "https://www.workatastartup.com/jobs/san-francisco/software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "careCycle",
-   "website": "carecycle.ai",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/carecycle",
-   "crawledAt": 1794199944336
-  },
-  {
-   "title": "Product Manager Jobs in San Francisco",
-   "url": "https://www.workatastartup.com/jobs/san-francisco/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "careCycle",
-   "website": "carecycle.ai",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/carecycle",
-   "crawledAt": 1794199944336
-  },
-  {
-   "title": "Software Engineer Jobs in New York",
-   "url": "https://www.workatastartup.com/jobs/new-york/software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "careCycle",
-   "website": "carecycle.ai",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/carecycle",
-   "crawledAt": 1794199944336
-  },
-  {
-   "title": "Product Manager Jobs in New York",
-   "url": "https://www.workatastartup.com/jobs/new-york/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "careCycle",
-   "website": "carecycle.ai",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/carecycle",
-   "crawledAt": 1794199944336
-  },
-  {
-   "title": "Software Engineer Jobs in Los Angeles",
-   "url": "https://www.workatastartup.com/jobs/los-angeles/software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "careCycle",
-   "website": "carecycle.ai",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/carecycle",
-   "crawledAt": 1794199944336
-  },
-  {
-   "title": "Product Manager Jobs in Los Angeles",
-   "url": "https://www.workatastartup.com/jobs/los-angeles/product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "careCycle",
-   "website": "carecycle.ai",
-   "src": "yc",
-   "page": "https://www.workatastartup.com/companies/carecycle",
-   "crawledAt": 1794199944336
+   "crawledAt": 1794472425825
   },
   {
    "title": "Founding Principal Hardware Engineer",
@@ -34369,7 +34229,7 @@
    "website": "pax.markets",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pax-markets/jobs",
-   "crawledAt": 1794199983184
+   "crawledAt": 1794472431200
   },
   {
    "title": "Founding Software Engineer",
@@ -34383,7 +34243,7 @@
    "website": "pax.markets",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pax-markets/jobs",
-   "crawledAt": 1794199983184
+   "crawledAt": 1794472431200
   },
   {
    "title": "Founding Hardware Engineer",
@@ -34397,7 +34257,7 @@
    "website": "pax.markets",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pax-markets/jobs",
-   "crawledAt": 1794199983184
+   "crawledAt": 1794472431200
   },
   {
    "title": "Head of Go-to-Market",
@@ -34411,7 +34271,7 @@
    "website": "liquidcompute.com",
    "src": "yc",
    "page": "https://liquidcompute.com/careers",
-   "crawledAt": 1794200059422
+   "crawledAt": 1794472430477
   },
   {
    "title": "Head of Compute Supply",
@@ -34425,35 +34285,7 @@
    "website": "liquidcompute.com",
    "src": "yc",
    "page": "https://liquidcompute.com/careers",
-   "crawledAt": 1794200059422
-  },
-  {
-   "title": "Founding Applied ML Engineer",
-   "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Wildcard",
-   "website": "wild-card.ai",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/wildcard/jobs",
-   "crawledAt": 1794200121056
-  },
-  {
-   "title": "Founding Engineer",
-   "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Wildcard",
-   "website": "wild-card.ai",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/wildcard/jobs",
-   "crawledAt": 1794200121056
+   "crawledAt": 1794472430477
   },
   {
    "title": "Sales Development Representative",
@@ -34467,7 +34299,7 @@
    "website": "joinergo.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ergo/jobs",
-   "crawledAt": 1794200141924
+   "crawledAt": 1794472437179
   },
   {
    "title": "Founding Account Executive",
@@ -34481,7 +34313,7 @@
    "website": "joinergo.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ergo/jobs",
-   "crawledAt": 1794200141924
+   "crawledAt": 1794472437179
   },
   {
    "title": "Sales Development Representative",
@@ -34495,10 +34327,10 @@
    "website": "joinergo.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ergo/jobs",
-   "crawledAt": 1794200141924
+   "crawledAt": 1794472437179
   },
   {
-   "title": "Platform Engineer San Francisco, CA, USA · Full-time ↗",
+   "title": "Platform Engineer San Francisco, CA, USA · Full-time",
    "url": "https://www.thirdlayer.inc/careers/platform-engineer",
    "datePosted": null,
    "locations": [],
@@ -34509,10 +34341,10 @@
    "website": "thirdlayer.inc",
    "src": "yc",
    "page": "https://www.thirdlayer.inc/careers",
-   "crawledAt": 1794200213374
+   "crawledAt": 1794472441753
   },
   {
-   "title": "Forward Deployed Engineer San Francisco, CA, USA · Full-time ↗",
+   "title": "Forward Deployed Engineer San Francisco, CA, USA · Full-time",
    "url": "https://www.thirdlayer.inc/careers/forward-deployed-engineer",
    "datePosted": null,
    "locations": [],
@@ -34523,10 +34355,10 @@
    "website": "thirdlayer.inc",
    "src": "yc",
    "page": "https://www.thirdlayer.inc/careers",
-   "crawledAt": 1794200213374
+   "crawledAt": 1794472441753
   },
   {
-   "title": "Product Engineer San Francisco, CA, USA · Full-time ↗",
+   "title": "Product Engineer San Francisco, CA, USA · Full-time",
    "url": "https://www.thirdlayer.inc/careers/product-engineer",
    "datePosted": null,
    "locations": [],
@@ -34537,10 +34369,10 @@
    "website": "thirdlayer.inc",
    "src": "yc",
    "page": "https://www.thirdlayer.inc/careers",
-   "crawledAt": 1794200213374
+   "crawledAt": 1794472441753
   },
   {
-   "title": "Software Engineer (Intern) San Francisco, CA, USA · Internship ↗",
+   "title": "Software Engineer (Intern) San Francisco, CA, USA · Internship",
    "url": "https://www.thirdlayer.inc/careers/software-engineer-intern",
    "datePosted": null,
    "locations": [],
@@ -34551,10 +34383,10 @@
    "website": "thirdlayer.inc",
    "src": "yc",
    "page": "https://www.thirdlayer.inc/careers",
-   "crawledAt": 1794200213374
+   "crawledAt": 1794472441753
   },
   {
-   "title": "Research Scientist San Francisco, CA, USA · Full-time ↗",
+   "title": "Research Scientist San Francisco, CA, USA · Full-time",
    "url": "https://www.thirdlayer.inc/careers/research-scientist",
    "datePosted": null,
    "locations": [],
@@ -34565,10 +34397,10 @@
    "website": "thirdlayer.inc",
    "src": "yc",
    "page": "https://www.thirdlayer.inc/careers",
-   "crawledAt": 1794200213374
+   "crawledAt": 1794472441753
   },
   {
-   "title": "Research Engineer San Francisco, CA, USA · Full-time ↗",
+   "title": "Research Engineer San Francisco, CA, USA · Full-time",
    "url": "https://www.thirdlayer.inc/careers/research-engineer",
    "datePosted": null,
    "locations": [],
@@ -34579,7 +34411,7 @@
    "website": "thirdlayer.inc",
    "src": "yc",
    "page": "https://www.thirdlayer.inc/careers",
-   "crawledAt": 1794200213374
+   "crawledAt": 1794472441753
   },
   {
    "title": "Founding Technical GTM Lead",
@@ -34593,7 +34425,7 @@
    "website": "cua.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/cua/jobs",
-   "crawledAt": 1794200254422
+   "crawledAt": 1794472447581
   },
   {
    "title": "Research Intern (Summer 2026)",
@@ -34607,7 +34439,7 @@
    "website": "cua.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/cua/jobs",
-   "crawledAt": 1794200254422
+   "crawledAt": 1794472447581
   },
   {
    "title": "Founding Engineer, Infra & Agent Systems",
@@ -34621,7 +34453,7 @@
    "website": "cua.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/cua/jobs",
-   "crawledAt": 1794200254422
+   "crawledAt": 1794472447581
   },
   {
    "title": "Founding Software Engineer",
@@ -34635,7 +34467,7 @@
    "website": "almond.bot",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/almond-2/jobs",
-   "crawledAt": 1794200291787
+   "crawledAt": 1794472450148
   },
   {
    "title": "Founding Mechanical Engineer",
@@ -34649,7 +34481,7 @@
    "website": "almond.bot",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/almond-2/jobs",
-   "crawledAt": 1794200291787
+   "crawledAt": 1794472450148
   },
   {
    "title": "Founding Robotics Software Engineer",
@@ -34663,7 +34495,7 @@
    "website": "almond.bot",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/almond-2/jobs",
-   "crawledAt": 1794200291787
+   "crawledAt": 1794472450148
   },
   {
    "title": "Founding Account Executive",
@@ -34677,7 +34509,7 @@
    "website": "getbluejay.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/bluejay/jobs",
-   "crawledAt": 1794200380819
+   "crawledAt": 1794472454725
   },
   {
    "title": "GTM Engineer",
@@ -34691,7 +34523,7 @@
    "website": "getbluejay.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/bluejay/jobs",
-   "crawledAt": 1794200380819
+   "crawledAt": 1794472454725
   },
   {
    "title": "Chief of Staff",
@@ -34705,7 +34537,7 @@
    "website": "getbluejay.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/bluejay/jobs",
-   "crawledAt": 1794200380819
+   "crawledAt": 1794472454725
   },
   {
    "title": "Growth & Marketing Lead",
@@ -34719,7 +34551,7 @@
    "website": "getbluejay.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/bluejay/jobs",
-   "crawledAt": 1794200380819
+   "crawledAt": 1794472454725
   },
   {
    "title": "Software Engineer Intern",
@@ -34733,7 +34565,7 @@
    "website": "getbluejay.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/bluejay/jobs",
-   "crawledAt": 1794200380819
+   "crawledAt": 1794472454725
   },
   {
    "title": "Founding Backend Software Engineer",
@@ -34747,7 +34579,7 @@
    "website": "rebolt.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rebolt/jobs",
-   "crawledAt": 1794200390786
+   "crawledAt": 1794472460177
   },
   {
    "title": "Founding AI Engineer",
@@ -34761,7 +34593,7 @@
    "website": "rebolt.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rebolt/jobs",
-   "crawledAt": 1794200390786
+   "crawledAt": 1794472460177
   },
   {
    "title": "Founding Forward Deployed Engineer",
@@ -34775,7 +34607,7 @@
    "website": "rebolt.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rebolt/jobs",
-   "crawledAt": 1794200390786
+   "crawledAt": 1794472460177
   },
   {
    "title": "Founding Frontend/Design Engineer",
@@ -34789,7 +34621,7 @@
    "website": "rebolt.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rebolt/jobs",
-   "crawledAt": 1794200390786
+   "crawledAt": 1794472460177
   },
   {
    "title": "Founding Growth Engineer",
@@ -34803,7 +34635,21 @@
    "website": "rebolt.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/rebolt/jobs",
-   "crawledAt": 1794200390786
+   "crawledAt": 1794472460177
+  },
+  {
+   "title": "Growth Marketing Intern, Sixtyfour",
+   "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/avqjIDN-growth-marketing-intern-sixtyfour",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "Sixtyfour",
+   "website": "sixtyfour.ai",
+   "src": "yc",
+   "page": "https://www.ycombinator.com/companies/sixtyfour/jobs",
+   "crawledAt": 1794472496945
   },
   {
    "title": "Founding Social Growth Lead",
@@ -34817,7 +34663,7 @@
    "website": "sixtyfour.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/sixtyfour/jobs",
-   "crawledAt": 1794200411212
+   "crawledAt": 1794472496945
   },
   {
    "title": "Sixtyfour Account Executive",
@@ -34831,7 +34677,7 @@
    "website": "sixtyfour.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/sixtyfour/jobs",
-   "crawledAt": 1794200411212
+   "crawledAt": 1794472496945
   },
   {
    "title": "Product Marketing Lead",
@@ -34845,21 +34691,7 @@
    "website": "sixtyfour.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/sixtyfour/jobs",
-   "crawledAt": 1794200411212
-  },
-  {
-   "title": "Growth Intern - Fall 2026",
-   "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/lPEgSOT-growth-intern-fall-2026",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "INTERN",
-   "startDate": "Fall 2026",
-   "via": "link",
-   "company": "Sixtyfour",
-   "website": "sixtyfour.ai",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/sixtyfour/jobs",
-   "crawledAt": 1794200411212
+   "crawledAt": 1794472496945
   },
   {
    "title": "Legal Partnerships Manager",
@@ -34873,7 +34705,7 @@
    "website": "usethirdchair.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/third-chair/jobs",
-   "crawledAt": 1794200442933
+   "crawledAt": 1794472501108
   },
   {
    "title": "Senior Software Engineer (Data Platform)",
@@ -34887,7 +34719,7 @@
    "website": "usethirdchair.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/third-chair/jobs",
-   "crawledAt": 1794200442933
+   "crawledAt": 1794472501108
   },
   {
    "title": "Founding DevOps Engineer",
@@ -34901,7 +34733,7 @@
    "website": "novoflow.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/novoflow/jobs",
-   "crawledAt": 1794200451188
+   "crawledAt": 1794472504432
   },
   {
    "title": "Founding Prompt/Context Engineer",
@@ -34915,7 +34747,7 @@
    "website": "novoflow.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/novoflow/jobs",
-   "crawledAt": 1794200451188
+   "crawledAt": 1794472504432
   },
   {
    "title": "Account Executive",
@@ -34929,7 +34761,7 @@
    "website": "novoflow.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/novoflow/jobs",
-   "crawledAt": 1794200451188
+   "crawledAt": 1794472504432
   },
   {
    "title": "Founding Software Engineer",
@@ -34943,7 +34775,7 @@
    "website": "novoflow.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/novoflow/jobs",
-   "crawledAt": 1794200451188
+   "crawledAt": 1794472504432
   },
   {
    "title": "Founding Deployment Strategist",
@@ -34957,7 +34789,7 @@
    "website": "kaizenautomation.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/kaizen/jobs",
-   "crawledAt": 1794200471133
+   "crawledAt": 1794472508594
   },
   {
    "title": "Full-Stack Software Engineer",
@@ -34974,7 +34806,7 @@
    "website": "pelica.com",
    "src": "yc",
    "page": "https://www.pelica.com/careers",
-   "crawledAt": 1794200474481
+   "crawledAt": 1794472508413
   },
   {
    "title": "Machine Learning Engineer",
@@ -34991,7 +34823,7 @@
    "website": "pelica.com",
    "src": "yc",
    "page": "https://www.pelica.com/careers",
-   "crawledAt": 1794200474481
+   "crawledAt": 1794472508413
   },
   {
    "title": "Founders Associate Intern Paris · Internship · 6 months · Flexible start →",
@@ -35005,7 +34837,7 @@
    "website": "probo.com",
    "src": "yc",
    "page": "https://www.probo.com/careers",
-   "crawledAt": 1794200479092
+   "crawledAt": 1794472513415
   },
   {
    "title": "CNC program lead",
@@ -35019,7 +34851,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Mechanical engineering lead",
@@ -35033,7 +34865,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Program manager, engineering data",
@@ -35047,7 +34879,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Data delivery lead",
@@ -35061,7 +34893,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Mechanical engineer, engineering data",
@@ -35075,7 +34907,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Project manager, field operations",
@@ -35089,7 +34921,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "VLM researcher",
@@ -35103,7 +34935,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Researcher, engineering capability",
@@ -35117,7 +34949,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "Agentic data infrastructure engineer",
@@ -35131,7 +34963,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794200595062
+   "crawledAt": 1794472511411
   },
   {
    "title": "GTM Intern",
@@ -35148,7 +34980,7 @@
    "website": "getasap.us",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/getasap/jobs/tCJkfEB-gtm-intern",
-   "crawledAt": 1794200619676
+   "crawledAt": 1794472518045
   },
   {
    "title": "Developer Marketing Intern",
@@ -35162,7 +34994,7 @@
    "website": "traceroot.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
-   "crawledAt": 1794200637420
+   "crawledAt": 1794472519346
   },
   {
    "title": "Software Engineering Intern",
@@ -35176,7 +35008,7 @@
    "website": "traceroot.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
-   "crawledAt": 1794200637420
+   "crawledAt": 1794472519346
   },
   {
    "title": "Founding Engineer",
@@ -35190,7 +35022,7 @@
    "website": "traceroot.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
-   "crawledAt": 1794200637420
+   "crawledAt": 1794472519346
   },
   {
    "title": "Founding Engineer",
@@ -35204,7 +35036,7 @@
    "website": "humwork.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/humwork/jobs",
-   "crawledAt": 1794200752819
+   "crawledAt": 1794472524261
   },
   {
    "title": "Generalist Engineer, AI Advertising Infra",
@@ -35218,7 +35050,7 @@
    "website": "imprezia.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/imprezia/jobs",
-   "crawledAt": 1794200784757
+   "crawledAt": 1794472530041
   },
   {
    "title": "Software Engineer - Full Stack",
@@ -35232,35 +35064,35 @@
    "website": "pangolin.net",
    "src": "yc",
    "page": "https://docs.pangolin.net/careers/join-us",
-   "crawledAt": 1794200794072
-  },
-  {
-   "title": "Quantitative Engineer",
-   "url": "https://www.ycombinator.com/companies/conviction/jobs/0HkAQMH-quantitative-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Conviction",
-   "website": "convictiontrade.ai",
-   "src": "yc",
-   "page": "https://www.convictiontrade.ai/jobs",
-   "crawledAt": 1794200869064
+   "crawledAt": 1794472535717
   },
   {
    "title": "Founding Engineer",
-   "url": "https://www.ycombinator.com/companies/conviction/jobs/dKyC4hT-founding-engineer",
+   "url": "https://www.convictiontrade.ai/careers#founding-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
+   "via": "text",
    "company": "Conviction",
    "website": "convictiontrade.ai",
    "src": "yc",
    "page": "https://www.convictiontrade.ai/jobs",
-   "crawledAt": 1794200869064
+   "crawledAt": 1794472534156
+  },
+  {
+   "title": "Quantitative Engineer",
+   "url": "https://www.convictiontrade.ai/careers#quantitative-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Conviction",
+   "website": "convictiontrade.ai",
+   "src": "yc",
+   "page": "https://www.convictiontrade.ai/jobs",
+   "crawledAt": 1794472534156
   },
   {
    "title": "Software Engineer - Backend / Platform",
@@ -35274,7 +35106,7 @@
    "website": "ghosteye.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ghosteye/jobs",
-   "crawledAt": 1794200902662
+   "crawledAt": 1794472539840
   },
   {
    "title": "Software Engineer - Full Stack",
@@ -35288,7 +35120,7 @@
    "website": "ghosteye.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ghosteye/jobs",
-   "crawledAt": 1794200902662
+   "crawledAt": 1794472539840
   },
   {
    "title": "Backend Engineer",
@@ -35302,7 +35134,7 @@
    "website": "trychannel3.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/channel3/jobs",
-   "crawledAt": 1794200906125
+   "crawledAt": 1794472545024
   },
   {
    "title": "Founding Sales Development Representative",
@@ -35318,7 +35150,7 @@
    "website": "procindex.com",
    "src": "yc",
    "page": "https://procindex.com/careers",
-   "crawledAt": 1794200909203
+   "crawledAt": 1794472544154
   },
   {
    "title": "Software Engineer",
@@ -35334,7 +35166,7 @@
    "website": "procindex.com",
    "src": "yc",
    "page": "https://procindex.com/careers",
-   "crawledAt": 1794200909203
+   "crawledAt": 1794472544154
   },
   {
    "title": "Founding Software Engineer",
@@ -35350,7 +35182,7 @@
    "website": "ironledger.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ironledger-ai/jobs/e381x9h-founding-software-engineer",
-   "crawledAt": 1794200924129
+   "crawledAt": 1794472552057
   },
   {
    "title": "Founding Forward Deployed Engineer",
@@ -35364,7 +35196,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794200949654
+   "crawledAt": 1794472553377
   },
   {
    "title": "Founding Software Engineer (Product / MCP)",
@@ -35378,11 +35210,11 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794200949654
+   "crawledAt": 1794472553377
   },
   {
-   "title": "Sales Development Representative (SDR)",
-   "url": "https://www.ycombinator.com/companies/manufact/jobs/fWWRPrO-sales-development-representative-sdr",
+   "title": "Go to market (GTM) / Sales Development Representative (SDR)",
+   "url": "https://www.ycombinator.com/companies/manufact/jobs/fWWRPrO-go-to-market-gtm-sales-development-representative-sdr",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -35392,7 +35224,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794200949654
+   "crawledAt": 1794472553377
   },
   {
    "title": "Senior Infrastructure Engineer",
@@ -35406,7 +35238,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794200949654
+   "crawledAt": 1794472553377
   },
   {
    "title": "Developer Advocate & Partnerships (DevRel)",
@@ -35420,7 +35252,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794200949654
+   "crawledAt": 1794472553377
   },
   {
    "title": "Sales enablement",
@@ -35434,7 +35266,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794201052926
+   "crawledAt": 1794472556631
   },
   {
    "title": "Sales leaders",
@@ -35448,7 +35280,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794201052926
+   "crawledAt": 1794472556631
   },
   {
    "title": "Sales managers",
@@ -35462,7 +35294,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794201052926
+   "crawledAt": 1794472556631
   },
   {
    "title": "Sales reps",
@@ -35476,7 +35308,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794201052926
+   "crawledAt": 1794472556631
   },
   {
    "title": "Network Systems Engineer",
@@ -35492,7 +35324,7 @@
    "website": "efference.ai",
    "src": "yc",
    "page": "https://efference.ai/careers/wireless-networking-engineer/",
-   "crawledAt": 1794201133453
+   "crawledAt": 1794472556477
   },
   {
    "title": "Software Engineering Intern",
@@ -35506,7 +35338,7 @@
    "website": "nessielabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nessie/jobs",
-   "crawledAt": 1794201476435
+   "crawledAt": 1794472563920
   },
   {
    "title": "Founding Forward Deployed Engineer",
@@ -35520,7 +35352,7 @@
    "website": "nessielabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nessie/jobs",
-   "crawledAt": 1794201476435
+   "crawledAt": 1794472563920
   },
   {
    "title": "Founding Engineer",
@@ -35534,35 +35366,49 @@
    "website": "nessielabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nessie/jobs",
-   "crawledAt": 1794201476435
+   "crawledAt": 1794472563920
   },
   {
-   "title": "Software Engineer, Internal Tooling and Infrastructure Full-time Singapore →",
-   "url": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
+   "title": "Robot Operator Manager",
+   "url": "https://cortexrobot.ai/careers#robot-operator-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
+   "via": "text",
    "company": "Cortex AI",
    "website": "cortexrobot.ai",
    "src": "yc",
    "page": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
-   "crawledAt": 1794201538946
+   "crawledAt": 1794472559142
   },
   {
-   "title": "Robot Operator Manager Full-time Singapore | Johor Bahru, Malaysia →",
-   "url": "https://cortexrobot.ai/careers/robot-operator-manager/",
+   "title": "Robotics Hardware Engineer",
+   "url": "https://cortexrobot.ai/careers#robotics-hardware-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
+   "via": "text",
    "company": "Cortex AI",
    "website": "cortexrobot.ai",
    "src": "yc",
    "page": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
-   "crawledAt": 1794201538946
+   "crawledAt": 1794472559142
+  },
+  {
+   "title": "Robot Operator cum Procurement Officer",
+   "url": "https://cortexrobot.ai/careers#robot-operator-cum-procurement-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Cortex AI",
+   "website": "cortexrobot.ai",
+   "src": "yc",
+   "page": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
+   "crawledAt": 1794472559142
   },
   {
    "title": "Head of Growth",
