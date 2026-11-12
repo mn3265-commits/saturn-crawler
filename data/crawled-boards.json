@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-12T09:59:34.070Z",
+ "generated": "2026-11-12T10:03:23.097Z",
  "companies": 22901,
  "status": {
-  "found": 3184,
-  "down": 3918,
-  "no-ats": 12278,
-  "site": 3521
+  "found": 3191,
+  "down": 3858,
+  "no-ats": 12323,
+  "site": 3529
  },
  "byType": {
   "dover": 7,
-  "ashby": 717,
+  "ashby": 718,
   "workday": 554,
-  "lever": 263,
-  "gh": 901,
+  "lever": 264,
+  "gh": 904,
   "gem": 74,
-  "workable": 180,
+  "workable": 181,
   "rippling": 137,
-  "bamboohr": 162,
+  "bamboohr": 163,
   "smartrecruiters": 54,
   "recruitee": 27,
   "eightfold": 38,
@@ -12952,6 +12952,14 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "riverdale",
+   "url": "jobs.lever.co/riverdale",
+   "label": "Riverdale Country School",
+   "website": "riverdale.edu",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "ridgeline",
    "label": "Ridgeline",
@@ -13112,12 +13120,28 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "seed",
+   "url": "job-boards.greenhouse.io/seed",
+   "label": "Seed",
+   "website": "seed.com",
+   "src": "nyc"
+  },
+  {
    "type": "icims",
    "token": "riversideresearch",
    "url": "careers-riversideresearch.icims.com",
    "label": "Riverside Research",
    "website": "riversideresearch.org",
    "page": "https://www.riversideresearch.org/careers/early-career",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "riviamind",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=riviamind",
+   "label": "Rivia Mind",
+   "website": "riviamind.com",
    "src": "nyc"
   },
   {
@@ -13226,6 +13250,22 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Situation Group",
+   "website": "situationinc.com",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "skift",
+   "url": "skift.bamboohr.com/careers",
+   "label": "Skift",
+   "website": "skift.com",
+   "src": "nyc"
+  },
+  {
    "type": "icims",
    "token": "silvi",
    "url": "careers-silvi.icims.com",
@@ -13248,6 +13288,22 @@
    "label": "Sisense",
    "website": "sisense.com",
    "page": "https://www.sisense.com/about/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "journey",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=journey",
+   "label": "Skilled Creative",
+   "website": "skilledcreative.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "SlingshotAI",
+   "url": "jobs.ashbyhq.com/SlingshotAI",
+   "label": "Slingshot AI",
+   "website": "slingshot.xyz",
    "src": "nyc"
   },
   {
@@ -79081,6 +79137,97 @@
    "crawledAt": 1794471642590
   },
   {
+   "title": "Accounting Manager",
+   "url": "https://razorrank.com/careers/#accounting-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Razor Rank",
+   "website": "razorrank.com",
+   "src": "nyc",
+   "crawledAt": 1794477641002
+  },
+  {
+   "title": "Paid Media Manager",
+   "url": "https://razorrank.com/careers/#paid-media-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Razor Rank",
+   "website": "razorrank.com",
+   "src": "nyc",
+   "crawledAt": 1794477641002
+  },
+  {
+   "title": "Paid Search Coordinator",
+   "url": "https://razorrank.com/careers/#paid-search-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Razor Rank",
+   "website": "razorrank.com",
+   "src": "nyc",
+   "crawledAt": 1794477641002
+  },
+  {
+   "title": "Paid Search Specialist",
+   "url": "https://razorrank.com/careers/#paid-search-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Razor Rank",
+   "website": "razorrank.com",
+   "src": "nyc",
+   "crawledAt": 1794477641002
+  },
+  {
+   "title": "Ryan Jeffrey, Digital Marketing Manager, Maui Jim",
+   "url": "https://razorrank.com/careers/#ryan-jeffrey-digital-marketing-manager-maui-jim",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Razor Rank",
+   "website": "razorrank.com",
+   "src": "nyc",
+   "crawledAt": 1794477641002
+  },
+  {
+   "title": "Data Engineer",
+   "url": "https://rdalabs.com/careers/job-data-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "RDAlabs",
+   "website": "rdalabs.com",
+   "src": "nyc",
+   "crawledAt": 1794477655085
+  },
+  {
+   "title": "Data Engineer",
+   "url": "https://rdalabs.com/careers/data-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "RDAlabs",
+   "website": "rdalabs.com",
+   "src": "nyc",
+   "crawledAt": 1794477655085
+  },
+  {
    "title": "Senior Django/React Developer",
    "url": "https://www.ramseytheory.com/careers#senior-django-react-developer",
    "datePosted": null,
@@ -80397,6 +80544,19 @@
    "crawledAt": 1794467571901
   },
   {
+   "title": "Marketing",
+   "url": "https://careers.ruegiltgroupe.com/teams/marketing/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Rue Gilt Groupe",
+   "website": "ruegiltgroupe.com",
+   "src": "nyc",
+   "crawledAt": 1794477680696
+  },
+  {
    "title": "Community Lead",
    "url": "https://www.rowy.io/jobs#community-lead",
    "datePosted": null,
@@ -80521,6 +80681,32 @@
    "src": "nyc",
    "page": "https://careers.roadwaymoving.com/",
    "crawledAt": 1794467573950
+  },
+  {
+   "title": "Graphic Designer",
+   "url": "https://sbgfunding.com/careers/#graphic-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SBG Funding",
+   "website": "sbgfunding.com",
+   "src": "nyc",
+   "crawledAt": 1794477692481
+  },
+  {
+   "title": "Account Executive",
+   "url": "https://sbgfunding.com/careers/#account-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SBG Funding",
+   "website": "sbgfunding.com",
+   "src": "nyc",
+   "crawledAt": 1794477692481
   },
   {
    "title": "Healthcare Compliance and Regulatory Specialist",
@@ -80661,6 +80847,97 @@
    "src": "nyc",
    "page": "https://www.rttsweb.com/about-rtts/careers/professional-growth",
    "crawledAt": 1794467577950
+  },
+  {
+   "title": "Assistant Property Manager - White Plains, NY",
+   "url": "https://rosenyc.com/careers/#assistant-property-manager-white-plains-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
+  },
+  {
+   "title": "Compliance Specialist - New York, NY",
+   "url": "https://rosenyc.com/careers/#compliance-specialist-new-york-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
+  },
+  {
+   "title": "Lease Administrator - New York, NY",
+   "url": "https://rosenyc.com/careers/#lease-administrator-new-york-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
+  },
+  {
+   "title": "Leasing Representative - Kingston, NY",
+   "url": "https://rosenyc.com/careers/#leasing-representative-kingston-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
+  },
+  {
+   "title": "Leasing Representative - New York, NY",
+   "url": "https://rosenyc.com/careers/#leasing-representative-new-york-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
+  },
+  {
+   "title": "Maintenance Manager - Julius, Stamford, CT",
+   "url": "https://rosenyc.com/careers/#maintenance-manager-julius-stamford-ct",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
+  },
+  {
+   "title": "Resident Manager - Casa One, Jersey City, NJ",
+   "url": "https://rosenyc.com/careers/#resident-manager-casa-one-jersey-city-nj",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794477715184
   },
   {
    "title": "Visual Designer",
@@ -81399,6 +81676,45 @@
    "crawledAt": 1794471747213
   },
   {
+   "title": "Corporate Finance Manager",
+   "url": "https://simply-360.co.uk/jobs-search/#corporate-finance-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Simply360Search",
+   "website": "simply-360.co.uk",
+   "src": "nyc",
+   "crawledAt": 1794477737782
+  },
+  {
+   "title": "Finance Manager",
+   "url": "https://simply-360.co.uk/jobs-search/#finance-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Simply360Search",
+   "website": "simply-360.co.uk",
+   "src": "nyc",
+   "crawledAt": 1794477737782
+  },
+  {
+   "title": "Client Success Specialist New York, USA Full Time",
+   "url": "https://www.siteascend.com/jobs/client-success-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Site Ascend",
+   "website": "siteascend.com",
+   "src": "nyc",
+   "crawledAt": 1794477739368
+  },
+  {
    "title": "DATABASE DEVELOPER",
    "url": "https://www.simplesolve.com/careers#database-developer",
    "datePosted": null,
@@ -81411,6 +81727,19 @@
    "src": "nyc",
    "page": "https://www.simplesolve.com/careers",
    "crawledAt": 1794471749912
+  },
+  {
+   "title": "Client Enablement Manager",
+   "url": "https://skai.io/company/careers/#client-enablement-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Skai",
+   "website": "skai.io",
+   "src": "nyc",
+   "crawledAt": 1794477753061
   },
   {
    "title": "Retail operations leaders",
