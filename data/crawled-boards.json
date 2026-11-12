@@ -24870,6 +24870,2772 @@
    "src": "h1b"
   },
   {
+   "type": "eightfold",
+   "token": "morganstanley",
+   "url": "morganstanley.eightfold.ai",
+   "label": "MORGAN STANLEY CO LLC",
+   "website": "morganstanley.com",
+   "page": "https://www.morganstanley.com/careers/career-opportunities-search",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "eppr.fa.us2.oraclecloud.com",
+   "url": "eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+   "label": "NORTHWELL HEALTH",
+   "website": "northwell.edu",
+   "page": "https://jobs.northwell.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "msk.wd108.myworkdayjobs.com",
+   "url": "msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary",
+   "site": "MSKCC_Careers_Primary",
+   "label": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+   "website": "mskcc.org",
+   "page": "https://careers.mskcc.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "bronxcare",
+   "url": "careers-bronxcare.icims.com",
+   "label": "BRONXCARE HEALTH SYSTEM",
+   "website": "bronxcare.org",
+   "page": "https://www.bronxcare.org/jobs/hospital-positions",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "teladoc.wd503.myworkdayjobs.com",
+   "url": "teladoc.wd503.myworkdayjobs.com/en-US/teladochealth_is_hiring",
+   "site": "teladochealth_is_hiring",
+   "label": "TELADOC HEALTH INC",
+   "website": "teladochealth.com",
+   "page": "https://www.teladochealth.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "teladoc.wd1.myworkdayjobs.com",
+   "url": "teladoc.wd1.myworkdayjobs.com/en-US/teladochealth_is_hiring",
+   "site": "teladochealth_is_hiring",
+   "label": "TELADOC HEALTH INC",
+   "website": "teladochealth.com",
+   "page": "https://www.teladochealth.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "pfizer.wd1.myworkdayjobs.com",
+   "url": "pfizer.wd1.myworkdayjobs.com/PfizerCareers",
+   "site": "PfizerCareers",
+   "label": "PFIZER INC",
+   "website": "pfizer.com",
+   "page": "https://www.pfizer.com/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bristolmyerssquibb.wd5.myworkdayjobs.com",
+   "url": "bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS",
+   "site": "BMS",
+   "label": "BRISTOL MYERS SQUIBB COMPANY",
+   "website": "bms.com",
+   "page": "https://careers.bms.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "zoetis.wd5.myworkdayjobs.com",
+   "url": "zoetis.wd5.myworkdayjobs.com/zoetis",
+   "site": "zoetis",
+   "label": "ZOETIS INC",
+   "website": "zoetis.com",
+   "page": "https://www.zoetis.com/join-us",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "rit.wd12.myworkdayjobs.com",
+   "url": "rit.wd12.myworkdayjobs.com/careers",
+   "site": "careers",
+   "label": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+   "website": "rit.edu",
+   "page": "https://www.rit.edu/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "egug.fa.us2.oraclecloud.com",
+   "url": "egug.fa.us2.oraclecloud.com",
+   "label": "AMERICAN EXPRESS COMPANY",
+   "website": "americanexpress.com",
+   "page": "https://careers.americanexpress.com/en/sites/CX_1?vanity=americanexpress.com/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "stryker.wd1.myworkdayjobs.com",
+   "url": "stryker.wd1.myworkdayjobs.com/StrykerCareers",
+   "site": "StrykerCareers",
+   "label": "STRYKER CORPORATION",
+   "website": "stryker.com",
+   "page": "https://careers.stryker.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "njit.wd108.myworkdayjobs.com",
+   "url": "njit.wd108.myworkdayjobs.com/NJIT_Careers",
+   "site": "NJIT_Careers",
+   "label": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+   "website": "njit.edu",
+   "page": "https://njit.wd108.myworkdayjobs.com/NJIT_Careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "njit.wd108.myworkdayjobs.com",
+   "url": "njit.wd108.myworkdayjobs.com/NJIT_Careers",
+   "site": "NJIT_Careers",
+   "label": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+   "website": "njit.edu",
+   "page": "https://njit.wd108.myworkdayjobs.com/NJIT_Careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "pjtpartners.wd1.myworkdayjobs.com",
+   "url": "pjtpartners.wd1.myworkdayjobs.com/Careers",
+   "site": "Careers",
+   "label": "PJT PARTNERS HOLDINGS LP",
+   "website": "pjtpartners.com",
+   "page": "https://www.pjtpartners.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "aqr",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=aqr",
+   "label": "AQR CAPITAL MANAGEMENT LLC",
+   "website": "aqr.com",
+   "page": "https://careers.aqr.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "osv-edf.wd5.myworkdayjobs.com",
+   "url": "osv-edf.wd5.myworkdayjobs.com/EDF_External_Careers",
+   "site": "EDF_External_Careers",
+   "label": "ENVIRONMENTAL DEFENSE FUND INC",
+   "website": "edf.org",
+   "page": "https://www.edf.org/environmental-careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "hss.wd1.myworkdayjobs.com",
+   "url": "hss.wd1.myworkdayjobs.com/HSS_Careers",
+   "site": "HSS_Careers",
+   "label": "HOSPITAL FOR SPECIAL SURGERY",
+   "website": "hss.edu",
+   "page": "https://www.hss.edu/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "pepsico",
+   "url": "careers-pepsico.icims.com",
+   "label": "PEPSICO INC",
+   "website": "pepsico.com",
+   "page": "https://www.pepsicojobs.com/main/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "moelis.wd1.myworkdayjobs.com",
+   "url": "moelis.wd1.myworkdayjobs.com/Experienced-Hires",
+   "site": "Experienced-Hires",
+   "label": "MOELIS COMPANY GROUP LP",
+   "website": "moelis.com",
+   "page": "https://www.moelis.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "solvenergy.wd1.myworkdayjobs.com",
+   "url": "solvenergy.wd1.myworkdayjobs.com/SOLV_External_Career",
+   "site": "SOLV_External_Career",
+   "label": "CS ENERGY LLC",
+   "website": "csenergy.com",
+   "page": "https://www.solvenergy.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "montclair.wd1.myworkdayjobs.com",
+   "url": "montclair.wd1.myworkdayjobs.com/JobOpportunities",
+   "site": "JobOpportunities",
+   "label": "MONTCLAIR STATE UNIVERSITY",
+   "website": "montclair.edu",
+   "page": "https://www.montclair.edu/about/work-montclair",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "wesleyan.wd5.myworkdayjobs.com",
+   "url": "wesleyan.wd5.myworkdayjobs.com/careers",
+   "site": "careers",
+   "label": "WESLEYAN UNIVERSITY",
+   "website": "wesleyan.edu",
+   "page": "https://www.wesleyan.edu/about/directory/human-resources/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hdox.fa.us6.oraclecloud.com",
+   "url": "hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "QUEST DIAGNOSTICS INCORPORATED",
+   "website": "questdiagnostics.com",
+   "page": "https://careers.questdiagnostics.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "hamiltoncollege.wd115.myworkdayjobs.com",
+   "url": "hamiltoncollege.wd115.myworkdayjobs.com/HamiltonCollegeJobOpportunities",
+   "site": "HamiltonCollegeJobOpportunities",
+   "label": "HAMILTON COLLEGE",
+   "website": "hamilton.edu",
+   "page": "https://www.hamilton.edu/offices/human-resources/employment/job-opportunities-list?action=display&category=Staff&Go=Go",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "tapestry.wd108.myworkdayjobs.com",
+   "url": "tapestry.wd108.myworkdayjobs.com/Tapestry_Careers",
+   "site": "Tapestry_Careers",
+   "label": "TAPESTRY INC",
+   "website": "tapestry.com",
+   "page": "https://www.tapestry.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ffd.wd1.myworkdayjobs.com",
+   "url": "ffd.wd1.myworkdayjobs.com/EmploymentOpportunities",
+   "site": "EmploymentOpportunities",
+   "label": "FAIRFIELD UNIVERSITY",
+   "website": "fairfield.edu",
+   "page": "https://www.fairfield.edu/about/offices-and-departments/human-resources/work-at-fairfield/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "unioncollege.wd5.myworkdayjobs.com",
+   "url": "unioncollege.wd5.myworkdayjobs.com/UnionCollegeCareers",
+   "site": "UnionCollegeCareers",
+   "label": "UNION COLLEGE",
+   "website": "union.edu",
+   "page": "https://www.union.edu/human-resources/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "brooksauto.wd1.myworkdayjobs.com",
+   "url": "brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site",
+   "site": "Brooks_External_Site",
+   "label": "BROOKS AUTOMATION INC",
+   "website": "brooks.com",
+   "page": "https://www.brooks.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "albanymed.wd5.myworkdayjobs.com",
+   "url": "albanymed.wd5.myworkdayjobs.com/Albany_Med_System_Career_Site",
+   "site": "Albany_Med_System_Career_Site",
+   "label": "GLENS FALLS HOSPITAL",
+   "website": "glensfallshospital.org",
+   "page": "https://www.albanymed.org/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "xosinc",
+   "url": "boards.greenhouse.io/xosinc",
+   "label": "XOS",
+   "website": "xostrucks.com",
+   "page": "https://www.xostrucks.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hcfa.fa.us2.oraclecloud.com",
+   "url": "hcfa.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "label": "AMNEAL PHARMACEUTICALS LLC",
+   "website": "amneal.com",
+   "page": "https://amneal.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "sothebys",
+   "url": "boards-api.greenhouse.io/v1/boards/sothebys",
+   "label": "SOTHEBYS INC",
+   "website": "sothebys.com",
+   "page": "https://www.sothebys.com/en/about/careers?locale=en",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "sothebysfrance",
+   "url": "boards-api.greenhouse.io/v1/boards/sothebysfrance",
+   "label": "SOTHEBYS INC",
+   "website": "sothebys.com",
+   "page": "https://www.sothebys.com/en/about/careers?locale=en",
+   "src": "h1b"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "Sodexo",
+   "url": "careers.smartrecruiters.com/Sodexo",
+   "label": "SODEXO INC",
+   "website": "sodexo.com",
+   "page": "https://www.sodexo.com/working-at-sodexo/find-a-job",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "albanymed.wd5.myworkdayjobs.com",
+   "url": "albanymed.wd5.myworkdayjobs.com/Albany_Med_System_Career_Site",
+   "site": "Albany_Med_System_Career_Site",
+   "label": "ALBANY MEDICAL COLLEGE",
+   "website": "amc.edu",
+   "page": "https://www.albanymed.org/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nasdaq.wd1.myworkdayjobs.com",
+   "url": "nasdaq.wd1.myworkdayjobs.com/Global_External_Site",
+   "site": "Global_External_Site",
+   "label": "NASDAQ INC",
+   "website": "nasdaq.com",
+   "page": "https://www.nasdaq.com/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "flexport",
+   "url": "job-boards.greenhouse.io/flexport",
+   "label": "DELIVERR INC",
+   "website": "deliverr.com",
+   "page": "https://www.flexport.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "2Fmontefiore.wd12.myworkdayjobs.com",
+   "url": "2Fmontefiore.wd12.myworkdayjobs.com",
+   "label": "WHITE PLAINS HOSPITAL",
+   "website": "wphospital.org",
+   "page": "https://www.wphospital.org/about-us/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "montefiore.wd12.myworkdayjobs.com",
+   "url": "montefiore.wd12.myworkdayjobs.com/WP",
+   "site": "WP",
+   "label": "WHITE PLAINS HOSPITAL",
+   "website": "wphospital.org",
+   "page": "https://www.wphospital.org/about-us/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "darktrace.wd3.myworkdayjobs.com",
+   "url": "darktrace.wd3.myworkdayjobs.com/DarktaceExternal",
+   "site": "DarktaceExternal",
+   "label": "DARKTRACE INC",
+   "website": "darktrace.com",
+   "page": "https://www.darktrace.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "successfactors",
+   "token": "CGNA",
+   "url": "career8.successfactors.com/career?company=CGNA",
+   "label": "SACRED HEART UNIVERSITY",
+   "website": "sacredheart.edu",
+   "page": "https://careers.compass-usa.com/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "hoodhp",
+   "url": "job-boards.greenhouse.io/hoodhp",
+   "label": "HP HOOD LLC",
+   "website": "hood.com",
+   "page": "https://hood.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "gorbel.wd501.myworkdayjobs.com",
+   "url": "gorbel.wd501.myworkdayjobs.com/gorbelcareers",
+   "site": "gorbelcareers",
+   "label": "GORBEL INC",
+   "website": "gorbel.com",
+   "page": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "gorbel.wd501.myworkdayjobs.com",
+   "url": "gorbel.wd501.myworkdayjobs.com/gorbelcareers",
+   "site": "gorbelcareers",
+   "label": "GORBEL INC",
+   "website": "gorbel.com",
+   "page": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "mizuho.wd1.myworkdayjobs.com",
+   "url": "mizuho.wd1.myworkdayjobs.com/mizuhoamericas",
+   "site": "mizuhoamericas",
+   "label": "GREENHILL CO LLC",
+   "website": "greenhill.com",
+   "page": "https://www.mizuhogroup.com/americas/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ptcbio.wd5.myworkdayjobs.com",
+   "url": "ptcbio.wd5.myworkdayjobs.com/en-US/PTC_Careers",
+   "site": "PTC_Careers",
+   "label": "PTC THERAPEUTICS INC",
+   "website": "ptcbio.com",
+   "page": "https://www.ptcbio.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "aurobindousa",
+   "url": "careers-aurobindousa.icims.com",
+   "label": "AUROBINDO PHARMA USA INC",
+   "website": "aurobindousa.com",
+   "page": "https://careers.aurobindousa.com/aurobindousa",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "jpmc.fa.oraclecloud.com",
+   "url": "jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+   "label": "JPMORGAN CHASE CO",
+   "website": "jpmorganchase.com",
+   "page": "https://www.jpmorganchase.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "periship",
+   "url": "periship.bamboohr.com/careers",
+   "label": "PERISHIP LLC",
+   "website": "periship.com",
+   "page": "https://periship.com/hr-careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "eightfold",
+   "token": "micron",
+   "url": "micron.eightfold.ai",
+   "label": "MICRON TECHNOLOGY INC",
+   "website": "micron.com",
+   "page": "https://www.micron.com/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ccf.wd1.myworkdayjobs.com",
+   "url": "ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
+   "site": "ClevelandClinicCareers",
+   "label": "CLEVELAND CLINIC",
+   "website": "clevelandclinic.org",
+   "page": "https://jobs.clevelandclinic.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "umms",
+   "url": "careers-umms.icims.com",
+   "label": "UMASS CHAN MEDICAL SCHOOL",
+   "website": "ummsjobs.com",
+   "page": "https://www.ummsjobs.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "stjude.wd1.myworkdayjobs.com",
+   "url": "stjude.wd1.myworkdayjobs.com/stjude",
+   "site": "stjude",
+   "label": "ST JUDE CHILDREN S RESEARCH HOSPITAL",
+   "website": "stjude.org",
+   "page": "https://www.stjude.org/jobs/hospital.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "cmu.wd115.myworkdayjobs.com",
+   "url": "cmu.wd115.myworkdayjobs.com/CMU",
+   "site": "CMU",
+   "label": "CARNEGIE MELLON UNIVERSITY",
+   "website": "cmu.edu",
+   "page": "https://www.cmu.edu/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "matlensilver",
+   "url": "boards-api.greenhouse.io/v1/boards/matlensilver",
+   "label": "THE MATLEN SILVER GROUP INC",
+   "website": "matlensilver.com",
+   "page": "https://matlensilver.com/careers-ms/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "emory",
+   "url": "careers-emory.icims.com",
+   "label": "EMORY UNIVERSITY",
+   "website": "emory.edu",
+   "page": "https://hr.emory.edu/careers/index.html",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "tulane-ibqejb.fa.ocs.oraclecloud.com",
+   "url": "tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+   "label": "TULANE UNIVERSITY",
+   "website": "tulane.edu",
+   "page": "https://hr.tulane.edu/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "ohsu",
+   "url": "careers-ohsu.icims.com",
+   "label": "OREGON HEALTH & SCIENCE UNIVERSITY",
+   "website": "ohsu.edu",
+   "page": "https://www.ohsu.edu/human-resources?utm_source=careers&utm_medium=radio&utm_campaign=OPB",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "elevancehealth.wd1.myworkdayjobs.com",
+   "url": "elevancehealth.wd1.myworkdayjobs.com/ANT",
+   "site": "ANT",
+   "label": "ANTHEM INC",
+   "website": "anthem.com",
+   "page": "https://careers.elevancehealth.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "edbz.fa.us2.oraclecloud.com",
+   "url": "edbz.fa.us2.oraclecloud.com",
+   "label": "TEXAS INSTRUMENTS INCORPORATED",
+   "website": "ti.com",
+   "page": "https://careers.ti.com/en/sites/CX",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "tuftscareers",
+   "url": "careers-tuftscareers.icims.com",
+   "label": "TUFTS UNIVERSITY",
+   "website": "tufts.edu",
+   "page": "https://jobs.tufts.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nike.wd1.myworkdayjobs.com",
+   "url": "nike.wd1.myworkdayjobs.com/nke2",
+   "site": "nke2",
+   "label": "NIKE INC",
+   "website": "nike.com",
+   "page": "https://careers.nike.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nshe.wd1.myworkdayjobs.com",
+   "url": "nshe.wd1.myworkdayjobs.com/UNR-external",
+   "site": "UNR-external",
+   "label": "UNIVERSITY OF NEVADA RENO",
+   "website": "unr.edu",
+   "page": "https://www.unr.edu/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "ecsr.fa.us2.oraclecloud.com",
+   "url": "ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "label": "VANDERBILT UNIVERSITY",
+   "website": "vanderbilt.edu",
+   "page": "https://www.vanderbilt.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "georgetown.wd1.myworkdayjobs.com",
+   "url": "georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers",
+   "site": "Georgetown_Admin_Careers",
+   "label": "GEORGETOWN UNIVERSITY",
+   "website": "georgetown.edu",
+   "page": "https://careers.georgetown.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "clemson.wd12.myworkdayjobs.com",
+   "url": "clemson.wd12.myworkdayjobs.com/Clemson_Careers",
+   "site": "Clemson_Careers",
+   "label": "CLEMSON UNIVERSITY",
+   "website": "clemson.edu",
+   "page": "https://www.clemson.edu/human-resources/careers/index.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "biibhr.wd3.myworkdayjobs.com",
+   "url": "biibhr.wd3.myworkdayjobs.com/external",
+   "site": "external",
+   "label": "BIOGEN INC",
+   "website": "biogen.com",
+   "page": "https://www.biogen.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "sanford.wd5.myworkdayjobs.com",
+   "url": "sanford.wd5.myworkdayjobs.com/SanfordHealth",
+   "site": "SanfordHealth",
+   "label": "SANFORD HEALTH",
+   "website": "sanfordhealth.org",
+   "page": "https://sanfordcareers.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "eightfold",
+   "token": "bostonscientific",
+   "url": "bostonscientific.eightfold.ai",
+   "label": "BOSTON SCIENTIFIC CORPORATION",
+   "website": "bostonscientific.com",
+   "page": "https://www.bostonscientific.com/en-US/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "motorolasolutions.wd5.myworkdayjobs.com",
+   "url": "motorolasolutions.wd5.myworkdayjobs.com/Careers",
+   "site": "Careers",
+   "label": "MOTOROLA SOLUTIONS INC",
+   "website": "motorolasolutions.com",
+   "page": "https://www.motorolasolutions.com/en_us/about/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "embryriddle.wd1.myworkdayjobs.com",
+   "url": "embryriddle.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "EMBRY RIDDLE AERONAUTICAL UNIVERSITY",
+   "website": "erau.edu",
+   "page": "https://careers.erau.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "chop.wd108.myworkdayjobs.com",
+   "url": "chop.wd108.myworkdayjobs.com/CHOPExternalCareers",
+   "site": "CHOPExternalCareers",
+   "label": "THE CHILDREN S HOSPITAL OF PHILADELPHIA",
+   "website": "chop.edu",
+   "page": "https://careers.chop.edu/us/en",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "umiami.wd1.myworkdayjobs.com",
+   "url": "umiami.wd1.myworkdayjobs.com/UMCareerStaff",
+   "site": "UMCareerStaff",
+   "label": "UNIVERSITY OF MIAMI",
+   "website": "miami.edu",
+   "page": "https://www.hr.miami.edu/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "UNIVERSITY OF SOUTH FLORIDA",
+   "website": "usf.edu",
+   "page": "https://jobs.usf.edu/hcmUI/CandidateExperience/en/sites/USF/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "mcw.wd503.myworkdayjobs.com",
+   "url": "mcw.wd503.myworkdayjobs.com/ExternalCareers",
+   "site": "ExternalCareers",
+   "label": "MEDICAL COLLEGE OF WISCONSIN INC",
+   "website": "mcw.edu",
+   "page": "https://www.mcw.edu/departments/human-resources/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "uofl.wd1.myworkdayjobs.com",
+   "url": "uofl.wd1.myworkdayjobs.com/UofLCareerSite",
+   "site": "UofLCareerSite",
+   "label": "UNIVERSITY OF LOUISVILLE",
+   "website": "louisville.edu",
+   "page": "https://uofl.wd1.myworkdayjobs.com/UofLCareerSite",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "uofl.wd1.myworkdayjobs.com",
+   "url": "uofl.wd1.myworkdayjobs.com/UofLCareerSite",
+   "site": "UofLCareerSite",
+   "label": "UNIVERSITY OF LOUISVILLE",
+   "website": "louisville.edu",
+   "page": "https://uofl.wd1.myworkdayjobs.com/UofLCareerSite",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/PenskeCareers",
+   "label": "PENSKE TRUCK LEASING CO LP",
+   "website": "pensketruckleasing.com",
+   "page": "https://penske.jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc",
+   "label": "STAPLES INC",
+   "website": "staples.com",
+   "page": "https://careers.staples.com/en",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-exhh-dev2-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-exhh-dev2-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc",
+   "label": "STAPLES INC",
+   "website": "staples.com",
+   "page": "https://careers.staples.com/en",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "danaher.wd1.myworkdayjobs.com",
+   "url": "danaher.wd1.myworkdayjobs.com/DanaherJobs",
+   "site": "DanaherJobs",
+   "label": "CEPHEID",
+   "website": "cepheid.com",
+   "page": "https://jobs.danaher.com/global/en/cepheid",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "uasys.wd5.myworkdayjobs.com",
+   "url": "uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site",
+   "site": "UAF_External_Career_Site",
+   "label": "UNIVERSITY OF ARKANSAS",
+   "website": "uark.edu",
+   "page": "https://hr.uark.edu/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "eofd.fa.us6.oraclecloud.com",
+   "url": "eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+   "label": "SAFEWAY INC",
+   "website": "safeway.com",
+   "page": "https://www.safeway.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "usu",
+   "url": "careers-usu.icims.com",
+   "label": "UTAH STATE UNIVERSITY",
+   "website": "usu.edu",
+   "page": "https://www.usu.edu/hr/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "phsorg.wd1.myworkdayjobs.com",
+   "url": "phsorg.wd1.myworkdayjobs.com/en-US/Careers",
+   "site": "Careers",
+   "label": "PRESBYTERIAN HEALTHCARE SERVICES",
+   "website": "phs.org",
+   "page": "https://www.phs.org/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "akunacapital",
+   "url": "boards-api.greenhouse.io/v1/boards/akunacapital",
+   "label": "AKUNA CAPITAL LLC",
+   "website": "akunacapital.com",
+   "page": "https://akunacapital.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "sanford.wd5.myworkdayjobs.com",
+   "url": "sanford.wd5.myworkdayjobs.com/SanfordHealth",
+   "site": "SanfordHealth",
+   "label": "MARSHFIELD CLINIC",
+   "website": "marshfieldclinic.org",
+   "page": "https://sanfordcareers.com/marshfield-clinic/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "seamar.wd12.myworkdayjobs.com",
+   "url": "seamar.wd12.myworkdayjobs.com/sea_mar",
+   "site": "sea_mar",
+   "label": "SEA MAR COMMUNITY HEALTH CENTERS",
+   "website": "seamar.org",
+   "page": "https://seamar.org/careers/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "jabil.wd5.myworkdayjobs.com",
+   "url": "jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers",
+   "site": "Jabil_Careers",
+   "label": "JABIL INC",
+   "website": "jabil.com",
+   "page": "https://careers.jabil.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "hl.wd1.myworkdayjobs.com",
+   "url": "hl.wd1.myworkdayjobs.com",
+   "label": "HOULIHAN LOKEY INC",
+   "website": "hl.com",
+   "page": "https://hl.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "ejnd.fa.us2.oraclecloud.com",
+   "url": "ejnd.fa.us2.oraclecloud.com",
+   "label": "HOULIHAN LOKEY INC",
+   "website": "hl.com",
+   "page": "https://hl.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "onehealthineers.wd3.myworkdayjobs.com",
+   "url": "onehealthineers.wd3.myworkdayjobs.com/SHSJB",
+   "site": "SHSJB",
+   "label": "VARIAN MEDICAL SYSTEMS INC",
+   "website": "varian.com",
+   "page": "https://cancercare.siemens-healthineers.com/about-us/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "2ffa-eufr-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "2ffa-eufr-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "FAMILY HEALTHCARE NETWORK",
+   "website": "fhcn.org",
+   "page": "https://fhcn.org/work-with-us/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "stanfordmedicine.wd115.myworkdayjobs.com",
+   "url": "stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site",
+   "site": "SHC_External_Career_Site",
+   "label": "STANFORD HEALTH CARE",
+   "website": "stanfordhealthcare.org",
+   "page": "https://careers.stanfordhealthcare.org/us/en",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "stanfordhealthcare.wd5.myworkdayjobs.com",
+   "url": "stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site",
+   "site": "SHC_External_Career_Site",
+   "label": "STANFORD HEALTH CARE",
+   "website": "stanfordhealthcare.org",
+   "page": "https://careers.stanfordhealthcare.org/us/en",
+   "src": "h1b"
+  },
+  {
+   "type": "eightfold",
+   "token": "chevron",
+   "url": "chevron.eightfold.ai",
+   "label": "CHEVRON CORP",
+   "website": "chevron.com",
+   "page": "https://careers.chevron.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "usnh.wd5.myworkdayjobs.com",
+   "url": "usnh.wd5.myworkdayjobs.com/Careers",
+   "site": "Careers",
+   "label": "UNIVERSITY OF NEW HAMPSHIRE",
+   "website": "unh.edu",
+   "page": "https://www.unh.edu/hr/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ucf.wd1.myworkdayjobs.com",
+   "url": "ucf.wd1.myworkdayjobs.com/athletics",
+   "site": "athletics",
+   "label": "UNIVERSITY OF CENTRAL FLORIDA",
+   "website": "ucf.edu",
+   "page": "https://www.ucf.edu/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "insulet.wd5.myworkdayjobs.com",
+   "url": "insulet.wd5.myworkdayjobs.com/insuletcareers",
+   "site": "insuletcareers",
+   "label": "INSULET CORPORATION",
+   "website": "insulet.com",
+   "page": "https://www.insulet.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "kiongroup.wd3.myworkdayjobs.com",
+   "url": "kiongroup.wd3.myworkdayjobs.com/KION_SCS",
+   "site": "KION_SCS",
+   "label": "DEMATIC CORP",
+   "website": "dematic.com",
+   "page": "https://www.dematic.com/en-us/about/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "olemiss.wd12.myworkdayjobs.com",
+   "url": "olemiss.wd12.myworkdayjobs.com/External__Staff",
+   "site": "External__Staff",
+   "label": "UNIVERSITY OF MISSISSIPPI",
+   "website": "olemiss.edu",
+   "page": "https://olemiss.edu/hr/um-careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "gem",
+   "token": "wyzecam-com",
+   "url": "jobs.gem.com/wyzecam-com",
+   "label": "WYZE LABS INC",
+   "website": "wyze.com",
+   "page": "https://www.wyze.com/pages/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gem",
+   "token": "gem",
+   "url": "jobs.gem.com/gem",
+   "label": "WYZE LABS INC",
+   "website": "wyze.com",
+   "page": "https://www.wyze.com/pages/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hcps.fa.us2.oraclecloud.com",
+   "url": "hcps.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "CREIGHTON UNIVERSITY",
+   "website": "creighton.edu",
+   "page": "https://www.creighton.edu/about/leadership-key-offices-contacts/administrative-offices/human-resources/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "massgeneralbrigham.wd1.myworkdayjobs.com",
+   "url": "massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal",
+   "site": "MGBExternal",
+   "label": "MCLEAN HOSPITAL",
+   "website": "mcleanhospital.org",
+   "page": "https://www.massgeneralbrigham.org/en/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ameriprise.wd5.myworkdayjobs.com",
+   "url": "ameriprise.wd5.myworkdayjobs.com/Ameriprise",
+   "site": "Ameriprise",
+   "label": "AMERIPRISE FINANCIAL INC",
+   "website": "ameriprise.com",
+   "page": "https://www.ameriprise.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "frontierschools",
+   "url": "frontierschools.bamboohr.com/careers",
+   "label": "FRONTIER SCHOOLS INC",
+   "website": "frontierschools.org",
+   "page": "https://frontierschools.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "commonspirit",
+   "url": "careers-commonspirit.icims.com",
+   "label": "DIGNITY HEALTH",
+   "website": "dignityhealth.org",
+   "page": "https://www.commonspirit.careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "hcsc.wd1.myworkdayjobs.com",
+   "url": "hcsc.wd1.myworkdayjobs.com/HCSC_External",
+   "site": "HCSC_External",
+   "label": "HEALTH CARE SERVICE CORPORATION",
+   "website": "hcsc.com",
+   "page": "https://careers.hcsc.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "mines.wd1.myworkdayjobs.com",
+   "url": "mines.wd1.myworkdayjobs.com/Mines_Careers",
+   "site": "Mines_Careers",
+   "label": "COLORADO SCHOOL OF MINES",
+   "website": "mines.edu",
+   "page": "https://hr.mines.edu/talent-aquisition-portal/explore-positions-at-mines/",
+   "src": "h1b"
+  },
+  {
+   "type": "lever",
+   "token": "tripalink",
+   "url": "jobs.lever.co/tripalink",
+   "label": "TRIPALINK CORP",
+   "website": "tripalink.com",
+   "page": "https://tripalink.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "fisker.wd1.myworkdayjobs.com",
+   "url": "fisker.wd1.myworkdayjobs.com/Fisker_Careers",
+   "site": "Fisker_Careers",
+   "label": "FISKER INC",
+   "website": "fiskerinc.com",
+   "page": "https://fiskerinc.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "gatesfoundation.wd1.myworkdayjobs.com",
+   "url": "gatesfoundation.wd1.myworkdayjobs.com/Gates",
+   "site": "Gates",
+   "label": "BILL & MELINDA GATES FOUNDATION",
+   "website": "gatesfoundation.org",
+   "page": "https://www.gatesfoundation.org/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "arh",
+   "url": "careers-arh.icims.com",
+   "label": "APPALACHIAN REGIONAL HEALTHCARE INC",
+   "website": "arh.org",
+   "page": "https://www.arhcareers.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "sdsurf",
+   "url": "careers-sdsurf.icims.com",
+   "label": "SAN DIEGO STATE UNIVERSITY",
+   "website": "sdsu.edu",
+   "page": "https://hr.sdsu.edu/careers-at-sdsu",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "doveschoolsoklahoma",
+   "url": "doveschoolsoklahoma.bamboohr.com/careers",
+   "label": "DOVE SCHOOLS INC",
+   "website": "doveschools.org",
+   "page": "https://www.doveschools.org/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "doveschoolstulsa",
+   "url": "doveschoolstulsa.bamboohr.com/careers",
+   "label": "DOVE SCHOOLS INC",
+   "website": "doveschools.org",
+   "page": "https://www.doveschools.org/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "fau.wd1.myworkdayjobs.com",
+   "url": "fau.wd1.myworkdayjobs.com/FAU",
+   "site": "FAU",
+   "label": "FLORIDA ATLANTIC UNIVERSITY",
+   "website": "fau.edu",
+   "page": "https://www.fau.edu/administration/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "NAVY FEDERAL CREDIT UNION",
+   "website": "navyfederal.org",
+   "page": "https://www.navyfederal.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "workable",
+   "token": "almaadvisorygroup",
+   "url": "apply.workable.com/almaadvisorygroup",
+   "label": "CHICAGO PUBLIC SCHOOLS",
+   "website": "cps.edu",
+   "page": "https://www.cps.edu/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "westernalliancebank.wd5.myworkdayjobs.com",
+   "url": "westernalliancebank.wd5.myworkdayjobs.com/AMH",
+   "site": "AMH",
+   "label": "AMERIHOME MORTGAGE COMPANY LLC",
+   "website": "amerihome.com",
+   "page": "https://www.amerihome.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bucknell.wd1.myworkdayjobs.com",
+   "url": "bucknell.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "BUCKNELL UNIVERSITY",
+   "website": "bucknell.edu",
+   "page": "https://www.bucknell.edu/azdirectory/talent-culture-human-resources/careers-bucknell",
+   "src": "h1b"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "NationalVision1",
+   "url": "jobs.smartrecruiters.com/NationalVision1",
+   "label": "NATIONAL VISION INC",
+   "website": "nationalvision.com",
+   "page": "https://www.nationalvision.com/careers/doctor-optometry/od-career-opportunities/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "smithnephew.wd5.myworkdayjobs.com",
+   "url": "smithnephew.wd5.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "SMITH & NEPHEW INC",
+   "website": "smith-nephew.com",
+   "page": "https://www.smith-nephew.com/en-us/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "portlandgeneral.wd5.myworkdayjobs.com",
+   "url": "portlandgeneral.wd5.myworkdayjobs.com/pgn",
+   "site": "pgn",
+   "label": "PORTLAND GENERAL ELECTRIC COMPANY",
+   "website": "portlandgeneral.com",
+   "page": "https://portlandgeneral.com/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/PenskeCareers",
+   "label": "PENSKE LOGISTICS LLC",
+   "website": "penskelogistics.com",
+   "page": "https://penske.jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "billcom",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=billcom",
+   "label": "BILL COM",
+   "website": "bill.com",
+   "page": "https://www.bill.com/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ambarella.wd108.myworkdayjobs.com",
+   "url": "ambarella.wd108.myworkdayjobs.com/Ambarella",
+   "site": "Ambarella",
+   "label": "AMBARELLA CORP",
+   "website": "ambarella.com",
+   "page": "https://www.ambarella.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "beyondmeat.wd1.myworkdayjobs.com",
+   "url": "beyondmeat.wd1.myworkdayjobs.com/External_Careers",
+   "site": "External_Careers",
+   "label": "BEYOND MEAT INC",
+   "website": "beyondmeat.com",
+   "page": "https://www.beyondmeat.com/en-US",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "wfu.wd1.myworkdayjobs.com",
+   "url": "wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live",
+   "site": "Staff_Career_Website_live",
+   "label": "WAKE FOREST UNIVERSITY",
+   "website": "wfu.edu",
+   "page": "https://hr.wfu.edu/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "shure",
+   "url": "careers-shure.icims.com",
+   "label": "SHURE INCORPORATED",
+   "website": "shure.com",
+   "page": "https://www.shure.com/en-US/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "avant.wd503.myworkdayjobs.com",
+   "url": "avant.wd503.myworkdayjobs.com/External_Careers",
+   "site": "External_Careers",
+   "label": "AVANT LLC",
+   "website": "avant.com",
+   "page": "https://www.avant.com/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "tranetechnologies.wd12.myworkdayjobs.com",
+   "url": "tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers",
+   "site": "Trane_Technologies_Careers",
+   "label": "TRANE TECHNOLOGIES COMPANY LLC",
+   "website": "tranetechnologies.com",
+   "page": "https://careers.tranetechnologies.com/global/en/early-careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "tamus.wd1.myworkdayjobs.com",
+   "url": "tamus.wd1.myworkdayjobs.com/WTAMU_External",
+   "site": "WTAMU_External",
+   "label": "WEST TEXAS A&M UNIVERSITY",
+   "website": "wtamu.edu",
+   "page": "https://www.wtamu.edu/business-finance/human-resources/human-resources-employment.html",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-evyu-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-evyu-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "EAST TENNESSEE STATE UNIVERSITY",
+   "website": "etsu.edu",
+   "page": "https://www.etsu.edu/ehome/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "caresource.wd1.myworkdayjobs.com",
+   "url": "caresource.wd1.myworkdayjobs.com/CareSource",
+   "site": "CareSource",
+   "label": "COMMONWEALTH CARE ALLIANCE INC",
+   "website": "commonwealthcarealliance.org",
+   "page": "https://careers.caresource.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "rivian",
+   "url": "careers-rivian.icims.com",
+   "label": "RIVIAN LLC",
+   "website": "rivian.com",
+   "page": "https://careers.rivian.com/careers-home/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "ozk",
+   "url": "careers-ozk.icims.com",
+   "label": "BANK OZK",
+   "website": "ozk.com",
+   "page": "https://careers.ozk.com/career-home/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "allegromicro.wd5.myworkdayjobs.com",
+   "url": "allegromicro.wd5.myworkdayjobs.com/AllegroCareers",
+   "site": "AllegroCareers",
+   "label": "ALLEGRO MICROSYSTEMS LLC",
+   "website": "allegromicro.com",
+   "page": "https://www.allegromicro.com/en/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "spu.wd12.myworkdayjobs.com",
+   "url": "spu.wd12.myworkdayjobs.com/SPU",
+   "site": "SPU",
+   "label": "SEATTLE PACIFIC UNIVERSITY",
+   "website": "spu.edu",
+   "page": "https://spu.edu/about-spu/employment-at-spu",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "primehealthcare",
+   "url": "careers-primehealthcare.icims.com",
+   "label": "BIO MED SERVICES INC",
+   "website": "biomedservicesinc.com",
+   "page": "https://biomedservicesinc.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nwmissouri.wd108.myworkdayjobs.com",
+   "url": "nwmissouri.wd108.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "NORTHWEST MISSOURI STATE UNIVERSITY",
+   "website": "nwmissouri.edu",
+   "page": "https://nwmissouri.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "eicl.fa.em5.oraclecloud.com",
+   "url": "eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP",
+   "label": "CARNIVAL CORPORATION",
+   "website": "carnivalcorp.com",
+   "page": "https://www.carnivalcorp.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "successfactors",
+   "token": "murataamer",
+   "url": "career8.successfactors.com/career?company=murataamer",
+   "label": "PSEMI CORPORATION",
+   "website": "psemi.com",
+   "page": "https://psemi.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "THE HERTZ CORPORATION",
+   "website": "hertz.com",
+   "page": "https://jobs.hertzcareers.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-evlf-dev5-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-evlf-dev5-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "THE HERTZ CORPORATION",
+   "website": "hertz.com",
+   "page": "https://jobs.hertzcareers.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "saintfrancis.wd115.myworkdayjobs.com",
+   "url": "saintfrancis.wd115.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "SAINT FRANCIS HEALTH SYSTEM",
+   "website": "saintfrancis.com",
+   "page": "https://www.saintfrancis.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "lever",
+   "token": "penumbrainc",
+   "url": "jobs.lever.co/penumbrainc",
+   "label": "PENUMBRA INC",
+   "website": "penumbrainc.com",
+   "page": "https://www.penumbrainc.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "deckers.wd5.myworkdayjobs.com",
+   "url": "deckers.wd5.myworkdayjobs.com/en-US/Deckers",
+   "site": "Deckers",
+   "label": "DECKERS OUTDOOR CORP",
+   "website": "deckers.com",
+   "page": "https://deckers.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "sitimecorporation",
+   "url": "job-boards.greenhouse.io/sitimecorporation",
+   "label": "SITIME CORPORATION",
+   "website": "sitime.com",
+   "page": "https://www.sitime.com/company/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "bjc",
+   "url": "careers-bjc.icims.com",
+   "label": "BARNES JEWISH HOSPITAL",
+   "website": "barnesjewish.org",
+   "page": "https://www.barnesjewish.org/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "wfscorp.wd5.myworkdayjobs.com",
+   "url": "wfscorp.wd5.myworkdayjobs.com/wfscareers",
+   "site": "wfscareers",
+   "label": "WORLD FUEL SERVICES CORPORATION",
+   "website": "spireflight.com",
+   "page": "https://www.worldfuel.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "ekze.fa.us2.oraclecloud.com",
+   "url": "ekze.fa.us2.oraclecloud.com",
+   "label": "DEPAUL UNIVERSITY",
+   "website": "depaul.edu",
+   "page": "https://www.depaul.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "dermbiont",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=dermbiont",
+   "label": "DERMBIONT INC",
+   "website": "dermbiont.com",
+   "page": "https://www.dermbiont.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "eightfold",
+   "token": "infineon",
+   "url": "infineon.eightfold.ai",
+   "label": "INFINEON TECHNOLOGIES LLC",
+   "website": "infineon.com",
+   "page": "https://jobs.infineon.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "yumingcharterschool",
+   "url": "yumingcharterschool.bamboohr.com/jobs",
+   "label": "YU MING CHARTER SCHOOL",
+   "website": "yumingschool.org",
+   "page": "https://www.yumingschool.org/join-our-team/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "driscoll.wd1.myworkdayjobs.com",
+   "url": "driscoll.wd1.myworkdayjobs.com/DHS",
+   "site": "DHS",
+   "label": "DRISCOLL CHILDREN S HOSPITAL",
+   "website": "driscollchildrens.org",
+   "page": "https://driscollchildrens.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "extremenetworks.wd503.myworkdayjobs.com",
+   "url": "extremenetworks.wd503.myworkdayjobs.com/Extreme_Networks",
+   "site": "Extreme_Networks",
+   "label": "EXTREME NETWORKS INC",
+   "website": "extremenetworks.com",
+   "page": "https://www.extremenetworks.com/about-extreme-networks/career",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "formfactor.wd1.myworkdayjobs.com",
+   "url": "formfactor.wd1.myworkdayjobs.com/FFI-Careers",
+   "site": "FFI-Careers",
+   "label": "FORMFACTOR INC",
+   "website": "formfactor.com",
+   "page": "https://www.formfactor.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "drake.wd108.myworkdayjobs.com",
+   "url": "drake.wd108.myworkdayjobs.com/DrakeCareers",
+   "site": "DrakeCareers",
+   "label": "DRAKE UNIVERSITY",
+   "website": "drake.edu",
+   "page": "https://drake.wd108.myworkdayjobs.com/DrakeCareers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "drake.wd108.myworkdayjobs.com",
+   "url": "drake.wd108.myworkdayjobs.com/DrakeCareers",
+   "site": "DrakeCareers",
+   "label": "DRAKE UNIVERSITY",
+   "website": "drake.edu",
+   "page": "https://drake.wd108.myworkdayjobs.com/DrakeCareers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "westernunion.wd5.myworkdayjobs.com",
+   "url": "westernunion.wd5.myworkdayjobs.com/WesternUnionJobs",
+   "site": "WesternUnionJobs",
+   "label": "WESTERN UNION LLC",
+   "website": "westernunion.com",
+   "page": "https://careers.westernunion.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "evms",
+   "url": "careers-evms.icims.com",
+   "label": "EASTERN VIRGINIA MEDICAL SCHOOL",
+   "website": "evms.edu",
+   "page": "https://www.odu.edu/virginia-health-sciences",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nationwidechildrens.wd5.myworkdayjobs.com",
+   "url": "nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers",
+   "site": "NCHCareers",
+   "label": "NATIONWIDE CHILDRENS HOSPITAL",
+   "website": "nationwidechildrens.org",
+   "page": "https://www.nationwidechildrens.org/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bentley.wd503.myworkdayjobs.com",
+   "url": "bentley.wd503.myworkdayjobs.com/faculty",
+   "site": "faculty",
+   "label": "BENTLEY UNIVERSITY",
+   "website": "bentley.edu",
+   "page": "https://www.bentley.edu/offices/human-resources/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "wgu.wd5.myworkdayjobs.com",
+   "url": "wgu.wd5.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "WESTERN GOVERNORS UNIVERSITY",
+   "website": "wgu.edu",
+   "page": "https://jobs.wgu.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "bracebridgecapital",
+   "url": "boards.greenhouse.io/bracebridgecapital",
+   "label": "BRACEBRIDGE CAPITAL LLC",
+   "website": "bracebridgecapital.com",
+   "page": "https://bracebridgecapital.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bloomenergy.wd1.myworkdayjobs.com",
+   "url": "bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers",
+   "site": "BloomEnergyCareers",
+   "label": "BLOOM ENERGY CORPORATION",
+   "website": "bloomenergy.com",
+   "page": "https://www.bloomenergy.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "incyte",
+   "url": "careers-incyte.icims.com",
+   "label": "INCYTE CORPORATION",
+   "website": "incyte.com",
+   "page": "https://careers.incyte.com/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bsu.wd12.myworkdayjobs.com",
+   "url": "bsu.wd12.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "BALL STATE UNIVERSITY",
+   "website": "bsu.edu",
+   "page": "https://www.bsu.edu/about/administrativeoffices/humanresources/jobs",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "ejko.fa.us2.oraclecloud.com",
+   "url": "ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3",
+   "label": "BLUE CROSS BLUE SHIELD OF MICHIGAN",
+   "website": "bcbsm.com",
+   "page": "https://www.bcbsm.com/careers/index/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+   "label": "FIRST SOLAR INC",
+   "website": "firstsolar.com",
+   "page": "https://www.firstsolar.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "carleton.wd1.myworkdayjobs.com",
+   "url": "carleton.wd1.myworkdayjobs.com/CarletonCareers",
+   "site": "CarletonCareers",
+   "label": "CARLETON COLLEGE",
+   "website": "carleton.edu",
+   "page": "https://www.carleton.edu/human-resources/employment-opportunities/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "globusmedical.wd5.myworkdayjobs.com",
+   "url": "globusmedical.wd5.myworkdayjobs.com/GMED_Careers",
+   "site": "GMED_Careers",
+   "label": "GLOBUS MEDICAL INC",
+   "website": "globusmedical.com",
+   "page": "https://www.globusmedical.com/about/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "successfactors",
+   "token": "knappag",
+   "url": "career2.successfactors.eu/career?company=knappag",
+   "label": "KNAPP INC",
+   "website": "knapp.com",
+   "page": "https://www.knapp.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "highmarkhealth.wd1.myworkdayjobs.com",
+   "url": "highmarkhealth.wd1.myworkdayjobs.com/highmark",
+   "site": "highmark",
+   "label": "HIGHMARK INC",
+   "website": "highmark.com",
+   "page": "https://careers.highmarkhealth.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "egln.fa.us2.oraclecloud.com",
+   "url": "egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "label": "LOMA LINDA UNIVERSITY",
+   "website": "llu.edu",
+   "page": "https://careers.lluh.org/?rsource=jobs.lluh.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "mtholyoke.wd504.myworkdayjobs.com",
+   "url": "mtholyoke.wd504.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "MOUNT HOLYOKE COLLEGE",
+   "website": "mtholyoke.edu",
+   "page": "https://www.mtholyoke.edu/careers-mount-holyoke",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "russell.wd5.myworkdayjobs.com",
+   "url": "russell.wd5.myworkdayjobs.com/russellinvestments",
+   "site": "russellinvestments",
+   "label": "RUSSELL INVESTMENTS GROUP LLC",
+   "website": "russellinvestments.com",
+   "page": "https://russellinvestments.com/content/ri/us/en/about-us/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "tamus.wd1.myworkdayjobs.com",
+   "url": "tamus.wd1.myworkdayjobs.com/TARLETON_External",
+   "site": "TARLETON_External",
+   "label": "TARLETON STATE UNIVERSITY",
+   "website": "tarleton.edu",
+   "page": "https://www.tarleton.edu/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "uwmcareers",
+   "url": "careers-uwmcareers.icims.com",
+   "label": "UNITED WHOLESALE MORTGAGE LLC",
+   "website": "uwm.com",
+   "page": "https://uwmcareers.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "rippling",
+   "token": "23andme",
+   "url": "ats.rippling.com/23andme",
+   "label": "23ANDME INC",
+   "website": "23andme.com",
+   "page": "https://www.23andme.org/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "exeterfinance.wd1.myworkdayjobs.com",
+   "url": "exeterfinance.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "EXETER FINANCE LLC",
+   "website": "exeterfinance.com",
+   "page": "https://www.exeterfinance.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "enovix.wd12.myworkdayjobs.com",
+   "url": "enovix.wd12.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "ENOVIX CORP",
+   "website": "enovix.com",
+   "page": "https://www.enovix.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "eastwestbank",
+   "url": "careers-eastwestbank.icims.com",
+   "label": "EAST WEST BANK",
+   "website": "eastwestbank.com",
+   "page": "https://www.eastwestbank.com/en/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "external-referrals",
+   "url": "jobs.smartrecruiters.com/external-referrals",
+   "label": "AVERY DENNISON CORPORATION",
+   "website": "averydennison.com",
+   "page": "https://www.averydennison.com/en/home/careers/search-jobs.html",
+   "src": "h1b"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "AveryDennison",
+   "url": "careers.smartrecruiters.com/AveryDennison",
+   "label": "AVERY DENNISON CORPORATION",
+   "website": "averydennison.com",
+   "page": "https://www.averydennison.com/en/home/careers/search-jobs.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "roche.wd3.myworkdayjobs.com",
+   "url": "roche.wd3.myworkdayjobs.com/ROG-A2O-GENE",
+   "site": "ROG-A2O-GENE",
+   "label": "SPARK THERAPEUTICS INC",
+   "website": "sparktx.com",
+   "page": "https://careers.gene.com/us/en/search-results",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "miamioh.wd5.myworkdayjobs.com",
+   "url": "miamioh.wd5.myworkdayjobs.com/miamioh-staff",
+   "site": "miamioh-staff",
+   "label": "MIAMI UNIVERSITY",
+   "website": "miamioh.edu",
+   "page": "https://miamioh.edu/human-resources/jobs-and-careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hcwp.fa.us2.oraclecloud.com",
+   "url": "hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Philippines",
+   "label": "II-VI INCORPORATED",
+   "website": "ii-vi.com",
+   "page": "https://www.coherent.com/peopleandculture/job-search",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ghr.wd1.myworkdayjobs.com",
+   "url": "ghr.wd1.myworkdayjobs.com/en-us/lateral-us",
+   "site": "lateral-us",
+   "label": "MERRILL LYNCH",
+   "website": "ml.com",
+   "page": "https://careers.bankofamerica.com/en-us/becoming-a-merrill-lynch-advisor",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "stlukes-stl",
+   "url": "careers-stlukes-stl.icims.com",
+   "label": "ST LUKE S HOSPITAL",
+   "website": "stlukes-stl.com",
+   "page": "https://www.stlukes-stl.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "seattleu.wd108.myworkdayjobs.com",
+   "url": "seattleu.wd108.myworkdayjobs.com/SeattleUJobs",
+   "site": "SeattleUJobs",
+   "label": "SEATTLE UNIVERSITY",
+   "website": "seattleu.edu",
+   "page": "https://www.seattleu.edu/human-resources/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "rippling",
+   "token": "joinroot",
+   "url": "ats.rippling.com/joinroot",
+   "label": "ROOT INC",
+   "website": "joinroot.com",
+   "page": "https://inc.joinroot.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nwesternalliancebank.wd5.myworkdayjobs.com",
+   "url": "nwesternalliancebank.wd5.myworkdayjobs.com",
+   "label": "WESTERN ALLIANCE BANK",
+   "website": "westernalliancebancorporation.com",
+   "page": "https://www.westernalliancebancorporation.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "westernalliancebank.wd5.myworkdayjobs.com",
+   "url": "westernalliancebank.wd5.myworkdayjobs.com",
+   "label": "WESTERN ALLIANCE BANK",
+   "website": "westernalliancebancorporation.com",
+   "page": "https://www.westernalliancebancorporation.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "coherehealth",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=coherehealth",
+   "label": "COHERE HEALTH INC",
+   "website": "coherehealth.com",
+   "page": "https://www.coherehealth.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "insurify",
+   "url": "boards.greenhouse.io/insurify",
+   "label": "INSURIFY INC",
+   "website": "insurify.com",
+   "page": "https://insurify.com/company/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "itron.wd5.myworkdayjobs.com",
+   "url": "itron.wd5.myworkdayjobs.com/Early_Careers",
+   "site": "Early_Careers",
+   "label": "ITRON INC",
+   "website": "itron.com",
+   "page": "https://na.itron.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hckd.fa.us2.oraclecloud.com",
+   "url": "hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "MOLINA HEALTHCARE INC",
+   "website": "molinahealthcare.com",
+   "page": "https://careers.molinahealthcare.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "qvc.wd5.myworkdayjobs.com",
+   "url": "qvc.wd5.myworkdayjobs.com/QRG",
+   "site": "QRG",
+   "label": "QVC INC",
+   "website": "qvc.com",
+   "page": "https://careers.qurateretailgroup.com/qvc-us/?multi_select1=QVC&location=United%20States&country=US&radius=25&primary_country=US",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "unf.wd5.myworkdayjobs.com",
+   "url": "unf.wd5.myworkdayjobs.com/unfjobs",
+   "site": "unfjobs",
+   "label": "UNIVERSITY OF NORTH FLORIDA",
+   "website": "unf.edu",
+   "page": "https://www.unf.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "massgeneralbrigham.wd1.myworkdayjobs.com",
+   "url": "massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal",
+   "site": "MGBExternal",
+   "label": "SPAULDING REHABILITATION HOSPITAL",
+   "website": "spauldingrehab.org",
+   "page": "https://www.massgeneralbrigham.org/en/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "uni.wd5.myworkdayjobs.com",
+   "url": "uni.wd5.myworkdayjobs.com/UNI",
+   "site": "UNI",
+   "label": "UNIVERSITY OF NORTHERN IOWA",
+   "website": "uni.edu",
+   "page": "https://careers.uni.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "verifone",
+   "url": "job-boards.greenhouse.io/verifone",
+   "label": "VERIFONE INC",
+   "website": "verifone.com",
+   "page": "https://www.verifone.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "ulsselu.wd503.myworkdayjobs.com",
+   "url": "ulsselu.wd503.myworkdayjobs.com/SLU",
+   "site": "SLU",
+   "label": "SOUTHEASTERN LOUISIANA UNIVERSITY",
+   "website": "southeastern.edu",
+   "page": "https://www.southeastern.edu/admin/hr/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "lever",
+   "token": "2os",
+   "url": "jobs.lever.co/2os",
+   "label": "2ND ORDER SOLUTIONS INC",
+   "website": "2os.com",
+   "page": "https://2os.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "akebiatherapeutics",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=akebiatherapeutics",
+   "label": "AKEBIA THERAPEUTICS INC",
+   "website": "akebia.com",
+   "page": "https://akebia.com/join/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "bluerivertech",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=bluerivertech",
+   "label": "BLUE RIVER TECHNOLOGY",
+   "website": "bluerivertechnology.com",
+   "page": "https://www.bluerivertechnology.com/job/?gh_jid=8337794",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "eastlandfood",
+   "url": "eastlandfood.bamboohr.com/careers",
+   "label": "EASTLAND FOOD CORPORATION",
+   "website": "eastlandfood.com",
+   "page": "https://eastlandfood.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hbap.fa.us1.oraclecloud.com",
+   "url": "hbap.fa.us1.oraclecloud.com",
+   "label": "ALKERMES INC",
+   "website": "alkermes.com",
+   "page": "https://careers.alkermes.com/?_ga=2.237789442.30095356.1686171333-768834050.1686171333&_gl=1*1xn6e1a*_gcl_au*MjA0NDU2NDU1MS4xNzM4MTU5NDQ3*_ga*MTY0MTc0ODEwNy4xNzM4MTU5NDQ3*_ga_PFXKBM41R2*MTc0MTgxOTQ5Mi4xMS4xLjE3NDE4MTk2NjkuMTIuMC4w",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "signetjewelers.wd1.myworkdayjobs.com",
+   "url": "signetjewelers.wd1.myworkdayjobs.com/BlueNile",
+   "site": "BlueNile",
+   "label": "BLUE NILE INC",
+   "website": "bluenile.com",
+   "page": "https://www.bluenile.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "cree.wd108.myworkdayjobs.com",
+   "url": "cree.wd108.myworkdayjobs.com/EXT",
+   "site": "EXT",
+   "label": "WOLFSPEED INC",
+   "website": "wolfspeed.com",
+   "page": "https://www.wolfspeed.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "eh2",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=eh2",
+   "label": "ELECTRIC HYDROGEN CO",
+   "website": "eh2.com",
+   "page": "https://eh2.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "eidg.fa.us6.oraclecloud.com",
+   "url": "eidg.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+   "label": "MATTSON TECHNOLOGY INC",
+   "website": "mattson.com",
+   "page": "https://mattson.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "clearwayjobs",
+   "url": "job-boards.greenhouse.io/clearwayjobs",
+   "label": "CLEARWAY ENERGY GROUP LLC",
+   "website": "clearwayenergygroup.com",
+   "page": "https://www.clearwayenergygroup.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bridgeigp.wd1.myworkdayjobs.com",
+   "url": "bridgeigp.wd1.myworkdayjobs.com/BIGC",
+   "site": "BIGC",
+   "label": "BRIDGE INVESTMENT GROUP",
+   "website": "bridgeig.com",
+   "page": "https://www.bridgeig.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "ewstokes",
+   "url": "ewstokes.bamboohr.com/careers",
+   "label": "ELSIE WHITLOW STOKES CFPCS",
+   "website": "ewstokes.org",
+   "page": "https://ewstokes.org/about/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "vhr-jazz.wd1.myworkdayjobs.com",
+   "url": "vhr-jazz.wd1.myworkdayjobs.com/en-US/JazzPharmaceuticals",
+   "site": "JazzPharmaceuticals",
+   "label": "JAZZ PHARMACEUTICALS INC",
+   "website": "jazzpharma.com",
+   "page": "https://careers.jazzpharma.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "gvsu.wd1.myworkdayjobs.com",
+   "url": "gvsu.wd1.myworkdayjobs.com/careers",
+   "site": "careers",
+   "label": "GRAND VALLEY STATE UNIVERSITY",
+   "website": "gvsu.edu",
+   "page": "https://www.gvsu.edu/hro/jobs-at-grand-valley-state-university-1194.htm",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "novavax.wd1.myworkdayjobs.com",
+   "url": "novavax.wd1.myworkdayjobs.com/en-US/Careers",
+   "site": "Careers",
+   "label": "NOVAVAX INC",
+   "website": "novavax.com",
+   "page": "https://www.novavax.com/people-culture",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "eofe.fa.us2.oraclecloud.com",
+   "url": "eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY",
+   "label": "PERSHING LLC",
+   "website": "pershing.com",
+   "page": "https://www.bny.com/corporate/global/en.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "sifive.wd1.myworkdayjobs.com",
+   "url": "sifive.wd1.myworkdayjobs.com/en-US/sifivecareers",
+   "site": "sifivecareers",
+   "label": "SIFIVE INC",
+   "website": "sifive.com",
+   "page": "https://www.sifive.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "champlain-ibumjb.fa.ocs.oraclecloud.com",
+   "url": "champlain-ibumjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "CHAMPLAIN COLLEGE INC",
+   "website": "champlain.edu",
+   "page": "https://www.champlain.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "franklintempleton.wd5.myworkdayjobs.com",
+   "url": "franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM",
+   "site": "Jobs-WAM",
+   "label": "WESTERN ASSET MANAGEMENT",
+   "website": "westernasset.com",
+   "page": "https://franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "franklintempleton.wd5.myworkdayjobs.com",
+   "url": "franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM",
+   "site": "Jobs-WAM",
+   "label": "WESTERN ASSET MANAGEMENT",
+   "website": "westernasset.com",
+   "page": "https://franklintempleton.wd5.myworkdayjobs.com/Jobs-WAM",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "caredxinc",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=caredxinc",
+   "label": "CAREDX INC",
+   "website": "caredx.com",
+   "page": "https://www.caredx.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "brynmawr.wd12.myworkdayjobs.com",
+   "url": "brynmawr.wd12.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "BRYN MAWR COLLEGE",
+   "website": "brynmawr.edu",
+   "page": "https://www.brynmawr.edu/about-college/careers-bryn-mawr",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "bcbst.wd1.myworkdayjobs.com",
+   "url": "bcbst.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "BLUECROSS BLUESHIELD OF TENNESSEE",
+   "website": "bcbst.com",
+   "page": "https://careers.bcbst.com/?utm_source=bcbst&utm_medium=general&utm_content=friendly&utm_term=careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "chamberlain.wd1.myworkdayjobs.com",
+   "url": "chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group",
+   "site": "Chamberlain_Group",
+   "label": "CHAMBERLAIN GROUP INC",
+   "website": "chamberlaingroup.com",
+   "page": "https://www.chamberlaingroup.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "ashby",
+   "token": "betterup",
+   "url": "jobs.ashbyhq.com/betterup",
+   "label": "BETTERUP INC",
+   "website": "betterup.com",
+   "page": "https://www.betterup.com/about-us/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "calix.wd1.myworkdayjobs.com",
+   "url": "calix.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "CALIX INC",
+   "website": "calix.com",
+   "page": "https://www.calix.com/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "rb.wd5.myworkdayjobs.com",
+   "url": "rb.wd5.myworkdayjobs.com/FRS",
+   "site": "FRS",
+   "label": "FEDERAL RESERVE BANK OF CHICAGO",
+   "website": "chicagofed.org",
+   "page": "https://www.chicagofed.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "newrez.wd1.myworkdayjobs.com",
+   "url": "newrez.wd1.myworkdayjobs.com/en-US/NRZ",
+   "site": "NRZ",
+   "label": "CALIBER HOME LOANS INC",
+   "website": "caliberhomeloans.com",
+   "page": "https://careers.newrez.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "genmills.wd1.myworkdayjobs.com",
+   "url": "genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
+   "site": "GMI_External_Careers",
+   "label": "GENERAL MILLS INC",
+   "website": "generalmills.com",
+   "page": "https://www.generalmills.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "richmond.wd5.myworkdayjobs.com",
+   "url": "richmond.wd5.myworkdayjobs.com/staff_faculty",
+   "site": "staff_faculty",
+   "label": "UNIVERSITY OF RICHMOND",
+   "website": "richmond.edu",
+   "page": "https://hr.richmond.edu/careers/index.html",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "sofitechsolutions",
+   "url": "job-boards.greenhouse.io/sofitechsolutions",
+   "label": "GALILEO FINANCIAL TECHNOLOGIES LLC",
+   "website": "galileo-ft.com",
+   "page": "https://tech.sofi.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "saintlukes.wd1.myworkdayjobs.com",
+   "url": "saintlukes.wd1.myworkdayjobs.com/en-US/saintlukeshealthcareers",
+   "site": "saintlukeshealthcareers",
+   "label": "MISSOURI BAPTIST SULLIVAN HOSPITAL",
+   "website": "missouribaptistsullivan.org",
+   "page": "https://www.bjccareers.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "bjc",
+   "url": "careers-bjc.icims.com",
+   "label": "MISSOURI BAPTIST SULLIVAN HOSPITAL",
+   "website": "missouribaptistsullivan.org",
+   "page": "https://www.bjccareers.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "rippling",
+   "token": "psomagen",
+   "url": "ats.rippling.com/psomagen",
+   "label": "PSOMAGEN INC",
+   "website": "psomagen.com",
+   "page": "https://www.psomagen.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "lever",
+   "token": "microvision",
+   "url": "jobs.lever.co/microvision",
+   "label": "MICROVISION INC",
+   "website": "microvision.com",
+   "page": "https://microvision.com/about/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "northwest.wd1.myworkdayjobs.com",
+   "url": "northwest.wd1.myworkdayjobs.com/Northwest_Careers",
+   "site": "Northwest_Careers",
+   "label": "NORTHWEST BANK",
+   "website": "northwest.bank",
+   "page": "https://www.northwest.bank/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "ashby",
+   "token": "skydio",
+   "url": "jobs.ashbyhq.com/skydio",
+   "label": "SKYDIO INC",
+   "website": "skydio.com",
+   "page": "https://www.skydio.com/jobs/36d75e36-eeb2-4399-8887-37c4a5ff5800?gh_jid=36d75e36-eeb2-4399-8887-37c4a5ff5800",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "altru.wd503.myworkdayjobs.com",
+   "url": "altru.wd503.myworkdayjobs.com/careers",
+   "site": "careers",
+   "label": "ALTRU HEALTH SYSTEM",
+   "website": "altru.org",
+   "page": "https://www.altru.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "sunrun.wd5.myworkdayjobs.com",
+   "url": "sunrun.wd5.myworkdayjobs.com/en-US/Sunrun_Careers",
+   "site": "Sunrun_Careers",
+   "label": "SUNRUN INC",
+   "website": "sunrun.com",
+   "page": "https://careers.sunrun.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "eightfold",
+   "token": "albemarle",
+   "url": "albemarle.eightfold.ai",
+   "label": "ALBEMARLE CORPORATION",
+   "website": "albemarle.com",
+   "page": "https://www.albemarle.com/us/en",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "wth.wd501.myworkdayjobs.com",
+   "url": "wth.wd501.myworkdayjobs.com/WTH",
+   "site": "WTH",
+   "label": "WEST TENNESSEE HEALTHCARE",
+   "website": "wth.org",
+   "page": "https://www.wth.org/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "sentara.wd1.myworkdayjobs.com",
+   "url": "sentara.wd1.myworkdayjobs.com/SCS",
+   "site": "SCS",
+   "label": "SENTARA HEALTHCARE",
+   "website": "sentara.com",
+   "page": "https://www.sentaracareers.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+   "website": "tntech.edu",
+   "page": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com",
+   "url": "fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com",
+   "label": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+   "website": "tntech.edu",
+   "page": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "atarabio",
+   "url": "careers-atarabio.icims.com",
+   "label": "ATARA BIOTHERAPEUTICS INC",
+   "website": "atarabio.com",
+   "page": "https://www.atarabio.com/job-search/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "careoregon.wd12.myworkdayjobs.com",
+   "url": "careoregon.wd12.myworkdayjobs.com/CO",
+   "site": "CO",
+   "label": "CAREOREGON INC",
+   "website": "careoregon.org",
+   "page": "https://careoregon.org/about-us/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "ecge.fa.us2.oraclecloud.com",
+   "url": "ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003",
+   "label": "BLUE SHIELD OF CALIFORNIA",
+   "website": "blueshieldca.com",
+   "page": "https://www.blueshieldca.com/en/home",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "hcgi.fa.us2.oraclecloud.com",
+   "url": "hcgi.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+   "label": "CHENIERE ENERGY INC",
+   "website": "cheniere.com",
+   "page": "https://www.cheniere.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "trekbikes.wd1.myworkdayjobs.com",
+   "url": "trekbikes.wd1.myworkdayjobs.com/TREK",
+   "site": "TREK",
+   "label": "TREK BICYCLE CORPORATION",
+   "website": "trekbikes.com",
+   "page": "https://www.trekbikes.com/us/en_US/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "cacu",
+   "url": "careers-cacu.icims.com",
+   "label": "COMMUNITYAMERICA CREDIT UNION",
+   "website": "communityamerica.com",
+   "page": "https://www.communityamerica.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "chatham.wd12.myworkdayjobs.com",
+   "url": "chatham.wd12.myworkdayjobs.com/ChathamUniversity",
+   "site": "ChathamUniversity",
+   "label": "CHATHAM UNIVERSITY",
+   "website": "chatham.edu",
+   "page": "https://www.chatham.edu/work-at-chatham/",
+   "src": "h1b"
+  },
+  {
+   "type": "ashby",
+   "token": "devcom",
+   "url": "jobs.ashbyhq.com/devcom",
+   "label": "CARSON NEWMAN UNIVERSITY",
+   "website": "cn.edu",
+   "page": "https://www.cn.edu/jobs/feed/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "commonspirit",
+   "url": "careers-commonspirit.icims.com",
+   "label": "CHI ST ALEXIUS HEALTH",
+   "website": "chistalexiushealth.org",
+   "page": "https://www.commonspirit.careers/search-jobs/?alt=3&alp=6252001-5690763",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "coalition",
+   "url": "boards-api.greenhouse.io/v1/boards/coalition",
+   "label": "COALITION INC",
+   "website": "coalitioninc.com",
+   "page": "https://careers.coalitioninc.com/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "doublegood",
+   "url": "job-boards.greenhouse.io/doublegood",
+   "label": "DOUBLE GOOD HOLDINGS INC",
+   "website": "doublegood.com",
+   "page": "https://www.doublegood.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "carrier.wd5.myworkdayjobs.com",
+   "url": "carrier.wd5.myworkdayjobs.com/jobs",
+   "site": "jobs",
+   "label": "CARRIER CORPORATION",
+   "website": "carrier.com",
+   "page": "https://jobs.carrier.com/en",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "conocophillips.wd1.myworkdayjobs.com",
+   "url": "conocophillips.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "CONOCOPHILLIPS COMPANY",
+   "website": "conocophillips.com",
+   "page": "https://careers.conocophillips.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "dynetherapeutics",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=dynetherapeutics",
+   "label": "DYNE THERAPEUTICS INC",
+   "website": "dyne-tx.com",
+   "page": "https://www.dyne-tx.com/careers-culture/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "cascadeloans",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=cascadeloans",
+   "label": "CASCADE FINANCIAL SERVICES",
+   "website": "cascadeloans.com",
+   "page": "https://www.cascadeloans.com/about-us/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "successfactors",
+   "token": "DENTSPLY",
+   "url": "career012.successfactors.eu/career?company=DENTSPLY",
+   "label": "DENTSPLY SIRONA INC",
+   "website": "dentsplysirona.com",
+   "page": "https://www.dentsplysirona.com/en-gb/company/careers.html",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "elevancehealth.wd1.myworkdayjobs.com",
+   "url": "elevancehealth.wd1.myworkdayjobs.com/ANT",
+   "site": "ANT",
+   "label": "ELEVANCE HEALTH INC",
+   "website": "elevancehealth.com",
+   "page": "https://careers.elevancehealth.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "guilford.wd1.myworkdayjobs.com",
+   "url": "guilford.wd1.myworkdayjobs.com/Guilford_Careers",
+   "site": "Guilford_Careers",
+   "label": "GUILFORD COLLEGE",
+   "website": "guilford.edu",
+   "page": "https://www.guilford.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "elekta.wd3.myworkdayjobs.com",
+   "url": "elekta.wd3.myworkdayjobs.com/en-US/Elekta_Careers",
+   "site": "Elekta_Careers",
+   "label": "ELEKTA INC",
+   "website": "elekta.com",
+   "page": "https://www.elekta.com/company/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "oracle",
+   "token": "eduu.fa.us2.oraclecloud.com",
+   "url": "eduu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "label": "ICU MEDICAL INC",
+   "website": "icumed.com",
+   "page": "https://www.icumed.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "corpay.wd103.myworkdayjobs.com",
+   "url": "corpay.wd103.myworkdayjobs.com/Ext_001",
+   "site": "Ext_001",
+   "label": "FLEETCOR TECHNOLOGIES INC",
+   "website": "fleetcor.com",
+   "page": "https://www.corpay.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "healthpro-rehab",
+   "url": "careers-healthpro-rehab.icims.com",
+   "label": "HEALTHPRO HERITAGE LLC",
+   "website": "healthpro-heritage.com",
+   "page": "https://www.healthpro-heritage.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "hyliion",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=hyliion",
+   "label": "HYLIION INC",
+   "website": "hyliion.com",
+   "page": "https://www.hyliion.com/careers/position/?gh_jid=6212003004",
+   "src": "h1b"
+  },
+  {
+   "type": "ashby",
+   "token": "miovision",
+   "url": "jobs.ashbyhq.com/miovision",
+   "label": "GLOBAL TRAFFIC TECHNOLOGIES LLC",
+   "website": "gtt.com",
+   "page": "https://miovision.com/company/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "rippling",
+   "token": "miso-careers",
+   "url": "ats.rippling.com/miso-careers",
+   "label": "MISO ROBOTICS INC",
+   "website": "misorobotics.com",
+   "page": "https://www.misorobotics.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "usbank.wd1.myworkdayjobs.com",
+   "url": "usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
+   "site": "US_Bank_Careers",
+   "label": "ELAVON INC",
+   "website": "elavon.com",
+   "page": "https://careers.usbank.com/global/en",
+   "src": "h1b"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "HagieManufacturingCompany",
+   "url": "careers.smartrecruiters.com/HagieManufacturingCompany",
+   "label": "HAGIE MANUFACTURING",
+   "website": "hagie.com",
+   "page": "https://www.hagie.com/about/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "hypertherm.wd5.myworkdayjobs.com",
+   "url": "hypertherm.wd5.myworkdayjobs.com/hypertherm-careers",
+   "site": "hypertherm-careers",
+   "label": "HYPERTHERM INC",
+   "website": "hypertherm.com",
+   "page": "https://www.hyperthermassociates.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "hypertherm.wd503.myworkdayjobs.com",
+   "url": "hypertherm.wd503.myworkdayjobs.com/hypertherm-careers",
+   "site": "hypertherm-careers",
+   "label": "HYPERTHERM INC",
+   "website": "hypertherm.com",
+   "page": "https://www.hyperthermassociates.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "methodisthealthsystem.wd1.myworkdayjobs.com",
+   "url": "methodisthealthsystem.wd1.myworkdayjobs.com/MHS_Careers",
+   "site": "MHS_Careers",
+   "label": "METHODIST HEALTH SYSTEM",
+   "website": "methodisthealthsystem.org",
+   "page": "https://www.methodisthealthsystem.org/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "kymeratherapeutics",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=kymeratherapeutics",
+   "label": "KYMERA THERAPEUTICS INC",
+   "website": "kymeratx.com",
+   "page": "https://www.kymeratx.com/gh-jobs/associate-director-or-director-clinical-scientist/?gh_jid=7979935003",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "nku.wd108.myworkdayjobs.com",
+   "url": "nku.wd108.myworkdayjobs.com/NKU_External",
+   "site": "NKU_External",
+   "label": "NORTHERN KENTUCKY UNIVERSITY",
+   "website": "nku.edu",
+   "page": "https://www.nku.edu/",
+   "src": "h1b"
+  },
+  {
+   "type": "ashby",
+   "token": "netgear",
+   "url": "jobs.ashbyhq.com/netgear",
+   "label": "NETGEAR INC",
+   "website": "netgear.com",
+   "page": "https://www.netgear.com/about/careers/sanjose-usa/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "danaher.wd1.myworkdayjobs.com",
+   "url": "danaher.wd1.myworkdayjobs.com/DanaherJobs",
+   "site": "DanaherJobs",
+   "label": "LEICA MICROSYSTEMS INC",
+   "website": "leica-microsystems.com",
+   "page": "https://jobs.danaher.com/global/en/leica-microsystems",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "snapfinance.wd1.myworkdayjobs.com",
+   "url": "snapfinance.wd1.myworkdayjobs.com/Snap_External_Careers",
+   "site": "Snap_External_Careers",
+   "label": "SNAP FINANCE LLC",
+   "website": "snapfinance.com",
+   "page": "https://snapfinance.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "seres",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=seres",
+   "label": "SF MOTORS INC",
+   "website": "sfmotors.com",
+   "page": "https://sfmotors.com/company/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "saintlukes.wd1.myworkdayjobs.com",
+   "url": "saintlukes.wd1.myworkdayjobs.com/en-US/saintlukeshealthcareers",
+   "site": "saintlukeshealthcareers",
+   "label": "PARKLAND HEALTH CENTER",
+   "website": "parklandhealthcenter.org",
+   "page": "https://www.bjccareers.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "bjc",
+   "url": "careers-bjc.icims.com",
+   "label": "PARKLAND HEALTH CENTER",
+   "website": "parklandhealthcenter.org",
+   "page": "https://www.bjccareers.org/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "mysrhs.wd108.myworkdayjobs.com",
+   "url": "mysrhs.wd108.myworkdayjobs.com/SRHS",
+   "site": "SRHS",
+   "label": "SINGING RIVER HEALTH SYSTEM",
+   "website": "singingriverhealthsystem.com",
+   "page": "https://singingriverhealthsystem.com/careers/",
+   "src": "h1b"
+  },
+  {
    "type": "gh",
    "token": "coherenteconomicsllc",
    "url": "job-boards.greenhouse.io/coherenteconomicsllc",
