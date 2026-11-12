@@ -1,11 +1,11 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-09T06:05:13.541Z",
+ "generated": "2026-11-12T06:05:08.778Z",
  "counts": {
   "successfactors": 41,
   "phenom": 24,
-  "jibe": 19,
-  "oracle": 39,
+  "jibe": 20,
+  "oracle": 44,
   "avature": 3,
   "tiktok": 1,
   "tencent": 1,
@@ -1388,6 +1388,71 @@
    "site": "3810",
    "jobs": 928,
    "verified": "oracle portal answers (928 jobs)"
+  },
+  {
+   "company": "Warby Parker",
+   "group": "unicorn",
+   "tier": 1,
+   "industry": "consumer",
+   "type": "oracle",
+   "host": "fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "WarbyParkerCareers",
+   "jobs": 941,
+   "verified": "oracle portal answers (941 jobs)"
+  },
+  {
+   "company": "CSX Corporation",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CSXCareers",
+   "jobs": 91,
+   "verified": "oracle portal answers (91 jobs)"
+  },
+  {
+   "company": "Digital Realty",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "hdep.fa.us2.oraclecloud.com",
+   "site": "CX",
+   "jobs": 165,
+   "verified": "oracle portal answers (165 jobs)"
+  },
+  {
+   "company": "Garmin",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "jibe",
+   "base": "https://careers.garmin.com",
+   "jobs": 440,
+   "verified": "jibe portal answers (440 jobs)"
+  },
+  {
+   "company": "Stanford University",
+   "group": "capexempt",
+   "tier": 1,
+   "industry": "university",
+   "type": "oracle",
+   "host": "fa-exuf-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 403,
+   "verified": "oracle portal answers (403 jobs)"
+  },
+  {
+   "company": "Williams-Sonoma, Inc.",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "oracle",
+   "host": "ehac.fa.us6.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 1127,
+   "verified": "oracle portal answers (1127 jobs)"
   }
  ]
 }

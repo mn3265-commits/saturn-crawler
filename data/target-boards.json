@@ -21220,6 +21220,126 @@
    "site": "ATTGeneral",
    "verified": "Workday CXS att/ATTGeneral answers (1112 jobs); linked from the company's own careers page",
    "jobs": 1112
+  },
+  {
+   "company": "Airbus",
+   "tier": 2,
+   "industry": "aerospace",
+   "source": "cloud-crawl global",
+   "ats": "workday",
+   "tenant": "ag",
+   "wd": "wd3",
+   "site": "Airbus",
+   "verified": "Workday CXS ag/Airbus answers (2000 jobs); linked from the company's own careers page",
+   "jobs": 2000
+  },
+  {
+   "company": "AllianceBernstein",
+   "tier": 1,
+   "industry": "asset management",
+   "source": "cloud-crawl asset",
+   "ats": "workday",
+   "tenant": "abglobal",
+   "wd": "wd1",
+   "site": "alliancebernsteincareers",
+   "verified": "Workday CXS abglobal/alliancebernsteincareers answers (87 jobs); linked from the company's own careers page",
+   "jobs": 87
+  },
+  {
+   "company": "Ares Management",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "cloud-crawl sp500",
+   "ats": "workday",
+   "tenant": "aresmgmt",
+   "wd": "wd1",
+   "site": "External",
+   "verified": "Workday CXS aresmgmt/External answers (234 jobs); linked from the company's own careers page",
+   "jobs": 234
+  },
+  {
+   "company": "Loews Corporation",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "cloud-crawl sp500",
+   "ats": "workday",
+   "tenant": "loewscorp",
+   "wd": "wd1",
+   "site": "loewscorp",
+   "verified": "Workday CXS loewscorp/loewscorp answers (3 jobs); linked from the company's own careers page",
+   "jobs": 3
+  },
+  {
+   "company": "Marathon Petroleum",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "cloud-crawl sp500",
+   "ats": "workday",
+   "tenant": "mpc",
+   "wd": "wd1",
+   "site": "MPCCareers",
+   "verified": "Workday CXS mpc/MPCCareers answers (115 jobs); linked from the company's own careers page",
+   "jobs": 115
+  },
+  {
+   "company": "United Rentals",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "cloud-crawl sp500",
+   "ats": "workday",
+   "tenant": "ur",
+   "wd": "wd1",
+   "site": "URcareers",
+   "verified": "Workday CXS ur/URcareers answers (1230 jobs); linked from the company's own careers page",
+   "jobs": 1230
+  },
+  {
+   "company": "Vertex Pharmaceuticals",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "cloud-crawl sp500",
+   "ats": "workday",
+   "tenant": "vrtx",
+   "wd": "wd501",
+   "site": "vertex_careers",
+   "verified": "Workday CXS vrtx/vertex_careers answers (295 jobs); linked from the company's own careers page",
+   "jobs": 295
+  },
+  {
+   "company": "Mass General Brigham",
+   "tier": 1,
+   "industry": "hospital",
+   "source": "cloud-crawl capexempt",
+   "ats": "workday",
+   "tenant": "massgeneralbrigham",
+   "wd": "wd1",
+   "site": "MGBExternal",
+   "verified": "Workday CXS massgeneralbrigham/MGBExternal answers (2000 jobs); linked from the company's own careers page",
+   "jobs": 2000
+  },
+  {
+   "company": "Simons Foundation",
+   "tier": 1,
+   "industry": "research nonprofit",
+   "source": "cloud-crawl capexempt",
+   "ats": "workday",
+   "tenant": "simonsfoundation",
+   "wd": "wd1",
+   "site": "simonsfoundationcareers",
+   "verified": "Workday CXS simonsfoundation/simonsfoundationcareers answers (11 jobs); linked from the company's own careers page",
+   "jobs": 11
+  },
+  {
+   "company": "Caterpillar Inc.",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "cloud-crawl sp500",
+   "ats": "workday",
+   "tenant": "cat",
+   "wd": "wd5",
+   "site": "CaterpillarCareers",
+   "verified": "Workday CXS cat/CaterpillarCareers answers (1027 jobs); linked from the company's own careers page",
+   "jobs": 1027
   }
  ]
 }

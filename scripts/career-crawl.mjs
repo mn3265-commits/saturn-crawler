@@ -123,15 +123,7 @@ async function renderPass(cache, list) {
   const newPage = async () => { try { return await ctx.newPage(); } catch { await launch(); return ctx.newPage(); } };
   await launch();
   let i = 0, done = 0, found = 0; const t0 = Date.now();
-  // 2026-11-12: a wall-clock budget (SP_RENDER_BUDGET_SEC) ends the chunk gracefully before the workflow's hard kill, the
-  // cache is saved every 20 sites, and every site in the chunk is stamped renderTry up front (one save) so a chunk that
-  // still dies hard does not re-pick the same sites next time (the --render list skips renderTry < 6 h).
-  const RENDER_BUDGET = (Number(process.env.SP_RENDER_BUDGET_SEC) || 0) * 1000;
-  for (const d of list) if (cache[d]) cache[d].renderTry = Date.now();
-  await writeFile(CACHE, JSON.stringify(cache));
-  await Promise.all(Array.from({ length: Math.max(1, +process.env.RENDER_PAGES || 1) }, async () => { while (i < list.length) {
-    if (RENDER_BUDGET && Date.now() - t0 > RENDER_BUDGET) break;
-    const d = list[i++], v = cache[d];
+  await Promise.all(Array.from({ length: Math.max(1, +process.env.RENDER_PAGES || 1) }, async () => { while (i < list.length) { const d = list[i++], v = cache[d];
     const page = await newPage(); const seen = [];
     page.on('request', q => seen.push(q.url()));
     let boards = [], jobs = [], landed = null, portal = [];
@@ -160,11 +152,9 @@ async function renderPass(cache, list) {
     if (!uniq.length && !jobs.length && v.src === 'yc' && YC_SLUG.get(v.name)) { const y = await get(`https://www.ycombinator.com/companies/${YC_SLUG.get(v.name)}/jobs`); if (y) jobs = siteJobs(y.html, y.url); }
     cache[d] = { ...v, at: Date.now(), rendered: true, rv: 3, ...(landed ? { landed, portal } : {}), status: uniq.length ? 'found' : jobs.length ? 'site' : 'no-ats', boards: uniq, ...(jobs.length && !uniq.length ? { jobs } : {}) };
     if (uniq.length) found++;
-    if (++done % 20 === 0) { console.error(`  render ${done}/${list.length} found ${found} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
+    if (++done % 100 === 0) { console.error(`  render ${done}/${list.length} found ${found} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); await emitBoards(cache); } } }));
   await browser.close().catch(() => {});
-  if (RENDER_BUDGET && Date.now() - t0 > RENDER_BUDGET && done < list.length) console.error(`  render budget hit at ${done}/${list.length}`);
-  await writeFile(CACHE, JSON.stringify(cache));
-  return { rendered: done, found, budgetHit: !!(RENDER_BUDGET && done < list.length) };
+  return { rendered: done, found };
 }
 
 function universe(yc, nyc, dw, seeds, nycU = {}, co = {}, coDom = {}, h1b = {}) {
@@ -181,50 +171,7 @@ function universe(yc, nyc, dw, seeds, nycU = {}, co = {}, coDom = {}, h1b = {}) 
   return [...m.values()];
 }
 
-if (import.meta.url === (await import('node:url')).pathToFileURL((await import('node:fs')).realpathSync(process.argv[1])).href) {
-  console.assert(atsLinks('https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs')[0]?.site === '2' && atsLinks('x.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1')[0]?.type === 'oracle', 'atsLinks portal self-check');
-  const cache = await read(CACHE, {});
-  let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}), await read(join(ROOT, 'data', 'chrome-only-seeds.json'), {}), await read(join(ROOT, 'data', 'chrome-only-domains.json'), {}), await read(join(ROOT, 'data', 'h1b-domains.json'), {}));
-  YC_SLUG = new Map((await read(join(ROOT, 'data', 'yc-companies.json'), [])).filter(c => c.isHiring && c.slug).map(c => [c.name, c.slug]));
-  const only = arg('--only')?.split(',').map(s => s.trim().toLowerCase());
-  if (only) list = list.filter(c => only.some(o => c.domain.includes(o) || c.name.toLowerCase().includes(o)));
-  const todo = list.filter(c => process.argv.includes('--refresh') || only || !(cache[c.domain] && (cache[c.domain].status === 'site' && cache[c.domain].rendered || Date.now() - cache[c.domain].at < (cache[c.domain].status === 'site' ? 864e5 - 36e5 : TTL)))).slice(0, Number(arg('--limit')) || Infinity);
-  // 2026-11-12 (crawl.yml 11-09..11-11: 4 runs cancelled, 13 render chunks in a row at "12449 to crawl" + exit 124): with
-  // --render this re-ran the WHOLE static pass before rendering anything, and 24 workers stuck on slow sites (crawl() can
-  // make 16 fetches x 30 s) never reached the 200-site save, so every chunk redid the same work and died. Now: --render
-  // skips the static pass (it has its own step; --static-too restores it), every site has a hard cap, a wall-clock
-  // budget (SP_STATIC_BUDGET_SEC) ends the pass gracefully with the cache written, and the cache is saved every 50.
-  const RENDER_ONLY = process.argv.includes('--render') && !process.argv.includes('--static-too');
-  const STATIC_BUDGET = (Number(process.env.SP_STATIC_BUDGET_SEC) || 0) * 1000;
-  const SITE_CAP_MS = Number(process.env.SP_SITE_CAP_MS) || 120000;
-  if (RENDER_ONLY) todo.length = 0;
-  console.error(`career-crawl: ${list.length} companies, ${todo.length} to crawl${RENDER_ONLY ? ' (render only)' : ''}`);
-  let i = 0, done = 0; const t0 = Date.now();
-  const capped = (p, ms, fb) => Promise.race([p, new Promise(r => setTimeout(() => r(fb), ms))]);
-  await Promise.all(Array.from({ length: 24 }, async () => { while (i < todo.length) { const c = todo[i++];
-    if (STATIC_BUDGET && Date.now() - t0 > STATIC_BUDGET) break;
-    let res = await capped(crawl(c.site), SITE_CAP_MS, { status: 'down', boards: [], capped: true });
-    if (res.status !== 'found' && c.src === 'yc' && YC_SLUG.get(c.name)) { const y = await get(`https://www.ycombinator.com/companies/${YC_SLUG.get(c.name)}/jobs`);
-      const jobs = y ? siteJobs(y.html, y.url) : []; if (jobs.length) res = { status: 'site', boards: [], jobs, page: y.url, via: 'yc' }; }
-    cache[c.domain] = { name: c.name, src: c.src, at: Date.now(), ...res };
-    if (++done % 50 === 0) { console.error(`  ${done}/${todo.length} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); } } }));
-  if (STATIC_BUDGET && Date.now() - t0 > STATIC_BUDGET) console.error(`  static budget hit at ${done}/${todo.length}, cache saved`);
-  await writeFile(CACHE, JSON.stringify(cache));
-  if (process.argv.includes('--render') && !process.env.CI && !process.argv.includes('--local-render')) { console.error('render pass skipped: runs in GitHub Actions (saturn-crawler), not on the Mac'); process.exit(0); }
-  if (process.argv.includes('--render')) {
-    const doms = new Set(list.map(c => c.domain));
-    const big = d => /chrome-only|program/.test(cache[d].src || '');
-    const rl = Object.keys(cache).filter(d => doms.has(d) && (cache[d].status === 'down' && !cache[d].rendered ||   /* 2026-11-09 coverage audit: ~2/3 of 'down' startups answer a real browser (403/429 bot walls), so every down site gets one render, big ones first via pr() */ cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 3) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
-    const pr = d => (big(d) ? -8 : 0) + (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
-    // 2026-11-12: a site tried in the last 6 h by a chunk that died hard (renderTry stamped, not rendered) waits its turn.
-    const fresh = rl.filter(d => !(cache[d].renderTry && Date.now() - cache[d].renderTry < 6 * 36e5));
-    fresh.sort((a, b) => pr(a) - pr(b));
-    const chunk = fresh.slice(0, +process.env.RENDER_MAX || Infinity);
-    console.error(`render pass: ${chunk.length} of ${fresh.length} sites (${rl.length - fresh.length} cooling)`);
-    const rp = await renderPass(cache, chunk); console.error(JSON.stringify(rp));
-    if (chunk.length < fresh.length || rp.budgetHit) console.error('RENDER_MORE');
-    await writeFile(CACHE, JSON.stringify(cache));
-  }
+export async function emitBoards(cache) {
   const boards = [], byType = {};
   const k = x => String(x || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const theirs = (domain, v, b) => { const t = k(b.token.split('.')[0]), n = k(v.name), d = k(domain.split('.')[0]);
@@ -233,5 +180,40 @@ if (import.meta.url === (await import('node:url')).pathToFileURL((await import('
   const st = {}; for (const v of Object.values(cache)) st[v.status] = (st[v.status] || 0) + 1;
   const siteJobsOut = Object.entries(cache).filter(([, v]) => v.status === 'site').flatMap(([domain, v]) => (v.jobs || []).map(j => ({ ...j, company: v.name, website: domain, src: v.src, page: v.page, crawledAt: v.at })));
   await writeFile(OUT, JSON.stringify({ generated: new Date().toISOString(), companies: Object.keys(cache).length, status: st, byType, boards, siteJobs: siteJobsOut }, null, 1));
+  return { st, byType };
+}
+
+if (import.meta.url === (await import('node:url')).pathToFileURL((await import('node:fs')).realpathSync(process.argv[1])).href) {
+  console.assert(atsLinks('https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs')[0]?.site === '2' && atsLinks('x.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1')[0]?.type === 'oracle', 'atsLinks portal self-check');
+  const cache = await read(CACHE, {});
+  if (process.argv.includes('--emit')) { const r = await emitBoards(cache); console.log(JSON.stringify({ emitted: true, status: r.st, byType: r.byType })); process.exit(0); }
+  const h1bDom = await read(join(ROOT, 'data', 'h1b-domains.json'), {}), h1bOrdered = {}; for (const n of (await read(join(ROOT, 'data', 'h1b-tech-seeds.json'), {})).companies || []) if (h1bDom[n]) h1bOrdered[n] = h1bDom[n]; for (const [n, d] of Object.entries(h1bDom)) if (d && !(n in h1bOrdered)) h1bOrdered[n] = d;
+  let list = universe(await read(join(ROOT, 'data', 'yc-companies.json'), []), await read(join(ROOT, 'data', 'nyc-startups.json'), {}), await read(join(ROOT, 'data', 'diaspora-watch.json'), {}), await read(join(ROOT, 'data', 'crawl-seeds.json'), {}), await read(join(ROOT, 'data', 'nyc-startup-universe.json'), {}), await read(join(ROOT, 'data', 'chrome-only-seeds.json'), {}), await read(join(ROOT, 'data', 'chrome-only-domains.json'), {}), h1bOrdered);
+  YC_SLUG = new Map((await read(join(ROOT, 'data', 'yc-companies.json'), [])).filter(c => c.isHiring && c.slug).map(c => [c.name, c.slug]));
+  const only = arg('--only')?.split(',').map(s => s.trim().toLowerCase());
+  if (only) list = list.filter(c => only.some(o => c.domain.includes(o) || c.name.toLowerCase().includes(o)));
+  const todo = list.filter(c => process.argv.includes('--refresh') || only || !(cache[c.domain] && (cache[c.domain].status === 'site' && cache[c.domain].rendered || Date.now() - cache[c.domain].at < (cache[c.domain].status === 'site' ? 864e5 - 36e5 : TTL)))).slice(0, Number(arg('--limit')) || Infinity);
+  console.error(`career-crawl: ${list.length} companies, ${todo.length} to crawl`);
+  let i = 0, done = 0; const t0 = Date.now();
+  await Promise.all(Array.from({ length: +process.env.SP_CRAWL_CONC || 24 }, async () => { while (i < todo.length) { const c = todo[i++];
+    let res = await crawl(c.site);
+    if (res.status !== 'found' && c.src === 'yc' && YC_SLUG.get(c.name)) { const y = await get(`https://www.ycombinator.com/companies/${YC_SLUG.get(c.name)}/jobs`);
+      const jobs = y ? siteJobs(y.html, y.url) : []; if (jobs.length) res = { status: 'site', boards: [], jobs, page: y.url, via: 'yc' }; }
+    cache[c.domain] = { name: c.name, src: c.src, at: Date.now(), ...res };
+    if (++done % 200 === 0) { console.error(`  ${done}/${todo.length} ${Math.round((Date.now() - t0) / 1e3)}s`); await writeFile(CACHE, JSON.stringify(cache)); await emitBoards(cache); } } }));
+  await writeFile(CACHE, JSON.stringify(cache)); await emitBoards(cache);
+  if (process.argv.includes('--render') && !process.env.CI && !process.argv.includes('--local-render')) { console.error('render pass skipped: runs in GitHub Actions (saturn-crawler), not on the Mac'); process.exit(0); }
+  if (process.argv.includes('--render')) {
+    const doms = new Set(list.map(c => c.domain));
+    const big = d => /chrome-only|program/.test(cache[d].src || '');
+    const rl = Object.keys(cache).filter(d => doms.has(d) && (cache[d].status === 'down' && !cache[d].rendered ||   /* 2026-11-09 coverage audit: ~2/3 of 'down' startups answer a real browser (403/429 bot walls), so every down site gets one render, big ones first via pr() */ cache[d].status === 'no-ats' && (!cache[d].rendered || cache[d].rv !== 3) || cache[d].status === 'site' && cache[d].rendered && Date.now() - cache[d].at > 864e5 - 36e5 || process.argv.includes('--refresh') && cache[d].status === 'no-ats'));
+    const pr = d => (big(d) ? -8 : 0) + (cache[d].status === 'site' ? 0 : 4) + (/nyc/.test(cache[d].src || '') ? 0 : 2) + (cache[d].page ? 0 : 1);
+    rl.sort((a, b) => pr(a) - pr(b));
+    const chunk = rl.slice(0, +process.env.RENDER_MAX || Infinity);
+    console.error(`render pass: ${chunk.length} of ${rl.length} sites`); console.error(JSON.stringify(await renderPass(cache, chunk)));
+    if (chunk.length < rl.length) console.error('RENDER_MORE');
+    await writeFile(CACHE, JSON.stringify(cache)); await emitBoards(cache);
+  }
+  const { st, byType } = await emitBoards(cache);
   console.log(JSON.stringify({ crawled: done, status: st, byType }));
 }
