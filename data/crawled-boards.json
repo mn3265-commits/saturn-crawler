@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-12T09:33:07.047Z",
+ "generated": "2026-11-12T09:39:07.677Z",
  "companies": 22901,
  "status": {
-  "found": 3167,
-  "down": 4218,
-  "no-ats": 12025,
-  "site": 3491
+  "found": 3170,
+  "down": 4158,
+  "no-ats": 12078,
+  "site": 3495
  },
  "byType": {
   "dover": 7,
   "ashby": 715,
-  "workday": 552,
+  "workday": 553,
   "lever": 262,
   "gh": 894,
   "gem": 74,
-  "workable": 176,
+  "workable": 177,
   "rippling": 137,
-  "bamboohr": 161,
+  "bamboohr": 162,
   "smartrecruiters": 54,
   "recruitee": 27,
   "eightfold": 38,
@@ -9671,6 +9671,23 @@
   },
   {
    "type": "workday",
+   "token": "cohenco.wd108.myworkdayjobs.com",
+   "url": "cohenco.wd108.myworkdayjobs.com/CC",
+   "site": "CC",
+   "label": "Cohen & Company",
+   "website": "cohencpa.com",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "daybreaker",
+   "url": "apply.workable.com/daybreaker",
+   "label": "DAYBREAKER",
+   "website": "daybreaker.com",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
    "token": "datasite.wd1.myworkdayjobs.com",
    "label": "DataSite",
    "website": "datasite.com",
@@ -10022,6 +10039,14 @@
    "label": "Encord",
    "website": "encord.com",
    "page": "https://encord.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "enginedigital",
+   "url": "enginedigital.bamboohr.com/careers",
+   "label": "Engine Digital",
+   "website": "enginedigital.com",
    "src": "nyc"
   },
   {
@@ -60944,6 +60969,19 @@
    "crawledAt": 1794470661788
   },
   {
+   "title": "Editor",
+   "url": "https://cryptobriefing.com/careers/editor/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Crypto Briefing",
+   "website": "cryptobriefing.com",
+   "src": "nyc",
+   "crawledAt": 1794476071552
+  },
+  {
    "title": "Mariana Furquim, Data Scientist",
    "url": "https://www.crealytics.com/careers#mariana-furquim-data-scientist",
    "datePosted": null,
@@ -63739,6 +63777,71 @@
    "crawledAt": 1794470821510
   },
   {
+   "title": "Practice Director – Presales (Engineering Services- 5-9 years)",
+   "url": "https://www.everestgrp.com/job/practice-director-presales-engineering-services-5-9-years/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Everest Group",
+   "website": "everestgrp.com",
+   "src": "nyc",
+   "crawledAt": 1794476278394
+  },
+  {
+   "title": "Practice Director – Healthcare and Life Sciences",
+   "url": "https://www.everestgrp.com/job/practice-director-healthcare-and-life-sciences-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Everest Group",
+   "website": "everestgrp.com",
+   "src": "nyc",
+   "crawledAt": 1794476278394
+  },
+  {
+   "title": "Practice Director – Locations",
+   "url": "https://www.everestgrp.com/job/practice-director-locations/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Everest Group",
+   "website": "everestgrp.com",
+   "src": "nyc",
+   "crawledAt": 1794476278394
+  },
+  {
+   "title": "Senior Analyst – CIS",
+   "url": "https://www.everestgrp.com/job/senior-analyst-cis/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Everest Group",
+   "website": "everestgrp.com",
+   "src": "nyc",
+   "crawledAt": 1794476278394
+  },
+  {
+   "title": "Senior Analyst – Application Services",
+   "url": "https://www.everestgrp.com/job/senior-analyst-application-services/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Everest Group",
+   "website": "everestgrp.com",
+   "src": "nyc",
+   "crawledAt": 1794476278394
+  },
+  {
    "title": "Chief Relationship Officer",
    "url": "https://egamigroup.com/careers/#chief-relationship-officer",
    "datePosted": null,
@@ -63751,6 +63854,58 @@
    "src": "nyc",
    "page": "https://egamigroup.com/careers/",
    "crawledAt": 1794470829909
+  },
+  {
+   "title": "In-Home Sales Representative ($150k+ First Year)",
+   "url": "https://exteriorpoint.zohorecruit.com/jobs/Careers/714594000004766042/In-Home-Sales-Representative-150k-First-Year-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Exterior Point Home Remodeling",
+   "website": "exteriorpoint.com",
+   "src": "nyc",
+   "crawledAt": 1794476287292
+  },
+  {
+   "title": "Entry-Level Sales Representative",
+   "url": "https://exteriorpoint.zohorecruit.com/jobs/Careers/714594000002707012/Entry-Level-Sales-Representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Exterior Point Home Remodeling",
+   "website": "exteriorpoint.com",
+   "src": "nyc",
+   "crawledAt": 1794476287292
+  },
+  {
+   "title": "Sales Representative (Exterior Remodeling)",
+   "url": "https://exteriorpoint.zohorecruit.com/jobs/Careers/714594000004576005/Sales-Representative-Exterior-Remodeling-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Exterior Point Home Remodeling",
+   "website": "exteriorpoint.com",
+   "src": "nyc",
+   "crawledAt": 1794476287292
+  },
+  {
+   "title": "Sales Representative",
+   "url": "https://exteriorpoint.zohorecruit.com/jobs/Careers/714594000003078003/Sales-Representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Exterior Point Home Remodeling",
+   "website": "exteriorpoint.com",
+   "src": "nyc",
+   "crawledAt": 1794476287292
   },
   {
    "title": "Central Operations Careers",
@@ -63779,6 +63934,19 @@
    "src": "nyc",
    "page": "https://www.everlaw.com/careers/",
    "crawledAt": 1794467565597
+  },
+  {
+   "title": "Public Relations Intern",
+   "url": "https://www.factorypr.com/jobs/public-relations-intern-2025/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "Factory PR",
+   "website": "factorypr.com",
+   "src": "nyc",
+   "crawledAt": 1794476334098
   },
   {
    "title": "Sr. Data & Insights Manager",
