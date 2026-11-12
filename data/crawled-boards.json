@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-12T09:53:32.625Z",
+ "generated": "2026-11-12T09:59:34.070Z",
  "companies": 22901,
  "status": {
-  "found": 3181,
-  "down": 3978,
-  "no-ats": 12224,
-  "site": 3518
+  "found": 3184,
+  "down": 3918,
+  "no-ats": 12278,
+  "site": 3521
  },
  "byType": {
   "dover": 7,
-  "ashby": 716,
-  "workday": 553,
+  "ashby": 717,
+  "workday": 554,
   "lever": 263,
   "gh": 901,
   "gem": 74,
@@ -21,7 +21,7 @@
   "recruitee": 27,
   "eightfold": 38,
   "icims": 154,
-  "oracle": 90,
+  "oracle": 91,
   "successfactors": 14
  },
  "boards": [
@@ -12398,6 +12398,14 @@
    "src": "nyc"
   },
   {
+   "type": "oracle",
+   "token": "edjd.fa.us2.oraclecloud.com",
+   "url": "edjd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "label": "Peloton Consulting Group",
+   "website": "pelotongroup.com",
+   "src": "nyc"
+  },
+  {
    "type": "bamboohr",
    "token": "joinpavilion",
    "label": "Pavilion",
@@ -12427,6 +12435,14 @@
    "label": "Pathstone",
    "website": "pathstone.com",
    "page": "https://pathstone.com/about-us/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "pearlhealth",
+   "url": "jobs.ashbyhq.com/pearlhealth",
+   "label": "Pearl Health",
+   "website": "pearlhealth.com",
    "src": "nyc"
   },
   {
@@ -12708,6 +12724,15 @@
    "label": "Proper Cloth",
    "website": "propercloth.com",
    "page": "https://propercloth.com/about/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "pcaobus.wd503.myworkdayjobs.com",
+   "url": "pcaobus.wd503.myworkdayjobs.com/PCAOB",
+   "site": "PCAOB",
+   "label": "Public Company Accounting Oversight Board (PCAOB)",
+   "website": "pcaobus.org",
    "src": "nyc"
   },
   {
@@ -76767,6 +76792,162 @@
    "crawledAt": 1794471469953
   },
   {
+   "title": "James, Creative Director",
+   "url": "https://www.papier.com/careers/#james-creative-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Papier",
+   "website": "papier.com",
+   "src": "nyc",
+   "crawledAt": 1794477344946
+  },
+  {
+   "title": "Eve, Business Intelligence Executive",
+   "url": "https://www.papier.com/careers/#eve-business-intelligence-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Papier",
+   "website": "papier.com",
+   "src": "nyc",
+   "crawledAt": 1794477344946
+  },
+  {
+   "title": "Sarah, Project Delivery Manager",
+   "url": "https://www.papier.com/careers/#sarah-project-delivery-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Papier",
+   "website": "papier.com",
+   "src": "nyc",
+   "crawledAt": 1794477344946
+  },
+  {
+   "title": "Machine Learning Engineer, Outmax",
+   "url": "https://perion.com/careers/#machine-learning-engineer-outmax",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "Senior Account Manager - Publishers (AMERICAS)",
+   "url": "https://perion.com/careers/#senior-account-manager-publishers-americas-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "Senior Sales Manager",
+   "url": "https://perion.com/careers/#senior-sales-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "Sales Manager",
+   "url": "https://perion.com/careers/#sales-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "Publisher Success Manager",
+   "url": "https://perion.com/careers/#publisher-success-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "UI/UX Designer",
+   "url": "https://perion.com/careers/#ui-ux-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "Managing Director, UK",
+   "url": "https://perion.com/careers/#managing-director-uk",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "International Sales Director",
+   "url": "https://perion.com/careers/#international-sales-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
+   "title": "Demand Manager",
+   "url": "https://perion.com/careers/#demand-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Perion Network",
+   "website": "perion.com",
+   "src": "nyc",
+   "crawledAt": 1794477394275
+  },
+  {
    "title": "Nicole - Influencer Account Coordinator",
    "url": "https://paireyewear.com/pages/careers-at-pair#nicole-influencer-account-coordinator",
    "datePosted": null,
@@ -76807,6 +76988,19 @@
    "src": "nyc",
    "page": "https://paireyewear.com/pages/careers-at-pair",
    "crawledAt": 1794471492553
+  },
+  {
+   "title": "Managing Director, Per Scholas Greater Boston",
+   "url": "https://www.perscholas.org/about/careers/#managing-director-per-scholas-greater-boston",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Per Scholas",
+   "website": "perscholas.org",
+   "src": "nyc",
+   "crawledAt": 1794477409666
   },
   {
    "title": "Senior Marketing Manager",
