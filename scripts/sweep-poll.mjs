@@ -104,7 +104,8 @@ const boards = new Map();
 for (const b of [...(yc.sources || []), ...(yc.liveNoLane || [])]) if (b.type && b.token) boards.set(b.type + '|' + b.token, { type: b.type, token: b.token, label: b.label || b.token });
 for (const b of (await read(join(ROOT, 'data', 'nyc-startup-boards.json'), {})).boards || []) boards.set(b.type + '|' + b.token, { type: b.type, token: b.token, label: b.label });
 for (const c of sponsors) if (c.ats && c.token) { const t = c.ats === 'greenhouse' ? 'gh' : c.ats; boards.set(t + '|' + c.token, { type: t, token: c.token, label: c.company }); }
-for (const b of (await read(join(ROOT, 'data', 'crawled-boards.json'), {})).boards || []) if (POLLED.has(b.type)) boards.set(b.type + '|' + b.token, { type: b.type, token: b.token, label: b.label, site: b.site, page: b.page });
+const NAMER = (await import('./board-name.mjs')).makeNamer((await read(join(ROOT, 'data', 'target-boards.json'), {})).boards || []);
+for (const b of (await read(join(ROOT, 'data', 'crawled-boards.json'), {})).boards || []) if (POLLED.has(b.type)) boards.set(b.type + '|' + b.token, { type: b.type, token: b.token, label: NAMER.board(b.label, b.type, b.token, b.site), site: b.site, page: b.page });
 { let n = 0; for (const b of (await read(join(ROOT, 'data', 'cc-boards.json'), {})).boards || []) if (POLLED.has(b.type) && !boards.has(b.type + '|' + b.token)) { boards.set(b.type + '|' + b.token, { type: b.type, token: b.token, label: b.label, via: 'cc-index' }); n++; }
   if (n) console.error(`startup-sweep: +${n} boards from the Common Crawl ATS index`); }
 const startupNames = new Set([...boards.values()].map(b => key(b.label)));

@@ -1,11 +1,11 @@
-import { readFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36';
 const read = async (p, fb) => { try { return JSON.parse(await readFile(p, 'utf8')); } catch { return fb; } };
-const decode = s => String(s || '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&rsquo;|&lsquo;/g, "'").replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d));
+const decode = s => String(s || '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&rsquo;|&lsquo;/g, "'").replace(/&ndash;|&mdash;/g, '-').replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d));
 const text = s => decode(decode(s).replace(/<(script|style)[\s\S]*?<\/\1>/gi, ' ').replace(/<br\s*\/?>|<\/(p|li|h\d|div|tr)>/gi, '\n').replace(/<[^>]+>/g, ' ')).replace(/[ \t]+/g, ' ').replace(/\n\s*\n+/g, '\n').trim();
 
 export const NYC_LOC = /new york|\bnyc\b|manhattan|brooklyn|queens|bronx|staten island|jersey city|hoboken|newark|weehawken|basking ridge|stamford|white plains|purchase, ny|harrison, ny|long island city|melville|\bny\b(?!\w)/i;
@@ -32,7 +32,42 @@ const iso = v => { const t = Date.parse(v); return Number.isFinite(t) ? new Date
 
 const BIGTECH_Q = ['marketing', 'product manager', 'strategy', 'program manager', 'customer', 'growth', 'business operations', 'analytics'];
 
+const SEEN_F = join(ROOT, 'data', 'portal-seen.json'); let SEEN = null;
+const ldJob = html => { for (const m of String(html || '').matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) { try { const j = JSON.parse(m[1]); for (const x of [].concat(j['@graph'] || j)) if (x && x['@type'] === 'JobPosting') return x; } catch {} } return null; };
+const icimsLoc = l => { const p = l.trim().split('-'); return /^[A-Z]{2}$/.test(p[0]) && p.length >= 2 ? [p.slice(2).join('-'), p[1], p[0] === 'US' ? 'United States' : p[0]].filter(Boolean).join(', ') : l.trim(); };
+
 export const ADAPTERS = {
+  async icims(b, { maxPages = 6 } = {}) {
+    const out = [];
+    for (let p = 0; p < maxPages; p++) {
+      const r = await get(`${b.base}/jobs/search?ss=1&in_iframe=1&pr=${p}`, { json: false }); let n = 0;
+      for (const s of String(r.text || '').split('<div class="row">').slice(1)) {
+        const m = s.match(/href="([^"]+\/jobs\/(\d+)\/[^"]*)"[^>]*>[\s\S]*?<h3[^>]*>([\s\S]*?)<\/h3>/); if (!m) continue; n++;
+        const dt = (s.match(/Posted Date<\/span>\s*<span title="([^"]+)"/) || [])[1];
+        const loc = (s.match(/Job Locations<\/span>\s*<\/dt>\s*<dd[^>]*>\s*<span[^>]*>([\s\S]*?)<\/span>/) || [])[1] || '';
+        if (!out.some(o => o.id === m[2])) out.push({ id: m[2], title: text(m[3]), locs: text(loc).split('|').map(icimsLoc).filter(Boolean), postedAt: iso(dt), url: decode(m[1]).replace(/[?&]in_iframe=1/, ''), body: '' });
+      }
+      if (!n || !new RegExp(`[?&]pr=${p + 1}\\b`).test(String(r.text).replace(/&amp;/g, '&'))) break;
+    }
+    return out;
+  },
+  async radancy(b, { maxPages = 80 } = {}) {
+    SEEN ||= await read(SEEN_F, {}); const first = !SEEN[b.base], seen = SEEN[b.base] ||= {}, out = []; let complete = false;
+    for (let p = 1; p <= maxPages; p++) {
+      const r = await get(`${b.base}/search-jobs/results?ActiveFacetID=0&CurrentPage=${p}&RecordsPerPage=100&Distance=50&RadiusUnitType=0&Keywords=&Location=&ShowRadius=False&IsPagination=False&FacetType=0&SearchResultsModuleName=Search+Results&SearchFiltersModuleName=Search+Filters&SortCriteria=0&SortDirection=0&SearchType=5&ResultsType=0`);
+      if (!r.data) break; let n = 0;
+      for (const s of String(r.data.results || '').split(/<li[\s>]/).slice(1)) {
+        const m = s.match(/href="((?:\/[a-z]{2}(?:-[a-z]{2})?)?\/job\/[^"]+\/(\d+))"/i); if (!m) continue; n++;
+        const loc = text((s.match(/class="[^"]*location[^"]*"[^>]*>([\s\S]*?)<\//) || [])[1] || '');
+        if (!out.some(o => o.id === m[2])) out.push({ id: m[2], title: text((s.match(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/) || [])[1] || ''), locs: [/multiple|^$/i.test(loc) ? 'Multiple Locations, United States' : loc], url: b.base + m[1], body: '', postedApprox: true });
+      }
+      if (n < 100) { complete = p > 1 || n > 0; break; }
+    }
+    const now = new Date().toISOString(), old = new Date(Date.now() - 60 * 864e5).toISOString(), ids = new Set(out.map(o => o.id));
+    for (const o of out) o.postedAt = seen[o.id] ||= first ? old : now;
+    if (complete) for (const id of Object.keys(seen)) if (!ids.has(id)) delete seen[id];
+    return out;
+  },
   async phenom(b, { sinceMs, maxPages = 8 }) {
     const [country, lang] = (b.locale || 'us/en').split('/');
     const out = [];
@@ -71,7 +106,14 @@ export const ADAPTERS = {
     const out = [];
     for (let p = 0; p < maxPages; p++) {
       const r = await get(`${b.base}/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow=${p * 25}`, { json: false });
-      const rows = [...String(r.text || '').matchAll(/<tr class="data-row[\s\S]*?<\/tr>/g)].map(m => m[0]); if (!rows.length) break;
+      const rows = [...String(r.text || '').matchAll(/<tr class="data-row[\s\S]*?<\/tr>/g)].map(m => m[0]);
+      const tiles = rows.length ? [] : [...String(r.text || '').matchAll(/<li[^>]*class="[^"]*job-tile[\s\S]*?<\/li>/g)].map(m => m[0]);
+      if (!rows.length && !tiles.length) break;
+      for (const h of tiles) {
+        const href = (h.match(/data-url="([^"]+)"/) || h.match(/href="(\/(?:[a-z]+\/)?job\/[^"]+)"/) || [])[1]; if (!href) continue;
+        const dt = (h.match(/section-date-value">\s*([^<]+)/) || [])[1];
+        out.push({ id: (href.match(/\/(\d+)\/?$/) || [])[1], title: text((h.match(/class="jobTitle-link[^>]*>([\s\S]*?)<\/a>/) || [])[1] || ''), locs: [text((h.match(/section-location-value">([\s\S]*?)<\/div>/) || [])[1] || '')], postedAt: dt ? iso(dt + ' 00:00:00 GMT') : null, postedDay: Boolean(dt), url: b.base + decode(href), needsDetail: true });
+      }
       for (const h of rows) {
         const href = (h.match(/href="(\/(?:[a-z]+\/)?job\/[^"]+)"/) || [])[1]; if (!href) continue;
         const title = decode((h.match(/class="jobTitle-link"[^>]*>([^<]+)</) || [])[1] || '').trim();
@@ -115,12 +157,12 @@ export const ADAPTERS = {
   async eightfold(b, { sinceMs, maxPages = 4 }) {
     const out = [];
     if (b.pcsx) {
-      for (let p = 0; p < 12; p++) {
-        const r = await get(`${b.base}/api/pcsx/search?domain=${b.domain}&query=&location=United%20States&start=${p * 10}&sort_by=timestamp`);
+      for (const q of b.queries ? BIGTECH_Q : ['']) for (let p = 0; p < (b.queries ? 4 : 12); p++) {
+        const r = await get(`${b.base}/api/pcsx/search?domain=${b.domain}&query=${encodeURIComponent(q)}&location=United%20States&start=${p * 10}&sort_by=timestamp`);
         const list = r.data?.data?.positions; if (!list?.length) break;
         let oldest = Infinity;
         for (const j of list) { const t = (j.postedTs || j.creationTs || 0) * 1000; oldest = Math.min(oldest, t || Infinity);
-          out.push({ id: j.id, title: j.name, locs: j.locations || [], postedAt: t ? new Date(t).toISOString() : null, postedDay: true, url: `${b.base}${j.positionUrl || '/careers/job/' + j.id}`, body: '', fetchFull: true }); }
+          if (!out.some(o => o.id === j.id)) out.push({ id: j.id, title: j.name, locs: j.locations || [], postedAt: t ? new Date(t).toISOString() : null, postedDay: true, url: `${b.base}${j.positionUrl || '/careers/job/' + j.id}`, body: '', fetchFull: true }); }
         if (oldest < sinceMs - 864e5) break;
       }
       return out;
@@ -261,6 +303,11 @@ async function detail(b, r) {
     } else if (b.type === 'eightfold' && b.pcsx) {
       const d = await get(`${b.base}/api/pcsx/position_details?position_id=${r.id}&domain=${b.domain}&hl=en`);
       r.body = text(d.data?.data?.jobDescription || '').slice(0, 12000);
+    } else if (b.type === 'icims' || b.type === 'radancy') {
+      const d = await get(b.type === 'icims' ? r.url + (r.url.includes('?') ? '&' : '?') + 'in_iframe=1' : r.url, { json: false }), j = ldJob(d.text);
+      r.body = text(j?.description || String(d.text || '').replace(/[\s\S]*?<body/i, '<body')).slice(0, 12000);
+      if (j && !r.postedAt && b.type === 'icims') r.postedAt = iso(j.datePosted);
+      if (j && b.type === 'radancy') { const L = [].concat(j.jobLocation || []).map(x => [x.address?.addressLocality, x.address?.addressRegion, x.address?.addressCountry].filter(Boolean).join(', ')).filter(Boolean); if (L.length) r.locs = L; }
     } else if (b.type === 'phenom') {
       const d = await get(r.url.includes('myworkdayjobs.com') ? `${b.base}/${b.locale || 'us/en'}/job/${r.id}/x` : r.url, { json: false });
       const m = String(d.text).match(/"description":"((?:[^"\\]|\\.)*)"/); if (m) { try { r.body = text(JSON.parse(`"${m[1]}"`)).slice(0, 12000); } catch {} }
@@ -280,12 +327,13 @@ export async function portalJobs({ hours = 48, log = () => {}, only = null, allT
     let keep = raw.filter(r => r.title && r.locs.some(okLoc) && (allTitles || (IN_LANE.test(r.title) && !OFF.test(r.title))));
     keep = keep.filter(r => !r.postedAt || Date.parse(r.postedAt) >= sinceMs - (r.postedDay || r.needsDetail ? 864e5 : 0));
     await pool(keep.filter(r => r.needsDetail || r.fetchFull || !r.body || r._oracle || r.body.length < 800), 5, r => detail(b, r));
-    keep = keep.filter(r => !r.postedAt || Date.parse(r.postedAt) >= sinceMs);
+    keep = keep.filter(r => (!r.postedAt || Date.parse(r.postedAt) >= sinceMs) && r.locs.some(okLoc));
     for (const r of keep) rows.push({ source: `Portal (${b.type})`, portal: b.type, id: `portal-${b.company.toLowerCase().replace(/[^a-z0-9]+/g, '')}-${r.id}`, company: b.company, title: r.title, url: r.url, locations: r.locs.filter(Boolean),
-      postedAt: r.postedAt, postedApprox: Boolean(r.postedApprox || r.postedDay || ['oracle', 'successfactors', 'avature', 'tencent', 'amazon'].includes(b.type)),
+      postedAt: r.postedAt, postedApprox: Boolean(r.postedApprox || r.postedDay || ['oracle', 'successfactors', 'avature', 'tencent', 'amazon', 'icims'].includes(b.type)),
        hoursAgo: r.postedAt ? Math.round((Date.now() - Date.parse(r.postedAt)) / 36e4) / 10 : null, body: r.body || '', tier: b.tier, industry: b.industry });
     stats[b.company] = { type: b.type, listed: raw.length, kept: keep.length, ms: Date.now() - t0 };
   });
+  if (SEEN) { try { await writeFile(SEEN_F, JSON.stringify(SEEN)); } catch {} }
   log(`portals: ${boards.length} portals, ${rows.length} rows`);
   return Object.assign(rows, { stats });
 }
