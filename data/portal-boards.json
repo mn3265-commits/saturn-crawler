@@ -2132,6 +2132,24 @@
    "site": "CX_1",
    "jobs": 8,
    "verified": "oracle portal answers (8 jobs)"
+  },
+  {
+   "company": "Goldman Sachs",
+   "group": "bank",
+   "tier": 1,
+   "industry": "bank",
+   "type": "goldman",
+   "verified": "2026-11-13 higher.gs.com public GraphQL answers (753 professional roles)"
+  },
+  {
+   "company": "Netflix",
+   "group": "bigtech",
+   "tier": 1,
+   "industry": "media",
+   "type": "eightfold",
+   "base": "https://explore.jobs.netflix.net",
+   "domain": "netflix.com",
+   "verified": "2026-11-13 eightfold v2 jobs API answers"
   }
  ]
 }

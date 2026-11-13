@@ -201,6 +201,20 @@ export const ADAPTERS = {
     }
     return [...out.values()];
   },
+  async goldman(b, { sinceMs, maxPages = 6 }) {
+    const out = [], query = 'query($q: RoleSearchQueryInput!) { roleSearch(searchQueryInput: $q) { totalCount items { roleId corporateTitle jobTitle descriptionHtml createdDate lastPostedDate locations { city state country } externalSource { sourceId } } } }';
+    for (let p = 0; p < maxPages; p++) {
+      const r = await get('https://api-higher.gs.com/gateway/api/v1/graphql', { method: 'POST', headers: { 'content-type': 'application/json', origin: 'https://higher.gs.com' },
+        body: { query, variables: { q: { page: { pageSize: 50, pageNumber: p }, sort: { sortStrategy: 'POSTED_DATE', sortOrder: 'DESC' }, filters: [], experiences: ['PROFESSIONAL'], searchTerm: '' } } } });
+      const list = r.data?.data?.roleSearch?.items; if (!list?.length) break;
+      let oldest = Infinity;
+      for (const j of list) { const d = j.createdDate || j.lastPostedDate, t = d ? Date.parse(d) : 0; oldest = Math.min(oldest, Date.parse(j.lastPostedDate || d || 0) || Infinity);
+        const sid = j.externalSource?.sourceId || String(j.roleId).split('_')[0];
+        out.push({ id: sid, title: j.jobTitle, locs: (j.locations || []).map(l => [l.city, l.state, l.country].filter(Boolean).join(', ')), postedAt: t ? new Date(t).toISOString() : null, url: `https://higher.gs.com/roles/${sid}`, body: text(j.descriptionHtml || '') }); }
+      if (oldest < sinceMs - 864e5) break;
+    }
+    return out;
+  },
   async tencent(b) {
     const out = [];
     for (let p = 1; p <= 3; p++) {

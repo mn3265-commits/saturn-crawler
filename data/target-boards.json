@@ -1989,7 +1989,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "8451",
-   "verified": "Greenhouse board \"84.51° \"",
+   "verified": "Greenhouse board \"84.51\u00b0 \"",
    "jobs": 14
   },
   {
@@ -6162,7 +6162,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "connectwise",
-   "verified": "Greenhouse board \"‎ConnectWise\"",
+   "verified": "Greenhouse board \"\u200eConnectWise\"",
    "jobs": 41
   },
   {
@@ -11116,7 +11116,7 @@
    "source": "ats-cache",
    "ats": "smartrecruiters",
    "token": "loral",
-   "verified": "SmartRecruiters company \"L'Oréal\"",
+   "verified": "SmartRecruiters company \"L'Or\u00e9al\"",
    "jobs": 1
   },
   {
@@ -16792,7 +16792,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "schrdinger",
-   "verified": "Greenhouse board \"Schrödinger\"",
+   "verified": "Greenhouse board \"Schr\u00f6dinger\"",
    "jobs": 41
   },
   {
@@ -19503,7 +19503,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "oura",
-   "verified": "Greenhouse board \"ŌURA\"",
+   "verified": "Greenhouse board \"\u014cURA\"",
    "jobs": 96
   },
   {
@@ -21006,7 +21006,7 @@
    "jobs": 274
   },
   {
-   "company": "Brown–Forman",
+   "company": "Brown\u2013Forman",
    "tier": 2,
    "industry": "S&P 500",
    "source": "cloud-crawl sp500",
@@ -21340,6 +21340,17 @@
    "site": "CaterpillarCareers",
    "verified": "Workday CXS cat/CaterpillarCareers answers (1027 jobs); linked from the company's own careers page",
    "jobs": 1027
+  },
+  {
+   "company": "NVIDIA",
+   "tier": 1,
+   "industry": "big tech",
+   "ats": "workday",
+   "tenant": "nvidia",
+   "wd": "wd5",
+   "site": "NVIDIAExternalCareerSite",
+   "verified": "2026-11-13 Workday CXS answers",
+   "jobs": 760
   }
  ]
 }
