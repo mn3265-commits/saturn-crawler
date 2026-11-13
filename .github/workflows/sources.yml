@@ -20,6 +20,7 @@ jobs:
           path: |
             data/board-poll-cache.json
             data/board-poll-daily.json
+            data/portal-seen.json
           key: bp-${{ github.run_id }}
           restore-keys: bp-
       - name: previous assets (once-a-day sources keep their pace)
