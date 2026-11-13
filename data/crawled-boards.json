@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-13T07:51:22.838Z",
+ "generated": "2026-11-13T07:57:01.631Z",
  "companies": 22901,
  "status": {
   "found": 3217,
   "down": 3854,
-  "site": 3611,
-  "no-ats": 12219
+  "site": 3609,
+  "no-ats": 12221
  },
  "byType": {
   "dover": 7,
@@ -29466,7 +29466,7 @@
    "website": "anylist.com",
    "src": "yc",
    "page": "https://www.anylist.com/jobs",
-   "crawledAt": 1794471854092
+   "crawledAt": 1794556533269
   },
   {
    "title": "Senior Software Engineer — Ruby on Rails/Unix",
@@ -29508,7 +29508,7 @@
    "website": "screenleap.com",
    "src": "yc",
    "page": "https://www.screenleap.com/jobs",
-   "crawledAt": 1794471856404
+   "crawledAt": 1794556536067
   },
   {
    "title": "Software Engineer",
@@ -29522,7 +29522,7 @@
    "website": "screenleap.com",
    "src": "yc",
    "page": "https://www.screenleap.com/jobs",
-   "crawledAt": 1794471856404
+   "crawledAt": 1794556536067
   },
   {
    "title": "Game Developer",
@@ -29539,8 +29539,8 @@
    "crawledAt": 1794478618971
   },
   {
-   "title": "Supplier Quality Engineer - Supply Chain Quality & Reliability",
-   "url": "https://app.hireart.com/jobs/5e3c8c37/apply",
+   "title": "Communications Manager - Communications and Marketing",
+   "url": "https://app.hireart.com/jobs/a0b4f1ce/apply",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -29550,11 +29550,11 @@
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794471862108
+   "crawledAt": 1794556541975
   },
   {
-   "title": "Platform Engineer - Information Technology and Applications",
-   "url": "https://app.hireart.com/jobs/fb6260a1/apply",
+   "title": "Data Engineer - Fleet Operations",
+   "url": "https://app.hireart.com/jobs/443374ea/apply",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -29564,7 +29564,35 @@
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794471862108
+   "crawledAt": 1794556541975
+  },
+  {
+   "title": "Engineer - Fleet Operations",
+   "url": "https://app.hireart.com/jobs/2b8d433b/apply",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HireArt",
+   "website": "hireart.com",
+   "src": "yc",
+   "page": "https://app.hireart.com/browse",
+   "crawledAt": 1794556541975
+  },
+  {
+   "title": "Systems Engineer - Information Technology and Applications",
+   "url": "https://app.hireart.com/jobs/57e1a51f/apply",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HireArt",
+   "website": "hireart.com",
+   "src": "yc",
+   "page": "https://app.hireart.com/browse",
+   "crawledAt": 1794556541975
   },
   {
    "title": "UI/UX Designer",
@@ -29942,7 +29970,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794471866415
+   "crawledAt": 1794556546937
   },
   {
    "title": "Intern New York City",
@@ -29956,7 +29984,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794471866415
+   "crawledAt": 1794556546937
   },
   {
    "title": "Product Engineer New York City",
@@ -29970,7 +29998,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794471866415
+   "crawledAt": 1794556546937
   },
   {
    "title": "Grant Officer New York City",
@@ -29984,7 +30012,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794471866415
+   "crawledAt": 1794556546937
   },
   {
    "title": "Senior Software Engineer",
@@ -30502,7 +30530,7 @@
    "website": "grubmarket.com",
    "src": "yc",
    "page": "https://www.grubmarket.com/",
-   "crawledAt": 1794471866898
+   "crawledAt": 1794556545442
   },
   {
    "title": "Senior Software Engineer, Trust",
@@ -30917,7 +30945,7 @@
    "website": "lugg.com",
    "src": "yc",
    "page": "https://lugg.com/mover/jobs/become-a-lugger",
-   "crawledAt": 1794471879965
+   "crawledAt": 1794556559949
   },
   {
    "title": "{{ product.displayName }}",
@@ -30931,7 +30959,7 @@
    "website": "deako.com",
    "src": "yc",
    "page": "https://www.deako.com/",
-   "crawledAt": 1794471879177
+   "crawledAt": 1794556559759
   },
   {
    "title": "UX Researcher",
@@ -31071,7 +31099,7 @@
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794471891773
+   "crawledAt": 1794556571582
   },
   {
    "title": "User Acquisition Manager Remote R",
@@ -31085,7 +31113,7 @@
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794471891773
+   "crawledAt": 1794556571582
   },
   {
    "title": "Creative Strategist Remote R",
@@ -31099,7 +31127,7 @@
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794471891773
+   "crawledAt": 1794556571582
   },
   {
    "title": "QA Engineer",
@@ -33493,7 +33521,7 @@
    "website": "hirenimble.com",
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
-   "crawledAt": 1794471887407
+   "crawledAt": 1794556567629
   },
   {
    "title": "Senior Contract Software Engineer (Data & Platform)",
@@ -33507,7 +33535,7 @@
    "website": "hirenimble.com",
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
-   "crawledAt": 1794471887407
+   "crawledAt": 1794556567629
   },
   {
    "title": "Controls Engineer",
@@ -33647,7 +33675,7 @@
    "website": "slite.com",
    "src": "yc",
    "page": "https://slite.com/jobs",
-   "crawledAt": 1794471896412
+   "crawledAt": 1794556576595
   },
   {
    "title": "Senior Product Engineer Remote (Europe/North America) Learn more →",
@@ -33661,7 +33689,7 @@
    "website": "slite.com",
    "src": "yc",
    "page": "https://slite.com/jobs",
-   "crawledAt": 1794471896412
+   "crawledAt": 1794556576595
   },
   {
    "title": "Culture Innovation & Strategy Manager",
@@ -34361,7 +34389,7 @@
    "website": "dreamcraft.com",
    "src": "yc",
    "page": "https://www.dreamcraft.com/careers/",
-   "crawledAt": 1794471896234
+   "crawledAt": 1794556575883
   },
   {
    "title": "Sales Engineer",
@@ -34378,7 +34406,7 @@
    "website": "centaur.ai",
    "src": "yc",
    "page": "https://centaur.ai/careers",
-   "crawledAt": 1794471899574
+   "crawledAt": 1794556579131
   },
   {
    "title": "Enterprise Account Manager-",
@@ -34616,7 +34644,7 @@
    "website": "wanderlog.com",
    "src": "yc",
    "page": "https://wanderlog.com/",
-   "crawledAt": 1794471903456
+   "crawledAt": 1794556583430
   },
   {
    "title": "Scientist/Senior Scientist (Biochemistry / Chem Eng)",
@@ -34658,7 +34686,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info AI Operations Manager Metro Manila Full Time AI Ops",
@@ -34672,7 +34700,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info AI Operations Team Lead (25328) Metro Manila Full Time AI Ops",
@@ -34686,7 +34714,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Demand Generation Manager Metro Manila Full Time Marketing",
@@ -34700,7 +34728,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Enterprise Account Executive San Francisco, CA Full Time Executive",
@@ -34714,7 +34742,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Enterprise Account Executive San Francisco, CA Full Time Executive",
@@ -34728,7 +34756,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Enterprise Sales Development Representative Metro Manila Full Time Marketing",
@@ -34742,7 +34770,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Google Ads Manager (SEM) Metro Manila Full Time Marketing",
@@ -34756,7 +34784,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Photo Editing Associate (For Pooling) Metro Manila Full Time Editing Operations",
@@ -34770,7 +34798,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Photo Editing Lead Metro Manila Full Time Editing Operations",
@@ -34784,7 +34812,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Photo Quality Reviewer Metro Manila Full Time Creative Operations",
@@ -34798,7 +34826,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Product Marketing Manager Metro Manila Full Time Marketing",
@@ -34812,7 +34840,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Sales Associate (2622 - For SRS) Metro Manila Full Time Customer Acquisition",
@@ -34826,7 +34854,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Senior Recruitment Specialist Metro Manila Full Time People Operations",
@@ -34840,7 +34868,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Senior Software Engineer (Fullstack) Medellin Full Time Engineering",
@@ -34854,7 +34882,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Senior Software Engineer (Fullstack) - Mexico City Mexico City Full Time Engineering",
@@ -34868,7 +34896,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "More info Support Operations Manager Metro Manila Full Time Customer Success",
@@ -34882,7 +34910,7 @@
    "website": "snappr.com",
    "src": "yc",
    "page": "https://www.snappr.com/join-us",
-   "crawledAt": 1794471909764
+   "crawledAt": 1794556589521
   },
   {
    "title": "contact_page Operations Work Smarter, Not Harder",
@@ -34896,7 +34924,7 @@
    "website": "gotlanded.com",
    "src": "yc",
    "page": "https://employer.gotlanded.com/use-cases/hourly-hiring",
-   "crawledAt": 1794471910954
+   "crawledAt": 1794556590709
   },
   {
    "title": "Backend Engineer",
@@ -35260,7 +35288,7 @@
    "website": "mudrex.com",
    "src": "yc",
    "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794471923585
+   "crawledAt": 1794556602614
   },
   {
    "title": "Customer Success Executive",
@@ -35274,21 +35302,7 @@
    "website": "mudrex.com",
    "src": "yc",
    "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794471923585
-  },
-  {
-   "title": "Sr Manager, Business Development",
-   "url": "https://mudrex.careers-page.com/jobs/a8daab4f-a1d5-4139-9ba5-2390b48ee5f6",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Mudrex",
-   "website": "mudrex.com",
-   "src": "yc",
-   "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794471923585
+   "crawledAt": 1794556602614
   },
   {
    "title": "Senior Product Manager, Investments & Derivatives Products",
@@ -35302,7 +35316,7 @@
    "website": "mudrex.com",
    "src": "yc",
    "page": "https://mudrex.careers-page.com/",
-   "crawledAt": 1794471923585
+   "crawledAt": 1794556602614
   },
   {
    "title": "Agile Project Manager",
@@ -36030,7 +36044,7 @@
    "website": "aperohealth.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apero-health/jobs",
-   "crawledAt": 1794471917606
+   "crawledAt": 1794556597625
   },
   {
    "title": "Software Engineer, Front-end (React, Javascript)",
@@ -36044,7 +36058,7 @@
    "website": "aperohealth.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apero-health/jobs",
-   "crawledAt": 1794471917606
+   "crawledAt": 1794556597625
   },
   {
    "title": "Senior Software Engineer (Backend)",
@@ -36058,7 +36072,7 @@
    "website": "aperohealth.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/apero-health/jobs",
-   "crawledAt": 1794471917606
+   "crawledAt": 1794556597625
   },
   {
    "title": "Store Manager",
@@ -36494,7 +36508,7 @@
    "website": "adenhq.com",
    "src": "yc",
    "page": "https://adenhq.com/careers",
-   "crawledAt": 1794471921206
+   "crawledAt": 1794556601212
   },
   {
    "title": "Go to Market Lead",
@@ -36510,7 +36524,7 @@
    "website": "adenhq.com",
    "src": "yc",
    "page": "https://adenhq.com/careers",
-   "crawledAt": 1794471921206
+   "crawledAt": 1794556601212
   },
   {
    "title": "Hardware Lead",
@@ -36526,7 +36540,7 @@
    "website": "adenhq.com",
    "src": "yc",
    "page": "https://adenhq.com/careers",
-   "crawledAt": 1794471921206
+   "crawledAt": 1794556601212
   },
   {
    "title": "Senior Software Engineer",
@@ -36568,7 +36582,7 @@
    "website": "dittowords.com",
    "src": "yc",
    "page": "https://www.dittowords.com/careers",
-   "crawledAt": 1794471987324
+   "crawledAt": 1794556607574
   },
   {
    "title": "Senior Full Stack Engineer",
@@ -36596,7 +36610,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "DevOps Support Engineer",
@@ -36610,7 +36624,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Staff Frontend Engineer",
@@ -36624,7 +36638,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Staff Infrastructure Engineer",
@@ -36638,7 +36652,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Frontend Engineer",
@@ -36652,7 +36666,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Growth/Product Engineer",
@@ -36666,7 +36680,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Backend Engineer (Go)",
@@ -36680,7 +36694,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Full Stack Engineer",
@@ -36694,7 +36708,7 @@
    "website": "porter.run",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/porter/jobs",
-   "crawledAt": 1794471990094
+   "crawledAt": 1794556611887
   },
   {
    "title": "Head of Operations",
@@ -37576,7 +37590,7 @@
    "website": "adyn.com",
    "src": "yc",
    "page": "https://adyn.com/careers/",
-   "crawledAt": 1794471994705
+   "crawledAt": 1794556614848
   },
   {
    "title": "Digital Storytelling Intern Internship, Seattle (or remote)",
@@ -37590,7 +37604,7 @@
    "website": "adyn.com",
    "src": "yc",
    "page": "https://adyn.com/careers/",
-   "crawledAt": 1794471994705
+   "crawledAt": 1794556614848
   },
   {
    "title": "AI Research Engineer",
@@ -37856,7 +37870,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Senior Product Engineer (Onsite - SF)",
@@ -37870,7 +37884,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Solutions Engineer",
@@ -37884,7 +37898,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Senior Platform Engineer (Onsite - SF)",
@@ -37898,7 +37912,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Developer Relations Lead - Content & Enablement",
@@ -37912,7 +37926,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Senior Software Engineer (Onsite - SF)",
@@ -37926,7 +37940,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Senior Product Designer (Onsite - SF)",
@@ -37940,7 +37954,7 @@
    "website": "seam.co",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/seam/jobs",
-   "crawledAt": 1794471999303
+   "crawledAt": 1794556621295
   },
   {
    "title": "Account Executive - Enterprise, India",
@@ -38055,8 +38069,8 @@
    "crawledAt": 1794480681132
   },
   {
-   "title": "Atmospheric Transport and Dispersion Modeler - Staff Scientist",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#atmospheric-transport-and-dispersion-modeler-staff-scientist",
+   "title": "Environmental Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#environmental-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -38066,63 +38080,7 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Data Scientist",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#data-scientist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Senior Wind Energy Analyst",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-wind-energy-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Senior Renewable Energy Analytics & Performance Lead",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-renewable-energy-analytics-performance-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Atmospheric Sciences - Postdoctoral Researcher",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#atmospheric-sciences-postdoctoral-researcher",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
   },
   {
    "title": "Resilience & Emergency Response Program Manager",
@@ -38136,11 +38094,11 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
   },
   {
-   "title": "Senior Catastrophe Analyst",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-catastrophe-analyst",
+   "title": "Atmospheric Transport and Dispersion Modeler - Staff Scientist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#atmospheric-transport-and-dispersion-modeler-staff-scientist",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -38150,147 +38108,7 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Environmental Specialist",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#environmental-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Graduate Risk & Resilience Consultant (Available 2027)",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#graduate-risk-resilience-consultant-available-2027-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Research Engineer, Bellwether, X",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#research-engineer-bellwether-x",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Associate Engineer / Associate Water Resources Specialist",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#associate-engineer-associate-water-resources-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Space Systems Engineer, Space Operations",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#space-systems-engineer-space-operations",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "WATER QUALITY & REMOTE SENSING RESEARCH SCIENTIST",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#water-quality-remote-sensing-research-scientist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Data Scientist, Sensors",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#data-scientist-sensors",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Technical Project Manager, Constellation Ops Team",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#technical-project-manager-constellation-ops-team",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Mission Manager",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#mission-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
-  },
-  {
-   "title": "Geospatial Data Engineer , WW Sustainability",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#geospatial-data-engineer-ww-sustainability",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Atmo",
-   "website": "atmo.ai",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
   },
   {
    "title": "Operations Analyst, User Safety & Risk Operations",
@@ -38304,7 +38122,161 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Environmental Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#environmental-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Systems Support Operations Engineer, Energy",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#systems-support-operations-engineer-energy",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Digital Operations Manager, YouTube",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#digital-operations-manager-youtube",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Utility Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#utility-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Mission Manager",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#mission-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Clinical Operations Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#clinical-operations-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Senior Renewable Energy Analytics & Performance Lead",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-renewable-energy-analytics-performance-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Laboratory Operations Associate",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#laboratory-operations-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Senior Wind Energy Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-wind-energy-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Hub Maintenance Coordinator",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#hub-maintenance-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Assistant Manager - Inflight",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#assistant-manager-inflight",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
   },
   {
    "title": "Expert Quantitative Analyst",
@@ -38318,11 +38290,11 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
   },
   {
-   "title": "Fleet Coordinator",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#fleet-coordinator",
+   "title": "Senior Operations Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#senior-operations-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -38332,11 +38304,11 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
   },
   {
-   "title": "Staff Software Quality Safety Operations Specialist",
-   "url": "https://www.linkedin.com/jobs/view/4483244602/#staff-software-quality-safety-operations-specialist",
+   "title": "Energy Analyst, Data Center Portfolio",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#energy-analyst-data-center-portfolio",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -38346,7 +38318,49 @@
    "website": "atmo.ai",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4483244602/",
-   "crawledAt": 1794472001543
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Program Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#program-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Mapping Operations Lead",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#mapping-operations-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
+  },
+  {
+   "title": "Commercial Operations Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4483244602/#commercial-operations-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Atmo",
+   "website": "atmo.ai",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4483244602/",
+   "crawledAt": 1794556621144
   },
   {
    "title": "Sales Development Representative (SDR)",
@@ -91807,7 +91821,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794471715926
+   "crawledAt": 1794556344165
   },
   {
    "title": "Regulatory affairs specialist",
@@ -91821,7 +91835,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794471715926
+   "crawledAt": 1794556344165
   },
   {
    "title": "Chief Medical Informatics Officer (CMIO)",
@@ -91835,7 +91849,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794471715926
+   "crawledAt": 1794556344165
   },
   {
    "title": "Hospital administrator/manager",
@@ -91849,7 +91863,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794471715926
+   "crawledAt": 1794556344165
   },
   {
    "title": "Public health policy analyst",
@@ -91863,7 +91877,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1794471715926
+   "crawledAt": 1794556344165
   },
   {
    "title": "Senior Factoring Underwriter & Credit Specialist",
@@ -91939,21 +91953,21 @@
    "website": "sesameworkshop.org",
    "src": "nyc",
    "page": "https://sesameworkshop.org/about-us/careers/",
-   "crawledAt": 1794471716690
+   "crawledAt": 1794556337392
   },
   {
-   "title": "LATEST BY DESIGNER",
-   "url": "https://www.shopshopslive.com/careers#latest-by-designer",
+   "title": "Creative Coordinator",
+   "url": "https://sesameworkshop.org/about-us/careers/#creative-coordinator",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
    "via": "text",
-   "company": "ShopShops",
-   "website": "shopshopslive.com",
+   "company": "Sesame Workshop",
+   "website": "sesameworkshop.org",
    "src": "nyc",
-   "page": "https://www.shopshopslive.com/",
-   "crawledAt": 1794471725805
+   "page": "https://sesameworkshop.org/about-us/careers/",
+   "crawledAt": 1794556337392
   },
   {
    "title": "Accounting Manager",
@@ -91967,7 +91981,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1794471727862
+   "crawledAt": 1794556353898
   },
   {
    "title": "Software Engineer",
@@ -91981,7 +91995,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1794471727862
+   "crawledAt": 1794556353898
   },
   {
    "title": "Staff Designer",
@@ -91995,7 +92009,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1794471727862
+   "crawledAt": 1794556353898
   },
   {
    "title": "Job File Coordinator",
@@ -92025,7 +92039,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "National Sales Director - Australia",
@@ -92039,7 +92053,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "County Manager - Japan",
@@ -92053,7 +92067,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Country Director - Thailand",
@@ -92067,7 +92081,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Account Manager - UK (Hybrid)",
@@ -92081,7 +92095,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Account Manager - Germany (Düsseldorf)",
@@ -92095,7 +92109,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Front-End Developer (Video Player)",
@@ -92109,7 +92123,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Associate Product Manager",
@@ -92123,7 +92137,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Assistant Manager - Sales",
@@ -92137,7 +92151,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Account Executive",
@@ -92151,7 +92165,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Senior Sales Manager/Sales Director | Publicis",
@@ -92165,7 +92179,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Senior Sales Manager/Sales Director | GroupM/Indies",
@@ -92179,7 +92193,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Global Agency Partnership Director – UK",
@@ -92193,7 +92207,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Senior Sales Manager",
@@ -92207,7 +92221,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "Senior Sales Manager/Sales Director - Omnicom",
@@ -92221,7 +92235,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1794471738547
+   "crawledAt": 1794556356854
   },
   {
    "title": "nCino/Salesforce Solution Architect (Remote)",
@@ -92235,7 +92249,7 @@
    "website": "silverlinecrm.com",
    "src": "nyc",
    "page": "https://silverlinecrm.com/careers/",
-   "crawledAt": 1794471742924
+   "crawledAt": 1794556368320
   },
   {
    "title": "Pre-Sales Solution Architect (Remote)",
@@ -92249,7 +92263,7 @@
    "website": "silverlinecrm.com",
    "src": "nyc",
    "page": "https://silverlinecrm.com/careers/",
-   "crawledAt": 1794471742924
+   "crawledAt": 1794556368320
   },
   {
    "title": "Cyber Security Manager",
@@ -92263,7 +92277,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1794471747213
+   "crawledAt": 1794556365048
   },
   {
    "title": "Full Stack Engineer (Ruby on Rails)",
@@ -92277,7 +92291,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1794471747213
+   "crawledAt": 1794556365048
   },
   {
    "title": "Senior Full Stack Engineer (Ruby on Rails)",
@@ -92291,7 +92305,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1794471747213
+   "crawledAt": 1794556365048
   },
   {
    "title": "Corporate Finance Manager",
@@ -92344,7 +92358,7 @@
    "website": "simplesolve.com",
    "src": "nyc",
    "page": "https://www.simplesolve.com/careers",
-   "crawledAt": 1794471749912
+   "crawledAt": 1794556371405
   },
   {
    "title": "Client Enablement Manager",
@@ -92385,7 +92399,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Enterprise Sales Executive",
@@ -92399,7 +92413,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "HR Specialist",
@@ -92413,7 +92427,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "In-House Counsel",
@@ -92427,7 +92441,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Marketing Automation Specialist",
@@ -92441,7 +92455,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Sales Enablement Associate",
@@ -92455,7 +92469,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Sales Engineer",
@@ -92469,7 +92483,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Strategic Account Director",
@@ -92483,7 +92497,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "AI Solutions Consultant",
@@ -92497,7 +92511,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Solution Architect (APAC)",
@@ -92511,7 +92525,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Enterprise Sales Director – Europe (Poland)",
@@ -92525,7 +92539,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Enterprise Sales Director",
@@ -92539,7 +92553,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1794471807264
+   "crawledAt": 1794556428393
   },
   {
    "title": "Data Engineer",
@@ -92553,11 +92567,11 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1794471758529
+   "crawledAt": 1794556380143
   },
   {
-   "title": "Technical Progam Manager",
-   "url": "https://www.sigmoid.com/careers/#technical-progam-manager",
+   "title": "Technical Program Manager",
+   "url": "https://www.sigmoid.com/careers/#technical-program-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -92567,7 +92581,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1794471758529
+   "crawledAt": 1794556380143
   },
   {
    "title": "Sr Data Scientist",
@@ -92581,7 +92595,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1794471758529
+   "crawledAt": 1794556380143
   },
   {
    "title": "Principal / Director, Head of Client Service",
@@ -92655,287 +92669,7 @@
    "website": "signature-inc.net",
    "src": "nyc",
    "page": "https://signaturemoorestowngroup.com/pages/service-areas/business-consulting-career-opportunities-deptford-nj/",
-   "crawledAt": 1794471767590
-  },
-  {
-   "title": "SEO Manager (UK Shift)",
-   "url": "https://www.savit.in/digital-marketing-careers/#seo-manager-uk-shift-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "SEO Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#seo-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "SEO Project Manager",
-   "url": "https://www.savit.in/digital-marketing-careers/#seo-project-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "SEO Content Writer",
-   "url": "https://www.savit.in/digital-marketing-careers/#seo-content-writer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Web Development Manager",
-   "url": "https://www.savit.in/digital-marketing-careers/#web-development-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Web Developer - (UK Shift)",
-   "url": "https://www.savit.in/digital-marketing-careers/#web-developer-uk-shift-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Web Developer",
-   "url": "https://www.savit.in/digital-marketing-careers/#web-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Business Development Head - Digital Sales",
-   "url": "https://www.savit.in/digital-marketing-careers/#business-development-head-digital-sales",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Business Development Executive (Outbound)",
-   "url": "https://www.savit.in/digital-marketing-careers/#business-development-executive-outbound-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Sales Coordinator",
-   "url": "https://www.savit.in/digital-marketing-careers/#sales-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Business Development/Lead Generation Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#business-development-lead-generation-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Senior Business Development Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#senior-business-development-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Business Development Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#business-development-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "SMO Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#smo-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "HR Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#hr-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Sr PPC Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#sr-ppc-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "PPC Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#ppc-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Client Servicing Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#client-servicing-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "IT Support Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#it-support-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
-  },
-  {
-   "title": "Admin cum Front Desk Executive",
-   "url": "https://www.savit.in/digital-marketing-careers/#admin-cum-front-desk-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Savit Interactive",
-   "website": "savit.in",
-   "src": "nyc",
-   "page": "https://www.savit.in/digital-marketing-careers/",
-   "crawledAt": 1794471780102
+   "crawledAt": 1794556387503
   },
   {
    "title": "Marketing Intern",
@@ -92949,7 +92683,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1794471786737
+   "crawledAt": 1794556435355
   },
   {
    "title": "Senior Software Engineer, Frontend",
@@ -92963,7 +92697,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1794471786737
+   "crawledAt": 1794556435355
   },
   {
    "title": "Senior Software Engineer - iOS - Paris",
@@ -92977,7 +92711,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1794471786737
+   "crawledAt": 1794556435355
   },
   {
    "title": "Compliance Officer",
@@ -92991,7 +92725,7 @@
    "website": "soliduslabs.com",
    "src": "nyc",
    "page": "https://www.soliduslabs.com/digital-asset-compliance-careers",
-   "crawledAt": 1794471795958
+   "crawledAt": 1794556443398
   },
   {
    "title": "Regulatory Compliance Manager, Malta",
@@ -93005,7 +92739,7 @@
    "website": "soliduslabs.com",
    "src": "nyc",
    "page": "https://www.soliduslabs.com/digital-asset-compliance-careers",
-   "crawledAt": 1794471795958
+   "crawledAt": 1794556443398
   },
   {
    "title": "Chief Delivery Officer | Spaulding Ridge",
@@ -93045,7 +92779,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794471801191
+   "crawledAt": 1794556449373
   },
   {
    "title": "Project Manager",
@@ -93059,7 +92793,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794471801191
+   "crawledAt": 1794556449373
   },
   {
    "title": "Senior Art Director",
@@ -93073,7 +92807,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794471801191
+   "crawledAt": 1794556449373
   },
   {
    "title": "Web Developer",
@@ -93087,7 +92821,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1794471801191
+   "crawledAt": 1794556449373
   },
   {
    "title": "Platform Engineer",
@@ -93101,7 +92835,7 @@
    "website": "spareroom.com",
    "src": "nyc",
    "page": "https://www.spareroom.com/content/about/jobs",
-   "crawledAt": 1794471805792
+   "crawledAt": 1794556452432
   },
   {
    "title": "Senior Security Analyst",
@@ -93115,7 +92849,7 @@
    "website": "spectramedix.com",
    "src": "nyc",
    "page": "https://www.spectramedix.com/job-opportunities",
-   "crawledAt": 1794471815456
+   "crawledAt": 1794556459105
   },
   {
    "title": "Senior Business Data Analyst",
@@ -93129,7 +92863,7 @@
    "website": "spectramedix.com",
    "src": "nyc",
    "page": "https://www.spectramedix.com/job-opportunities",
-   "crawledAt": 1794471815456
+   "crawledAt": 1794556459105
   },
   {
    "title": "Jared Riegler / Senior Marketing Manager",
@@ -93143,7 +92877,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1794471816421
+   "crawledAt": 1794556461071
   },
   {
    "title": "Chris Mathew / Training & Operations Manager",
@@ -93157,7 +92891,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1794471816421
+   "crawledAt": 1794556461071
   },
   {
    "title": "Account Executive",
@@ -93171,7 +92905,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1794471816421
+   "crawledAt": 1794556461071
   },
   {
    "title": "Human Resource Manager",
@@ -93185,7 +92919,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Chief Business Officer",
@@ -93199,7 +92933,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Technology Lead",
@@ -93213,7 +92947,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Quality Assurance Manager",
@@ -93227,7 +92961,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Senior Cloud Specialist",
@@ -93241,7 +92975,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Product Manager",
@@ -93255,7 +92989,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Mobility Lead",
@@ -93269,7 +93003,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Technical Manager",
@@ -93283,7 +93017,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Lead Engineer",
@@ -93297,7 +93031,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "HR Manager",
@@ -93311,7 +93045,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1794471822196
+   "crawledAt": 1794556465560
   },
   {
    "title": "Customer Hero Operations Specialist",
@@ -93325,7 +93059,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794471822500
+   "crawledAt": 1794556466766
   },
   {
    "title": "Security & Risk Analyst",
@@ -93339,7 +93073,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794471822500
+   "crawledAt": 1794556466766
   },
   {
    "title": "Marketing Analyst",
@@ -93353,7 +93087,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794471822500
+   "crawledAt": 1794556466766
   },
   {
    "title": "Product Manager, Acquisitions",
@@ -93367,7 +93101,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1794471822500
+   "crawledAt": 1794556466766
   },
   {
    "title": "Senior Account Executive, Client Services",
@@ -93381,7 +93115,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1794471827564
+   "crawledAt": 1794556471162
   },
   {
    "title": "Project Manager",
@@ -93395,7 +93129,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1794471827564
+   "crawledAt": 1794556471162
   },
   {
    "title": "Account Director",
@@ -93409,7 +93143,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1794471827564
+   "crawledAt": 1794556471162
   },
   {
    "title": "Platform Engineer",
@@ -93423,7 +93157,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "Partnerships Director",
@@ -93437,7 +93171,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "Lead Engineer",
@@ -93451,7 +93185,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "Senior Platform Engineer",
@@ -93465,7 +93199,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "FMCG Team Lead, UK",
@@ -93479,7 +93213,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "Customer Success Manager",
@@ -93493,7 +93227,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "People Experience Manager",
@@ -93507,7 +93241,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "People Manager",
@@ -93521,7 +93255,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1794471835069
+   "crawledAt": 1794556480744
   },
   {
    "title": "Scheduling Coordinator",
@@ -93590,7 +93324,7 @@
    "website": "smartims.com",
    "src": "nyc",
    "page": "https://smartims.com/careers/",
-   "crawledAt": 1794473361385
+   "crawledAt": 1794556493841
   },
   {
    "title": "Front End Developer",
@@ -93604,7 +93338,7 @@
    "website": "smartims.com",
    "src": "nyc",
    "page": "https://smartims.com/careers/",
-   "crawledAt": 1794473361385
+   "crawledAt": 1794556493841
   },
   {
    "title": "IT Support Engineer",
@@ -93618,7 +93352,7 @@
    "website": "spryker.com",
    "src": "nyc",
    "page": "https://spryker.com/career",
-   "crawledAt": 1794473356318
+   "crawledAt": 1794556486656
   },
   {
    "title": "Solutions Architect",
@@ -93632,7 +93366,7 @@
    "website": "spryker.com",
    "src": "nyc",
    "page": "https://spryker.com/career",
-   "crawledAt": 1794473356318
+   "crawledAt": 1794556486656
   },
   {
    "title": "Enterprise Business Developer",
@@ -93646,7 +93380,7 @@
    "website": "spryker.com",
    "src": "nyc",
    "page": "https://spryker.com/career",
-   "crawledAt": 1794473356318
+   "crawledAt": 1794556486656
   },
   {
    "title": "Accounting Manager",
@@ -93660,7 +93394,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1794473367318
+   "crawledAt": 1794556492195
   },
   {
    "title": "Platform Quality Engineer (SDET)",
@@ -93674,7 +93408,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1794473367318
+   "crawledAt": 1794556492195
   },
   {
    "title": "Quality Engineer (SDET)",
@@ -93688,7 +93422,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1794473367318
+   "crawledAt": 1794556492195
   },
   {
    "title": "Lead Front End Engineer",
@@ -93702,7 +93436,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1794473367318
+   "crawledAt": 1794556492195
   },
   {
    "title": "AI Programming Engineer",
@@ -93716,7 +93450,7 @@
    "website": "stillwaterseo.com",
    "src": "nyc",
    "page": "https://stillwaterseo.com/jobs",
-   "crawledAt": 1794473373492
+   "crawledAt": 1794556497145
   },
   {
    "title": "Senior Enterprise Account Executive",
@@ -93730,7 +93464,7 @@
    "website": "snaplogic.com",
    "src": "nyc",
    "page": "https://www.snaplogic.com/company/careers",
-   "crawledAt": 1794473408574
+   "crawledAt": 1794556500205
   },
   {
    "title": "Senior Software Engineer, Platform",
@@ -93744,7 +93478,7 @@
    "website": "snaplogic.com",
    "src": "nyc",
    "page": "https://www.snaplogic.com/company/careers",
-   "crawledAt": 1794473408574
+   "crawledAt": 1794556500205
   },
   {
    "title": "Senior Associate, Portfolio Management",
@@ -93758,7 +93492,7 @@
    "website": "starmountaincapital.com",
    "src": "nyc",
    "page": "https://www.starmountain.com/careers",
-   "crawledAt": 1794473477196
+   "crawledAt": 1794556502054
   },
   {
    "title": "Portfolio Management Analyst",
@@ -93772,7 +93506,7 @@
    "website": "starmountaincapital.com",
    "src": "nyc",
    "page": "https://www.starmountain.com/careers",
-   "crawledAt": 1794473477196
+   "crawledAt": 1794556502054
   },
   {
    "title": "Building Maintenance Manager",
@@ -93786,7 +93520,7 @@
    "website": "studyhotels.com",
    "src": "nyc",
    "page": "https://www.studyhotels.com/careers",
-   "crawledAt": 1794473481792
+   "crawledAt": 1794556505571
   },
   {
    "title": "Assistant Restaurant Manager",
@@ -93800,7 +93534,7 @@
    "website": "studyhotels.com",
    "src": "nyc",
    "page": "https://www.studyhotels.com/careers",
-   "crawledAt": 1794473481792
+   "crawledAt": 1794556505571
   },
   {
    "title": "Sales Manager, New Jersey",
@@ -93814,7 +93548,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1794473487084
+   "crawledAt": 1794556507704
   },
   {
    "title": "QA Coordinator, Rotterdam, Netherlands",
@@ -93828,7 +93562,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1794473487084
+   "crawledAt": 1794556507704
   },
   {
    "title": "Plant Manager, Hawaii",
@@ -93842,7 +93576,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1794473487084
+   "crawledAt": 1794556507704
   },
   {
    "title": "Production Planner, California",
@@ -93856,7 +93590,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1794473487084
+   "crawledAt": 1794556507704
   },
   {
    "title": "IT Helpdesk Coordinator",
@@ -93870,11 +93604,11 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1794473487084
+   "crawledAt": 1794556507704
   },
   {
-   "title": "Office Administrator",
-   "url": "https://strategicemployment.com/careers#office-administrator",
+   "title": "Accounting Systems Production Support Manager",
+   "url": "https://strategicemployment.com/careers#accounting-systems-production-support-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -93884,721 +93618,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Assistant Project Manager",
-   "url": "https://strategicemployment.com/careers#assistant-project-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Systems Engineer",
-   "url": "https://strategicemployment.com/careers#systems-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "SEO Specialist",
-   "url": "https://strategicemployment.com/careers#seo-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Test Engineer",
-   "url": "https://strategicemployment.com/careers#senior-test-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Technical Program Manager",
-   "url": "https://strategicemployment.com/careers#technical-program-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "PPC Specialist",
-   "url": "https://strategicemployment.com/careers#ppc-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "M&A Director, Valuation & Due Diligence",
-   "url": "https://strategicemployment.com/careers#m-a-director-valuation-due-diligence",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "GTM and Partnerships Lead",
-   "url": "https://strategicemployment.com/careers#gtm-and-partnerships-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Tax Associate",
-   "url": "https://strategicemployment.com/careers#tax-associate",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Data Reporting Analyst",
-   "url": "https://strategicemployment.com/careers#data-reporting-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Development Representative (Associate Account Executive)",
-   "url": "https://strategicemployment.com/careers#sales-development-representative-associate-account-executive-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Construction Content Strategist",
-   "url": "https://strategicemployment.com/careers#senior-construction-content-strategist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Executive (Southeast)",
-   "url": "https://strategicemployment.com/careers#sales-executive-southeast-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "EPIC Certified Clinical Applications Lead",
-   "url": "https://strategicemployment.com/careers#epic-certified-clinical-applications-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Intapp Application Engineer",
-   "url": "https://strategicemployment.com/careers#intapp-application-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Office Manager",
-   "url": "https://strategicemployment.com/careers#office-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Golang Developer",
-   "url": "https://strategicemployment.com/careers#golang-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "AI Lead",
-   "url": "https://strategicemployment.com/careers#ai-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "IT Support Specialist",
-   "url": "https://strategicemployment.com/careers#it-support-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Matter Mobility Specialist",
-   "url": "https://strategicemployment.com/careers#matter-mobility-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Data Engineer",
-   "url": "https://strategicemployment.com/careers#senior-data-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Quality Manager | ISO 9001 QMS Leadership",
-   "url": "https://strategicemployment.com/careers#quality-manager-iso-9001-qms-leadership",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Tax Manager - Review & Client Services",
-   "url": "https://strategicemployment.com/careers#senior-tax-manager-review-client-services",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Regulatory Submission Specialist",
-   "url": "https://strategicemployment.com/careers#regulatory-submission-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Electrical Engineer",
-   "url": "https://strategicemployment.com/careers#senior-electrical-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Development Representative | SaaS | Construction",
-   "url": "https://strategicemployment.com/careers#sales-development-representative-saas-construction",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Tax Manager",
-   "url": "https://strategicemployment.com/careers#tax-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Accounting Manager",
-   "url": "https://strategicemployment.com/careers#accounting-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Manager, Consumer Sales",
-   "url": "https://strategicemployment.com/careers#sales-manager-consumer-sales",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Network Engineer",
-   "url": "https://strategicemployment.com/careers#senior-network-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Field Sales Representative / Business Development Executive",
-   "url": "https://strategicemployment.com/careers#field-sales-representative-business-development-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Recruiting Coordinator",
-   "url": "https://strategicemployment.com/careers#recruiting-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Director",
-   "url": "https://strategicemployment.com/careers#sales-director",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Executive",
-   "url": "https://strategicemployment.com/careers#sales-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Talent Recruiter",
-   "url": "https://strategicemployment.com/careers#talent-recruiter",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Logistics Sales Executive",
-   "url": "https://strategicemployment.com/careers#logistics-sales-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Intake & Conflicts Specialist",
-   "url": "https://strategicemployment.com/careers#intake-conflicts-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Product Marketing Manager",
-   "url": "https://strategicemployment.com/careers#product-marketing-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Remote Data Scientist",
-   "url": "https://strategicemployment.com/careers#remote-data-scientist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Backend Software Engineer",
-   "url": "https://strategicemployment.com/careers#senior-backend-software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Lead Network Engineer",
-   "url": "https://strategicemployment.com/careers#lead-network-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "iOS Mobile Engineer",
-   "url": "https://strategicemployment.com/careers#ios-mobile-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Android Mobile Engineer",
-   "url": "https://strategicemployment.com/careers#android-mobile-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Tax Manager- UHNW",
-   "url": "https://strategicemployment.com/careers#tax-manager-uhnw",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Outside Sales Representative (Imaging & Biomedical)",
-   "url": "https://strategicemployment.com/careers#outside-sales-representative-imaging-biomedical-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Docketing Specialist",
-   "url": "https://strategicemployment.com/careers#docketing-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Founding Product Manager",
-   "url": "https://strategicemployment.com/careers#founding-product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Sales Executive - Remote",
-   "url": "https://strategicemployment.com/careers#sales-executive-remote",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Senior Software Engineer",
-   "url": "https://strategicemployment.com/careers#senior-software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Network Engineer",
-   "url": "https://strategicemployment.com/careers#network-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
-  },
-  {
-   "title": "Unanet Accounting Consultant",
-   "url": "https://strategicemployment.com/careers#unanet-accounting-consultant",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Strategic Employment Partners",
-   "website": "strategicemployment.com",
-   "src": "nyc",
-   "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Account Executive",
@@ -94612,7 +93632,763 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Conflicts Administrator",
+   "url": "https://strategicemployment.com/careers#conflicts-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Regulatory Submission Specialist",
+   "url": "https://strategicemployment.com/careers#regulatory-submission-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Trademark Docketing Manager",
+   "url": "https://strategicemployment.com/careers#trademark-docketing-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Construction Content Strategist",
+   "url": "https://strategicemployment.com/careers#senior-construction-content-strategist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Development Representative | SaaS | Construction",
+   "url": "https://strategicemployment.com/careers#sales-development-representative-saas-construction",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Data Engineer",
+   "url": "https://strategicemployment.com/careers#senior-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Office Administrator",
+   "url": "https://strategicemployment.com/careers#office-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Assistant Project Manager",
+   "url": "https://strategicemployment.com/careers#assistant-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Systems Engineer",
+   "url": "https://strategicemployment.com/careers#systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "SEO Specialist",
+   "url": "https://strategicemployment.com/careers#seo-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Test Engineer",
+   "url": "https://strategicemployment.com/careers#senior-test-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Technical Program Manager",
+   "url": "https://strategicemployment.com/careers#technical-program-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "PPC Specialist",
+   "url": "https://strategicemployment.com/careers#ppc-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "M&A Director, Valuation & Due Diligence",
+   "url": "https://strategicemployment.com/careers#m-a-director-valuation-due-diligence",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "GTM and Partnerships Lead",
+   "url": "https://strategicemployment.com/careers#gtm-and-partnerships-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Tax Associate",
+   "url": "https://strategicemployment.com/careers#tax-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Data Reporting Analyst",
+   "url": "https://strategicemployment.com/careers#data-reporting-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Development Representative (Associate Account Executive)",
+   "url": "https://strategicemployment.com/careers#sales-development-representative-associate-account-executive-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Executive (Southeast)",
+   "url": "https://strategicemployment.com/careers#sales-executive-southeast-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "EPIC Certified Clinical Applications Lead",
+   "url": "https://strategicemployment.com/careers#epic-certified-clinical-applications-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Intapp Application Engineer",
+   "url": "https://strategicemployment.com/careers#intapp-application-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Office Manager",
+   "url": "https://strategicemployment.com/careers#office-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Golang Developer",
+   "url": "https://strategicemployment.com/careers#golang-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "AI Lead",
+   "url": "https://strategicemployment.com/careers#ai-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "IT Support Specialist",
+   "url": "https://strategicemployment.com/careers#it-support-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Matter Mobility Specialist",
+   "url": "https://strategicemployment.com/careers#matter-mobility-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Quality Manager | ISO 9001 QMS Leadership",
+   "url": "https://strategicemployment.com/careers#quality-manager-iso-9001-qms-leadership",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Tax Manager - Review & Client Services",
+   "url": "https://strategicemployment.com/careers#senior-tax-manager-review-client-services",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Electrical Engineer",
+   "url": "https://strategicemployment.com/careers#senior-electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Tax Manager",
+   "url": "https://strategicemployment.com/careers#tax-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Accounting Manager",
+   "url": "https://strategicemployment.com/careers#accounting-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Manager, Consumer Sales",
+   "url": "https://strategicemployment.com/careers#sales-manager-consumer-sales",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Network Engineer",
+   "url": "https://strategicemployment.com/careers#senior-network-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Field Sales Representative / Business Development Executive",
+   "url": "https://strategicemployment.com/careers#field-sales-representative-business-development-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Recruiting Coordinator",
+   "url": "https://strategicemployment.com/careers#recruiting-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Director",
+   "url": "https://strategicemployment.com/careers#sales-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Executive",
+   "url": "https://strategicemployment.com/careers#sales-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Talent Recruiter",
+   "url": "https://strategicemployment.com/careers#talent-recruiter",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Logistics Sales Executive",
+   "url": "https://strategicemployment.com/careers#logistics-sales-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Intake & Conflicts Specialist",
+   "url": "https://strategicemployment.com/careers#intake-conflicts-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Product Marketing Manager",
+   "url": "https://strategicemployment.com/careers#product-marketing-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Remote Data Scientist",
+   "url": "https://strategicemployment.com/careers#remote-data-scientist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Backend Software Engineer",
+   "url": "https://strategicemployment.com/careers#senior-backend-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Lead Network Engineer",
+   "url": "https://strategicemployment.com/careers#lead-network-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "iOS Mobile Engineer",
+   "url": "https://strategicemployment.com/careers#ios-mobile-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Android Mobile Engineer",
+   "url": "https://strategicemployment.com/careers#android-mobile-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Tax Manager- UHNW",
+   "url": "https://strategicemployment.com/careers#tax-manager-uhnw",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Outside Sales Representative (Imaging & Biomedical)",
+   "url": "https://strategicemployment.com/careers#outside-sales-representative-imaging-biomedical-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Docketing Specialist",
+   "url": "https://strategicemployment.com/careers#docketing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Founding Product Manager",
+   "url": "https://strategicemployment.com/careers#founding-product-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Sales Executive - Remote",
+   "url": "https://strategicemployment.com/careers#sales-executive-remote",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Senior Software Engineer",
+   "url": "https://strategicemployment.com/careers#senior-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Network Engineer",
+   "url": "https://strategicemployment.com/careers#network-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
+  },
+  {
+   "title": "Unanet Accounting Consultant",
+   "url": "https://strategicemployment.com/careers#unanet-accounting-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Strategic Employment Partners",
+   "website": "strategicemployment.com",
+   "src": "nyc",
+   "page": "https://strategicemployment.com/looking-for-a-job/",
+   "crawledAt": 1794556510789
   },
   {
    "title": "Sales Development Representative",
@@ -94626,7 +94402,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Salesforce Specialist",
@@ -94640,7 +94416,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Senior Manager, High Net Worth Tax",
@@ -94654,7 +94430,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Sales Manager | HVAC Industry",
@@ -94668,7 +94444,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Freight Brokerage Account Manager | Fast-Growing Logistics Firm",
@@ -94682,7 +94458,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Staff Engineer, Bazel",
@@ -94696,7 +94472,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Data Engineer",
@@ -94710,7 +94486,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Founding Software Engineer",
@@ -94724,7 +94500,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Project Control Specialist",
@@ -94738,7 +94514,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Dynamics CRM Developer",
@@ -94752,7 +94528,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Civil Engineer",
@@ -94766,7 +94542,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Business Development Manager (Southeast)",
@@ -94780,7 +94556,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Senior AI Research Scientist",
@@ -94794,7 +94570,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Python Engineer",
@@ -94808,7 +94584,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Software Engineer",
@@ -94822,7 +94598,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Systems Administrator",
@@ -94836,7 +94612,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
    "title": "Staff Software Engineer",
@@ -94850,11 +94626,11 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1794473492679
+   "crawledAt": 1794556510789
   },
   {
-   "title": "Chief People Officer",
-   "url": "https://www.spencer-ogden.com/join-us#chief-people-officer",
+   "title": "Program Manager – France (BESS & HV)",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#program-manager-france-bess-hv-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -94864,11 +94640,11 @@
    "website": "spencer-ogden.com",
    "src": "nyc",
    "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1794473514625
+   "crawledAt": 1794556512221
   },
   {
-   "title": "North America, Talent Acquisition Lead",
-   "url": "https://www.spencer-ogden.com/join-us#north-america-talent-acquisition-lead",
+   "title": "Health & Safety Manager",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#health-safety-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -94878,11 +94654,11 @@
    "website": "spencer-ogden.com",
    "src": "nyc",
    "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1794473514625
+   "crawledAt": 1794556512221
   },
   {
-   "title": "Senior Talent Acquisition Consultant",
-   "url": "https://www.spencer-ogden.com/join-us#senior-talent-acquisition-consultant",
+   "title": "Senior Site Manager - HVDC",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#senior-site-manager-hvdc",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -94892,7 +94668,91 @@
    "website": "spencer-ogden.com",
    "src": "nyc",
    "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1794473514625
+   "crawledAt": 1794556512221
+  },
+  {
+   "title": "Senior Project Manager",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#senior-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spencer Ogden",
+   "website": "spencer-ogden.com",
+   "src": "nyc",
+   "page": "https://www.spencer-ogden.com/candidates/jobs",
+   "crawledAt": 1794556512221
+  },
+  {
+   "title": "Precon Project Manager",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#precon-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spencer Ogden",
+   "website": "spencer-ogden.com",
+   "src": "nyc",
+   "page": "https://www.spencer-ogden.com/candidates/jobs",
+   "crawledAt": 1794556512221
+  },
+  {
+   "title": "Senior Project Manager - Mission Critical",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#senior-project-manager-mission-critical",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spencer Ogden",
+   "website": "spencer-ogden.com",
+   "src": "nyc",
+   "page": "https://www.spencer-ogden.com/candidates/jobs",
+   "crawledAt": 1794556512221
+  },
+  {
+   "title": "Field Service Engineer - Electrical",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#field-service-engineer-electrical",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spencer Ogden",
+   "website": "spencer-ogden.com",
+   "src": "nyc",
+   "page": "https://www.spencer-ogden.com/candidates/jobs",
+   "crawledAt": 1794556512221
+  },
+  {
+   "title": "Design Engineer",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#design-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spencer Ogden",
+   "website": "spencer-ogden.com",
+   "src": "nyc",
+   "page": "https://www.spencer-ogden.com/candidates/jobs",
+   "crawledAt": 1794556512221
+  },
+  {
+   "title": "Finance Manager",
+   "url": "https://www.spencer-ogden.com/candidates/jobs#finance-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Spencer Ogden",
+   "website": "spencer-ogden.com",
+   "src": "nyc",
+   "page": "https://www.spencer-ogden.com/candidates/jobs",
+   "crawledAt": 1794556512221
   },
   {
    "title": "Senior Development Operations Engineer (Scripting\\Automation)",
@@ -95314,7 +95174,7 @@
    "website": "sundaysky.com",
    "src": "nyc",
    "page": "https://sundaysky.com/careers/",
-   "crawledAt": 1794473525116
+   "crawledAt": 1794556519596
   },
   {
    "title": "Job for Associate: Diretor Real Estate São Paulo - SP Associate",
@@ -95707,7 +95567,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794471842773
+   "crawledAt": 1794556525658
   },
   {
    "title": "Senior Test Engineer - US Health Insurance",
@@ -95723,7 +95583,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794471842773
+   "crawledAt": 1794556525658
   },
   {
    "title": "Test Engineer/ Senior Test Engineer - ETL",
@@ -95739,7 +95599,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794471842773
+   "crawledAt": 1794556525658
   },
   {
    "title": "Test Engineer / Senior Test Engineer - Manual + Data",
@@ -95755,7 +95615,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794471842773
+   "crawledAt": 1794556525658
   },
   {
    "title": "Test Lead - US Health Insurance",
@@ -95771,7 +95631,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794471842773
+   "crawledAt": 1794556525658
   },
   {
    "title": "Senior Test Engineer - Manual + Mobile",
@@ -95787,7 +95647,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1794471842773
+   "crawledAt": 1794556525658
   },
   {
    "title": "Customer Account Manager (New England)",
@@ -95828,7 +95688,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Senior Manager, Business Development - Solar Panel Recycling Lead",
@@ -95842,7 +95702,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Manager, Business Development (Commercial)",
@@ -95856,7 +95716,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Manager, Business Development - Commercial",
@@ -95870,7 +95730,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Senior Manager, Creative",
@@ -95884,7 +95744,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Associate, Account Management",
@@ -95898,7 +95758,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Warehouse Associate - Disassembly",
@@ -95912,7 +95772,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Senior Manager, Business Development - West Coast",
@@ -95926,7 +95786,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Senior Manager, Business Development - Mountain West",
@@ -95940,7 +95800,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Warehouse Associate - Disassembly",
@@ -95954,7 +95814,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Associate, Warehouse - Consolidation",
@@ -95968,7 +95828,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1794471844285
+   "crawledAt": 1794556529622
   },
   {
    "title": "Consultant, Life Sciences Consulting",
@@ -98782,7 +98642,7 @@
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794471851031
+   "crawledAt": 1794556530167
   },
   {
    "title": "Full Stack Engineer",
@@ -98796,7 +98656,7 @@
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794471851031
+   "crawledAt": 1794556530167
   },
   {
    "title": "Designer",
@@ -98810,7 +98670,7 @@
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794471851031
+   "crawledAt": 1794556530167
   },
   {
    "title": "(Senior) Director Finance (m/f/d)",
@@ -98824,7 +98684,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794471863994
+   "crawledAt": 1794556542618
   },
   {
    "title": "Marketing Manager, U.S. East Coast",
@@ -98838,7 +98698,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794471863994
+   "crawledAt": 1794556542618
   },
   {
    "title": "Chief of Staff to the CEO (m/f/d)",
@@ -98852,7 +98712,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794471863994
+   "crawledAt": 1794556542618
   },
   {
    "title": "Account Executive, Atlanta",
@@ -98866,7 +98726,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794471863994
+   "crawledAt": 1794556542618
   },
   {
    "title": "Organic Social Media Strategist",
