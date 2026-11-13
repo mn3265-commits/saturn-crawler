@@ -44,7 +44,7 @@ export const ADAPTERS = {
       for (const s of String(r.text || '').split('<div class="row">').slice(1)) {
         const m = s.match(/href="([^"]+\/jobs\/(\d+)\/[^"]*)"[^>]*>[\s\S]*?<h3[^>]*>([\s\S]*?)<\/h3>/); if (!m) continue; n++;
         const dt = (s.match(/Posted Date<\/span>\s*<span title="([^"]+)"/) || [])[1];
-        const loc = (s.match(/Job Locations<\/span>\s*<\/dt>\s*<dd[^>]*>\s*<span[^>]*>([\s\S]*?)<\/span>/) || [])[1] || '';
+        const loc = (s.match(/>[^<]*Location[^<]*<\/(?:span|dt)>\s*(?:<\/dt>\s*)?(?:<dd[^>]*>\s*)?<span[^>]*>([\s\S]*?)<\/span>/) || s.match(/>\s*([A-Z]{2}-[A-Z]{2}-[^<]+)</) || [])[1] || '';
         if (!out.some(o => o.id === m[2])) out.push({ id: m[2], title: text(m[3]), locs: text(loc).split('|').map(icimsLoc).filter(Boolean), postedAt: iso(dt), url: decode(m[1]).replace(/[?&]in_iframe=1/, ''), body: '' });
       }
       if (!n || !new RegExp(`[?&]pr=${p + 1}\\b`).test(String(r.text).replace(/&amp;/g, '&'))) break;
