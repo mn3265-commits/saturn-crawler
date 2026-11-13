@@ -2150,6 +2150,83 @@
    "base": "https://explore.jobs.netflix.net",
    "domain": "netflix.com",
    "verified": "2026-11-13 eightfold v2 jobs API answers"
+  },
+  {
+   "company": "CoStar Group",
+   "tier": 2,
+   "industry": "S&P 500",
+   "group": "sp500",
+   "type": "eightfold",
+   "base": "https://costar.eightfold.ai",
+   "domain": "costar.com",
+   "jobs": 371,
+   "verified": "2026-11-13 eightfold v2 jobs API answers"
+  },
+  {
+   "company": "Yum! Brands",
+   "tier": 2,
+   "industry": "S&P 500",
+   "group": "sp500",
+   "type": "oracle",
+   "host": "eczd.fa.us2.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 167,
+   "verified": "2026-11-13 oracle portal answers (167 jobs)"
+  },
+  {
+   "company": "Qualcomm",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "eightfold",
+   "pcsx": true,
+   "base": "https://careers.qualcomm.com",
+   "domain": "qualcomm.com",
+   "verified": "2026-11-13 eightfold pcsx search"
+  },
+  {
+   "company": "Eaton",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "eightfold",
+   "pcsx": true,
+   "base": "https://eaton.eightfold.ai",
+   "domain": "eaton.com",
+   "verified": "2026-11-13 eightfold pcsx search"
+  },
+  {
+   "company": "Ericsson",
+   "group": "sp500",
+   "tier": 1,
+   "industry": "telco vendor",
+   "type": "eightfold",
+   "pcsx": true,
+   "base": "https://jobs.ericsson.com",
+   "domain": "ericsson.com",
+   "verified": "2026-11-13 eightfold pcsx search"
+  },
+  {
+   "company": "Fortive",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "eightfold",
+   "pcsx": true,
+   "base": "https://fortive.eightfold.ai",
+   "domain": "fortive.com",
+   "verified": "2026-11-13 eightfold pcsx search"
+  },
+  {
+   "company": "Lam Research",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "eightfold",
+   "pcsx": true,
+   "base": "https://careers.lamresearch.com",
+   "domain": "lamresearch.com",
+   "verified": "2026-11-13 eightfold pcsx search"
   }
  ]
 }

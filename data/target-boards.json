@@ -1989,7 +1989,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "8451",
-   "verified": "Greenhouse board \"84.51\u00b0 \"",
+   "verified": "Greenhouse board \"84.51° \"",
    "jobs": 14
   },
   {
@@ -6162,7 +6162,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "connectwise",
-   "verified": "Greenhouse board \"\u200eConnectWise\"",
+   "verified": "Greenhouse board \"‎ConnectWise\"",
    "jobs": 41
   },
   {
@@ -11116,7 +11116,7 @@
    "source": "ats-cache",
    "ats": "smartrecruiters",
    "token": "loral",
-   "verified": "SmartRecruiters company \"L'Or\u00e9al\"",
+   "verified": "SmartRecruiters company \"L'Oréal\"",
    "jobs": 1
   },
   {
@@ -16792,7 +16792,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "schrdinger",
-   "verified": "Greenhouse board \"Schr\u00f6dinger\"",
+   "verified": "Greenhouse board \"Schrödinger\"",
    "jobs": 41
   },
   {
@@ -19503,7 +19503,7 @@
    "source": "ats-cache",
    "ats": "greenhouse",
    "token": "oura",
-   "verified": "Greenhouse board \"\u014cURA\"",
+   "verified": "Greenhouse board \"ŌURA\"",
    "jobs": 96
   },
   {
@@ -21006,7 +21006,7 @@
    "jobs": 274
   },
   {
-   "company": "Brown\u2013Forman",
+   "company": "Brown–Forman",
    "tier": 2,
    "industry": "S&P 500",
    "source": "cloud-crawl sp500",
@@ -21351,6 +21351,283 @@
    "site": "NVIDIAExternalCareerSite",
    "verified": "2026-11-13 Workday CXS answers",
    "jobs": 760
+  },
+  {
+   "company": "MUFG",
+   "tier": 1,
+   "industry": "bank",
+   "ats": "workday",
+   "tenant": "mufgub",
+   "wd": "wd3",
+   "site": "MUFG-Careers",
+   "verified": "2026-11-13 Workday CXS mufgub/MUFG-Careers answers (673 jobs)",
+   "jobs": 673
+  },
+  {
+   "company": "Noom",
+   "tier": 1,
+   "industry": "consumer health",
+   "ats": "greenhouse",
+   "token": "noomgrowth",
+   "verified": "2026-11-13 Greenhouse board \"Noom US\"",
+   "jobs": 4
+  },
+  {
+   "company": "Headspace",
+   "tier": 1,
+   "industry": "consumer app",
+   "ats": "greenhouse",
+   "token": "hs",
+   "verified": "2026-11-13 Greenhouse board \"Headspace\"",
+   "jobs": 4
+  },
+  {
+   "company": "Mistral AI",
+   "tier": 1,
+   "industry": "AI",
+   "ats": "ashby",
+   "token": "mistral.ai",
+   "verified": "2026-11-13 Ashby board mistral.ai",
+   "jobs": 252
+  },
+  {
+   "company": "Cameo",
+   "tier": 1,
+   "industry": "consumer",
+   "ats": "greenhouse",
+   "token": "cameo",
+   "verified": "2026-11-13 Greenhouse board \"Cameo\"",
+   "jobs": 1
+  },
+  {
+   "company": "Goat",
+   "tier": 1,
+   "industry": "consumer",
+   "ats": "greenhouse",
+   "token": "goatgroup",
+   "verified": "2026-11-13 Greenhouse board \"GOAT Group\"",
+   "jobs": 17
+  },
+  {
+   "company": "Brown & Brown",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "bbinsurance",
+   "wd": "wd1",
+   "site": "careers",
+   "verified": "2026-11-13 Workday CXS bbinsurance/careers answers (301 jobs)",
+   "jobs": 301
+  },
+  {
+   "company": "Dexcom",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "dexcom",
+   "wd": "wd1",
+   "site": "dexcom",
+   "verified": "2026-11-13 Workday CXS dexcom/dexcom answers (298 jobs)",
+   "jobs": 298
+  },
+  {
+   "company": "Edwards Lifesciences",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "edwards",
+   "wd": "wd5",
+   "site": "EdwardsCareers",
+   "verified": "2026-11-13 Workday CXS edwards/EdwardsCareers answers (372 jobs)",
+   "jobs": 372
+  },
+  {
+   "company": "EQT",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "greenhouse",
+   "token": "eqtcorporation",
+   "verified": "2026-11-13 Greenhouse board \"EQT Corporation\"",
+   "jobs": 54
+  },
+  {
+   "company": "Equifax",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "equifax",
+   "wd": "wd5",
+   "site": "External",
+   "verified": "2026-11-13 Workday CXS equifax/External answers (155 jobs)",
+   "jobs": 155
+  },
+  {
+   "company": "Everest Group",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "everestre",
+   "wd": "wd5",
+   "site": "careers",
+   "verified": "2026-11-13 Workday CXS everestre/careers answers (65 jobs)",
+   "jobs": 65
+  },
+  {
+   "company": "F5",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "ffive",
+   "wd": "wd5",
+   "site": "f5jobs",
+   "verified": "2026-11-13 Workday CXS ffive/f5jobs answers (293 jobs)",
+   "jobs": 293
+  },
+  {
+   "company": "Fifth Third",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "fifththird",
+   "wd": "wd5",
+   "site": "53careers",
+   "verified": "2026-11-13 Workday CXS fifththird/53careers answers (992 jobs)",
+   "jobs": 992
+  },
+  {
+   "company": "Hartford",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "thehartford",
+   "wd": "wd5",
+   "site": "Careers_External",
+   "verified": "2026-11-13 Workday CXS thehartford/Careers_External answers (215 jobs)",
+   "jobs": 215
+  },
+  {
+   "company": "Intuitive Surgical",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "smartrecruiters",
+   "token": "Intuitive",
+   "verified": "2026-11-13 SmartRecruiters Intuitive answers (889 jobs)",
+   "jobs": 889
+  },
+  {
+   "company": "Microchip Technology",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "microchiphr",
+   "wd": "wd5",
+   "site": "External",
+   "verified": "2026-11-13 Workday CXS microchiphr/External answers (499 jobs)",
+   "jobs": 499
+  },
+  {
+   "company": "Monster Beverage",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "greenhouse",
+   "token": "monsterenergy",
+   "verified": "2026-11-13 Greenhouse board \"Monster Energy\"",
+   "jobs": 165
+  },
+  {
+   "company": "Nordson",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "nordsonhcm",
+   "wd": "wd501",
+   "site": "nordsoncareers",
+   "verified": "2026-11-13 Workday CXS nordsonhcm/nordsoncareers answers (221 jobs)",
+   "jobs": 221
+  },
+  {
+   "company": "Otis Worldwide",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "otis",
+   "wd": "wd504",
+   "site": "REC_Ext_Gateway",
+   "verified": "2026-11-13 Workday CXS otis/REC_Ext_Gateway answers (1374 jobs)",
+   "jobs": 1374
+  },
+  {
+   "company": "Parker Hannifin",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "ashby",
+   "token": "parker",
+   "verified": "2026-11-13 Ashby board parker",
+   "jobs": 13
+  },
+  {
+   "company": "Synchrony Financial",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "synchronyfinancial",
+   "wd": "wd5",
+   "site": "careers",
+   "verified": "2026-11-13 Workday CXS synchronyfinancial/careers answers (27 jobs)",
+   "jobs": 27
+  },
+  {
+   "company": "Teledyne Technologies",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "flir",
+   "wd": "wd1",
+   "site": "flircareers",
+   "verified": "2026-11-13 Workday CXS flir/flircareers answers (771 jobs)",
+   "jobs": 771
+  },
+  {
+   "company": "Trimble",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "trimble",
+   "wd": "wd1",
+   "site": "TrimbleCareers",
+   "verified": "2026-11-13 Workday CXS trimble/TrimbleCareers answers (197 jobs)",
+   "jobs": 197
+  },
+  {
+   "company": "Walmart",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "walmart",
+   "wd": "wd504",
+   "site": "WalmartExternal",
+   "verified": "2026-11-13 Workday CXS walmart/WalmartExternal answers (2000 jobs)",
+   "jobs": 2000
+  },
+  {
+   "company": "Western Digital",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "smartrecruiters",
+   "token": "WesternDigital",
+   "verified": "2026-11-13 SmartRecruiters WesternDigital answers (327 jobs)",
+   "jobs": 327
+  },
+  {
+   "company": "J.M. Smucker Company",
+   "tier": 2,
+   "industry": "S&P 500",
+   "ats": "workday",
+   "tenant": "smucker",
+   "wd": "wd5",
+   "site": "US_External_Careers",
+   "verified": "2026-11-13 Workday CXS smucker/US_External_Careers answers (115 jobs)",
+   "jobs": 115
   }
  ]
 }

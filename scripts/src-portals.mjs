@@ -114,6 +114,17 @@ export const ADAPTERS = {
   },
   async eightfold(b, { sinceMs, maxPages = 4 }) {
     const out = [];
+    if (b.pcsx) {
+      for (let p = 0; p < 12; p++) {
+        const r = await get(`${b.base}/api/pcsx/search?domain=${b.domain}&query=&location=United%20States&start=${p * 10}&sort_by=timestamp`);
+        const list = r.data?.data?.positions; if (!list?.length) break;
+        let oldest = Infinity;
+        for (const j of list) { const t = (j.postedTs || j.creationTs || 0) * 1000; oldest = Math.min(oldest, t || Infinity);
+          out.push({ id: j.id, title: j.name, locs: j.locations || [], postedAt: t ? new Date(t).toISOString() : null, postedDay: true, url: `${b.base}${j.positionUrl || '/careers/job/' + j.id}`, body: '', fetchFull: true }); }
+        if (oldest < sinceMs - 864e5) break;
+      }
+      return out;
+    }
     for (let p = 0; p < maxPages; p++) {
       const r = await get(`${b.base}/api/apply/v2/jobs?domain=${b.domain}&start=${p * 50}&num=50&sort_by=timestamp`);
       const list = r.data?.positions; if (!list?.length) break;
@@ -247,6 +258,9 @@ async function detail(b, r) {
     } else if (b.type === 'apple') {
       const d = await get(`https://jobs.apple.com/api/v1/jobDetails/${r.id}`, { headers: b._h || {} });
       const j = d.data?.res; if (j) r.body = text([j.jobSummary, j.description, 'Minimum qualifications', j.minimumQualifications, 'Preferred qualifications', j.preferredQualifications, j.keyQualifications].filter(Boolean).join('\n')).slice(0, 12000);
+    } else if (b.type === 'eightfold' && b.pcsx) {
+      const d = await get(`${b.base}/api/pcsx/position_details?position_id=${r.id}&domain=${b.domain}&hl=en`);
+      r.body = text(d.data?.data?.jobDescription || '').slice(0, 12000);
     } else if (b.type === 'phenom') {
       const d = await get(r.url.includes('myworkdayjobs.com') ? `${b.base}/${b.locale || 'us/en'}/job/${r.id}/x` : r.url, { json: false });
       const m = String(d.text).match(/"description":"((?:[^"\\]|\\.)*)"/); if (m) { try { r.body = text(JSON.parse(`"${m[1]}"`)).slice(0, 12000); } catch {} }
