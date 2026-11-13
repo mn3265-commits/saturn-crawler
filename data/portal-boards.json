@@ -1,8 +1,8 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-13T21:35:33.848Z",
+ "generated": "2026-11-13T21:45:02.294Z",
  "counts": {
-  "successfactors": 57,
+  "successfactors": 66,
   "phenom": 26,
   "jibe": 48,
   "oracle": 107,
@@ -4016,6 +4016,114 @@
    "pcsx": true,
    "jobs": 120,
    "verified": "eightfold portal answers (120 jobs), board given in career-hints.json"
+  },
+  {
+   "_was": "Colgate-Palmolive",
+   "company": "Colgate-Palmolive",
+   "group": "cpg",
+   "tier": 1,
+   "industry": "CPG",
+   "type": "successfactors",
+   "base": "https://jobs.colgate.com",
+   "v1": true,
+   "jobs": 317,
+   "verified": "successfactors portal answers (317 jobs)"
+  },
+  {
+   "_was": "BMW",
+   "company": "BMW",
+   "group": "global",
+   "tier": 2,
+   "industry": "auto",
+   "type": "successfactors",
+   "base": "https://jobs.bmwgroup.com",
+   "v1": true,
+   "jobs": 216,
+   "verified": "successfactors portal answers (216 jobs)"
+  },
+  {
+   "_was": "Wipro",
+   "company": "Wipro",
+   "group": "global",
+   "tier": 2,
+   "industry": "IT services",
+   "type": "successfactors",
+   "base": "https://careers.wipro.com",
+   "v1": true,
+   "jobs": 7200,
+   "verified": "successfactors portal answers (7200 jobs)"
+  },
+  {
+   "_was": "Altria",
+   "company": "Altria",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://careers.altria.com",
+   "v1": true,
+   "jobs": 90,
+   "verified": "successfactors portal answers (90 jobs)"
+  },
+  {
+   "_was": "CRH plc",
+   "company": "CRH plc",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://jobs.crh.com",
+   "v1": true,
+   "jobs": 1528,
+   "verified": "successfactors portal answers (1528 jobs)"
+  },
+  {
+   "_was": "Ross Stores",
+   "company": "Ross Stores",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://careers.rossstores.com",
+   "v1": true,
+   "jobs": 2201,
+   "verified": "successfactors portal answers (2201 jobs)"
+  },
+  {
+   "_was": "Skyworks Solutions",
+   "company": "Skyworks Solutions",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://careers.skyworksinc.com",
+   "v1": true,
+   "jobs": 466,
+   "verified": "successfactors portal answers (466 jobs)"
+  },
+  {
+   "_was": "TE Connectivity",
+   "company": "TE Connectivity",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "successfactors",
+   "base": "https://careers.te.com",
+   "v1": true,
+   "jobs": 1957,
+   "verified": "successfactors portal answers (1957 jobs)"
+  },
+  {
+   "_was": "Standard Chartered",
+   "company": "Standard Chartered",
+   "group": "global",
+   "tier": 1,
+   "industry": "bank",
+   "type": "successfactors",
+   "base": "https://jobs.standardchartered.com",
+   "v1": true,
+   "jobs": 2,
+   "verified": "successfactors portal answers (2 jobs)"
   }
  ]
 }

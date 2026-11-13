@@ -104,6 +104,16 @@ export const ADAPTERS = {
   },
   async successfactors(b, { sinceMs, maxPages = 4 }) {
     const out = [];
+    if (b.v1) {
+      for (let p = 0; p < 15; p++) {
+        const r = await get(`${b.base}/services/recruiting/v1/jobs`, { method: 'POST', body: { locale: 'en_US', pageNumber: p, sortBy: 'date', keywords: '', location: '', facetFilters: {}, brand: '', skills: [], categoryId: 0, alertId: '', rcmCandidateId: '' } });
+        const list = (r.data?.jobSearchResult || []).map(x => x.response).filter(Boolean); if (!list.length) break; let oldest = Infinity;
+        for (const j of list) { const m = String(j.unifiedStandardStart || '').match(/^(\d+)\/(\d+)\/(\d+)$/), t = m ? Date.UTC(2000 + +m[3], +m[1] - 1, +m[2]) : 0; oldest = Math.min(oldest, t || Infinity);
+          out.push({ id: String(j.id), title: j.unifiedStandardTitle || String(j.urlTitle || '').replace(/[-_]+/g, ' '), locs: [].concat(j.jobLocationShort || []).map(x => text(x)), postedAt: t ? new Date(t).toISOString() : null, postedDay: true, url: `${b.base}/job/${j.unifiedUrlTitle || j.urlTitle || 'x'}/${j.id}-en_US`, needsDetail: true }); }
+        if (oldest < sinceMs - 864e5) break;
+      }
+      return out;
+    }
     for (let p = 0; p < maxPages; p++) {
       const r = await get(`${b.base}/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow=${p * 25}`, { json: false });
       const rows = [...String(r.text || '').matchAll(/<tr class="data-row[\s\S]*?<\/tr>/g)].map(m => m[0]);
