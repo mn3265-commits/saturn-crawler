@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T07:47:06.173Z",
+ "generated": "2026-11-14T07:51:30.064Z",
  "companies": 22904,
  "status": {
   "found": 3220,
   "down": 3928,
-  "site": 3492,
-  "no-ats": 12264
+  "site": 3491,
+  "no-ats": 12265
  },
  "byType": {
   "dover": 7,
@@ -29405,7 +29405,7 @@
    "website": "onesignal.com",
    "src": "yc",
    "page": "https://onesignal.com/careers",
-   "crawledAt": 1794478561452
+   "crawledAt": 1794642567393
   },
   {
    "title": "Senior Software Engineer, Email Team",
@@ -29419,7 +29419,7 @@
    "website": "onesignal.com",
    "src": "yc",
    "page": "https://onesignal.com/careers",
-   "crawledAt": 1794478561452
+   "crawledAt": 1794642567393
   },
   {
    "title": "Staff Software Engineer, SMS Team (Fullstack)",
@@ -29433,7 +29433,7 @@
    "website": "onesignal.com",
    "src": "yc",
    "page": "https://onesignal.com/careers",
-   "crawledAt": 1794478561452
+   "crawledAt": 1794642567393
   },
   {
    "title": "Senior Software Engineer, Journeys Team (Fullstack)",
@@ -29447,7 +29447,7 @@
    "website": "onesignal.com",
    "src": "yc",
    "page": "https://onesignal.com/careers",
-   "crawledAt": 1794478561452
+   "crawledAt": 1794642567393
   },
   {
    "title": "Software Engineer",
@@ -29461,7 +29461,7 @@
    "website": "tumult.com",
    "src": "yc",
    "page": "https://tumult.com/jobs/",
-   "crawledAt": 1794478569523
+   "crawledAt": 1794642564812
   },
   {
    "title": "Expert Cocoa/Objective-C developer, Mac experience preferred",
@@ -29475,7 +29475,7 @@
    "website": "tumult.com",
    "src": "yc",
    "page": "https://tumult.com/jobs/",
-   "crawledAt": 1794478569523
+   "crawledAt": 1794642564812
   },
   {
    "title": "Replace Face/Head",
@@ -29489,7 +29489,7 @@
    "website": "instapainting.com",
    "src": "yc",
    "page": "https://www.instapainting.com/",
-   "crawledAt": 1794478589963
+   "crawledAt": 1794642568979
   },
   {
    "title": "Customer Service Specialist (Contract — Remote)",
@@ -29503,7 +29503,7 @@
    "website": "anylist.com",
    "src": "yc",
    "page": "https://www.anylist.com/jobs",
-   "crawledAt": 1794556533269
+   "crawledAt": 1794642570670
   },
   {
    "title": "Senior Software Engineer — Ruby on Rails/Unix",
@@ -29517,7 +29517,7 @@
    "website": "acunote.com",
    "src": "yc",
    "page": "https://www.acunote.com/jobs",
-   "crawledAt": 1794478606731
+   "crawledAt": 1794642572912
   },
   {
    "title": "QA Engineer — Ruby on Rails/Unix",
@@ -29531,7 +29531,7 @@
    "website": "acunote.com",
    "src": "yc",
    "page": "https://www.acunote.com/jobs",
-   "crawledAt": 1794478606731
+   "crawledAt": 1794642572912
   },
   {
    "title": "Sales Representative",
@@ -29545,7 +29545,7 @@
    "website": "screenleap.com",
    "src": "yc",
    "page": "https://www.screenleap.com/jobs",
-   "crawledAt": 1794556536067
+   "crawledAt": 1794642573269
   },
   {
    "title": "Software Engineer",
@@ -29559,7 +29559,7 @@
    "website": "screenleap.com",
    "src": "yc",
    "page": "https://www.screenleap.com/jobs",
-   "crawledAt": 1794556536067
+   "crawledAt": 1794642573269
   },
   {
    "title": "Game Developer",
@@ -29573,11 +29573,11 @@
    "website": "minomonsters.com",
    "src": "yc",
    "page": "https://minogamesonline.wordpress.com/jobs",
-   "crawledAt": 1794478618971
+   "crawledAt": 1794642574919
   },
   {
-   "title": "Communications Manager - Communications and Marketing",
-   "url": "https://app.hireart.com/jobs/a0b4f1ce/apply",
+   "title": "Robot Test Specialist",
+   "url": "https://app.hireart.com/jobs/53692dfc/apply",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -29587,11 +29587,11 @@
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794556541975
+   "crawledAt": 1794642579216
   },
   {
-   "title": "Data Engineer - Fleet Operations",
-   "url": "https://app.hireart.com/jobs/443374ea/apply",
+   "title": "Information Security Engineer - Information Technology and Applications",
+   "url": "https://app.hireart.com/jobs/63227788/apply",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -29601,11 +29601,11 @@
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794556541975
+   "crawledAt": 1794642579216
   },
   {
-   "title": "Engineer - Fleet Operations",
-   "url": "https://app.hireart.com/jobs/2b8d433b/apply",
+   "title": "Operations Analyst - Fleet Operations",
+   "url": "https://app.hireart.com/jobs/b12a302e/apply",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -29615,11 +29615,11 @@
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794556541975
+   "crawledAt": 1794642579216
   },
   {
-   "title": "Systems Engineer - Information Technology and Applications",
-   "url": "https://app.hireart.com/jobs/57e1a51f/apply",
+   "title": "Technical Writer - Manufacturing Operations",
+   "url": "https://app.hireart.com/jobs/767abd46/apply",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -29629,7 +29629,7 @@
    "website": "hireart.com",
    "src": "yc",
    "page": "https://app.hireart.com/browse",
-   "crawledAt": 1794556541975
+   "crawledAt": 1794642579216
   },
   {
    "title": "UI/UX Designer",
@@ -29643,7 +29643,7 @@
    "website": "mixrank.com",
    "src": "yc",
    "page": "https://mixrank.com/careers/",
-   "crawledAt": 1794478623331
+   "crawledAt": 1794642578485
   },
   {
    "title": "Software Engineer / Rails Developer",
@@ -29657,7 +29657,7 @@
    "website": "listia.com",
    "src": "yc",
    "page": "https://www.listia.com/jobs",
-   "crawledAt": 1794478627287
+   "crawledAt": 1794642582783
   },
   {
    "title": "Mobile Developer (iOS and Android)",
@@ -29671,7 +29671,7 @@
    "website": "listia.com",
    "src": "yc",
    "page": "https://www.listia.com/jobs",
-   "crawledAt": 1794478627287
+   "crawledAt": 1794642582783
   },
   {
    "title": "Staff UI Engineer",
@@ -29685,7 +29685,7 @@
    "website": "streak.com",
    "src": "yc",
    "page": "https://www.streak.com/hiring-crm",
-   "crawledAt": 1794478641640
+   "crawledAt": 1794642592686
   },
   {
    "title": "Retirement Planner",
@@ -29699,7 +29699,7 @@
    "website": "buxfer.com",
    "src": "yc",
    "page": "https://www.buxfer.com/",
-   "crawledAt": 1794478644824
+   "crawledAt": 1794642585978
   },
   {
    "title": "Head of Engineering, Identity Graph",
@@ -29713,7 +29713,7 @@
    "website": "stripe.com",
    "src": "yc",
    "page": "https://stripe.com/careers",
-   "crawledAt": 1794478662072
+   "crawledAt": 1794642594141
   },
   {
    "title": "Machine Learning Engineer, Identity",
@@ -29727,7 +29727,7 @@
    "website": "stripe.com",
    "src": "yc",
    "page": "https://stripe.com/careers",
-   "crawledAt": 1794478662072
+   "crawledAt": 1794642594141
   },
   {
    "title": "Frontend Engineer, Identity",
@@ -29741,7 +29741,7 @@
    "website": "stripe.com",
    "src": "yc",
    "page": "https://stripe.com/careers",
-   "crawledAt": 1794478662072
+   "crawledAt": 1794642594141
   },
   {
    "title": "A 24/7 application engineer",
@@ -29755,7 +29755,7 @@
    "website": "olark.com",
    "src": "yc",
    "page": "https://www.olark.com/jobs",
-   "crawledAt": 1794478668380
+   "crawledAt": 1794642597707
   },
   {
    "title": "Business Development Representative - Hybrid",
@@ -29769,7 +29769,7 @@
    "website": "zentail.com",
    "src": "yc",
    "page": "https://www.zentail.com/careers",
-   "crawledAt": 1794478674274
+   "crawledAt": 1794642599350
   },
   {
    "title": "Account Executive - Hybrid",
@@ -29783,7 +29783,7 @@
    "website": "zentail.com",
    "src": "yc",
    "page": "https://www.zentail.com/careers",
-   "crawledAt": 1794478674274
+   "crawledAt": 1794642599350
   },
   {
    "title": "Software Engineer - Hybrid Preferred",
@@ -29797,7 +29797,7 @@
    "website": "zentail.com",
    "src": "yc",
    "page": "https://www.zentail.com/careers",
-   "crawledAt": 1794478674274
+   "crawledAt": 1794642599350
   },
   {
    "title": "Junior Growth Marketer",
@@ -29811,7 +29811,7 @@
    "website": "talkable.com",
    "src": "yc",
    "page": "https://www.talkable.com/jobs",
-   "crawledAt": 1794478689162
+   "crawledAt": 1794642610216
   },
   {
    "title": "Middle Growth Marketer",
@@ -29825,7 +29825,7 @@
    "website": "talkable.com",
    "src": "yc",
    "page": "https://www.talkable.com/jobs",
-   "crawledAt": 1794478689162
+   "crawledAt": 1794642610216
   },
   {
    "title": "Senior Growth Marketer",
@@ -29839,7 +29839,7 @@
    "website": "talkable.com",
    "src": "yc",
    "page": "https://www.talkable.com/jobs",
-   "crawledAt": 1794478689162
+   "crawledAt": 1794642610216
   },
   {
    "title": "SENIOR ENTERPRISE ACCOUNT EXECUTIVE",
@@ -29853,7 +29853,7 @@
    "website": "talkable.com",
    "src": "yc",
    "page": "https://www.talkable.com/jobs",
-   "crawledAt": 1794478689162
+   "crawledAt": 1794642610216
   },
   {
    "title": "CONTENT MARKETING MANAGER",
@@ -29867,7 +29867,7 @@
    "website": "talkable.com",
    "src": "yc",
    "page": "https://www.talkable.com/jobs",
-   "crawledAt": 1794478689162
+   "crawledAt": 1794642610216
   },
   {
    "title": "Senior Software Engineer (Full Stack)",
@@ -29881,7 +29881,7 @@
    "website": "fundersclub.com",
    "src": "yc",
    "page": "https://careers.fundersclub.com/",
-   "crawledAt": 1794478691375
+   "crawledAt": 1794642605616
   },
   {
    "title": "Software Engineer",
@@ -29895,7 +29895,7 @@
    "website": "etleap.com",
    "src": "yc",
    "page": "https://etleap.com/careers",
-   "crawledAt": 1794478770569
+   "crawledAt": 1794642612630
   },
   {
    "title": "Software Engineer - Integrations",
@@ -29909,7 +29909,7 @@
    "website": "etleap.com",
    "src": "yc",
    "page": "https://etleap.com/careers",
-   "crawledAt": 1794478770569
+   "crawledAt": 1794642612630
   },
   {
    "title": "DevOps Engineer",
@@ -29923,7 +29923,7 @@
    "website": "etleap.com",
    "src": "yc",
    "page": "https://etleap.com/careers",
-   "crawledAt": 1794478770569
+   "crawledAt": 1794642612630
   },
   {
    "title": "Account Executive",
@@ -29937,7 +29937,7 @@
    "website": "etleap.com",
    "src": "yc",
    "page": "https://etleap.com/careers",
-   "crawledAt": 1794478770569
+   "crawledAt": 1794642612630
   },
   {
    "title": "Technical Support Engineer - London",
@@ -29951,7 +29951,7 @@
    "website": "etleap.com",
    "src": "yc",
    "page": "https://etleap.com/careers",
-   "crawledAt": 1794478770569
+   "crawledAt": 1794642612630
   },
   {
    "title": "Operations Manager",
@@ -29965,7 +29965,7 @@
    "website": "etleap.com",
    "src": "yc",
    "page": "https://etleap.com/careers",
-   "crawledAt": 1794478770569
+   "crawledAt": 1794642612630
   },
   {
    "title": "Chief Product Officer",
@@ -29979,7 +29979,7 @@
    "website": "goldbelly.com",
    "src": "yc",
    "page": "https://www.goldbelly.com/jobs",
-   "crawledAt": 1794478789763
+   "crawledAt": 1794642623452
   },
   {
    "title": "Chief Sales Officer",
@@ -29993,7 +29993,7 @@
    "website": "goldbelly.com",
    "src": "yc",
    "page": "https://www.goldbelly.com/jobs",
-   "crawledAt": 1794478789763
+   "crawledAt": 1794642623452
   },
   {
    "title": "Designer New York City",
@@ -30007,7 +30007,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794556546937
+   "crawledAt": 1794642616917
   },
   {
    "title": "Intern New York City",
@@ -30021,7 +30021,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794556546937
+   "crawledAt": 1794642616917
   },
   {
    "title": "Product Engineer New York City",
@@ -30035,7 +30035,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794556546937
+   "crawledAt": 1794642616917
   },
   {
    "title": "Grant Officer New York City",
@@ -30049,7 +30049,7 @@
    "website": "experiment.com",
    "src": "yc",
    "page": "https://experiment.com/jobs",
-   "crawledAt": 1794556546937
+   "crawledAt": 1794642616917
   },
   {
    "title": "Senior Software Engineer",
@@ -30063,7 +30063,7 @@
    "website": "webflow.com",
    "src": "yc",
    "page": "https://webflow.com/",
-   "crawledAt": 1794478828853
+   "crawledAt": 1794642627069
   },
   {
    "title": "Quality Assurance Manager",
@@ -30077,7 +30077,7 @@
    "website": "webflow.com",
    "src": "yc",
    "page": "https://webflow.com/",
-   "crawledAt": 1794478828853
+   "crawledAt": 1794642627069
   },
   {
    "title": "Senior Software Engineer",
@@ -30091,7 +30091,7 @@
    "website": "webflow.com",
    "src": "yc",
    "page": "https://webflow.com/",
-   "crawledAt": 1794478828853
+   "crawledAt": 1794642627069
   },
   {
    "title": "Enterprise Sales Executive",
@@ -30105,7 +30105,7 @@
    "website": "codenow.org",
    "src": "yc",
    "page": "https://codenow.org/jobs",
-   "crawledAt": 1794478857339
+   "crawledAt": 1794642629664
   },
   {
    "title": "Client Architect",
@@ -30119,7 +30119,7 @@
    "website": "codenow.org",
    "src": "yc",
    "page": "https://codenow.org/jobs",
-   "crawledAt": 1794478857339
+   "crawledAt": 1794642629664
   },
   {
    "title": "Senior Cloud Infrastructure Architect (Azure)",
@@ -30133,7 +30133,7 @@
    "website": "codenow.org",
    "src": "yc",
    "page": "https://codenow.org/jobs",
-   "crawledAt": 1794478857339
+   "crawledAt": 1794642629664
   },
   {
    "title": "Senior Cloud Infrastructure Architect (AWS)",
@@ -30147,7 +30147,7 @@
    "website": "codenow.org",
    "src": "yc",
    "page": "https://codenow.org/jobs",
-   "crawledAt": 1794478857339
+   "crawledAt": 1794642629664
   },
   {
    "title": "Senior Cloud Infrastructure Architect (OpenShift)",
@@ -30161,7 +30161,7 @@
    "website": "codenow.org",
    "src": "yc",
    "page": "https://codenow.org/jobs",
-   "crawledAt": 1794478857339
+   "crawledAt": 1794642629664
   },
   {
    "title": "Strategic Account Executive",
@@ -30175,7 +30175,7 @@
    "website": "dyspatch.io",
    "src": "yc",
    "page": "https://www.dyspatch.io/about/careers/",
-   "crawledAt": 1794478863204
+   "crawledAt": 1794642631819
   },
   {
    "title": "Custom code editor",
@@ -30189,7 +30189,7 @@
    "website": "dyspatch.io",
    "src": "yc",
    "page": "https://www.dyspatch.io/about/careers/",
-   "crawledAt": 1794478863204
+   "crawledAt": 1794642631819
   },
   {
    "title": "Account Manager",
@@ -30203,7 +30203,7 @@
    "website": "dyspatch.io",
    "src": "yc",
    "page": "https://www.dyspatch.io/about/careers/",
-   "crawledAt": 1794478863204
+   "crawledAt": 1794642631819
   },
   {
    "title": "Marketing Programs Manager",
@@ -30217,7 +30217,7 @@
    "website": "upwave.com",
    "src": "yc",
    "page": "https://www.upwave.com/careers/",
-   "crawledAt": 1794478882446
+   "crawledAt": 1794642643252
   },
   {
    "title": "Sales Director",
@@ -30231,7 +30231,7 @@
    "website": "upwave.com",
    "src": "yc",
    "page": "https://www.upwave.com/careers/",
-   "crawledAt": 1794478882446
+   "crawledAt": 1794642643252
   },
   {
    "title": "Senior Software Engineer",
@@ -30245,7 +30245,7 @@
    "website": "upwave.com",
    "src": "yc",
    "page": "https://www.upwave.com/careers/",
-   "crawledAt": 1794478882446
+   "crawledAt": 1794642643252
   },
   {
    "title": "Accounting Technical Program Manager",
@@ -30259,7 +30259,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Business Development Representative",
@@ -30273,7 +30273,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Business Program Manager",
@@ -30287,7 +30287,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Customer Success Manager",
@@ -30301,7 +30301,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Customer Success Team Lead",
@@ -30315,7 +30315,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "CX Automations and Projects Lead",
@@ -30329,7 +30329,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Email & Lifecycle Operations Manager (Hubspot)",
@@ -30343,7 +30343,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Market Manager",
@@ -30357,7 +30357,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Market Manager - Nordics",
@@ -30371,7 +30371,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Market Manager - Spain",
@@ -30385,7 +30385,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Professional Service Consultant",
@@ -30399,7 +30399,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Senior AI Platform Engineer",
@@ -30413,7 +30413,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Shield Program Lead",
@@ -30427,7 +30427,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "SMB Customer Success Manager",
@@ -30441,7 +30441,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Staff Product Manager",
@@ -30455,7 +30455,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Staff Professional Services Consultant (IC4) – Accounting Onboarding",
@@ -30469,7 +30469,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Technical Program Manager",
@@ -30483,7 +30483,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Trust Accounting Specialist",
@@ -30497,7 +30497,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Senior Field Marketing Manager",
@@ -30511,7 +30511,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Professional Services Consultant",
@@ -30525,7 +30525,7 @@
    "website": "guesty.com",
    "src": "yc",
    "page": "https://www.guesty.com/careers/",
-   "crawledAt": 1794478908494
+   "crawledAt": 1794642641727
   },
   {
    "title": "Regional Director, Charlotte",
@@ -30539,7 +30539,7 @@
    "website": "1degree.org",
    "src": "yc",
    "page": "https://about.1degree.org/join/",
-   "crawledAt": 1794478914755
+   "crawledAt": 1794642650771
   },
   {
    "title": "Management/Executive",
@@ -30553,7 +30553,7 @@
    "website": "1degree.org",
    "src": "yc",
    "page": "https://about.1degree.org/join/",
-   "crawledAt": 1794478914755
+   "crawledAt": 1794642650771
   },
   {
    "title": "Operations",
@@ -30567,7 +30567,7 @@
    "website": "grubmarket.com",
    "src": "yc",
    "page": "https://www.grubmarket.com/",
-   "crawledAt": 1794556545442
+   "crawledAt": 1794642646054
   },
   {
    "title": "Senior Software Engineer, Trust",
@@ -30581,7 +30581,7 @@
    "website": "checkr.com",
    "src": "yc",
    "page": "https://checkr.com/company/careers",
-   "crawledAt": 1794478928970
+   "crawledAt": 1794642660737
   },
   {
    "title": "Staff Software Engineer",
@@ -30595,7 +30595,7 @@
    "website": "checkr.com",
    "src": "yc",
    "page": "https://checkr.com/company/careers",
-   "crawledAt": 1794478928970
+   "crawledAt": 1794642660737
   },
   {
    "title": "Staff Software Engineer",
@@ -30609,7 +30609,7 @@
    "website": "checkr.com",
    "src": "yc",
    "page": "https://checkr.com/company/careers",
-   "crawledAt": 1794478928970
+   "crawledAt": 1794642660737
   },
   {
    "title": "Product Finance & Strategy Manager",
@@ -30623,7 +30623,7 @@
    "website": "checkr.com",
    "src": "yc",
    "page": "https://checkr.com/company/careers",
-   "crawledAt": 1794478928970
+   "crawledAt": 1794642660737
   },
   {
    "title": "Senior Software Engineer, Incubator",
@@ -30637,7 +30637,7 @@
    "website": "checkr.com",
    "src": "yc",
    "page": "https://checkr.com/company/careers",
-   "crawledAt": 1794478928970
+   "crawledAt": 1794642660737
   },
   {
    "title": "Applied AI Engineer, Agentic Systems",
@@ -30651,7 +30651,7 @@
    "website": "shipbob.com",
    "src": "yc",
    "page": "https://www.shipbob.com/careers/",
-   "crawledAt": 1794478944253
+   "crawledAt": 1794642665344
   },
   {
    "title": "iOS Engineer",
@@ -30665,7 +30665,7 @@
    "website": "getmeadow.com",
    "src": "yc",
    "page": "https://getmeadow.com/jobs",
-   "crawledAt": 1794478953608
+   "crawledAt": 1794642670908
   },
   {
    "title": "Software Engineer (Full-Stack)",
@@ -30679,7 +30679,7 @@
    "website": "getmeadow.com",
    "src": "yc",
    "page": "https://getmeadow.com/jobs",
-   "crawledAt": 1794478953608
+   "crawledAt": 1794642670908
   },
   {
    "title": "Account Executive",
@@ -30693,7 +30693,7 @@
    "website": "getmeadow.com",
    "src": "yc",
    "page": "https://getmeadow.com/jobs",
-   "crawledAt": 1794478953608
+   "crawledAt": 1794642670908
   },
   {
    "title": "Nonprofit Solutions Consultant (Sales)",
@@ -30707,7 +30707,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
    "title": "SEO & Digital Marketing Specialist",
@@ -30721,7 +30721,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
    "title": "Client Success Representative",
@@ -30735,7 +30735,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
    "title": "Data Migration Analyst",
@@ -30749,7 +30749,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
    "title": "HR Generalist, Recruiter",
@@ -30763,7 +30763,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
    "title": "Community Engagement Manager",
@@ -30777,7 +30777,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
    "title": "DevOps Engineer",
@@ -30791,161 +30791,21 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794478958804
+   "crawledAt": 1794642670625
   },
   {
-   "title": "Customer Service Associate",
-   "url": "https://www.gemnote.com/careers#customer-service-associate",
+   "title": "Head of Operations",
+   "url": "https://www.ycombinator.com/companies/gemnote/jobs/pvGzeBo-head-of-operations",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "text",
+   "via": "link",
    "company": "Gemnote",
    "website": "gemnote.com",
    "src": "yc",
    "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Customer Success Manager",
-   "url": "https://www.gemnote.com/careers#customer-success-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Fulfillment Specialist",
-   "url": "https://www.gemnote.com/careers#fulfillment-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Account Executive",
-   "url": "https://www.gemnote.com/careers#account-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Account Manager",
-   "url": "https://www.gemnote.com/careers#account-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Inbound Sales Representative",
-   "url": "https://www.gemnote.com/careers#inbound-sales-representative",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Sales Development Representative",
-   "url": "https://www.gemnote.com/careers#sales-development-representative",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Project Coordinator",
-   "url": "https://www.gemnote.com/careers#project-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Gift Fulfillment Specialist",
-   "url": "https://www.gemnote.com/careers#gift-fulfillment-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Customer Success Associate",
-   "url": "https://www.gemnote.com/careers#customer-success-associate",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
-  },
-  {
-   "title": "Junior Designer",
-   "url": "https://www.gemnote.com/careers#junior-designer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Gemnote",
-   "website": "gemnote.com",
-   "src": "yc",
-   "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794479063974
+   "crawledAt": 1794642676561
   },
   {
    "title": "Lugger - On-Demand Mover",
@@ -30982,7 +30842,7 @@
    "website": "lugg.com",
    "src": "yc",
    "page": "https://lugg.com/mover/jobs/become-a-lugger",
-   "crawledAt": 1794556559949
+   "crawledAt": 1794642685702
   },
   {
    "title": "{{ product.displayName }}",
@@ -30996,7 +30856,7 @@
    "website": "deako.com",
    "src": "yc",
    "page": "https://www.deako.com/",
-   "crawledAt": 1794556559759
+   "crawledAt": 1794642689785
   },
   {
    "title": "UX Researcher",
@@ -83882,7 +83742,7 @@
    "company": "Messapps",
    "website": "messapps.com",
    "src": "nyc",
-   "crawledAt": 1794477112536
+   "crawledAt": 1794642480306
   },
   {
    "title": "iOS Developer",
@@ -83895,7 +83755,7 @@
    "company": "Messapps",
    "website": "messapps.com",
    "src": "nyc",
-   "crawledAt": 1794477112536
+   "crawledAt": 1794642480306
   },
   {
    "title": "Healthcare and Therapy Careers at Myodetox",
@@ -84134,7 +83994,7 @@
    "company": "MarketSmiths",
    "website": "marketsmiths.com",
    "src": "nyc",
-   "crawledAt": 1794477131379
+   "crawledAt": 1794642475962
   },
   {
    "title": "Sr Benefits Manager",
@@ -84175,7 +84035,7 @@
    "company": "MoversTech CRM",
    "website": "moverstech.com",
    "src": "nyc",
-   "crawledAt": 1794477143031
+   "crawledAt": 1794642479348
   },
   {
    "title": "David Turbeville, Regional Sales Manager",
@@ -86526,7 +86386,7 @@
    "company": "Papier",
    "website": "papier.com",
    "src": "nyc",
-   "crawledAt": 1794477344946
+   "crawledAt": 1794642487383
   },
   {
    "title": "Eve, Business Intelligence Executive",
@@ -86539,7 +86399,7 @@
    "company": "Papier",
    "website": "papier.com",
    "src": "nyc",
-   "crawledAt": 1794477344946
+   "crawledAt": 1794642487383
   },
   {
    "title": "Sarah, Project Delivery Manager",
@@ -86552,7 +86412,7 @@
    "company": "Papier",
    "website": "papier.com",
    "src": "nyc",
-   "crawledAt": 1794477344946
+   "crawledAt": 1794642487383
   },
   {
    "title": "Machine Learning Engineer, Outmax",
@@ -86565,7 +86425,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Senior Account Manager - Publishers (AMERICAS)",
@@ -86578,7 +86438,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Senior Sales Manager",
@@ -86591,7 +86451,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Sales Manager",
@@ -86604,7 +86464,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Publisher Success Manager",
@@ -86617,7 +86477,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "UI/UX Designer",
@@ -86630,7 +86490,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Managing Director, UK",
@@ -86643,7 +86503,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "International Sales Director",
@@ -86656,7 +86516,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Demand Manager",
@@ -86669,7 +86529,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1794477394275
+   "crawledAt": 1794642486361
   },
   {
    "title": "Nicole - Influencer Account Coordinator",
@@ -86724,7 +86584,7 @@
    "company": "Per Scholas",
    "website": "perscholas.org",
    "src": "nyc",
-   "crawledAt": 1794477409666
+   "crawledAt": 1794642493547
   },
   {
    "title": "Senior Marketing Manager",
@@ -88095,7 +87955,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1794477641002
+   "crawledAt": 1794642495715
   },
   {
    "title": "Paid Media Manager",
@@ -88108,7 +87968,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1794477641002
+   "crawledAt": 1794642495715
   },
   {
    "title": "Paid Search Coordinator",
@@ -88121,7 +87981,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1794477641002
+   "crawledAt": 1794642495715
   },
   {
    "title": "Paid Search Specialist",
@@ -88134,7 +87994,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1794477641002
+   "crawledAt": 1794642495715
   },
   {
    "title": "Ryan Jeffrey, Digital Marketing Manager, Maui Jim",
@@ -88147,7 +88007,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1794477641002
+   "crawledAt": 1794642495715
   },
   {
    "title": "Data Engineer",
@@ -88160,7 +88020,7 @@
    "company": "RDAlabs",
    "website": "rdalabs.com",
    "src": "nyc",
-   "crawledAt": 1794477655085
+   "crawledAt": 1794642504244
   },
   {
    "title": "Data Engineer",
@@ -88173,7 +88033,7 @@
    "company": "RDAlabs",
    "website": "rdalabs.com",
    "src": "nyc",
-   "crawledAt": 1794477655085
+   "crawledAt": 1794642504244
   },
   {
    "title": "Senior Django/React Developer",
@@ -88340,7 +88200,7 @@
    "company": "Rue Gilt Groupe",
    "website": "ruegiltgroupe.com",
    "src": "nyc",
-   "crawledAt": 1794477680696
+   "crawledAt": 1794642497425
   },
   {
    "title": "Community Lead",
@@ -88479,7 +88339,7 @@
    "company": "SBG Funding",
    "website": "sbgfunding.com",
    "src": "nyc",
-   "crawledAt": 1794477692481
+   "crawledAt": 1794642502137
   },
   {
    "title": "Account Executive",
@@ -88492,7 +88352,7 @@
    "company": "SBG Funding",
    "website": "sbgfunding.com",
    "src": "nyc",
-   "crawledAt": 1794477692481
+   "crawledAt": 1794642502137
   },
   {
    "title": "Healthcare Compliance and Regulatory Specialist",
@@ -88635,6 +88495,32 @@
    "crawledAt": 1794638921425
   },
   {
+   "title": "Assistant Property Manager - East Harlem, NY",
+   "url": "https://rosenyc.com/careers/#assistant-property-manager-east-harlem-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
+  },
+  {
+   "title": "Assistant Property Manager - Queens, NY",
+   "url": "https://rosenyc.com/careers/#assistant-property-manager-queens-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
+  },
+  {
    "title": "Assistant Property Manager - White Plains, NY",
    "url": "https://rosenyc.com/careers/#assistant-property-manager-white-plains-ny",
    "datePosted": null,
@@ -88645,7 +88531,20 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
+  },
+  {
+   "title": "Commercial Assistant Property Manager - New York, NY",
+   "url": "https://rosenyc.com/careers/#commercial-assistant-property-manager-new-york-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
   },
   {
    "title": "Compliance Specialist - New York, NY",
@@ -88658,7 +88557,20 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
+  },
+  {
+   "title": "General Manager - East Harlem, NY",
+   "url": "https://rosenyc.com/careers/#general-manager-east-harlem-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
   },
   {
    "title": "Lease Administrator - New York, NY",
@@ -88671,11 +88583,11 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
   },
   {
-   "title": "Leasing Representative - Kingston, NY",
-   "url": "https://rosenyc.com/careers/#leasing-representative-kingston-ny",
+   "title": "Lease Administrator - Queens, NY",
+   "url": "https://rosenyc.com/careers/#lease-administrator-queens-ny",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -88684,7 +88596,7 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
   },
   {
    "title": "Leasing Representative - New York, NY",
@@ -88697,7 +88609,7 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
   },
   {
    "title": "Maintenance Manager - Julius, Stamford, CT",
@@ -88710,7 +88622,20 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
+  },
+  {
+   "title": "Portfolio Manager - Queens, NY",
+   "url": "https://rosenyc.com/careers/#portfolio-manager-queens-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
   },
   {
    "title": "Resident Manager - Casa One, Jersey City, NJ",
@@ -88723,7 +88648,33 @@
    "company": "Rose Associates",
    "website": "rosenyc.com",
    "src": "nyc",
-   "crawledAt": 1794477715184
+   "crawledAt": 1794642507539
+  },
+  {
+   "title": "Violation Coordinator - East Harlem, NY",
+   "url": "https://rosenyc.com/careers/#violation-coordinator-east-harlem-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
+  },
+  {
+   "title": "Violation Coordinator - Queens, NY",
+   "url": "https://rosenyc.com/careers/#violation-coordinator-queens-ny",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Rose Associates",
+   "website": "rosenyc.com",
+   "src": "nyc",
+   "crawledAt": 1794642507539
   },
   {
    "title": "Visual Designer",
@@ -89472,7 +89423,7 @@
    "company": "Simply360Search",
    "website": "simply-360.co.uk",
    "src": "nyc",
-   "crawledAt": 1794477737782
+   "crawledAt": 1794642517004
   },
   {
    "title": "Finance Manager",
@@ -89485,7 +89436,7 @@
    "company": "Simply360Search",
    "website": "simply-360.co.uk",
    "src": "nyc",
-   "crawledAt": 1794477737782
+   "crawledAt": 1794642517004
   },
   {
    "title": "Client Success Specialist New York, USA Full Time",
@@ -89498,7 +89449,7 @@
    "company": "Site Ascend",
    "website": "siteascend.com",
    "src": "nyc",
-   "crawledAt": 1794477739368
+   "crawledAt": 1794642512142
   },
   {
    "title": "DATABASE DEVELOPER",
@@ -89525,7 +89476,20 @@
    "company": "Skai",
    "website": "skai.io",
    "src": "nyc",
-   "crawledAt": 1794477753061
+   "crawledAt": 1794642515366
+  },
+  {
+   "title": "AI Engineer Tech Lead – Innovation unit",
+   "url": "https://skai.io/company/careers/#ai-engineer-tech-lead-innovation-unit",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Skai",
+   "website": "skai.io",
+   "src": "nyc",
+   "crawledAt": 1794642515366
   },
   {
    "title": "Content Writer",
@@ -89892,7 +89856,7 @@
    "company": "Spaulding Ridge",
    "website": "spauldingridge.com",
    "src": "nyc",
-   "crawledAt": 1794477850563
+   "crawledAt": 1794642519041
   },
   {
    "title": "Human Resources Associate | Spaulding Ridge",
@@ -89905,7 +89869,7 @@
    "company": "Spaulding Ridge",
    "website": "spauldingridge.com",
    "src": "nyc",
-   "crawledAt": 1794477850563
+   "crawledAt": 1794642519041
   },
   {
    "title": "User Experience Designer",
@@ -90408,7 +90372,7 @@
    "company": "Star Pediatric Home Care Agency",
    "website": "starpediatrics.com",
    "src": "nyc",
-   "crawledAt": 1794477878121
+   "crawledAt": 1794642523950
   },
   {
    "title": "Java Backend Software Development Engineer (SDE-2)",
@@ -92073,7 +92037,7 @@
    "company": "The Bancroft",
    "website": "the-bancroft.com",
    "src": "nyc",
-   "crawledAt": 1794478000889
+   "crawledAt": 1794642525833
   },
   {
    "title": "Devops Engineer",
@@ -92294,7 +92258,7 @@
    "company": "The Center for Community Solutions",
    "website": "communitysolutions.com",
    "src": "nyc",
-   "crawledAt": 1794478027880
+   "crawledAt": 1794642527252
   },
   {
    "title": "Associate / Senior Associate – Operations",
@@ -92461,7 +92425,7 @@
    "company": "The Dedham Group",
    "website": "dedhamgroup.com",
    "src": "nyc",
-   "crawledAt": 1794478041486
+   "crawledAt": 1794642533992
   },
   {
    "title": "Senior Analyst, Life Sciences Consulting",
@@ -92474,7 +92438,7 @@
    "company": "The Dedham Group",
    "website": "dedhamgroup.com",
    "src": "nyc",
-   "crawledAt": 1794478041486
+   "crawledAt": 1794642533992
   },
   {
    "title": "Sales Head",
@@ -92487,7 +92451,7 @@
    "company": "The Digital Group",
    "website": "thedigitalgroup.com",
    "src": "nyc",
-   "crawledAt": 1794478051040
+   "crawledAt": 1794642537065
   },
   {
    "title": "React Developer",
@@ -92500,7 +92464,7 @@
    "company": "The Digital Group",
    "website": "thedigitalgroup.com",
    "src": "nyc",
-   "crawledAt": 1794478051040
+   "crawledAt": 1794642537065
   },
   {
    "title": "Lead Generation Executive",
@@ -92513,7 +92477,7 @@
    "company": "The Digital Group",
    "website": "thedigitalgroup.com",
    "src": "nyc",
-   "crawledAt": 1794478051040
+   "crawledAt": 1794642537065
   },
   {
    "title": "Senior Implementation Manager, Copenhagen",
@@ -92624,7 +92588,7 @@
    "company": "The Switch",
    "website": "theswitch.tv",
    "src": "nyc",
-   "crawledAt": 1794478092533
+   "crawledAt": 1794642539914
   },
   {
    "title": "Project Coordinator",
@@ -92637,7 +92601,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "USA Mechanical - Construction Sales Representative",
@@ -92650,7 +92614,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "USA Mechanical - Controls Sales Representative",
@@ -92663,7 +92627,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "HVAC Project Manager",
@@ -92676,7 +92640,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Controls General Manager - Energy",
@@ -92689,7 +92653,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Outside Sales Representative",
@@ -92702,7 +92666,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Project Manager",
@@ -92715,7 +92679,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Service Coordinator",
@@ -92728,7 +92692,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Customer Care Manager",
@@ -92741,7 +92705,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Technician, specialist, or coordinator",
@@ -92754,7 +92718,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Senior, lead, or foreman",
@@ -92767,7 +92731,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Full-time in-house training manager",
@@ -92780,7 +92744,7 @@
    "company": "The Tustin Group",
    "website": "thetustingroup.com",
    "src": "nyc",
-   "crawledAt": 1794478159189
+   "crawledAt": 1794642543020
   },
   {
    "title": "Sales Engineer vs Solutions Engineer",
@@ -92807,7 +92771,7 @@
    "company": "Think Future Technologies",
    "website": "tftus.com",
    "src": "nyc",
-   "crawledAt": 1794478187912
+   "crawledAt": 1794642559508
   },
   {
    "title": "Daniel, General Manager - Israel",
@@ -92820,7 +92784,7 @@
    "company": "Think Future Technologies",
    "website": "tftus.com",
    "src": "nyc",
-   "crawledAt": 1794478187912
+   "crawledAt": 1794642559508
   },
   {
    "title": "AI/ML Engineer",
@@ -92833,7 +92797,7 @@
    "company": "Think Future Technologies",
    "website": "tftus.com",
    "src": "nyc",
-   "crawledAt": 1794478187912
+   "crawledAt": 1794642559508
   },
   {
    "title": "QA Automation Engineer",
@@ -92846,7 +92810,7 @@
    "company": "Think Future Technologies",
    "website": "tftus.com",
    "src": "nyc",
-   "crawledAt": 1794478187912
+   "crawledAt": 1794642559508
   },
   {
    "title": "DevOps Engineer",
@@ -92859,7 +92823,7 @@
    "company": "Think Future Technologies",
    "website": "tftus.com",
    "src": "nyc",
-   "crawledAt": 1794478187912
+   "crawledAt": 1794642559508
   },
   {
    "title": "GCP Data Engineer",
@@ -92872,7 +92836,7 @@
    "company": "Think Future Technologies",
    "website": "tftus.com",
    "src": "nyc",
-   "crawledAt": 1794478187912
+   "crawledAt": 1794642559508
   },
   {
    "title": "Solutions Manager",
@@ -93407,19 +93371,6 @@
    "crawledAt": 1794642049021
   },
   {
-   "title": "Sr Graphic Designer, Digital",
-   "url": "https://www.tommyjohn.com/pages/careers#sr-graphic-designer-digital",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Tommy John",
-   "website": "tommyjohn.com",
-   "src": "nyc",
-   "crawledAt": 1794478223287
-  },
-  {
    "title": "Talent Acquisition Manager",
    "url": "https://tipstat.com/work-with-us/#talent-acquisition-manager",
    "datePosted": null,
@@ -93936,7 +93887,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Partnerships Manager EMEA M/F/Mx",
@@ -93949,7 +93900,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Customer Success Manager (USA)",
@@ -93962,7 +93913,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Technical Integrations Manager USA",
@@ -93975,7 +93926,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Customer Success Manager (France) M/F/Mx",
@@ -93988,7 +93939,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Head of Pre-Sales USA",
@@ -94001,7 +93952,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Engineering Manager M/F/Mx",
@@ -94014,7 +93965,7 @@
    "company": "Trustpair",
    "website": "trustpair.fr",
    "src": "nyc",
-   "crawledAt": 1794478238723
+   "crawledAt": 1794642557430
   },
   {
    "title": "Commercial Operations Specialist",
@@ -94533,7 +94484,7 @@
    "company": "UserHub",
    "website": "userhub.com.bd",
    "src": "nyc",
-   "crawledAt": 1794478252910
+   "crawledAt": 1794642562590
   },
   {
    "title": "UI Design Instructor, AI-Assisted Interface Design",
@@ -94548,7 +94499,7 @@
    "company": "UserHub",
    "website": "userhub.com.bd",
    "src": "nyc",
-   "crawledAt": 1794478252910
+   "crawledAt": 1794642562590
   },
   {
    "title": "Lead Developer, Uptime User",
