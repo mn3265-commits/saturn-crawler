@@ -1,6 +1,6 @@
 {
  "_doc": "Employer ATS boards today.mjs polls directly (scripts/board-poll.mjs). Built and verified by scripts/discover-boards.mjs; tier 1 = core target (consumer fintech, telco/media/streaming, banks/cards, marketplaces/travel, MBB/Big4), 2 = other target.",
- "generated": "2026-11-13T21:31:07.476Z",
+ "generated": "2026-11-14T06:02:27.895Z",
  "counts": {
   "workday": 348,
   "ashby": 740,
@@ -25948,6 +25948,32 @@
    "site": "TKO",
    "verified": "Workday CXS wwecorp/TKO answers (62 jobs); board given in career-hints.json",
    "jobs": 62
+  },
+  {
+   "company": "Align Technology",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "more-boards sp500",
+   "poll": "daily",
+   "ats": "workday",
+   "tenant": "align",
+   "wd": "wd503",
+   "site": "A-LIGN",
+   "verified": "Workday CXS align/A-LIGN answers (17 jobs); JD names the company",
+   "jobs": 17
+  },
+  {
+   "company": "APA Corporation",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "more-boards sp500",
+   "poll": "daily",
+   "ats": "workday",
+   "tenant": "apa",
+   "wd": "wd105",
+   "site": "APA-Careers",
+   "verified": "Workday CXS apa/APA-Careers answers (20 jobs); JD names the company",
+   "jobs": 20
   }
  ]
 }
