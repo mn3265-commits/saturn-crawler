@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T07:41:44.159Z",
+ "generated": "2026-11-14T07:47:06.173Z",
  "companies": 22904,
  "status": {
   "found": 3220,
   "down": 3928,
-  "site": 3499,
-  "no-ats": 12257
+  "site": 3492,
+  "no-ats": 12264
  },
  "byType": {
   "dover": 7,
@@ -54402,7 +54402,7 @@
    "company": "Mediaocean",
    "website": "mediaocean.com",
    "src": "nyc-startups",
-   "crawledAt": 1794474989744
+   "crawledAt": 1794642258044
   },
   {
    "title": "Senior Technical Support Specialist",
@@ -54415,7 +54415,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Solutions Architect - APAC",
@@ -54428,7 +54428,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Staff Product Engineer, TPRM",
@@ -54441,7 +54441,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Staff Software Engineer, Evidence & Frameworks",
@@ -54454,7 +54454,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Principal Product Marketing Manager",
@@ -54467,7 +54467,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Senior Director, Demand Generation",
@@ -54480,7 +54480,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Senior Marketing Operations Manager",
@@ -54493,7 +54493,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Senior Partner Marketing Manager, Channel & Audit",
@@ -54506,7 +54506,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Revenue Operations Manager",
@@ -54519,7 +54519,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Senior Product Manager, Compliance",
@@ -54532,7 +54532,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Commercial Account Executive - London",
@@ -54545,7 +54545,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Emerging Account Executive - London",
@@ -54558,7 +54558,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Enterprise Account Executive - London/UK",
@@ -54571,7 +54571,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Sales Development Representative, Emerging",
@@ -54584,7 +54584,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Sales Engineer - London",
@@ -54597,7 +54597,7 @@
    "company": "Drata",
    "website": "drata.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475000589
+   "crawledAt": 1794642268549
   },
   {
    "title": "Full-Stack Engineer",
@@ -55020,6 +55020,19 @@
    "crawledAt": 1794639817050
   },
   {
+   "title": "Accounts Receivable Specialist I Chennai, Tamil Nadu, India",
+   "url": "https://www.zoominfo.com/careers/jr108326/accounts-receivable-specialist-i",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ZoomInfo",
+   "website": "zoominfo.com",
+   "src": "nyc-startups",
+   "crawledAt": 1794642273724
+  },
+  {
    "title": "Director, Corporate Tax Remote-US",
    "url": "https://www.zoominfo.com/careers/jr108205/director-corporate-tax",
    "datePosted": null,
@@ -55030,7 +55043,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Applications Security Architect Bengaluru, Karnataka, India",
@@ -55043,7 +55056,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Employment Counsel Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
@@ -55056,7 +55069,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Procurement Manager Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -55069,7 +55082,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Client Delivery Manager Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachuse",
@@ -55082,7 +55095,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Engineer (Professional Services) Waltham, Massachusetts, United States",
@@ -55095,7 +55108,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Integration Specialist I Bengaluru, Karnataka, India",
@@ -55108,7 +55121,20 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
+  },
+  {
+   "title": "GTM Integration Specialist II Chennai, Tamil Nadu, India",
+   "url": "https://www.zoominfo.com/careers/jr108276/gtm-integration-specialist-ii",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ZoomInfo",
+   "website": "zoominfo.com",
+   "src": "nyc-startups",
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Success Manager II Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, ",
@@ -55121,7 +55147,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Technical Solutions Analyst II Bengaluru, Karnataka, India",
@@ -55134,7 +55160,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Manager, GTM Consulting (Professional Services) Waltham, Massachusetts, United States",
@@ -55147,7 +55173,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Manager, GTM Engineering (Professional Services) Waltham, Massachusetts, United States",
@@ -55160,7 +55186,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior GTM Consultant Waltham, Massachusetts, United States",
@@ -55173,7 +55199,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior GTM Engineer (Professional Services) Waltham, Massachusetts, United States",
@@ -55186,7 +55212,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior GTM Onboarding Manager Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachu",
@@ -55199,7 +55225,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior GTM Onboarding Manager London, United Kingdom",
@@ -55212,7 +55238,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior GTM Success Manager Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachuset",
@@ -55225,7 +55251,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Technical Support Engineer Remote",
@@ -55238,7 +55264,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Research Specialist I Vancouver, Washington, United States",
@@ -55251,7 +55277,20 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
+  },
+  {
+   "title": "Research Specialist I Chennai, Tamil Nadu, India",
+   "url": "https://www.zoominfo.com/careers/jr108310/research-specialist-i",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ZoomInfo",
+   "website": "zoominfo.com",
+   "src": "nyc-startups",
+   "crawledAt": 1794642273724
   },
   {
    "title": "FinOps Engineer III Remote - Canada; Remote-Ireland",
@@ -55264,7 +55303,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Machine Learning Engineer Waltham, Massachusetts, United States",
@@ -55277,7 +55316,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Software Engineer Remote-US-CA",
@@ -55290,7 +55329,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior DevOps Engineer Toronto, Ontario, Canada",
@@ -55303,7 +55342,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Full Stack Software Engineer — Workflows Bethesda, Maryland, United States",
@@ -55316,7 +55355,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Software Engineer Bengaluru, Karnataka, India",
@@ -55329,7 +55368,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Software Engineer Bengaluru, Karnataka, India",
@@ -55342,7 +55381,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Software Engineer (Java)- US Remote Remote-US-DC; Remote-US-MD; Remote-US-VA",
@@ -55355,33 +55394,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
-  },
-  {
-   "title": "Senior Software Engineer, Mobile Engineer Bethesda, Maryland, United States",
-   "url": "https://www.zoominfo.com/careers/jr108215/senior-software-engineer-mobile-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "ZoomInfo",
-   "website": "zoominfo.com",
-   "src": "nyc-startups",
-   "crawledAt": 1794475016590
-  },
-  {
-   "title": "Senior Software Engineer, Mobile Tech Lead Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
-   "url": "https://www.zoominfo.com/careers/jr107744/senior-software-engineer-mobile-tech-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "ZoomInfo",
-   "website": "zoominfo.com",
-   "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Software Engineer III Austin, Texas, United States",
@@ -55394,7 +55407,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Software Engineer III Bethesda, Maryland, United States",
@@ -55407,7 +55420,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Software Engineer III Bethesda, Maryland, United States; Remote; Vancouver, Washington, United States; Waltham, Massachu",
@@ -55420,7 +55433,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Software Engineer III Bethesda, Maryland, United States",
@@ -55433,7 +55446,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Software Engineer III - Data Acquisition Waltham, Massachusetts, United States",
@@ -55446,7 +55459,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Software Engineer III -Frontend Software Engineer Bethesda, Maryland, United States",
@@ -55459,7 +55472,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Email Operations Manager Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -55472,7 +55485,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Data Scientist - Product Analytics Remote",
@@ -55485,7 +55498,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Product Management, Growth Remote",
@@ -55498,7 +55511,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Product Manager, AI Evaluation and Data Policy Waltham, Massachusetts, United States",
@@ -55511,7 +55524,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Business Intelligence Analyst – Product Analytics Remote",
@@ -55524,7 +55537,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Director, Product Management, Agentic Platform Remote-US",
@@ -55537,7 +55550,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Executive Assistant (Hybrid Waltham, MA) Waltham, Massachusetts, United States",
@@ -55550,7 +55563,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Account Manager I London, United Kingdom",
@@ -55563,7 +55576,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Account Manager I Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, Unite",
@@ -55576,7 +55589,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Account Manager, Enterprise Growth Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -55589,7 +55602,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Account Manager, SMB Vancouver, Washington, United States",
@@ -55602,10 +55615,10 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
-   "title": "Account Manager, SMB Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
+   "title": "Account Manager, SMB Waltham, Massachusetts, United States",
    "url": "https://www.zoominfo.com/careers/amsmbeast/account-manager-smb-",
    "datePosted": null,
    "locations": [],
@@ -55615,7 +55628,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Director, PE/VC & Portfolio Partnerships Waltham, Massachusetts, United States",
@@ -55628,7 +55641,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Director, Strategic Technology & ISV Partnerships Waltham, Massachusetts, United States",
@@ -55641,7 +55654,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Enterprise Account Manager London, United Kingdom",
@@ -55654,7 +55667,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Data Solutions Architect Waltham, Massachusetts, United States",
@@ -55667,7 +55680,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "GTM Solutions Consultant III Chennai, Tamil Nadu, India",
@@ -55680,7 +55693,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Manager, Account Management (Emerging Enterprise) Vancouver, Washington, United States; Waltham, Massachusetts, United S",
@@ -55693,7 +55706,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Manager, GTM Development London, United Kingdom",
@@ -55706,7 +55719,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Mid-Market Account Manager London, United Kingdom",
@@ -55719,20 +55732,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
-  },
-  {
-   "title": "Presales Solutions Architect Waltham, Massachusetts, United States",
-   "url": "https://www.zoominfo.com/careers/jr107702/presales-solutions-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "ZoomInfo",
-   "website": "zoominfo.com",
-   "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Sales Development Representative I London, United Kingdom",
@@ -55745,7 +55745,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Account Manager (Enterprise) Remote",
@@ -55758,7 +55758,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Sales Development Representative London, United Kingdom",
@@ -55771,7 +55771,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "SMB New Business Account Executive London, United Kingdom",
@@ -55784,7 +55784,20 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
+  },
+  {
+   "title": "Director, Engineering Bengaluru, Karnataka, India",
+   "url": "https://www.zoominfo.com/careers/jr108313/director-engineering",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ZoomInfo",
+   "website": "zoominfo.com",
+   "src": "nyc-startups",
+   "crawledAt": 1794642273724
   },
   {
    "title": "IAM Systems Administrator II Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
@@ -55797,7 +55810,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Principal Data Engineer Remote-US",
@@ -55810,7 +55823,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Program Manager, GTM Programs Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachu",
@@ -55823,7 +55836,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Sales Operations Specialist Chennai, Tamil Nadu, India",
@@ -55836,20 +55849,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
-  },
-  {
-   "title": "Senio Software Engineer Chennai, Tamil Nadu, India",
-   "url": "https://www.zoominfo.com/careers/jr108236/senio-software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "ZoomInfo",
-   "website": "zoominfo.com",
-   "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Analytics Engineer Toronto, Ontario, Canada",
@@ -55862,7 +55862,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Contracts Administrator London, United Kingdom",
@@ -55875,7 +55875,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Data Engineer Toronto, Ontario, Canada",
@@ -55888,7 +55888,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Product Manager - SAP FICO Bengaluru, Karnataka, India",
@@ -55901,7 +55901,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
   },
   {
    "title": "Senior Software Engineer Toronto, Ontario, Canada",
@@ -55914,7 +55914,20 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1794475016590
+   "crawledAt": 1794642273724
+  },
+  {
+   "title": "Senior Software Engineer Chennai, Tamil Nadu, India",
+   "url": "https://www.zoominfo.com/careers/jr108236/senior-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ZoomInfo",
+   "website": "zoominfo.com",
+   "src": "nyc-startups",
+   "crawledAt": 1794642273724
   },
   {
    "title": "Talent Acquisition Manager, Bengaluru, India",
@@ -55929,32 +55942,6 @@
    "src": "nyc-startups",
    "page": "https://vimeo.com/careers/culture",
    "crawledAt": 1794639822403
-  },
-  {
-   "title": "Credit Manager (Policy)",
-   "url": "https://www.revolut.com/careers/#credit-manager-policy-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Revolut",
-   "website": "revolut.com",
-   "src": "nyc-startups",
-   "crawledAt": 1794475022863
-  },
-  {
-   "title": "Support Specialist (Retail)",
-   "url": "https://www.revolut.com/careers/#support-specialist-retail-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Revolut",
-   "website": "revolut.com",
-   "src": "nyc-startups",
-   "crawledAt": 1794475022863
   },
   {
    "title": "Enterprise Account Executive",
@@ -58557,7 +58544,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1794475098940
+   "crawledAt": 1794642282587
   },
   {
    "title": "Book Inventory Analyst",
@@ -58570,7 +58557,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1794475098940
+   "crawledAt": 1794642282587
   },
   {
    "title": "Procurement Coordinator",
@@ -58583,7 +58570,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1794475098940
+   "crawledAt": 1794642282587
   },
   {
    "title": "Associate Product Engineer",
@@ -58596,7 +58583,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1794475098940
+   "crawledAt": 1794642282587
   },
   {
    "title": "Front End Developer (Angular)",
@@ -60009,7 +59996,7 @@
    "company": "CleanCapital",
    "website": "cleancapital.com",
    "src": "nyc",
-   "crawledAt": 1794475242632
+   "crawledAt": 1794642282326
   },
   {
    "title": "Technical Product Manager",
@@ -60204,7 +60191,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "SEO Analyst",
@@ -60217,7 +60204,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "SEO Content Writer",
@@ -60230,7 +60217,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Search Engine Marketing (SEM) Specialist",
@@ -60243,7 +60230,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Data Engineer",
@@ -60256,7 +60243,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Technology Solutions Consultant",
@@ -60269,7 +60256,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Cloud Support Engineer",
@@ -60282,7 +60269,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Quality Assurance Lead",
@@ -60295,7 +60282,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Automation Engineer",
@@ -60308,7 +60295,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "AI/ML Analyst",
@@ -60321,7 +60308,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "API Integration Developer",
@@ -60334,7 +60321,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Database Administrator",
@@ -60347,7 +60334,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Machine Learning Engineer",
@@ -60360,7 +60347,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Cloud DevOps Specialist",
@@ -60373,7 +60360,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "CRM Implementation Specialist",
@@ -60386,7 +60373,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Software Developer",
@@ -60399,7 +60386,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Business Intelligence (BI) Analyst",
@@ -60412,7 +60399,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "IT Support Engineer",
@@ -60425,7 +60412,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Cybersecurity Specialist / Analyst",
@@ -60438,7 +60425,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Social Media Strategist",
@@ -60451,7 +60438,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Sales Operations Analyst",
@@ -60464,7 +60451,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Python Developer",
@@ -60477,7 +60464,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Full-Stack Developer",
@@ -60490,7 +60477,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "UI/UX Designer",
@@ -60503,7 +60490,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Email Marketing Specialist",
@@ -60516,7 +60503,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1794475254945
+   "crawledAt": 1794642286555
   },
   {
    "title": "Assistant Store Manager",
@@ -61733,7 +61720,7 @@
    "company": "Embark Corporation",
    "website": "embark.com",
    "src": "nyc",
-   "crawledAt": 1794475307543
+   "crawledAt": 1794642289527
   },
   {
    "title": "Senior Support Specialist",
@@ -61746,7 +61733,7 @@
    "company": "Embark Corporation",
    "website": "embark.com",
    "src": "nyc",
-   "crawledAt": 1794475307543
+   "crawledAt": 1794642289527
   },
   {
    "title": "Technical Implementation Associate",
@@ -61759,7 +61746,7 @@
    "company": "Embark Corporation",
    "website": "embark.com",
    "src": "nyc",
-   "crawledAt": 1794475307543
+   "crawledAt": 1794642289527
   },
   {
    "title": "Strong knowledge of Google Ad Manager",
@@ -64352,19 +64339,6 @@
    "crawledAt": 1794640243891
   },
   {
-   "title": "Website Administrator",
-   "url": "https://symbiont.io/careers#website-administrator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Symbiont",
-   "website": "symbiont.io",
-   "src": "nyc",
-   "crawledAt": 1794475446239
-  },
-  {
    "title": "Director, Asia Trader",
    "url": "https://gqg.com/position/director-trader-2/",
    "datePosted": null,
@@ -65063,19 +65037,6 @@
    "src": "nyc",
    "page": "https://www.monks.com/careers",
    "crawledAt": 1794640245496
-  },
-  {
-   "title": "Employees success stories",
-   "url": "https://careers.abtasty.com/pages/discover-some-of-our-talents-success-stories",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AB Tasty",
-   "website": "abtasty.com",
-   "src": "nyc",
-   "crawledAt": 1794475462440
   },
   {
    "title": "Financial Crime Manager",
@@ -68692,20 +68653,7 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1794475555568
-  },
-  {
-   "title": "AI Research Engineer, Security",
-   "url": "https://apiiro.com/careers#ai-research-engineer-security",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Apiiro",
-   "website": "apiiro.com",
-   "src": "nyc",
-   "crawledAt": 1794475555568
+   "crawledAt": 1794642304840
   },
   {
    "title": "Product Manager",
@@ -68718,7 +68666,20 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1794475555568
+   "crawledAt": 1794642304840
+  },
+  {
+   "title": "Security Research Engineer",
+   "url": "https://apiiro.com/careers#security-research-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Apiiro",
+   "website": "apiiro.com",
+   "src": "nyc",
+   "crawledAt": 1794642304840
   },
   {
    "title": "Software Engineer",
@@ -68731,7 +68692,7 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1794475555568
+   "crawledAt": 1794642304840
   },
   {
    "title": "Content Developer Manager",
@@ -70414,7 +70375,7 @@
    "company": "Billie",
    "website": "mybillie.com",
    "src": "nyc",
-   "crawledAt": 1794475657662
+   "crawledAt": 1794642315790
   },
   {
    "title": "Cookie consent manager",
@@ -70427,7 +70388,7 @@
    "company": "Bison Trails",
    "website": "bisontrails.co",
    "src": "nyc",
-   "crawledAt": 1794475725888
+   "crawledAt": 1794642321294
   },
   {
    "title": "outpost/lead-flows-js/error.gif",
@@ -71311,7 +71272,7 @@
    "company": "Break The Web",
    "website": "breaktheweb.agency",
    "src": "nyc",
-   "crawledAt": 1794475819595
+   "crawledAt": 1794642327613
   },
   {
    "title": "Senior Staff Accountant",
@@ -72294,7 +72255,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1794475875988
+   "crawledAt": 1794642332413
   },
   {
    "title": "Office Manager",
@@ -72307,7 +72268,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1794475875988
+   "crawledAt": 1794642332413
   },
   {
    "title": "Project Manager",
@@ -72320,7 +72281,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1794475875988
+   "crawledAt": 1794642332413
   },
   {
    "title": "Technical Specialist",
@@ -72333,7 +72294,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1794475875988
+   "crawledAt": 1794642332413
   },
   {
    "title": "Part-Time On-Site Catering Coordinator",
@@ -73706,7 +73667,7 @@
    "company": "Crypto Briefing",
    "website": "cryptobriefing.com",
    "src": "nyc",
-   "crawledAt": 1794476071552
+   "crawledAt": 1794642330730
   },
   {
    "title": "Mariana Furquim, Data Scientist",
@@ -76210,71 +76171,6 @@
    "crawledAt": 1794640912749
   },
   {
-   "title": "Practice Director – Presales (Engineering Services- 5-9 years)",
-   "url": "https://www.everestgrp.com/job/practice-director-presales-engineering-services-5-9-years/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Everest Group",
-   "website": "everestgrp.com",
-   "src": "nyc",
-   "crawledAt": 1794476278394
-  },
-  {
-   "title": "Practice Director – Healthcare and Life Sciences",
-   "url": "https://www.everestgrp.com/job/practice-director-healthcare-and-life-sciences-2/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Everest Group",
-   "website": "everestgrp.com",
-   "src": "nyc",
-   "crawledAt": 1794476278394
-  },
-  {
-   "title": "Practice Director – Locations",
-   "url": "https://www.everestgrp.com/job/practice-director-locations/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Everest Group",
-   "website": "everestgrp.com",
-   "src": "nyc",
-   "crawledAt": 1794476278394
-  },
-  {
-   "title": "Senior Analyst – CIS",
-   "url": "https://www.everestgrp.com/job/senior-analyst-cis/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Everest Group",
-   "website": "everestgrp.com",
-   "src": "nyc",
-   "crawledAt": 1794476278394
-  },
-  {
-   "title": "Senior Analyst – Application Services",
-   "url": "https://www.everestgrp.com/job/senior-analyst-application-services/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Everest Group",
-   "website": "everestgrp.com",
-   "src": "nyc",
-   "crawledAt": 1794476278394
-  },
-  {
    "title": "Chief Relationship Officer",
    "url": "https://egamigroup.com/careers/#chief-relationship-officer",
    "datePosted": null,
@@ -76299,7 +76195,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1794476287292
+   "crawledAt": 1794642338833
   },
   {
    "title": "Entry-Level Sales Representative",
@@ -76312,7 +76208,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1794476287292
+   "crawledAt": 1794642338833
   },
   {
    "title": "Sales Representative (Exterior Remodeling)",
@@ -76325,7 +76221,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1794476287292
+   "crawledAt": 1794642338833
   },
   {
    "title": "Sales Representative",
@@ -76338,7 +76234,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1794476287292
+   "crawledAt": 1794642338833
   },
   {
    "title": "Central Operations Careers",
@@ -76379,7 +76275,7 @@
    "company": "Factory PR",
    "website": "factorypr.com",
    "src": "nyc",
-   "crawledAt": 1794476334098
+   "crawledAt": 1794642349204
   },
   {
    "title": "Sr. Data & Insights Manager",
@@ -76410,8 +76306,8 @@
    "crawledAt": 1794638914458
   },
   {
-   "title": "Interconnection Sales Specialist (Commercial)",
-   "url": "https://fairygodboss.com/jobs/equinix/interconnection-sales-specialist-commercial-807e55507e39f71b7446ab957aaee6b4",
+   "title": "Manager, Night Operations-Bulk/Shipping",
+   "url": "https://fairygodboss.com/jobs/hachettebookgroup/manager-night-operations-bulk-shipping-3da69e54a2131c4a7381948afb3c612d",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76420,11 +76316,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "AVP, Digital Performance Marketing",
-   "url": "https://fairygodboss.com/jobs/td-bank/avp-digital-performance-marketing-7771afe998808086fbf812a406dc5b3c",
+   "title": "Director, AI & Automation - Supply Chain",
+   "url": "https://fairygodboss.com/jobs/equinix/director-ai-and-automation-supply-chain-e8be9c15ccc3ad77b30ef4420568a868",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76433,11 +76329,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Design Engineer II",
-   "url": "https://fairygodboss.com/jobs/cadence/design-engineer-ii-3c7158625adeebfe2b6c340d94d86c1c",
+   "title": "Managing Consultant, Advisors & Consulting Services, Deploy",
+   "url": "https://fairygodboss.com/jobs/mastercard-incorporated/managing-consultant-advisors-and-consulting-services-deploy-574608b6a854604dcb98f3d2b44df2aa",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76446,11 +76342,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Managing Consultant, Program Management, Advisors & Consulting Service",
-   "url": "https://fairygodboss.com/jobs/mastercard-incorporated/managing-consultant-program-management-advisors-and-consulting-service-9b7ddb55b1d717452fa5cd9bd4839993",
+   "title": "Principal Product Validation Engineer",
+   "url": "https://fairygodboss.com/jobs/cadence/principal-product-validation-engineer-7599d52dad44b5078db3bcd845c27b1b",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76459,11 +76355,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Cleared Senior/Principal R&D Systems Engineer ¿ System Security Engineering & Assurance, Onsite",
-   "url": "https://fairygodboss.com/jobs/sandia/cleared-senior-principal-r-and-d-systems-engineer-system-security-engineering-and-assurance-onsite-2e0d3a4d974615855eb7b7924f3a175e",
+   "title": "Senior/Principal Radiological Control Technologist - Radiological Operations Programs, Onsite",
+   "url": "https://fairygodboss.com/jobs/sandia/senior-principal-radiological-control-technologist-radiological-operations-programs-onsite-dacc362e3831787b4cbb1026628ed21e",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76472,11 +76368,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Manager - HR Technology Risk",
-   "url": "https://fairygodboss.com/jobs/capitalone/manager-hr-technology-risk-b0cdebd4cafe693278a529d3171439fd",
+   "title": "Senior Director, Social Media",
+   "url": "https://fairygodboss.com/jobs/northwestern-mutual-corporate-careers/senior-director-social-media-dcce681855a908dda3f35584314cd345",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76485,11 +76381,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Executive Protection Specialist",
-   "url": "https://fairygodboss.com/jobs/navyfederal/executive-protection-specialist-c2576d38bb75af587eb487331aa8b177",
+   "title": "Safety Model Data Quality Assurance Analyst - French Speaking (Third-Party Associate)",
+   "url": "https://fairygodboss.com/jobs/tiktok/safety-model-data-quality-assurance-analyst-french-speaking-third-party-associate-06b635a1a7b45375c790d9f12f5480df",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76498,11 +76394,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Wealth Management Client Associate",
-   "url": "https://fairygodboss.com/jobs/bankofamerica/wealth-management-client-associate-a2450f0c714b11cc94b323fe7f1445cd",
+   "title": "Associate Data Scientist, Personal Lines",
+   "url": "https://fairygodboss.com/jobs/thehartford/associate-data-scientist-personal-lines-c689a6b08a89e11d363fa3f155f08ac5",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76511,11 +76407,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Manager, Communications",
-   "url": "https://fairygodboss.com/jobs/prudential/manager-communications-3447604ed880e557f19d0c401c998e87",
+   "title": "Member Service Representative (Full-Time) - Rosedale",
+   "url": "https://fairygodboss.com/jobs/navyfederal/member-service-representative-full-time-rosedale-d62527b1d6ff7a5f7c812cb5216f8367",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76524,11 +76420,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Operations QA Manager La Primavera & TPOs",
-   "url": "https://fairygodboss.com/jobs/diageo/operations-qa-manager-la-primavera-and-tpos-07e1d1488b6f96f287a25003a0ae8d31",
+   "title": "Associate Actuary, Reinsurance Operations Analytics | PGIM Ireland",
+   "url": "https://fairygodboss.com/jobs/prudential/associate-actuary-reinsurance-operations-analytics-pgim-ireland-e9130314328d6984872c7f73714a880c",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76537,11 +76433,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Executive Assistant, R&D",
-   "url": "https://fairygodboss.com/jobs/squarespace/executive-assistant-r-and-d-1ec236e81f39d5e63bdd7271a3f62953",
+   "title": "Retail Execution Manager",
+   "url": "https://fairygodboss.com/jobs/diageo/retail-execution-manager-81fa2628c27c7ffd92f88199adac8d51",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76550,11 +76446,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
-   "title": "Associate, Business Audit",
-   "url": "https://fairygodboss.com/jobs/blackrock/associate-business-audit-f2471c94073b7f6945aa3bbc83d7f859",
+   "title": "Senior Software Engineer",
+   "url": "https://fairygodboss.com/jobs/toyota-motor-north-america/senior-software-engineer-342a4aa2fff74d8c19a17acde7b6251e",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -76563,7 +76459,7 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1794476402346
+   "crawledAt": 1794642343537
   },
   {
    "title": "Software Engineer",
@@ -76772,20 +76668,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1794476419713
-  },
-  {
-   "title": "Client Support Specialist Learn More ",
-   "url": "https://www.finmkt.io/careers/client-support-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "FinMkt",
-   "website": "finmkt.io",
-   "src": "nyc",
-   "crawledAt": 1794476419713
+   "crawledAt": 1794642347903
   },
   {
    "title": "Product Manager Learn More ",
@@ -76798,7 +76681,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1794476419713
+   "crawledAt": 1794642347903
   },
   {
    "title": "Technical Project Manager Learn More ",
@@ -76811,7 +76694,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1794476419713
+   "crawledAt": 1794642347903
   },
   {
    "title": "Business Development Manager Learn More ",
@@ -76824,7 +76707,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1794476419713
+   "crawledAt": 1794642347903
   },
   {
    "title": "Operations Associate/Manager (Full time)",
@@ -76991,7 +76874,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Fleet Support Specialist",
@@ -77004,7 +76887,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "General Manager (Site Lead)",
@@ -77017,7 +76900,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Instructional Designer",
@@ -77030,7 +76913,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Loss Prevention Specialist II",
@@ -77043,11 +76926,11 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
-   "title": "Operations Specialist",
-   "url": "https://careers.flexcar.com/apply/AzvHYMpF1V/Operations-Specialist",
+   "title": "Member Experience Manager",
+   "url": "https://careers.flexcar.com/apply/old2yPnNSs/Member-Experience-Manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -77056,7 +76939,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Operations Specialist",
@@ -77069,7 +76952,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Operations Specialist",
@@ -77082,7 +76965,20 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
+  },
+  {
+   "title": "Operations Specialist",
+   "url": "https://careers.flexcar.com/apply/AzvHYMpF1V/Operations-Specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Flexcar",
+   "website": "flexcar.com",
+   "src": "nyc",
+   "crawledAt": 1794642355173
   },
   {
    "title": "Operator, Flexcar Global Security Operations Center",
@@ -77095,7 +76991,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Parts and Service Specialist",
@@ -77108,7 +77004,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Risk Data Scientist",
@@ -77121,7 +77017,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Sales Advisor - Membership",
@@ -77134,7 +77030,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Senior Product Manager",
@@ -77147,7 +77043,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Site Lead",
@@ -77160,7 +77056,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Transportation Manager",
@@ -77173,7 +77069,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1794476463568
+   "crawledAt": 1794642355173
   },
   {
    "title": "Implementation Manager",
@@ -77300,19 +77196,6 @@
    "src": "nyc",
    "page": "https://www.focaloid.com/career",
    "crawledAt": 1794640952849
-  },
-  {
-   "title": "Warehouse Maintenance Associate",
-   "url": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs&position=1&pageNum=0#warehouse-maintenance-associate",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Foundry Brands",
-   "website": "foundrybrands.com",
-   "src": "nyc",
-   "crawledAt": 1794476493215
   },
   {
    "title": "Senior Software Engineer , Query Processing, Munich",
@@ -78673,7 +78556,7 @@
    "company": "GrowNYC",
    "website": "grownyc.org",
    "src": "nyc",
-   "crawledAt": 1794476568393
+   "crawledAt": 1794642364320
   },
   {
    "title": "Human Resources Operations Manager",
@@ -78686,7 +78569,7 @@
    "company": "GrowNYC",
    "website": "grownyc.org",
    "src": "nyc",
-   "crawledAt": 1794476568393
+   "crawledAt": 1794642364320
   },
   {
    "title": "First Officer",
@@ -78713,7 +78596,7 @@
    "company": "GuestCentric Systems",
    "website": "guestcentric.com",
    "src": "nyc",
-   "crawledAt": 1794476585770
+   "crawledAt": 1794642360350
   },
   {
    "title": "EMEA SALES EXECUTIVE",
@@ -78726,7 +78609,7 @@
    "company": "GuestCentric Systems",
    "website": "guestcentric.com",
    "src": "nyc",
-   "crawledAt": 1794476585770
+   "crawledAt": 1794642360350
   },
   {
    "title": "Channel Manager",
@@ -78739,7 +78622,7 @@
    "company": "GuestCentric Systems",
    "website": "guestcentric.com",
    "src": "nyc",
-   "crawledAt": 1794476585770
+   "crawledAt": 1794642360350
   },
   {
    "title": "Talent Acquisition Manager",
@@ -79960,19 +79843,6 @@
    "crawledAt": 1794641118096
   },
   {
-   "title": "join our intern program",
-   "url": "https://www.hendersonengineers.com/who-we-are/careers/internships/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "INTERN",
-   "startDate": null,
-   "via": "link",
-   "company": "Henderson Engineers",
-   "website": "hendersonengineers.com",
-   "src": "nyc",
-   "crawledAt": 1794476632824
-  },
-  {
    "title": "Project Manager",
    "url": "https://healthybaby.com/pages/careers#project-manager",
    "datePosted": null,
@@ -80347,7 +80217,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Engagement Manager",
@@ -80360,7 +80230,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Field Marketing Lead",
@@ -80373,7 +80243,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Senior Sales Enablement Manager",
@@ -80386,7 +80256,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Senior Software Engineer",
@@ -80399,7 +80269,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Product Manager",
@@ -80412,7 +80282,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Engagement Manager (NYC)",
@@ -80425,7 +80295,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Forward Deployed Strategist (NYC)",
@@ -80438,7 +80308,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Senior Product Marketing Manager (NYC)",
@@ -80451,7 +80321,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Software Architect",
@@ -80464,7 +80334,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1794476776534
+   "crawledAt": 1794642367511
   },
   {
    "title": "Data Analyst",
@@ -80637,19 +80507,6 @@
    "crawledAt": 1794641149741
   },
   {
-   "title": "Senior 3D Designer",
-   "url": "https://imagination.com/careers/senior-3d-designer-2/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Imagination",
-   "website": "imagination.com",
-   "src": "nyc",
-   "crawledAt": 1794476780915
-  },
-  {
    "title": "Marketing & PR Executive – North America",
    "url": "https://imagination.com/careers/marketing-pr-executive-north-america/",
    "datePosted": null,
@@ -80660,7 +80517,46 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1794476780915
+   "crawledAt": 1794642368682
+  },
+  {
+   "title": "Experiential Account Manager – Live Events & Brand Activations",
+   "url": "https://imagination.com/careers/experiential-account-manager-live-events-brand-activations/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Imagination",
+   "website": "imagination.com",
+   "src": "nyc",
+   "crawledAt": 1794642368682
+  },
+  {
+   "title": "Account Director – Experiential & Live Events",
+   "url": "https://imagination.com/careers/account-director-experiential-live-events/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Imagination",
+   "website": "imagination.com",
+   "src": "nyc",
+   "crawledAt": 1794642368682
+  },
+  {
+   "title": "Senior 3D Designer",
+   "url": "https://imagination.com/careers/senior-3d-designer-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Imagination",
+   "website": "imagination.com",
+   "src": "nyc",
+   "crawledAt": 1794642368682
   },
   {
    "title": "Senior 3D Designer",
@@ -80673,7 +80569,7 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1794476780915
+   "crawledAt": 1794642368682
   },
   {
    "title": "Lead UI/UX Designer",
@@ -80772,7 +80668,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "BDR Manager",
@@ -80785,7 +80681,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Business Development Representative",
@@ -80798,7 +80694,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Commercial Sales Manager",
@@ -80811,7 +80707,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Enterprise Account Executive",
@@ -80824,7 +80720,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Enterprise Business Development Representative",
@@ -80837,7 +80733,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Expansion Account Manager",
@@ -80850,7 +80746,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "GTM Associate",
@@ -80863,7 +80759,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Solutions Engineer",
@@ -80876,20 +80772,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
-  },
-  {
-   "title": "Strategic Account Executive",
-   "url": "https://incident.io/careers#strategic-account-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "incident.io",
-   "website": "incident.io",
-   "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Cloud Security Engineer",
@@ -80902,7 +80785,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "GRC Engineer",
@@ -80915,7 +80798,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Platform Engineer",
@@ -80928,7 +80811,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Product Engineer",
@@ -80941,20 +80824,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
-  },
-  {
-   "title": "Product Operations Associate",
-   "url": "https://incident.io/careers#product-operations-associate",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "incident.io",
-   "website": "incident.io",
-   "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Technical Support Engineer",
@@ -80967,7 +80837,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Commercial Customer Success Manager",
@@ -80980,7 +80850,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Customer Success Engineer",
@@ -80993,7 +80863,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Enterprise Customer Success Manager",
@@ -81006,7 +80876,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Strategic Customer Success Manager",
@@ -81019,7 +80889,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Commercial Legal Counsel",
@@ -81032,7 +80902,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1794476787626
+   "crawledAt": 1794642373892
   },
   {
    "title": "Customer Success Manager - AppHarbr",
@@ -81129,7 +80999,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1794476805544
+   "crawledAt": 1794642376070
   },
   {
    "title": "Creative Director (Part-time) Remote, US",
@@ -81142,7 +81012,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1794476805544
+   "crawledAt": 1794642376070
   },
   {
    "title": "Finance Associate - Collections Specialist Remote, US",
@@ -81155,7 +81025,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1794476805544
+   "crawledAt": 1794642376070
   },
   {
    "title": "Operations Assistant, Journeys Remote, US",
@@ -81168,7 +81038,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1794476805544
+   "crawledAt": 1794642376070
   },
   {
    "title": "Director, Ambassador Program and Events Remote, US",
@@ -81181,7 +81051,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1794476805544
+   "crawledAt": 1794642376070
   },
   {
    "title": "Product Manager (AI) Remote, US",
@@ -81194,7 +81064,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1794476805544
+   "crawledAt": 1794642376070
   },
   {
    "title": "Farm Marketing Group Leader/Consultant",
@@ -81207,7 +81077,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "Hog Sales Manager",
@@ -81220,7 +81090,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "Client Services Associate",
@@ -81233,7 +81103,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "Marketing Associate",
@@ -81246,7 +81116,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "Farm Marketing Consultant",
@@ -81259,7 +81129,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "Talent Acquisition Specialist",
@@ -81272,7 +81142,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "proactive recruiter",
@@ -81285,7 +81155,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1794476816596
+   "crawledAt": 1794642381420
   },
   {
    "title": "Digital Growth Manager",
@@ -81748,7 +81618,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Databricks Alliance Manager",
@@ -81761,7 +81631,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Director, Partner Sales – Banking & Financial Services",
@@ -81774,7 +81644,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Azure Alliance Manager",
@@ -81787,7 +81657,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Partner Sales Executive – Healthcare",
@@ -81800,7 +81670,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Events & Marketing Operations Manager",
@@ -81813,7 +81683,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Partner Marketing Manager",
@@ -81826,7 +81696,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Anthropic Alliance Manager",
@@ -81839,7 +81709,7 @@
    "company": "Intuitive.Cloud",
    "website": "intuitive.cloud",
    "src": "nyc",
-   "crawledAt": 1794476892731
+   "crawledAt": 1794642383158
   },
   {
    "title": "Full-Stack ASP.NET Developer (Hybrid)",
@@ -81852,7 +81722,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1794476898205
+   "crawledAt": 1794642385570
   },
   {
    "title": "Sales Associate with B2B Sales Experience (Hybrid or Remote)",
@@ -81865,7 +81735,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1794476898205
+   "crawledAt": 1794642385570
   },
   {
    "title": "B2B Digital Marketer (Hybrid)",
@@ -81878,7 +81748,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1794476898205
+   "crawledAt": 1794642385570
   },
   {
    "title": "Generative AI Engineer (Hybrid)",
@@ -81891,7 +81761,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1794476898205
+   "crawledAt": 1794642385570
   },
   {
    "title": "Room to grow and space to lead",
@@ -82156,7 +82026,7 @@
    "company": "IndSoft",
    "website": "indsoft.com",
    "src": "nyc",
-   "crawledAt": 1794476916451
+   "crawledAt": 1794642400762
   },
   {
    "title": "Software Engineer",
@@ -82169,7 +82039,7 @@
    "company": "IndSoft",
    "website": "indsoft.com",
    "src": "nyc",
-   "crawledAt": 1794476916451
+   "crawledAt": 1794642400762
   },
   {
    "title": "Marketing",
@@ -82182,7 +82052,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1794476919570
+   "crawledAt": 1794642397693
   },
   {
    "title": "Product",
@@ -82195,7 +82065,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1794476919570
+   "crawledAt": 1794642397693
   },
   {
    "title": "Product Operations",
@@ -82208,7 +82078,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1794476919570
+   "crawledAt": 1794642397693
   },
   {
    "title": "Internships & Co-Ops",
@@ -82221,11 +82091,11 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1794476919570
+   "crawledAt": 1794642397693
   },
   {
-   "title": "Growth Marketing Senior Associate",
-   "url": "https://careers.draftkings.com/jobs/jr15248/growth-marketing-senior-associate/",
+   "title": "Senior Backend Engineer",
+   "url": "https://careers.draftkings.com/jobs/jr15399/senior-backend-engineer/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -82234,11 +82104,11 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1794476919570
+   "crawledAt": 1794642397693
   },
   {
-   "title": "Sportsbook Floor Security Representative",
-   "url": "https://careers.draftkings.com/jobs/jr15167/sportsbook-floor-security-representative/",
+   "title": "Senior Data Science Engineering Manager, Marketing",
+   "url": "https://careers.draftkings.com/jobs/jr15126/senior-data-science-engineering-manager-marketing/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -82247,7 +82117,20 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1794476919570
+   "crawledAt": 1794642397693
+  },
+  {
+   "title": "Senior Machine Learning Engineer",
+   "url": "https://careers.draftkings.com/jobs/jr15135/senior-machine-learning-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Jackpocket",
+   "website": "jackpocket.com",
+   "src": "nyc",
+   "crawledAt": 1794642397693
   },
   {
    "title": "Business Development Executive",
@@ -82904,7 +82787,7 @@
    "company": "LexShares",
    "website": "lexshares.com",
    "src": "nyc",
-   "crawledAt": 1794476942135
+   "crawledAt": 1794642402299
   },
   {
    "title": "Full-Stack Product & Field Engineer – AI Systems",
@@ -83355,903 +83238,6 @@
    "crawledAt": 1794638918558
   },
   {
-   "title": "Accounting Manager, Inventory and Margin",
-   "url": "https://www.marcjacobs.com/us-en/jobs#accounting-manager-inventory-and-margin",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Allocation Planner",
-   "url": "https://www.marcjacobs.com/us-en/jobs#allocation-planner",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Assistant Store Manager - Rosemont",
-   "url": "https://www.marcjacobs.com/us-en/jobs#assistant-store-manager-rosemont",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "FT Sales Associate - Miami Design District",
-   "url": "https://www.marcjacobs.com/us-en/jobs#ft-sales-associate-miami-design-district",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "FT Sales Associate - North Georgia Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#ft-sales-associate-north-georgia-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "FT Sales Associate - Somerset",
-   "url": "https://www.marcjacobs.com/us-en/jobs#ft-sales-associate-somerset",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "FT Sales Associate - Woodbury",
-   "url": "https://www.marcjacobs.com/us-en/jobs#ft-sales-associate-woodbury",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "FT Stock Associate - Citadel",
-   "url": "https://www.marcjacobs.com/us-en/jobs#ft-stock-associate-citadel",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Allen Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-allen-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Burlington",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-burlington",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Camarillo",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-camarillo",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Carlsbad",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-carlsbad",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Chicago Premium Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-chicago-premium-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Cincinnati Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-cincinnati-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Clarksburg",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-clarksburg",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Deer Park Tanger Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-deer-park-tanger-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Great Mall Milpitas",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-great-mall-milpitas",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Houston Tanger",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-houston-tanger",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Keystone",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-keystone",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - King Of Prussia",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-king-of-prussia",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - La Cantera",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-la-cantera",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Leesburg Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-leesburg-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Livermore",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-livermore",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - National Harbor",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-national-harbor",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Oakbrook",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-oakbrook",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Prince Street",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-prince-street",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Roosevelt Field Mall",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-roosevelt-field-mall",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Scottsdale Fashion Square",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-scottsdale-fashion-square",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Somerset",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-somerset",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Square One",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-square-one",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Tampa Premium",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-tampa-premium",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Toronto Premium Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-toronto-premium-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate - Vacaville Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-vacaville-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Sales Associate- Vancouver Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-sales-associate-vancouver-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Stock Associate - Houston Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-stock-associate-houston-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "PT Stock Associate - Livermore Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#pt-stock-associate-livermore-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Ala Moana",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-ala-moana",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Charlotte Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-charlotte-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Chicago Premium Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-chicago-premium-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Clarksburg Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-clarksburg-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Grand Prairie",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-grand-prairie",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Houston Galleria",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-houston-galleria",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Houston Premium Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-houston-premium-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Houston Tanger",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-houston-tanger",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Hudson Yards",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-hudson-yards",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Jersey Gardens",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-jersey-gardens",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Las Americas Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-las-americas-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Las Vegas Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-las-vegas-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Lenox Square",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-lenox-square",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Livermore",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-livermore",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Locust Grove",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-locust-grove",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - National Harbor",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-national-harbor",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - North Georgia Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-north-georgia-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Opry Mills",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-opry-mills",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Roosevelt Field",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-roosevelt-field",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Tampa Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-tampa-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Toronto Premium Outlets",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-toronto-premium-outlets",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Tysons Galleria",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-tysons-galleria",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate - Vancouver Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-vancouver-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate- Fashion Show (Las Vegas)",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-fashion-show-las-vegas-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Seasonal Sales Associate- Fashion Valley",
-   "url": "https://www.marcjacobs.com/us-en/jobs#seasonal-sales-associate-fashion-valley",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Senior Allocation Planner",
-   "url": "https://www.marcjacobs.com/us-en/jobs#senior-allocation-planner",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Senior Designer, Leather Goods",
-   "url": "https://www.marcjacobs.com/us-en/jobs#senior-designer-leather-goods",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Store Manager - Opry Mills",
-   "url": "https://www.marcjacobs.com/us-en/jobs#store-manager-opry-mills",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Store Manager - Tysons Galleria",
-   "url": "https://www.marcjacobs.com/us-en/jobs#store-manager-tysons-galleria",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Store Manager - Wrentham Premium Outlet",
-   "url": "https://www.marcjacobs.com/us-en/jobs#store-manager-wrentham-premium-outlet",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Temporary Atelier Coordinator",
-   "url": "https://www.marcjacobs.com/us-en/jobs#temporary-atelier-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Temporary Design Coordinator",
-   "url": "https://www.marcjacobs.com/us-en/jobs#temporary-design-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
-   "title": "Temporary Wholesale Coordinator",
-   "url": "https://www.marcjacobs.com/us-en/jobs#temporary-wholesale-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "text",
-   "company": "Marc Jacobs",
-   "website": "marcjacobs.com",
-   "src": "nyc",
-   "crawledAt": 1794477053357
-  },
-  {
    "title": "Technical Project Manager",
    "url": "https://www.magicedtech.com/career-possibilities/#technical-project-manager",
    "datePosted": null,
@@ -84276,7 +83262,7 @@
    "company": "Indus Group Inc",
    "website": "indusgroupinc.com",
    "src": "nyc",
-   "crawledAt": 1794477094747
+   "crawledAt": 1794642425868
   },
   {
    "title": "Software Developer, Hackensack, NJ",
@@ -84289,7 +83275,7 @@
    "company": "Indus Group Inc",
    "website": "indusgroupinc.com",
    "src": "nyc",
-   "crawledAt": 1794477094747
+   "crawledAt": 1794642425868
   },
   {
    "title": "Solutions Engineer",
@@ -84320,19 +83306,6 @@
    "crawledAt": 1794641333814
   },
   {
-   "title": "Senior Video Editor (Temporary)",
-   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
    "title": "Senior Designer - Temporary",
    "url": "https://www.monks.com/careers/san-francisco/6227269004/senior-designer-temporary",
    "datePosted": null,
@@ -84343,33 +83316,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/los-angeles/6251358004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/seattle/6240543004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
    "title": "Shopify Technical Project Lead",
@@ -84382,20 +83329,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "AI Product Owner",
-   "url": "https://www.monks.com/careers/mexico-city/6226123004/ai-product-owner",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
    "title": "Content Strategist, Amazon & Marketplace",
@@ -84408,20 +83342,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/denver/6251360004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
    "title": "Senior Designer (Temporary)",
@@ -84434,11 +83355,11 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
-   "title": "Sr. Technical Writer",
-   "url": "https://www.monks.com/careers/california/6227277004/sr-technical-writer",
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/seattle/6240543004/content-strategist-amazon-marketplace",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -84447,7 +83368,33 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Senior Video Editor (Temporary)",
+   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/los-angeles/6251358004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
   },
   {
    "title": "Motion Designer (Temporary)",
@@ -84460,11 +83407,11 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
-   "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
-   "url": "https://www.monks.com/careers/6135496004/senior-data-engineer-talent-pool-future-opportunities",
+   "title": "AI Product Owner",
+   "url": "https://www.monks.com/careers/mexico-city/6226123004/ai-product-owner",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -84473,7 +83420,33 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/denver/6251360004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Sr. Technical Writer",
+   "url": "https://www.monks.com/careers/california/6227277004/sr-technical-writer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
   },
   {
    "title": "Senior Product Manager",
@@ -84486,7 +83459,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
    "title": "Battery Test Engineer",
@@ -84499,46 +83472,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "Product Designer",
-   "url": "https://www.monks.com/careers/6135833004/product-designer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "DevOps Engineer",
-   "url": "https://www.monks.com/careers/6135310004/devops-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
-   "url": "https://www.monks.com/careers/6135379004/sdet-testing-engineer-lead-talent-pool-future-opportunities",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
    "title": "Backend Engineer",
@@ -84551,11 +83485,11 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
-   "title": "Unisys OS 2200 Infrastructure Support Specialist",
-   "url": "https://www.monks.com/careers/5789855004/unisys-os-2200-infrastructure-support-specialist",
+   "title": "Product Designer",
+   "url": "https://www.monks.com/careers/6135833004/product-designer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -84564,7 +83498,46 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
+   "url": "https://www.monks.com/careers/6135379004/sdet-testing-engineer-lead-talent-pool-future-opportunities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
+   "url": "https://www.monks.com/careers/6135496004/senior-data-engineer-talent-pool-future-opportunities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "DevOps Engineer",
+   "url": "https://www.monks.com/careers/6135310004/devops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
   },
   {
    "title": "Unisys OS 2200 Application Support Specialist",
@@ -84577,7 +83550,46 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Unisys OS 2200 Infrastructure Support Specialist",
+   "url": "https://www.monks.com/careers/5789855004/unisys-os-2200-infrastructure-support-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Senior Site Reliability Engineer",
+   "url": "https://www.monks.com/careers/6238896004/senior-site-reliability-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
+  },
+  {
+   "title": "Senior Product Designer (Data Visualization)",
+   "url": "https://www.monks.com/careers/6227293004/senior-product-designer-data-visualization",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1794642414229
   },
   {
    "title": "Senior DevOps Engineer",
@@ -84590,11 +83602,11 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
-   "title": "Sr. Product Designer (Data Visualization)",
-   "url": "https://www.monks.com/careers/6227293004/sr-product-designer-data-visualization",
+   "title": "Lead Software Engineer",
+   "url": "https://www.monks.com/careers/6256145004/lead-software-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -84603,33 +83615,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "Fullstack Engineer",
-   "url": "https://www.monks.com/careers/5800074004/fullstack-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
-  },
-  {
-   "title": "Java Backend Developer",
-   "url": "https://www.monks.com/careers/hilversum/5820880004/java-backend-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1794477096521
+   "crawledAt": 1794642414229
   },
   {
    "title": "Business & Project Operations Roles",
@@ -95576,7 +94562,7 @@
    "website": "uptime.com",
    "src": "nyc",
    "page": "https://uptime.com/heartbeat-cron-job-monitoring",
-   "crawledAt": 1794474325989
+   "crawledAt": 1794642157047
   },
   {
    "title": "Platform Engineer",
@@ -95590,7 +94576,7 @@
    "website": "uptime.com",
    "src": "nyc",
    "page": "https://uptime.com/heartbeat-cron-job-monitoring",
-   "crawledAt": 1794474325989
+   "crawledAt": 1794642157047
   },
   {
    "title": "Digital Marketing Manager",
@@ -95604,7 +94590,7 @@
    "website": "unifiedinfotech.net",
    "src": "nyc",
    "page": "https://www.unifiedinfotech.net/careers/",
-   "crawledAt": 1794474333907
+   "crawledAt": 1794642156471
   },
   {
    "title": "Android Native Developer",
@@ -95618,7 +94604,7 @@
    "website": "unifiedinfotech.net",
    "src": "nyc",
    "page": "https://www.unifiedinfotech.net/careers/",
-   "crawledAt": 1794474333907
+   "crawledAt": 1794642156471
   },
   {
    "title": "Svelte Developer",
@@ -95632,7 +94618,7 @@
    "website": "unifiedinfotech.net",
    "src": "nyc",
    "page": "https://www.unifiedinfotech.net/careers/",
-   "crawledAt": 1794474333907
+   "crawledAt": 1794642156471
   },
   {
    "title": "Delivery Manager",
@@ -95646,7 +94632,7 @@
    "website": "unifiedinfotech.net",
    "src": "nyc",
    "page": "https://www.unifiedinfotech.net/careers/",
-   "crawledAt": 1794474333907
+   "crawledAt": 1794642156471
   },
   {
    "title": "Senior Business Analyst",
@@ -95660,7 +94646,7 @@
    "website": "unifiedinfotech.net",
    "src": "nyc",
    "page": "https://www.unifiedinfotech.net/careers/",
-   "crawledAt": 1794474333907
+   "crawledAt": 1794642156471
   },
   {
    "title": "iOS Developer",
@@ -95674,7 +94660,7 @@
    "website": "unifiedinfotech.net",
    "src": "nyc",
    "page": "https://www.unifiedinfotech.net/careers/",
-   "crawledAt": 1794474333907
+   "crawledAt": 1794642156471
   },
   {
    "title": "Associate Director, Clinical Quality",
@@ -95688,7 +94674,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Associate Director, Medical Affairs",
@@ -95702,7 +94688,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Associate Director, Publications",
@@ -95716,7 +94702,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager - Manchester, NH",
@@ -95730,7 +94716,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease- New England",
@@ -95744,7 +94730,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Pennsylvania",
@@ -95758,7 +94744,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - New Jersey",
@@ -95772,7 +94758,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Atlantic Coast",
@@ -95786,7 +94772,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - South Atlantic",
@@ -95800,7 +94786,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - California",
@@ -95814,7 +94800,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease- Upper Midwest",
@@ -95828,7 +94814,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Texoma",
@@ -95842,7 +94828,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Gulf Coast",
@@ -95856,7 +94842,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Mountain West",
@@ -95870,7 +94856,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Mid South",
@@ -95884,7 +94870,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Territory Business Manager, Rare Disease - Crossroads",
@@ -95898,7 +94884,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Field Reimbursement Manager- Great Lakes",
@@ -95912,7 +94898,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Field Reimbursement Manager- Midwest",
@@ -95926,7 +94912,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Field Reimbursement Manager- Northeast",
@@ -95940,7 +94926,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "Field Reimbursement Manager- Indianapolis",
@@ -95954,7 +94940,21 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
+  },
+  {
+   "title": "Field Reimbursement Manager - MidAtlantic",
+   "url": "https://www.urogen.com/who-we-are/work-with-us#field-reimbursement-manager-midatlantic",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "UroGen Pharma",
+   "website": "urogen.com",
+   "src": "nyc",
+   "page": "https://www.urogen.com/who-we-are/work-with-us",
+   "crawledAt": 1794642165573
   },
   {
    "title": "Field Reimbursement Manager - Southeast",
@@ -95968,7 +94968,7 @@
    "website": "urogen.com",
    "src": "nyc",
    "page": "https://www.urogen.com/who-we-are/work-with-us",
-   "crawledAt": 1794474366444
+   "crawledAt": 1794642165573
   },
   {
    "title": "F&I Specialist",
@@ -95982,7 +94982,7 @@
    "website": "vanguarddealerservices.com",
    "src": "nyc",
    "page": "https://vanguarddealerservices.com/about-vanguard-dealer-services/career-opportunities/",
-   "crawledAt": 1794474403775
+   "crawledAt": 1794642176595
   },
   {
    "title": "Senior Corporate Recruiter",
@@ -95996,7 +94996,7 @@
    "website": "vanderweil.com",
    "src": "nyc",
    "page": "https://www.vanderweil.com/careers/internship-program/",
-   "crawledAt": 1794474402776
+   "crawledAt": 1794642169634
   },
   {
    "title": "Client Solutions Specialist, Platform Support",
@@ -96010,7 +95010,7 @@
    "website": "veritonic.com",
    "src": "nyc",
    "page": "https://veritonic.com/careers/",
-   "crawledAt": 1794474413489
+   "crawledAt": 1794642175526
   },
   {
    "title": "Sales Development Representative (SDR)",
@@ -96024,7 +95024,7 @@
    "website": "veritonic.com",
    "src": "nyc",
    "page": "https://veritonic.com/careers/",
-   "crawledAt": 1794474413489
+   "crawledAt": 1794642175526
   },
   {
    "title": "Customer Success Manager",
@@ -96038,7 +95038,7 @@
    "website": "veritonic.com",
    "src": "nyc",
    "page": "https://veritonic.com/careers/",
-   "crawledAt": 1794474413489
+   "crawledAt": 1794642175526
   },
   {
    "title": "Full Stack / Backend Engineer",
@@ -96052,7 +95052,7 @@
    "website": "veritonic.com",
    "src": "nyc",
    "page": "https://veritonic.com/careers/",
-   "crawledAt": 1794474413489
+   "crawledAt": 1794642175526
   },
   {
    "title": "Frontend Engineer",
@@ -96066,7 +95066,7 @@
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794556530167
+   "crawledAt": 1794642184295
   },
   {
    "title": "Full Stack Engineer",
@@ -96080,7 +95080,7 @@
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794556530167
+   "crawledAt": 1794642184295
   },
   {
    "title": "Designer",
@@ -96094,7 +95094,21 @@
    "website": "vienna.earth",
    "src": "nyc",
    "page": "https://vienna.earth/",
-   "crawledAt": 1794556530167
+   "crawledAt": 1794642184295
+  },
+  {
+   "title": "Senior Office Manager, U.S.",
+   "url": "https://career.vialytics.com/en-GB/jobs/8724644-senior-office-manager-u-s",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Vialytics",
+   "website": "vialytics.com",
+   "src": "nyc",
+   "page": "https://www.vialytics.com/",
+   "crawledAt": 1794642189845
   },
   {
    "title": "(Senior) Director Finance (m/f/d)",
@@ -96108,7 +95122,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794556542618
+   "crawledAt": 1794642189845
   },
   {
    "title": "Marketing Manager, U.S. East Coast",
@@ -96122,7 +95136,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794556542618
+   "crawledAt": 1794642189845
   },
   {
    "title": "Chief of Staff to the CEO (m/f/d)",
@@ -96136,7 +95150,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794556542618
+   "crawledAt": 1794642189845
   },
   {
    "title": "Account Executive, Atlanta",
@@ -96150,7 +95164,7 @@
    "website": "vialytics.com",
    "src": "nyc",
    "page": "https://www.vialytics.com/",
-   "crawledAt": 1794556542618
+   "crawledAt": 1794642189845
   },
   {
    "title": "Organic Social Media Strategist",
@@ -96236,7 +95250,7 @@
    "website": "waze.com",
    "src": "nyc",
    "page": "https://www.waze.com/",
-   "crawledAt": 1794474538048
+   "crawledAt": 1794642192347
   },
   {
    "title": "Associate Director, Dublin",
@@ -96250,7 +95264,7 @@
    "website": "wachsman.com",
    "src": "nyc",
    "page": "https://wachsman.com/careers/",
-   "crawledAt": 1794474598013
+   "crawledAt": 1794642203885
   },
   {
    "title": "Digital Marketing Coordinator",
@@ -96264,7 +95278,7 @@
    "website": "wheelhouseit.com",
    "src": "nyc",
    "page": "https://www.wheelhouseit.com/careers/",
-   "crawledAt": 1794474635369
+   "crawledAt": 1794642207185
   },
   {
    "title": "Marketing & Account Manager",
@@ -96278,7 +95292,7 @@
    "website": "wheelhouseit.com",
    "src": "nyc",
    "page": "https://www.wheelhouseit.com/careers/",
-   "crawledAt": 1794474635369
+   "crawledAt": 1794642207185
   },
   {
    "title": "Team Engineer",
@@ -96292,49 +95306,7 @@
    "website": "wheelhouseit.com",
    "src": "nyc",
    "page": "https://www.wheelhouseit.com/careers/",
-   "crawledAt": 1794474635369
-  },
-  {
-   "title": "Chicago Branch - Warehouse Associate Second Shift",
-   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5645",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Wismettac Asian Foods",
-   "website": "wismettacusa.com",
-   "src": "nyc",
-   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
-  },
-  {
-   "title": "Warehouse Associate",
-   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5605",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Wismettac Asian Foods",
-   "website": "wismettacusa.com",
-   "src": "nyc",
-   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
-  },
-  {
-   "title": "Warehouse Associate (PM Shift)",
-   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5363",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Wismettac Asian Foods",
-   "website": "wismettacusa.com",
-   "src": "nyc",
-   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642207185
   },
   {
    "title": "Warehouse Associate",
@@ -96348,7 +95320,49 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
+  },
+  {
+   "title": "Chicago Branch - Warehouse Associate Second Shift",
+   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5645",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Wismettac Asian Foods",
+   "website": "wismettacusa.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
+   "crawledAt": 1794642212441
+  },
+  {
+   "title": "Warehouse Associate",
+   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5605",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Wismettac Asian Foods",
+   "website": "wismettacusa.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
+   "crawledAt": 1794642212441
+  },
+  {
+   "title": "Warehouse Associate (PM Shift)",
+   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5363",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Wismettac Asian Foods",
+   "website": "wismettacusa.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
+   "crawledAt": 1794642212441
   },
   {
    "title": "Sales Associate - Korean Markets",
@@ -96362,7 +95376,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Sales Associate",
@@ -96376,7 +95390,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Washington DC Branch - Warehouse Associate",
@@ -96390,7 +95404,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Product Category Specialist",
@@ -96404,7 +95418,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Inventory Planning Associate",
@@ -96418,7 +95432,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Sales Associate",
@@ -96432,7 +95446,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Warehouse Systems Support Associate",
@@ -96446,7 +95460,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Warehouse Systems Support Associate",
@@ -96460,7 +95474,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Orlando Sales Associate - Korean Markets",
@@ -96474,7 +95488,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Warehouse Associate",
@@ -96488,7 +95502,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Office Manager",
@@ -96502,7 +95516,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Sales Associate",
@@ -96516,7 +95530,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Inside Sales Rep",
@@ -96530,7 +95544,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Sales Associate",
@@ -96544,7 +95558,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Logistics Manager",
@@ -96558,21 +95572,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
-  },
-  {
-   "title": "Corporate Planning Senior Associate",
-   "url": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE/jobs/5410",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Wismettac Asian Foods",
-   "website": "wismettacusa.com",
-   "src": "nyc",
-   "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1794474709644
+   "crawledAt": 1794642212441
   },
   {
    "title": "Product Management",
@@ -96740,7 +95740,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "CEO, Rivet and Chief Supply Officer",
@@ -96754,7 +95754,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Chief People and Culture Officer",
@@ -96768,7 +95768,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "General Counsel & Chief Governance Officer",
@@ -96782,7 +95782,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Chief Experience Officer",
@@ -96796,7 +95796,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Chief Revenue Officer",
@@ -96810,7 +95810,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Chief Financial Officer",
@@ -96824,7 +95824,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Chief Marketing Officer",
@@ -96838,7 +95838,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Chief Product and Technology Officer",
@@ -96852,7 +95852,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1794474722808
+   "crawledAt": 1794642224483
   },
   {
    "title": "Case Design Associate, Atlanta",
@@ -96866,7 +95866,7 @@
    "website": "wingedkeel.com",
    "src": "nyc",
    "page": "https://www.wingedkeel.com/careers",
-   "crawledAt": 1794474728812
+   "crawledAt": 1794642230251
   },
   {
    "title": "Finance Associate, New York",
@@ -96880,7 +95880,7 @@
    "website": "wingedkeel.com",
    "src": "nyc",
    "page": "https://www.wingedkeel.com/careers",
-   "crawledAt": 1794474728812
+   "crawledAt": 1794642230251
   },
   {
    "title": "Product Lead",
@@ -96894,7 +95894,7 @@
    "website": "xyretail.com",
    "src": "nyc",
    "page": "https://www.xyretail.com/career",
-   "crawledAt": 1794474758296
+   "crawledAt": 1794642229883
   },
   {
    "title": "Junior AI Engineer",
@@ -96908,7 +95908,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Junior Software Engineer",
@@ -96922,7 +95922,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Power Platform Developer",
@@ -96936,7 +95936,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "RPA Solution Architect",
@@ -96950,7 +95950,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Senior Account Manager",
@@ -96964,7 +95964,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Senior Consultant Program Manager - Tungsten",
@@ -96978,7 +95978,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Senior UiPath Developer",
@@ -96992,7 +95992,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Senior UiPath Developer - Document Understanding",
@@ -97006,7 +96006,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Solutions Architect - UiPath",
@@ -97020,7 +96020,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Technical Account Manager (UiPath)",
@@ -97034,7 +96034,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Tungsten Total Agility Consultant",
@@ -97048,7 +96048,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1794474763186
+   "crawledAt": 1794642235110
   },
   {
    "title": "Solution Consultant",
@@ -97062,7 +96062,7 @@
    "website": "ziftsolutions.com",
    "src": "nyc",
    "page": "https://www.unifyr.com/careers",
-   "crawledAt": 1794474862794
+   "crawledAt": 1794642239714
   },
   {
    "title": "Implementation Consultant",
@@ -97076,7 +96076,7 @@
    "website": "ziftsolutions.com",
    "src": "nyc",
    "page": "https://www.unifyr.com/careers",
-   "crawledAt": 1794474862794
+   "crawledAt": 1794642239714
   },
   {
    "title": "Senior Customer Success Manager",
@@ -97090,7 +96090,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1794474871558
+   "crawledAt": 1794642244947
   },
   {
    "title": "Senior Marketing Manager",
@@ -97104,7 +96104,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1794474871558
+   "crawledAt": 1794642244947
   },
   {
    "title": "Product Marketing Manager",
@@ -97118,7 +96118,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1794474871558
+   "crawledAt": 1794642244947
   },
   {
    "title": "Account Manager",
@@ -97132,7 +96132,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1794474871558
+   "crawledAt": 1794642244947
   },
   {
    "title": "Marketing Manager",
@@ -97146,7 +96146,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1794474871558
+   "crawledAt": 1794642244947
   },
   {
    "title": "Senior Sales Manager",
@@ -97160,7 +96160,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1794474871558
+   "crawledAt": 1794642244947
   },
   {
    "title": "LegalTech Business Analyst",
@@ -97174,7 +96174,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "AI Solutions Architect",
@@ -97188,7 +96188,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "Senior QA Engineer",
@@ -97202,7 +96202,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "Backend/Golang Developer",
@@ -97216,7 +96216,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "Healthcare Solutions Architect",
@@ -97230,7 +96230,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "LLM Engineer",
@@ -97244,7 +96244,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "Project Manager/Business Analyst",
@@ -97258,7 +96258,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "Senior DevOps Engineer",
@@ -97272,7 +96272,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1794474895081
+   "crawledAt": 1794642245885
   },
   {
    "title": "Social Media and Email Marketing Specialist",
@@ -97286,7 +96286,7 @@
    "website": "zoefin.com",
    "src": "nyc",
    "page": "https://zoefinancial.com/careers",
-   "crawledAt": 1794474916047
+   "crawledAt": 1794642250190
   },
   {
    "title": "Marketing Analyst",
@@ -97300,7 +96300,7 @@
    "website": "zoefin.com",
    "src": "nyc",
    "page": "https://zoefinancial.com/careers",
-   "crawledAt": 1794474916047
+   "crawledAt": 1794642250190
   },
   {
    "title": "Enterprise Account Manager (UK)",
@@ -97314,7 +96314,7 @@
    "website": "xysense.com",
    "src": "nyc",
    "page": "https://xysense.com/careers/",
-   "crawledAt": 1794474958999
+   "crawledAt": 1794642262262
   },
   {
    "title": "Customer Success Manager (USA)",
@@ -97328,7 +96328,7 @@
    "website": "xysense.com",
    "src": "nyc",
    "page": "https://xysense.com/careers/",
-   "crawledAt": 1794474958999
+   "crawledAt": 1794642262262
   },
   {
    "title": "2027 Investment Banking Summer Associate Program - Early Careers",
