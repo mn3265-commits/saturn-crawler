@@ -10,7 +10,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data', 'sources');
 const H = 72;
 const log = (...a) => console.error('[cloud-sources]', ...a);
-const tpr = 'f_TPR=r86400&f_JT=F';
+const tpr = 'f_TPR=r86400&f_JT=F%2CI%2CC%2CP%2CT';
 const cards = m => [...m.values()];
 
 const SOURCES = {
@@ -29,7 +29,7 @@ const SOURCES = {
       (async () => ({
         us: await searchAll(BROAD_KEYWORDS, { geo: US_GEO, extra: tpr, pages: [0, 10, 20, 30, 40, 50, 60, 70], delay: 900, log, deadline: dl }),
         'remote-us': await searchAll(BROAD_KEYWORDS, { geo: US_GEO, extra: tpr + '&f_WT=2', pages: [0, 10, 20], delay: 900, log, deadline: dl }),
-        'us-ea10': await searchAll(BROAD_KEYWORDS, { geo: US_GEO, extra: 'f_TPR=r86400&f_JT=F&f_AL=true&f_EA=true', pages: [0], delay: 1000, log, deadline: dl + 120e3 }),
+        'us-ea10': await searchAll(BROAD_KEYWORDS, { geo: US_GEO, extra: 'f_TPR=r86400&f_JT=F%2CI%2CC%2CP%2CT&f_AL=true&f_EA=true', pages: [0], delay: 1000, log, deadline: dl + 120e3 }),
       }))(),
     ]);
     return { nyc: cards(nyc), us: cards(us.us), 'remote-us': cards(us['remote-us']), 'us-ea10': cards(us['us-ea10']) };

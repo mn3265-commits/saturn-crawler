@@ -44,7 +44,7 @@ export const BROAD_KEYWORDS = ['marketing analytics', 'marketing technology', 'm
   'strategy and operations associate', 'business operations associate', 'digital transformation analyst', 'AI strategy associate',
   'monetization analyst', 'pricing strategy', 'product strategy associate', 'product operations analyst'];
 
-export const OFF = /trust (and|&) safety|code review|agentic|\bai agents?\b|developer|platform|infrastructure|security|data platform|\bml\b|machine learning|technical project|\bsales\b|account exec|events|paid (marketing|media|acquisition|social|search)|performance marketing|new grad|intern|recruit|coordinator|dynamics|salesforce admin|project manager|technical|robotics|engineer/i;
+export const OFF = /trust (and|&) safety|code review|agentic|\bai agents?\b|developer|platform|infrastructure|security|data platform|\bml\b|machine learning|technical project|\bsales\b|account exec|events|paid (marketing|media|acquisition|social|search)|performance marketing|recruit|coordinator|dynamics|salesforce admin|project manager|technical|robotics|engineer/i;
 export const TOO_SENIOR = /\b(director|svp|evp|senior vice president|executive vice president|managing director|partner|chief)\b(?!\s+of\s+staff)/i;
 export const IN_LANE = /digital channels?|omnichannel|omni-channel|channel strategy|owned (?:media|channels?)|digital banking|digital engagement|personali[sz]ation|lifecycle|crm|retention|growth|customer|engagement|loyalty|monetization|activation|pricing|product marketing|go.to.market|gtm|consumer|chief of staff|email marketing|product manager|product owner|associate product|strateg|consult|operations/i;
 
