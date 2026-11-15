@@ -1,11 +1,11 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-14T06:06:34.413Z",
+ "generated": "2026-11-15T06:08:23.105Z",
  "counts": {
   "successfactors": 66,
   "phenom": 26,
   "jibe": 48,
-  "oracle": 107,
+  "oracle": 108,
   "avature": 3,
   "tiktok": 1,
   "tencent": 1,
@@ -4124,6 +4124,18 @@
    "v1": true,
    "jobs": 2,
    "verified": "successfactors portal answers (2 jobs)"
+  },
+  {
+   "_was": "HONEYWELL INTERNATIONAL INC",
+   "company": "HONEYWELL INTERNATIONAL INC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "oracle",
+   "host": "ibqbjb.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 1345,
+   "verified": "oracle portal answers (1345 jobs)"
   }
  ]
 }
