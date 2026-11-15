@@ -20,6 +20,7 @@ const SOURCES = {
   builtinMetros: { fn: async () => (await import('./src-builtin.mjs')).builtinMetros({ hours: H, log }) },
   muse: { everyH: 20, fn: async () => (await import('./src-muse.mjs')).museJobs({ hours: 48, log }) },
   jobdatalake: { everyH: 5, fn: async () => (await import('./src-jobdatalake.mjs')).jdlJobs({ log }) },
+  agency: { everyH: 6, fn: async () => (await import('./src-agency.mjs')).agencyBridge({ hours: 72, log }) },
   remote: { everyH: 20, keepEmpty: true, fn: async () => (await import('./src-remote.mjs')).remoteBoards({ hours: 48, log }) },
   linkedin: { fn: async () => {
     const dl = Date.now() + 12 * 60e3;

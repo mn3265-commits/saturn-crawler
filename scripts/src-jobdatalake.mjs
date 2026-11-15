@@ -7,6 +7,9 @@ export const LANES = [
   { q: 'product marketing', fn: 'marketing' }, { q: 'product manager', fn: 'product' }, { q: 'strategy operations' }, { q: 'business operations' },
   { q: 'pricing' }, { q: 'chief of staff' }, { q: 'AI transformation' }, { q: 'marketing analytics' },
   { q: 'growth program' }, { q: 'growth operations' }, { q: 'digital transformation' }, { q: 'technology strategy' }, { q: 'associate program' }, { q: 'January 2027' },
+  { q: 'marketing analytics', et: 'contract', us: true }, { q: 'marketing operations', et: 'contract', us: true }, { q: 'CRM', et: 'contract', us: true },
+  { q: 'growth marketing', et: 'contract', us: true }, { q: 'marketing analytics', et: 'internship', us: true }, { q: 'growth', et: 'internship', us: true },
+  { q: 'spring 2027', et: 'internship', us: true }, { q: 'January 2027', et: 'internship', us: true },
 ];
 const WHERE = [{ location: 'New York', countries: 'US' }, { countries: 'US' }];
 const RESERVE = 100;
@@ -34,14 +37,15 @@ async function rpc(session, body) {
   return { session: r.headers.get('mcp-session-id') || session, msg: data ? JSON.parse(data) : null };
 }
 
-export async function jdlJobs({ maxCalls = 60, pages = 3, log = () => {} } = {}) {
+export async function jdlJobs({ maxCalls = 72, pages = 3, log = () => {} } = {}) {
   const fetchedAt = Date.now();
   const out = new Map(); let calls = 0, stop = '';
   let { session } = await rpc(null, { jsonrpc: '2.0', id: 1, method: 'initialize', params: { protocolVersion: '2025-03-26', capabilities: {}, clientInfo: { name: 'sponsorpath', version: '1' } } });
   await rpc(session, { jsonrpc: '2.0', method: 'notifications/initialized' }).catch(() => {});
   outer: for (const w of WHERE) for (const lane of LANES) for (let page = 1; page <= pages; page++) {
+    if (lane.us && w.location) continue;
     if (calls >= maxCalls) { stop = `max ${maxCalls} calls`; break outer; }
-    const args = { query: lane.q, ...(lane.fn ? { job_function: lane.fn } : {}), ...w, posted_within: '24h', employment_type: 'full_time', per_page: 100, page };
+    const args = { query: lane.q, ...(lane.fn ? { job_function: lane.fn } : {}), ...w, posted_within: '24h', employment_type: lane.et || 'full_time', per_page: 100, page };
     let res;
     try { res = (await rpc(session, { jsonrpc: '2.0', id: 100 + calls, method: 'tools/call', params: { name: 'search_jobs', arguments: args } })).msg; calls++; }
     catch (e) { calls++; if ([401, 403, 429].includes(e.status)) { stop = e.message; break outer; } log(`jdl ${lane.q}/${w.location || 'US'} p${page}: ${e.message}`); break; }
@@ -51,7 +55,7 @@ export async function jdlJobs({ maxCalls = 60, pages = 3, log = () => {} } = {})
     for (const j of jobs) {
       const key = j.url.replace(/[?#].*$/, '') + (j.url.match(/[?&](gh_jid|jobId|id)=[^&]+/)?.[0] || '') + '|' + j.title.toLowerCase();
       if (out.has(key)) continue;
-      out.set(key, { id: 'jdl-' + (j.handle || key), company: j.company, title: j.title, url: j.url, locations: j.locations, mode: j.mode, postedAt: new Date(fetchedAt - 864e5).toISOString(), jdlLane: lane.q, jdlWhere: w.location || 'US' });
+      out.set(key, { id: 'jdl-' + (j.handle || key), company: j.company, title: j.title, url: j.url, locations: j.locations, mode: j.mode, postedAt: new Date(fetchedAt - 864e5).toISOString(), jdlLane: lane.q + (lane.et ? ' (' + lane.et + ')' : ''), jdlWhere: w.location || 'US', ...(lane.et ? { employmentType: lane.et === 'internship' ? 'Intern' : 'Contract' } : {}) });
     }
     if (left < RESERVE) { stop = `daily quota ${left} left (reserve ${RESERVE})`; break outer; }
     if (found <= page * 100) break;
