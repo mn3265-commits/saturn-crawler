@@ -10,7 +10,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data', 'sources');
 const H = 72;
 const log = (...a) => console.error('[cloud-sources]', ...a);
-const tpr = 'f_TPR=r86400&f_JT=F%2CI%2CC%2CP%2CT';
+const tpr = 'f_TPR=r172800&f_JT=F%2CI%2CC%2CP%2CT';
 const cards = m => [...m.values()];
 
 const SOURCES = {
