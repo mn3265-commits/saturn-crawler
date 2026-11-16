@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-16T08:15:07.313Z",
+ "generated": "2026-11-16T08:28:54.077Z",
  "companies": 22904,
  "status": {
   "found": 3222,
   "down": 4013,
-  "site": 3385,
-  "no-ats": 12284
+  "site": 3388,
+  "no-ats": 12281
  },
  "byType": {
   "dover": 7,
@@ -48432,7 +48432,7 @@
    "website": "probo.com",
    "src": "yc",
    "page": "https://www.probo.com/careers",
-   "crawledAt": 1794557245436
+   "crawledAt": 1794816971162
   },
   {
    "title": "CNC program lead",
@@ -48446,7 +48446,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Mechanical engineering lead",
@@ -48460,7 +48460,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Program manager, engineering data",
@@ -48474,7 +48474,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Data delivery lead",
@@ -48488,7 +48488,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Mechanical engineer, engineering data",
@@ -48502,7 +48502,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Project manager, field operations",
@@ -48516,7 +48516,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "VLM researcher",
@@ -48530,7 +48530,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Researcher, engineering capability",
@@ -48544,7 +48544,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "Agentic data infrastructure engineer",
@@ -48558,7 +48558,7 @@
    "website": "linewise.io",
    "src": "yc",
    "page": "https://linewise.io/careers/",
-   "crawledAt": 1794472511411
+   "crawledAt": 1794816968664
   },
   {
    "title": "GTM Intern",
@@ -48575,7 +48575,7 @@
    "website": "getasap.us",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/getasap/jobs/tCJkfEB-gtm-intern",
-   "crawledAt": 1794472518045
+   "crawledAt": 1794816975371
   },
   {
    "title": "Developer Marketing Intern",
@@ -48589,7 +48589,7 @@
    "website": "traceroot.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
-   "crawledAt": 1794472519346
+   "crawledAt": 1794816976644
   },
   {
    "title": "Software Engineering Intern",
@@ -48603,7 +48603,7 @@
    "website": "traceroot.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
-   "crawledAt": 1794472519346
+   "crawledAt": 1794816976644
   },
   {
    "title": "Founding Engineer",
@@ -48617,7 +48617,7 @@
    "website": "traceroot.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/traceroot-ai/jobs",
-   "crawledAt": 1794472519346
+   "crawledAt": 1794816976644
   },
   {
    "title": "Founding Engineer",
@@ -48631,7 +48631,7 @@
    "website": "humwork.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/humwork/jobs",
-   "crawledAt": 1794472524261
+   "crawledAt": 1794816981063
   },
   {
    "title": "Generalist Engineer, AI Advertising Infra",
@@ -48645,7 +48645,7 @@
    "website": "imprezia.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/imprezia/jobs",
-   "crawledAt": 1794472530041
+   "crawledAt": 1794816986948
   },
   {
    "title": "Software Engineer - Full Stack",
@@ -48659,7 +48659,7 @@
    "website": "pangolin.net",
    "src": "yc",
    "page": "https://docs.pangolin.net/careers/join-us",
-   "crawledAt": 1794472535717
+   "crawledAt": 1794816985901
   },
   {
    "title": "Founding Engineer",
@@ -48673,7 +48673,7 @@
    "website": "convictiontrade.ai",
    "src": "yc",
    "page": "https://www.convictiontrade.ai/jobs",
-   "crawledAt": 1794472534156
+   "crawledAt": 1794816989733
   },
   {
    "title": "Quantitative Engineer",
@@ -48687,7 +48687,7 @@
    "website": "convictiontrade.ai",
    "src": "yc",
    "page": "https://www.convictiontrade.ai/jobs",
-   "crawledAt": 1794472534156
+   "crawledAt": 1794816989733
   },
   {
    "title": "Software Engineer - Backend / Platform",
@@ -48701,7 +48701,7 @@
    "website": "ghosteye.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ghosteye/jobs",
-   "crawledAt": 1794472539840
+   "crawledAt": 1794816992278
   },
   {
    "title": "Software Engineer - Full Stack",
@@ -48715,7 +48715,7 @@
    "website": "ghosteye.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ghosteye/jobs",
-   "crawledAt": 1794472539840
+   "crawledAt": 1794816992278
   },
   {
    "title": "Backend Engineer",
@@ -48729,7 +48729,7 @@
    "website": "trychannel3.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/channel3/jobs",
-   "crawledAt": 1794472545024
+   "crawledAt": 1794816997592
   },
   {
    "title": "Founding Sales Development Representative",
@@ -48745,7 +48745,7 @@
    "website": "procindex.com",
    "src": "yc",
    "page": "https://procindex.com/careers",
-   "crawledAt": 1794472544154
+   "crawledAt": 1794816995995
   },
   {
    "title": "Software Engineer",
@@ -48761,7 +48761,7 @@
    "website": "procindex.com",
    "src": "yc",
    "page": "https://procindex.com/careers",
-   "crawledAt": 1794472544154
+   "crawledAt": 1794816995995
   },
   {
    "title": "Founding Software Engineer",
@@ -48777,7 +48777,7 @@
    "website": "ironledger.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/ironledger-ai/jobs/e381x9h-founding-software-engineer",
-   "crawledAt": 1794472552057
+   "crawledAt": 1794817003568
   },
   {
    "title": "Founding Forward Deployed Engineer",
@@ -48791,7 +48791,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794472553377
+   "crawledAt": 1794817007630
   },
   {
    "title": "Founding Software Engineer (Product / MCP)",
@@ -48805,7 +48805,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794472553377
+   "crawledAt": 1794817007630
   },
   {
    "title": "Go to market (GTM) / Sales Development Representative (SDR)",
@@ -48819,7 +48819,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794472553377
+   "crawledAt": 1794817007630
   },
   {
    "title": "Senior Infrastructure Engineer",
@@ -48833,7 +48833,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794472553377
+   "crawledAt": 1794817007630
   },
   {
    "title": "Developer Advocate & Partnerships (DevRel)",
@@ -48847,7 +48847,7 @@
    "website": "manufact.com",
    "src": "yc",
    "page": "https://manufact.com/company",
-   "crawledAt": 1794472553377
+   "crawledAt": 1794817007630
   },
   {
    "title": "Sales enablement",
@@ -48861,7 +48861,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794472556631
+   "crawledAt": 1794817008576
   },
   {
    "title": "Sales leaders",
@@ -48875,7 +48875,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794472556631
+   "crawledAt": 1794817008576
   },
   {
    "title": "Sales managers",
@@ -48889,7 +48889,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794472556631
+   "crawledAt": 1794817008576
   },
   {
    "title": "Sales reps",
@@ -48903,7 +48903,7 @@
    "website": "quotain.com",
    "src": "yc",
    "page": "https://www.quotain.com/",
-   "crawledAt": 1794472556631
+   "crawledAt": 1794817008576
   },
   {
    "title": "Network Systems Engineer",
@@ -48919,7 +48919,7 @@
    "website": "efference.ai",
    "src": "yc",
    "page": "https://efference.ai/careers/wireless-networking-engineer/",
-   "crawledAt": 1794472556477
+   "crawledAt": 1794817010358
   },
   {
    "title": "Software Engineering Intern",
@@ -48933,7 +48933,7 @@
    "website": "nessielabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nessie/jobs",
-   "crawledAt": 1794472563920
+   "crawledAt": 1794817016385
   },
   {
    "title": "Founding Forward Deployed Engineer",
@@ -48947,7 +48947,7 @@
    "website": "nessielabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nessie/jobs",
-   "crawledAt": 1794472563920
+   "crawledAt": 1794817016385
   },
   {
    "title": "Founding Engineer",
@@ -48961,7 +48961,7 @@
    "website": "nessielabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nessie/jobs",
-   "crawledAt": 1794472563920
+   "crawledAt": 1794817016385
   },
   {
    "title": "Robot Operator Manager",
@@ -48975,7 +48975,7 @@
    "website": "cortexrobot.ai",
    "src": "yc",
    "page": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
-   "crawledAt": 1794472559142
+   "crawledAt": 1794817012422
   },
   {
    "title": "Robotics Hardware Engineer",
@@ -48989,7 +48989,7 @@
    "website": "cortexrobot.ai",
    "src": "yc",
    "page": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
-   "crawledAt": 1794472559142
+   "crawledAt": 1794817012422
   },
   {
    "title": "Robot Operator cum Procurement Officer",
@@ -49003,7 +49003,7 @@
    "website": "cortexrobot.ai",
    "src": "yc",
    "page": "https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/",
-   "crawledAt": 1794472559142
+   "crawledAt": 1794817012422
   },
   {
    "title": "Head of Growth",
@@ -49019,7 +49019,7 @@
    "website": "relaw.ai",
    "src": "yc",
    "page": "https://www.relaw.ai/careers",
-   "crawledAt": 1794472625581
+   "crawledAt": 1794817018674
   },
   {
    "title": "MTS - Product",
@@ -49033,7 +49033,7 @@
    "website": "aside.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/aside/jobs",
-   "crawledAt": 1794472629701
+   "crawledAt": 1794817023572
   },
   {
    "title": "MTS - Mobile Engineer (iOS)",
@@ -49047,7 +49047,7 @@
    "website": "aside.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/aside/jobs",
-   "crawledAt": 1794472629701
+   "crawledAt": 1794817023572
   },
   {
    "title": "MTS - Founding Designer",
@@ -49061,7 +49061,7 @@
    "website": "aside.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/aside/jobs",
-   "crawledAt": 1794472629701
+   "crawledAt": 1794817023572
   },
   {
    "title": "Robotics Engineer San Francisco",
@@ -49075,7 +49075,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Technical Field Deployed Engineer San Francisco",
@@ -49089,7 +49089,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Full-stack Engineer San Francisco",
@@ -49103,7 +49103,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Backend Engineer San Francisco",
@@ -49117,7 +49117,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Design Engineer San Francisco",
@@ -49131,7 +49131,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Media Director San Francisco",
@@ -49145,7 +49145,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Product Marketer San Francisco",
@@ -49159,7 +49159,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "ML Researcher San Francisco",
@@ -49173,7 +49173,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Robotics Engineer San Francisco",
@@ -49187,7 +49187,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Technical Field Deployed Engineer San Francisco",
@@ -49201,7 +49201,7 @@
    "website": "lightberry.com",
    "src": "yc",
    "page": "https://lightberry.com/careers",
-   "crawledAt": 1794472629205
+   "crawledAt": 1794817022983
   },
   {
    "title": "Product Engineer",
@@ -49217,7 +49217,7 @@
    "website": "uselemma.ai",
    "src": "yc",
    "page": "https://www.uselemma.ai/careers",
-   "crawledAt": 1794472638770
+   "crawledAt": 1794817031196
   },
   {
    "title": "AI/ML Engineer",
@@ -49233,7 +49233,7 @@
    "website": "uselemma.ai",
    "src": "yc",
    "page": "https://www.uselemma.ai/careers",
-   "crawledAt": 1794472638770
+   "crawledAt": 1794817031196
   },
   {
    "title": "Member of Technical Staff (Product) San Francisco →",
@@ -49247,7 +49247,7 @@
    "website": "jarmin.ai",
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
-   "crawledAt": 1794472634639
+   "crawledAt": 1794817028539
   },
   {
    "title": "Founding Account Executive San Francisco or Remote (US) →",
@@ -49261,7 +49261,7 @@
    "website": "jarmin.ai",
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
-   "crawledAt": 1794472634639
+   "crawledAt": 1794817028539
   },
   {
    "title": "Machine Learning Engineer",
@@ -49275,7 +49275,7 @@
    "website": "jarmin.ai",
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
-   "crawledAt": 1794472634639
+   "crawledAt": 1794817028539
   },
   {
    "title": "Compliance Analyst",
@@ -49289,7 +49289,7 @@
    "website": "jarmin.ai",
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
-   "crawledAt": 1794472634639
+   "crawledAt": 1794817028539
   },
   {
    "title": "Account Executive",
@@ -49303,7 +49303,7 @@
    "website": "jarmin.ai",
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
-   "crawledAt": 1794472634639
+   "crawledAt": 1794817028539
   },
   {
    "title": "Financial Analyst",
@@ -49317,7 +49317,7 @@
    "website": "jarmin.ai",
    "src": "yc",
    "page": "https://www.jarmin.ai/careers",
-   "crawledAt": 1794472634639
+   "crawledAt": 1794817028539
   },
   {
    "title": "Security Researcher",
@@ -49331,7 +49331,7 @@
    "website": "antigen.sh",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/antigen/jobs",
-   "crawledAt": 1794472641449
+   "crawledAt": 1794817034723
   },
   {
    "title": "Applied Research Platform Engineer",
@@ -49345,7 +49345,7 @@
    "website": "ndea.com",
    "src": "yc",
    "page": "https://ndea.com/jobs/",
-   "crawledAt": 1794472642883
+   "crawledAt": 1794817035900
   },
   {
    "title": "Applied Deep Learning Engineer",
@@ -49359,7 +49359,7 @@
    "website": "ndea.com",
    "src": "yc",
    "page": "https://ndea.com/jobs/",
-   "crawledAt": 1794472642883
+   "crawledAt": 1794817035900
   },
   {
    "title": "Founding Engineer",
@@ -49375,7 +49375,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "Founding AI Engineer",
@@ -49391,7 +49391,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "Senior Corporate Counsel",
@@ -49407,7 +49407,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "ECVC Associate",
@@ -49423,7 +49423,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "Senior Commercial Counsel",
@@ -49440,7 +49440,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "Junior Commercial Counsel",
@@ -49458,7 +49458,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "Founding GTM Manager",
@@ -49474,7 +49474,7 @@
    "website": "vectorlegal.com",
    "src": "yc",
    "page": "https://www.vectorlegal.com/careers",
-   "crawledAt": 1794472645863
+   "crawledAt": 1794817040476
   },
   {
    "title": "Electrical Engineering Intern",
@@ -49488,7 +49488,7 @@
    "website": "voltairlabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/voltair/jobs",
-   "crawledAt": 1794472650191
+   "crawledAt": 1794817650384
   },
   {
    "title": "Flight Test Engineer",
@@ -49502,7 +49502,7 @@
    "website": "voltairlabs.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/voltair/jobs",
-   "crawledAt": 1794472650191
+   "crawledAt": 1794817650384
   },
   {
    "title": "Account Executive",
@@ -49516,7 +49516,7 @@
    "website": "goclicks.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/clicks-health/jobs",
-   "crawledAt": 1794472660191
+   "crawledAt": 1794817046434
   },
   {
    "title": "Forward Deployed Strategist",
@@ -49530,7 +49530,7 @@
    "website": "goclicks.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/clicks-health/jobs",
-   "crawledAt": 1794472660191
+   "crawledAt": 1794817046434
   },
   {
    "title": "Founding Field Sales Rep",
@@ -49544,7 +49544,7 @@
    "website": "goclicks.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/clicks-health/jobs",
-   "crawledAt": 1794472660191
+   "crawledAt": 1794817046434
   },
   {
    "title": "New York City Full-time Founding Research Scientist, Biological Foundation Models",
@@ -49558,7 +49558,7 @@
    "website": "celltype.com",
    "src": "yc",
    "page": "https://www.celltype.com/jobs",
-   "crawledAt": 1794472654345
+   "crawledAt": 1794817049973
   },
   {
    "title": "Founding Engineer",
@@ -49574,7 +49574,7 @@
    "website": "zatanna.ai",
    "src": "yc",
    "page": "https://www.zatanna.ai/careers",
-   "crawledAt": 1794472657728
+   "crawledAt": 1794817053288
   },
   {
    "title": "Founding HTS Magnet Engineer",
@@ -49588,7 +49588,7 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
    "title": "Lead HTS Magnet Engineer",
@@ -49602,11 +49602,11 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
-   "title": "Engineer/Principal Engineer - Survivability (California)",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#engineer-principal-engineer-survivability-california-",
+   "title": "ALRE Project Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#alre-project-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49616,11 +49616,11 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
-   "title": "Project Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#project-engineer",
+   "title": "Magnetic Motor Design Manager",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#magnetic-motor-design-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49630,35 +49630,7 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Application Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#application-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Staff Field Application Engineer - Remote in Southern California",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#staff-field-application-engineer-remote-in-southern-california",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
    "title": "Founding Electrical Engineer",
@@ -49672,11 +49644,11 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
-   "title": "Signal Integrity / Power Integrity Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#signal-integrity-power-integrity-engineer",
+   "title": "Advanced Arresting Gear Chief Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#advanced-arresting-gear-chief-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49686,11 +49658,11 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
-   "title": "Commercial Application Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#commercial-application-engineer",
+   "title": "Engineer/Principal Engineer - Survivability (California)",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#engineer-principal-engineer-survivability-california-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49700,11 +49672,11 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
-   "title": "Project Scientist",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#project-scientist",
+   "title": "Senior Motor Design Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#senior-motor-design-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49714,63 +49686,7 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Neutral Beam R&D Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#neutral-beam-r-d-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Advanced Project Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#advanced-project-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Chief Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#chief-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Senior Product Engineer, Product Engineering",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#senior-product-engineer-product-engineering",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
    "title": "Process Engineer",
@@ -49784,11 +49700,11 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
-   "title": "NPI Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#npi-engineer",
+   "title": "Actuated Systems Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#actuated-systems-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49798,35 +49714,7 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Senior Systems Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#senior-systems-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
-  },
-  {
-   "title": "Principal Engineer",
-   "url": "https://www.linkedin.com/jobs/view/4455455702/#principal-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Zephyr Fusion",
-   "website": "zephyrfusion.com",
-   "src": "yc",
-   "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
   },
   {
    "title": "Principal/Senior Principal Engineer - Survivability (California)",
@@ -49840,11 +49728,249 @@
    "website": "zephyrfusion.com",
    "src": "yc",
    "page": "https://www.linkedin.com/jobs/view/4455455702/",
-   "crawledAt": 1794472667189
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Prin Electrical Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#prin-electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "High Speed Systems Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#high-speed-systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Chief Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#chief-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Commercial Application Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#commercial-application-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Staff EMC Engineer, High Voltage",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#staff-emc-engineer-high-voltage",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Electro/Mechanical Systems Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#electro-mechanical-systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Industrial Motor Design Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#industrial-motor-design-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Neutral Beam R&D Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#neutral-beam-r-d-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Electromagnetic Aircraft Launch System Chief Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#electromagnetic-aircraft-launch-system-chief-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Project Engineer, IPT Lead",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#project-engineer-ipt-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Systems Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Electrical Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Survivability Integration Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#survivability-integration-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Mission Engineering Project Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#mission-engineering-project-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Senior Systems Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#senior-systems-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Systems and Safety Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#systems-and-safety-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
+  },
+  {
+   "title": "Electrical Design Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4455455702/#electrical-design-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Zephyr Fusion",
+   "website": "zephyrfusion.com",
+   "src": "yc",
+   "page": "https://www.linkedin.com/jobs/view/4455455702/",
+   "crawledAt": 1794817061627
   },
   {
    "title": "Senior Full Stack Engineer San Francisco",
-   "url": "https://www.drafted.ai/learn/careers/senior-full-stack-engineer",
+   "url": "https://www.drafted.ai/careers/senior-full-stack-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49854,11 +49980,11 @@
    "website": "drafted.ai",
    "src": "yc",
    "page": "https://www.drafted.ai/learn/careers",
-   "crawledAt": 1794472668669
+   "crawledAt": 1794817068716
   },
   {
    "title": "Senior Backend / ML Ops Engineer San Francisco",
-   "url": "https://www.drafted.ai/learn/careers/senior-backend-ml-ops-engineer",
+   "url": "https://www.drafted.ai/careers/senior-backend-ml-ops-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49868,11 +49994,11 @@
    "website": "drafted.ai",
    "src": "yc",
    "page": "https://www.drafted.ai/learn/careers",
-   "crawledAt": 1794472668669
+   "crawledAt": 1794817068716
   },
   {
    "title": "Senior ML Engineer San Francisco",
-   "url": "https://www.drafted.ai/learn/careers/senior-ml-engineer",
+   "url": "https://www.drafted.ai/careers/senior-ml-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49882,11 +50008,11 @@
    "website": "drafted.ai",
    "src": "yc",
    "page": "https://www.drafted.ai/learn/careers",
-   "crawledAt": 1794472668669
+   "crawledAt": 1794817068716
   },
   {
    "title": "Senior ML Researcher San Francisco",
-   "url": "https://www.drafted.ai/learn/careers/senior-ml-researcher",
+   "url": "https://www.drafted.ai/careers/senior-ml-researcher",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49896,11 +50022,11 @@
    "website": "drafted.ai",
    "src": "yc",
    "page": "https://www.drafted.ai/learn/careers",
-   "crawledAt": 1794472668669
+   "crawledAt": 1794817068716
   },
   {
    "title": "Growth Engineer San Francisco",
-   "url": "https://www.drafted.ai/learn/careers/growth-engineer",
+   "url": "https://www.drafted.ai/careers/growth-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -49910,7 +50036,7 @@
    "website": "drafted.ai",
    "src": "yc",
    "page": "https://www.drafted.ai/learn/careers",
-   "crawledAt": 1794472668669
+   "crawledAt": 1794817068716
   },
   {
    "title": "Senior Digital IC Engineer — RTL Design & Verification Contract · Remote (US) →",
@@ -49924,7 +50050,7 @@
    "website": "visiblsemi.com",
    "src": "yc",
    "page": "https://www.visiblsemi.com/careers",
-   "crawledAt": 1794472671883
+   "crawledAt": 1794817073163
   },
   {
    "title": "Analog & Mixed-Signal IC Layout Engineer Contract · Remote (US) →",
@@ -49938,7 +50064,7 @@
    "website": "visiblsemi.com",
    "src": "yc",
    "page": "https://www.visiblsemi.com/careers",
-   "crawledAt": 1794472671883
+   "crawledAt": 1794817073163
   },
   {
    "title": "Product/Design Engineer Intern",
@@ -49952,7 +50078,7 @@
    "website": "mochacare.com",
    "src": "yc",
    "page": "https://www.mochacare.com/",
-   "crawledAt": 1794472674110
+   "crawledAt": 1794817077383
   },
   {
    "title": "Founding Product Engineer",
@@ -49966,7 +50092,7 @@
    "website": "mochacare.com",
    "src": "yc",
    "page": "https://www.mochacare.com/",
-   "crawledAt": 1794472674110
+   "crawledAt": 1794817077383
   },
   {
    "title": "Founding Software Engineer",
@@ -49980,7 +50106,7 @@
    "website": "copperlane.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/copperlane/jobs",
-   "crawledAt": 1794473265638
+   "crawledAt": 1794817086190
   },
   {
    "title": "Robotics Systems & Learning Engineer: Manipulation Full-time · On-site · San Francisco, CA →",
@@ -49994,7 +50120,7 @@
    "website": "origami-robotics.com",
    "src": "yc",
    "page": "https://www.origami-robotics.com/careers",
-   "crawledAt": 1794473265635
+   "crawledAt": 1794817650385
   },
   {
    "title": "Full-Stack Robotics Software Engineer Full-time · On-site · San Francisco, CA →",
@@ -50008,7 +50134,7 @@
    "website": "origami-robotics.com",
    "src": "yc",
    "page": "https://www.origami-robotics.com/careers",
-   "crawledAt": 1794473265635
+   "crawledAt": 1794817650385
   },
   {
    "title": "Content Producer Full-time · On-site · San Francisco, CA →",
@@ -50022,7 +50148,7 @@
    "website": "origami-robotics.com",
    "src": "yc",
    "page": "https://www.origami-robotics.com/careers",
-   "crawledAt": 1794473265635
+   "crawledAt": 1794817650385
   },
   {
    "title": "Robot Learning Research Intern: Dexterous Manipulation Internship · Paid · On-site · San Francisco, CA →",
@@ -50036,7 +50162,7 @@
    "website": "origami-robotics.com",
    "src": "yc",
    "page": "https://www.origami-robotics.com/careers",
-   "crawledAt": 1794473265635
+   "crawledAt": 1794817650385
   },
   {
    "title": "Robotics Platform Engineering Intern: Data And Evaluation Internship · Paid · On-site · San Francisco, CA →",
@@ -50050,7 +50176,7 @@
    "website": "origami-robotics.com",
    "src": "yc",
    "page": "https://www.origami-robotics.com/careers",
-   "crawledAt": 1794473265635
+   "crawledAt": 1794817650385
   },
   {
    "title": "Research Engineer",
@@ -50066,7 +50192,7 @@
    "website": "interfaze.ai",
    "src": "yc",
    "page": "https://interfaze.ai/careers",
-   "crawledAt": 1794473270571
+   "crawledAt": 1794817655142
   },
   {
    "title": "Founding Full Stack Engineer",
@@ -50084,7 +50210,7 @@
    "website": "interfaze.ai",
    "src": "yc",
    "page": "https://interfaze.ai/careers",
-   "crawledAt": 1794473270571
+   "crawledAt": 1794817655142
   },
   {
    "title": "Founding Customer Success Lead",
@@ -50098,7 +50224,7 @@
    "website": "tryvela.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/vela/jobs",
-   "crawledAt": 1794473273965
+   "crawledAt": 1794817658321
   },
   {
    "title": "AI Operations Associate",
@@ -50112,7 +50238,7 @@
    "website": "tryvela.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/vela/jobs",
-   "crawledAt": 1794473273965
+   "crawledAt": 1794817658321
   },
   {
    "title": "Founding Engineer @ Vela | Solving Scheduling",
@@ -50126,7 +50252,7 @@
    "website": "tryvela.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/vela/jobs",
-   "crawledAt": 1794473273965
+   "crawledAt": 1794817658321
   },
   {
    "title": "Founding Growth",
@@ -50140,7 +50266,7 @@
    "website": "replicas.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/replicas/jobs",
-   "crawledAt": 1794473281621
+   "crawledAt": 1794817667108
   },
   {
    "title": "Founding Engineer",
@@ -50154,7 +50280,7 @@
    "website": "replicas.dev",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/replicas/jobs",
-   "crawledAt": 1794473281621
+   "crawledAt": 1794817667108
   },
   {
    "title": "Account Executive / Sales Rep - AI & GTM (5+ years of experience)",
@@ -50168,7 +50294,7 @@
    "website": "gojiberry.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/gojiberry-ai/jobs",
-   "crawledAt": 1794473283595
+   "crawledAt": 1794817667401
   },
   {
    "title": "Founding Customer Success Manager - Teams & Growth",
@@ -50182,7 +50308,7 @@
    "website": "gojiberry.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/gojiberry-ai/jobs",
-   "crawledAt": 1794473283595
+   "crawledAt": 1794817667401
   },
   {
    "title": "Founding Customer Success Manager - Teams & Growth",
@@ -50196,7 +50322,7 @@
    "website": "gojiberry.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/gojiberry-ai/jobs",
-   "crawledAt": 1794473283595
+   "crawledAt": 1794817667401
   },
   {
    "title": "Founding Machine Learning Engineer",
@@ -50212,7 +50338,7 @@
    "website": "taigabilling.com",
    "src": "yc",
    "page": "https://taigabilling.com/careers",
-   "crawledAt": 1794473285364
+   "crawledAt": 1794817670534
   },
   {
    "title": "Founding Engineer",
@@ -50228,7 +50354,7 @@
    "website": "taigabilling.com",
    "src": "yc",
    "page": "https://taigabilling.com/careers",
-   "crawledAt": 1794473285364
+   "crawledAt": 1794817670534
   },
   {
    "title": "Founding Account Executive",
@@ -50244,7 +50370,7 @@
    "website": "taigabilling.com",
    "src": "yc",
    "page": "https://taigabilling.com/careers",
-   "crawledAt": 1794473285364
+   "crawledAt": 1794817670534
   },
   {
    "title": "Customer Success Manager",
@@ -50261,7 +50387,7 @@
    "website": "taigabilling.com",
    "src": "yc",
    "page": "https://taigabilling.com/careers",
-   "crawledAt": 1794473285364
+   "crawledAt": 1794817670534
   },
   {
    "title": "Founding Head of Product",
@@ -50277,7 +50403,7 @@
    "website": "myunowallet.com",
    "src": "yc",
    "page": "https://myunowallet.com/jobs",
-   "crawledAt": 1794473288404
+   "crawledAt": 1794817672507
   },
   {
    "title": "Founding Engineer, Product & Infrastructure",
@@ -50293,7 +50419,7 @@
    "website": "myunowallet.com",
    "src": "yc",
    "page": "https://myunowallet.com/jobs",
-   "crawledAt": 1794473288404
+   "crawledAt": 1794817672507
   },
   {
    "title": "Founding Engineer, Core Runtime San Francisco · In person →",
@@ -50307,7 +50433,7 @@
    "website": "zibralabs.ai",
    "src": "yc",
    "page": "https://zibralabs.ai/careers/",
-   "crawledAt": 1794473288607
+   "crawledAt": 1794817673361
   },
   {
    "title": "Founding ML Researcher (Post Training) San Francisco · In person →",
@@ -50321,7 +50447,7 @@
    "website": "zibralabs.ai",
    "src": "yc",
    "page": "https://zibralabs.ai/careers/",
-   "crawledAt": 1794473288607
+   "crawledAt": 1794817673361
   },
   {
    "title": "Founding Engineer",
@@ -50337,7 +50463,7 @@
    "website": "manicule.com",
    "src": "yc",
    "page": "https://manicule.com/careers",
-   "crawledAt": 1794473292214
+   "crawledAt": 1794817675804
   },
   {
    "title": "Technical Writer & Content Strategist",
@@ -50353,7 +50479,7 @@
    "website": "manicule.com",
    "src": "yc",
    "page": "https://manicule.com/careers",
-   "crawledAt": 1794473292214
+   "crawledAt": 1794817675804
   },
   {
    "title": "Engineering Intern",
@@ -50369,35 +50495,7 @@
    "website": "manicule.com",
    "src": "yc",
    "page": "https://manicule.com/careers",
-   "crawledAt": 1794473292214
-  },
-  {
-   "title": "QA Engineer",
-   "url": "https://www.ycombinator.com/companies/astraea/jobs/B99nCmA-qa-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Astraea",
-   "website": "tryastraea.com",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/astraea/jobs",
-   "crawledAt": 1794473296041
-  },
-  {
-   "title": "Founding GTM Lead",
-   "url": "https://www.ycombinator.com/companies/astraea/jobs/FPEy38E-founding-gtm-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Astraea",
-   "website": "tryastraea.com",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/astraea/jobs",
-   "crawledAt": 1794473296041
+   "crawledAt": 1794817675804
   },
   {
    "title": "Founding Engineer",
@@ -50411,7 +50509,7 @@
    "website": "tryastraea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/astraea/jobs",
-   "crawledAt": 1794473296041
+   "crawledAt": 1794817682629
   },
   {
    "title": "Founding AI engineer - Paris",
@@ -50425,7 +50523,7 @@
    "website": "huscarl.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/huscarl/jobs",
-   "crawledAt": 1794473298070
+   "crawledAt": 1794817680868
   },
   {
    "title": "Founding Business Lead - Paris",
@@ -50439,7 +50537,7 @@
    "website": "huscarl.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/huscarl/jobs",
-   "crawledAt": 1794473298070
+   "crawledAt": 1794817680868
   },
   {
    "title": "Brand & Marketing Lead",
@@ -50455,7 +50553,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1794473301606
+   "crawledAt": 1794817686304
   },
   {
    "title": "Controls & Firmware Engineer",
@@ -50471,7 +50569,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1794473301606
+   "crawledAt": 1794817686304
   },
   {
    "title": "Senior Field Engineer",
@@ -50487,7 +50585,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1794473301606
+   "crawledAt": 1794817686304
   },
   {
    "title": "Principal Engineer, Embedded Systems",
@@ -50503,7 +50601,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1794473301606
+   "crawledAt": 1794817686304
   },
   {
    "title": "Mechanical Engineer",
@@ -50519,7 +50617,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1794473301606
+   "crawledAt": 1794817686304
   },
   {
    "title": "Robotics Intern",
@@ -50533,7 +50631,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1794473304370
+   "crawledAt": 1794817688570
   },
   {
    "title": "Electronics Engineer (India)",
@@ -50547,7 +50645,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1794473304370
+   "crawledAt": 1794817688570
   },
   {
    "title": "Founding Engineer: Manipulation",
@@ -50561,35 +50659,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1794473304370
-  },
-  {
-   "title": "Physical Infrastructure Engineer (any discipline)",
-   "url": "https://www.ycombinator.com/companies/torus/jobs/7TMYD7B-physical-infrastructure-engineer-any-discipline",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Torus",
-   "website": "usetorus.com",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/torus/jobs",
-   "crawledAt": 1794473311270
-  },
-  {
-   "title": "Electrical Engineer",
-   "url": "https://www.ycombinator.com/companies/torus/jobs/kNWpYEu-electrical-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Torus",
-   "website": "usetorus.com",
-   "src": "yc",
-   "page": "https://www.ycombinator.com/companies/torus/jobs",
-   "crawledAt": 1794473311270
+   "crawledAt": 1794817688570
   },
   {
    "title": "AI Engineer (interested in physical infrastructure)",
@@ -50603,7 +50673,7 @@
    "website": "usetorus.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/torus/jobs",
-   "crawledAt": 1794473311270
+   "crawledAt": 1794817695319
   },
   {
    "title": "Member of Technical Staff, Intern Technical Staff · San Francisco, CA · Internship · On-site",
@@ -50617,7 +50687,7 @@
    "website": "belvedir.ai",
    "src": "yc",
    "page": "https://careers.belvedir.ai/",
-   "crawledAt": 1794473308697
+   "crawledAt": 1794817692151
   },
   {
    "title": "Chief of Staff Operations · San Francisco, CA · Full time · On-site",
@@ -50631,7 +50701,7 @@
    "website": "belvedir.ai",
    "src": "yc",
    "page": "https://careers.belvedir.ai/",
-   "crawledAt": 1794473308697
+   "crawledAt": 1794817692151
   },
   {
    "title": "Founding Product Engineer",
@@ -50645,7 +50715,7 @@
    "website": "mochi.tv",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mochi/jobs",
-   "crawledAt": 1794473318161
+   "crawledAt": 1794817700971
   },
   {
    "title": "Founding Engineer London, in person →",
@@ -50659,7 +50729,7 @@
    "website": "whitespacehq.ai",
    "src": "yc",
    "page": "https://www.whitespacehq.ai/careers",
-   "crawledAt": 1794473317676
+   "crawledAt": 1794817699891
   },
   {
    "title": "Machine Learning Engineer, 3D Reconstruction",
@@ -50675,7 +50745,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "Machine Learning Engineer, Scene Understanding",
@@ -50691,7 +50761,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "Robotics Simulation Engineer, SimReady",
@@ -50707,7 +50777,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "Robot Learning Engineer",
@@ -50723,7 +50793,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "BIM and Geometry Engineer",
@@ -50739,7 +50809,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "Infrastructure Engineer, 3D Data at Scale",
@@ -50755,7 +50825,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "Forward Deployed Engineer, Scan to BIM",
@@ -50771,7 +50841,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1794473322032
+   "crawledAt": 1794817704262
   },
   {
    "title": "Founding Engineer",
@@ -50785,7 +50855,7 @@
    "website": "provenmetal.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/provenmetal/jobs",
-   "crawledAt": 1794473323831
+   "crawledAt": 1794817705953
   },
   {
    "title": "Founding Engineer, Product",
@@ -50799,7 +50869,7 @@
    "website": "getpennant.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pennant/jobs",
-   "crawledAt": 1794473330430
+   "crawledAt": 1794817712413
   },
   {
    "title": "Founding Engineer, Data & AI",
@@ -50813,7 +50883,7 @@
    "website": "getpennant.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pennant/jobs",
-   "crawledAt": 1794473330430
+   "crawledAt": 1794817712413
   },
   {
    "title": "Full-Stack Software Engineer (Argentina)",
@@ -50827,7 +50897,7 @@
    "website": "openrelay.inc",
    "src": "yc",
    "page": "https://openrelay.inc/about",
-   "crawledAt": 1794473329500
+   "crawledAt": 1794817711303
   },
   {
    "title": "Infrastructure Engineer (Argentina)",
@@ -50841,7 +50911,7 @@
    "website": "openrelay.inc",
    "src": "yc",
    "page": "https://openrelay.inc/about",
-   "crawledAt": 1794473329500
+   "crawledAt": 1794817711303
   },
   {
    "title": "Technical Marketer (Argentina)",
@@ -50855,7 +50925,7 @@
    "website": "openrelay.inc",
    "src": "yc",
    "page": "https://openrelay.inc/about",
-   "crawledAt": 1794473329500
+   "crawledAt": 1794817711303
   },
   {
    "title": "Legal Engineer",
@@ -73618,6 +73688,20 @@
    "crawledAt": 1794813506576
   },
   {
+   "title": "Operations",
+   "url": "https://jobs.contourglobal.com/go/Operations-Jobs/9478555/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ContourGlobal",
+   "website": "contourglobal.com",
+   "src": "nyc",
+   "page": "https://www.contourglobal.com/",
+   "crawledAt": 1794817728555
+  },
+  {
    "title": "Preparing for Leadership: What It Takes to Lead",
    "url": "https://coursehorse.com/nyc/classes/professional/career/leadership/preparing-for-leadership--what-it-takes-to-lead",
    "datePosted": null,
@@ -83098,6 +83182,20 @@
    "crawledAt": 1794814049464
   },
   {
+   "title": "Fundamental Analyst Programme",
+   "url": "https://www.mwam.com/join-us/fundamental-analyst/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Marshall Wace",
+   "website": "mwam.com",
+   "src": "nyc",
+   "page": "https://www.mwam.com/",
+   "crawledAt": 1794817726408
+  },
+  {
    "title": "Finance Manager, International Retail Chain",
    "url": "https://metaprisebanking.com/jobs#finance-manager-international-retail-chain",
    "datePosted": null,
@@ -83886,6 +83984,62 @@
    "src": "nyc",
    "page": "https://www.nasdaqprivatemarket.com/careers/",
    "crawledAt": 1794814099468
+  },
+  {
+   "title": "User Experience Designer",
+   "url": "https://nclud.com/careers/experience-designer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "nclud",
+   "website": "nclud.com",
+   "src": "nyc",
+   "page": "https://nclud.com/",
+   "crawledAt": 1794817730638
+  },
+  {
+   "title": "Visual Designer",
+   "url": "https://nclud.com/careers/designer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "nclud",
+   "website": "nclud.com",
+   "src": "nyc",
+   "page": "https://nclud.com/",
+   "crawledAt": 1794817730638
+  },
+  {
+   "title": "Developer",
+   "url": "https://nclud.com/careers/full-stack-developer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "nclud",
+   "website": "nclud.com",
+   "src": "nyc",
+   "page": "https://nclud.com/",
+   "crawledAt": 1794817730638
+  },
+  {
+   "title": "Project Manager",
+   "url": "https://nclud.com/careers/project-manager/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "nclud",
+   "website": "nclud.com",
+   "src": "nyc",
+   "page": "https://nclud.com/",
+   "crawledAt": 1794817730638
   },
   {
    "title": "Growth Marketing Consultant",
