@@ -1,6 +1,6 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-15T06:08:23.105Z",
+ "generated": "2026-11-16T06:06:49.044Z",
  "counts": {
   "successfactors": 66,
   "phenom": 26,
@@ -16,7 +16,7 @@
   "goldman": 1,
   "eightfold": 22,
   "icims": 98,
-  "radancy": 16
+  "radancy": 17
  },
  "boards": [
   {
@@ -4136,6 +4136,17 @@
    "site": "CX_1",
    "jobs": 1345,
    "verified": "oracle portal answers (1345 jobs)"
+  },
+  {
+   "_was": "Citigroup",
+   "company": "Citigroup",
+   "group": "sp500",
+   "tier": 2,
+   "industry": "S&P 500",
+   "type": "radancy",
+   "base": "https://jobs.citi.com",
+   "jobs": 100,
+   "verified": "radancy portal answers (100 jobs)"
   }
  ]
 }
