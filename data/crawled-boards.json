@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T11:20:09.294Z",
+ "generated": "2026-11-17T11:25:32.647Z",
  "companies": 22904,
  "status": {
-  "found": 3230,
+  "found": 3232,
   "down": 4002,
-  "site": 3924,
-  "no-ats": 11748
+  "site": 3929,
+  "no-ats": 11741
  },
  "byType": {
   "dover": 7,
@@ -16,11 +16,11 @@
   "gem": 75,
   "workable": 186,
   "rippling": 137,
-  "bamboohr": 165,
+  "bamboohr": 166,
   "smartrecruiters": 56,
   "recruitee": 27,
   "eightfold": 41,
-  "icims": 157,
+  "icims": 158,
   "oracle": 91,
   "successfactors": 14
  },
@@ -16338,6 +16338,15 @@
    "src": "h1b"
   },
   {
+   "type": "bamboohr",
+   "token": "volanteoneteam",
+   "url": "volanteoneteam.bamboohr.com/careers",
+   "label": "VOLANTE TECHNOLOGIES INC",
+   "website": "volantetech.com",
+   "page": "https://www.volantetech.com/about/careers/",
+   "src": "h1b"
+  },
+  {
    "type": "workday",
    "token": "bullish.wd3.myworkdayjobs.com",
    "url": "bullish.wd3.myworkdayjobs.com/Bullish",
@@ -16372,6 +16381,15 @@
    "label": "PADILLA COMPANY LLP",
    "website": "padillaco.com",
    "page": "https://padillaco.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "icims",
+   "token": "publicisgroupe",
+   "url": "careers-publicisgroupe.icims.com",
+   "label": "PUBLICIS HEALTH LLC",
+   "website": "publicishealth.com",
+   "page": "https://careers.publicisgroupe.com/publicishealthuk/jobs",
    "src": "h1b"
   },
   {
@@ -142839,6 +142857,34 @@
    "crawledAt": 1794903263181
   },
   {
+   "title": "Senior Data Engineer",
+   "url": "https://fusionss.com/careers.html#senior-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "FUSION SOFTWARE SOLUTIONS LLC",
+   "website": "fusionss.com",
+   "src": "h1b",
+   "page": "https://fusionss.com/careers.html",
+   "crawledAt": 1794914607388
+  },
+  {
+   "title": "AI Inference Engineer",
+   "url": "https://fusionss.com/careers.html#ai-inference-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "FUSION SOFTWARE SOLUTIONS LLC",
+   "website": "fusionss.com",
+   "src": "h1b",
+   "page": "https://fusionss.com/careers.html",
+   "crawledAt": 1794914607388
+  },
+  {
    "title": "Adobe Certified Expert as AEM developer or AEM architect",
    "url": "https://www.infoquestgroup.com/careers/#adobe-certified-expert-as-aem-developer-or-aem-architect",
    "datePosted": null,
@@ -142935,6 +142981,48 @@
    "src": "h1b",
    "page": "https://www.infoquestgroup.com/careers/",
    "crawledAt": 1794903459030
+  },
+  {
+   "title": "Business Developement Representative",
+   "url": "https://www.threatmodeler.ai/careers#business-developement-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "THREATMODELER SOFTWARE INC",
+   "website": "threatmodeler.ai",
+   "src": "h1b",
+   "page": "https://www.threatmodeler.ai/careers",
+   "crawledAt": 1794914639476
+  },
+  {
+   "title": "Senior Cybersecurity Analyst (Noida, India)",
+   "url": "https://www.threatmodeler.ai/careers#senior-cybersecurity-analyst-noida-india-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "THREATMODELER SOFTWARE INC",
+   "website": "threatmodeler.ai",
+   "src": "h1b",
+   "page": "https://www.threatmodeler.ai/careers",
+   "crawledAt": 1794914639476
+  },
+  {
+   "title": "IT Support Engineer (India)",
+   "url": "https://www.threatmodeler.ai/careers#it-support-engineer-india-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "THREATMODELER SOFTWARE INC",
+   "website": "threatmodeler.ai",
+   "src": "h1b",
+   "page": "https://www.threatmodeler.ai/careers",
+   "crawledAt": 1794914639476
   },
   {
    "title": "Bid Coordinator, Paris",
@@ -143271,6 +143359,151 @@
    "src": "h1b",
    "page": "https://eninsystems.com/current-openings",
    "crawledAt": 1794903257667
+  },
+  {
+   "title": "Cloud Solution Specialist",
+   "url": "https://www.cittacore.com/job-cloud-solution-specialist.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "New Jersey, NJ, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Cloud Solution Migration Specialist",
+   "url": "https://www.cittacore.com/job-cloud-solution-migration-specialist.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "New Jersey, NJ, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Solution Architects",
+   "url": "https://www.cittacore.com/job-solution-architects.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Fairfield, NJ, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Salesforce Commerce Cloud Developer",
+   "url": "https://www.cittacore.com/job-salesforce-commerce-cloud-developer.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Hyderabad, IN",
+    "New Jersey, NJ, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Salesforce Commerce Cloud Tech Lead (B2C)",
+   "url": "https://www.cittacore.com/job-salesforce-commerce-cloud-tech-lead.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Hyderabad, IN"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Salesforce CPQ Business Analyst",
+   "url": "https://www.cittacore.com/job-salesforce-cpq-business-analyst.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Hyderabad, IN"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Salesforce Architect",
+   "url": "https://www.cittacore.com/job-salesforce-architect.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Atlanta, GA, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Senior Salesforce Developer",
+   "url": "https://www.cittacore.com/job-senior-salesforce-developer.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Florida, FL, US"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
+  },
+  {
+   "title": "Senior Salesforce CPQ Developer",
+   "url": "https://www.cittacore.com/job-senior-salesforce-cpq-developer.html",
+   "datePosted": "2026-06-16",
+   "locations": [
+    "Hyderabad, IN"
+   ],
+   "employmentType": "FULL_TIME",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "CITTACORE TECHNOLOGIES INC",
+   "website": "cittacore.com",
+   "src": "h1b",
+   "page": "https://cittacore.com/",
+   "crawledAt": 1794914689462
   },
   {
    "title": "Network Architect",
@@ -144307,6 +144540,90 @@
    "src": "h1b",
    "page": "https://www.beumergroup.com/careers/",
    "crawledAt": 1794903455075
+  },
+  {
+   "title": "Production Editor, Print",
+   "url": "https://openroadintegratedmedia.com/careers/#production-editor-print",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "OPEN ROAD INTEGRATED MEDIA INC",
+   "website": "openroadintegratedmedia.com",
+   "src": "h1b",
+   "page": "https://openroadintegratedmedia.com/careers/",
+   "crawledAt": 1794914710959
+  },
+  {
+   "title": "Senior Business Analyst (New York, NY)",
+   "url": "https://openroadintegratedmedia.com/careers/#senior-business-analyst-new-york-ny-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "OPEN ROAD INTEGRATED MEDIA INC",
+   "website": "openroadintegratedmedia.com",
+   "src": "h1b",
+   "page": "https://openroadintegratedmedia.com/careers/",
+   "crawledAt": 1794914710959
+  },
+  {
+   "title": "Client Service Senior Manager",
+   "url": "https://taxtechnologies.com/careers#client-service-senior-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TAX TECHNOLOGIES INC",
+   "website": "taxtechnologies.com",
+   "src": "h1b",
+   "page": "https://taxtechnologies.com/jobs",
+   "crawledAt": 1794914719733
+  },
+  {
+   "title": "Client Service Senior Team Lead",
+   "url": "https://taxtechnologies.com/careers#client-service-senior-team-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TAX TECHNOLOGIES INC",
+   "website": "taxtechnologies.com",
+   "src": "h1b",
+   "page": "https://taxtechnologies.com/jobs",
+   "crawledAt": 1794914719733
+  },
+  {
+   "title": "Client Service Team Lead",
+   "url": "https://taxtechnologies.com/careers#client-service-team-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TAX TECHNOLOGIES INC",
+   "website": "taxtechnologies.com",
+   "src": "h1b",
+   "page": "https://taxtechnologies.com/jobs",
+   "crawledAt": 1794914719733
+  },
+  {
+   "title": "Client Service Senior Associate",
+   "url": "https://taxtechnologies.com/careers#client-service-senior-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TAX TECHNOLOGIES INC",
+   "website": "taxtechnologies.com",
+   "src": "h1b",
+   "page": "https://taxtechnologies.com/jobs",
+   "crawledAt": 1794914719733
   },
   {
    "title": "AI Platform Software Engineer",
