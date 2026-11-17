@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T10:39:26.732Z",
+ "generated": "2026-11-17T10:44:30.970Z",
  "companies": 22904,
  "status": {
   "found": 3225,
   "down": 4002,
-  "site": 3887,
-  "no-ats": 11790
+  "site": 3892,
+  "no-ats": 11785
  },
  "byType": {
   "dover": 7,
@@ -120048,6 +120048,20 @@
    "crawledAt": 1794903236057
   },
   {
+   "title": "Career Growth & Learning",
+   "url": "https://careers.cisco.com/global/en/career-growth-and-learning",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SPLUNK INC",
+   "website": "splunk.com",
+   "src": "h1b",
+   "page": "https://careers.cisco.com/global/en/splunk",
+   "crawledAt": 1794912057634
+  },
+  {
    "title": "Senior Associate (Gen AI + Databricks)",
    "url": "https://www.axtria.com/axtria-careers/#senior-associate-gen-ai-databricks-",
    "datePosted": null,
@@ -120242,6 +120256,34 @@
    "src": "h1b",
    "page": "https://valuemomentum.com/careers/our-people/",
    "crawledAt": 1794903242314
+  },
+  {
+   "title": "Senior R&D Scientist",
+   "url": "https://uniconpharma.com/careers#senior-r-d-scientist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "UNICON PHARMA INC",
+   "website": "uniconpharma.com",
+   "src": "h1b",
+   "page": "https://uniconpharma.com/jobs",
+   "crawledAt": 1794912065204
+  },
+  {
+   "title": "Regulatory Consultant",
+   "url": "https://uniconpharma.com/careers#regulatory-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "UNICON PHARMA INC",
+   "website": "uniconpharma.com",
+   "src": "h1b",
+   "page": "https://uniconpharma.com/jobs",
+   "crawledAt": 1794912065204
   },
   {
    "title": "Business Analyst",
@@ -123594,6 +123636,20 @@
    "crawledAt": 1794903245661
   },
   {
+   "title": "Network Administrator (multiple positions)",
+   "url": "https://skilltune.com/career.php#network-administrator-multiple-positions-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SKILLTUNE TECHNOLOGIES INC",
+   "website": "skilltune.com",
+   "src": "h1b",
+   "page": "https://skilltune.com/",
+   "crawledAt": 1794912168522
+  },
+  {
    "title": "BIG DATA ENGINEER",
    "url": "https://www.macrosoftinc.com/jobs/big-data-engineer/",
    "datePosted": null,
@@ -123816,6 +123872,48 @@
    "src": "h1b",
    "page": "https://trumindsclinical.com/careers/",
    "crawledAt": 1794903239092
+  },
+  {
+   "title": "Senior Angular Developer",
+   "url": "https://palnarindia.com/en/career.html#senior-angular-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "PALAYEKAR COMPANIES INC DBA PALNAR",
+   "website": "palnarindia.com",
+   "src": "h1b",
+   "page": "https://palnarindia.com/en/",
+   "crawledAt": 1794912195315
+  },
+  {
+   "title": "Embedded Software Developer",
+   "url": "https://palnarindia.com/en/career.html#embedded-software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "PALAYEKAR COMPANIES INC DBA PALNAR",
+   "website": "palnarindia.com",
+   "src": "h1b",
+   "page": "https://palnarindia.com/en/",
+   "crawledAt": 1794912195315
+  },
+  {
+   "title": "Senior Java Developer",
+   "url": "https://palnarindia.com/en/career.html#senior-java-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "PALAYEKAR COMPANIES INC DBA PALNAR",
+   "website": "palnarindia.com",
+   "src": "h1b",
+   "page": "https://palnarindia.com/en/",
+   "crawledAt": 1794912195315
   },
   {
    "title": "L3 - Technical Manager",
@@ -124936,6 +125034,34 @@
    "src": "h1b",
    "page": "https://astirservices.net/current_openings.aspx",
    "crawledAt": 1794903256231
+  },
+  {
+   "title": "IT Engineer",
+   "url": "https://kollasoft.com/careers/#it-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "KOLLASOFT INC",
+   "website": "kollasoft.com",
+   "src": "h1b",
+   "page": "https://kollasoft.com/careers/",
+   "crawledAt": 1794912215815
+  },
+  {
+   "title": "IT Analyst",
+   "url": "https://kollasoft.com/careers/#it-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "KOLLASOFT INC",
+   "website": "kollasoft.com",
+   "src": "h1b",
+   "page": "https://kollasoft.com/careers/",
+   "crawledAt": 1794912215815
   },
   {
    "title": "Big Data Cloud Engineer",
