@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T11:50:20.667Z",
+ "generated": "2026-11-17T11:55:12.282Z",
  "companies": 22904,
  "status": {
-  "found": 3242,
+  "found": 3244,
   "down": 4002,
   "site": 3951,
-  "no-ats": 11709
+  "no-ats": 11707
  },
  "byType": {
   "dover": 7,
@@ -14,9 +14,9 @@
   "lever": 266,
   "gh": 919,
   "gem": 75,
-  "workable": 186,
+  "workable": 187,
   "rippling": 139,
-  "bamboohr": 167,
+  "bamboohr": 168,
   "smartrecruiters": 56,
   "recruitee": 27,
   "eightfold": 41,
@@ -16974,6 +16974,24 @@
    "label": "GORDON REES SCULLY MANSUKHANI LLP",
    "website": "grsm.com",
    "page": "https://www.grsm.com/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "cpjorg",
+   "url": "cpjorg.bamboohr.com/jobs",
+   "label": "THE COMMITTEE TO PROTECT JOURNALISTS INC",
+   "website": "cpj.org",
+   "page": "https://cpj.org/about/jobs/",
+   "src": "h1b"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "ACCLARO INC",
+   "website": "acclaro.com",
+   "page": "https://www.acclaro.com/company/careers",
    "src": "h1b"
   },
   {
