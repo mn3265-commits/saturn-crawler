@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T08:46:10.977Z",
+ "generated": "2026-11-17T08:51:42.988Z",
  "companies": 22904,
  "status": {
   "found": 3223,
   "down": 4003,
-  "site": 3864,
-  "no-ats": 11814
+  "site": 3863,
+  "no-ats": 11815
  },
  "byType": {
   "dover": 7,
@@ -98085,7 +98085,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Co-op Java Developer - Winter 2027",
@@ -98099,7 +98099,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Customer Success Manager",
@@ -98113,7 +98113,21 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
+  },
+  {
+   "title": "Customer Success Operations Analyst",
+   "url": "https://www.globalrelay.com/company/careers/jobs/#customer-success-operations-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Global Relay",
+   "website": "globalrelay.com",
+   "src": "nyc",
+   "page": "https://www.globalrelay.com/company/careers/jobs/",
+   "crawledAt": 1794905237714
   },
   {
    "title": "Customer Success Representative",
@@ -98127,7 +98141,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Cyber Security Specialist - L2",
@@ -98141,7 +98155,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Cyber Security Specialist - L3",
@@ -98155,7 +98169,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Data Services Specialist",
@@ -98169,7 +98183,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Data Services Specialist – Weekend Shift",
@@ -98183,7 +98197,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "DevOps Systems Administrator – Linux",
@@ -98197,7 +98211,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Enterprise Account Executive",
@@ -98211,7 +98225,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Enterprise Account Executive – Northeast Region",
@@ -98225,7 +98239,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Enterprise Technical Implementation Specialist",
@@ -98239,7 +98253,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Kubernetes/ DevOps System Administrator",
@@ -98253,7 +98267,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Kubernetes Systems Administrator – L3",
@@ -98267,7 +98281,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Network Automation Specialist",
@@ -98281,35 +98295,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
-  },
-  {
-   "title": "Office Coordinator",
-   "url": "https://www.globalrelay.com/company/careers/jobs/#office-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Global Relay",
-   "website": "globalrelay.com",
-   "src": "nyc",
-   "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
-  },
-  {
-   "title": "Principal Application Security Specialist",
-   "url": "https://www.globalrelay.com/company/careers/jobs/#principal-application-security-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Global Relay",
-   "website": "globalrelay.com",
-   "src": "nyc",
-   "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Sales Development Representative (Enterprise)",
@@ -98323,7 +98309,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Senior Customer Success Manager",
@@ -98337,7 +98323,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Senior Manager, Customer Success Operations",
@@ -98351,7 +98337,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Senior Solutions Engineer - Sales",
@@ -98365,7 +98351,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Senior Solutions Engineer (Sales), London",
@@ -98379,7 +98365,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Strategic Account Executive",
@@ -98393,7 +98379,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Strategic Sales Development Representative",
@@ -98407,7 +98393,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Support Specialist, Technical Support - L1",
@@ -98421,7 +98407,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Windows Systems Administrator - L3",
@@ -98435,7 +98421,7 @@
    "website": "globalrelay.com",
    "src": "nyc",
    "page": "https://www.globalrelay.com/company/careers/jobs/",
-   "crawledAt": 1794813788449
+   "crawledAt": 1794905237714
   },
   {
    "title": "Senior Managing Associate",
@@ -98449,7 +98435,7 @@
    "website": "hagertyconsulting.com",
    "src": "nyc",
    "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
+   "crawledAt": 1794905233443
   },
   {
    "title": "Recovery Senior Managing Associate",
@@ -98463,7 +98449,7 @@
    "website": "hagertyconsulting.com",
    "src": "nyc",
    "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
+   "crawledAt": 1794905233443
   },
   {
    "title": "Deputy Project Manager - Recovery",
@@ -98477,21 +98463,7 @@
    "website": "hagertyconsulting.com",
    "src": "nyc",
    "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
-  },
-  {
-   "title": "Energy and Resilience Strategist",
-   "url": "https://hagertyconsulting.com/careers/#energy-and-resilience-strategist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Hagerty Consulting",
-   "website": "hagertyconsulting.com",
-   "src": "nyc",
-   "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
+   "crawledAt": 1794905233443
   },
   {
    "title": "FEMA Comprehensive Disaster Recovery Project Manager",
@@ -98505,7 +98477,7 @@
    "website": "hagertyconsulting.com",
    "src": "nyc",
    "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
+   "crawledAt": 1794905233443
   },
   {
    "title": "FEMA PA Program Delivery Manager",
@@ -98519,7 +98491,7 @@
    "website": "hagertyconsulting.com",
    "src": "nyc",
    "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
+   "crawledAt": 1794905233443
   },
   {
    "title": "Recovery Managing Associate",
@@ -98533,7 +98505,7 @@
    "website": "hagertyconsulting.com",
    "src": "nyc",
    "page": "https://hagertyconsulting.com/careers/",
-   "crawledAt": 1794813851278
+   "crawledAt": 1794905233443
   },
   {
    "title": "Assistant Manager, ReStore Etobicoke",
@@ -98547,7 +98519,7 @@
    "website": "habitatgta.ca",
    "src": "nyc",
    "page": "https://habitatgta.ca/careers/",
-   "crawledAt": 1794813856118
+   "crawledAt": 1794905247479
   },
   {
    "title": "PROS Case Management Intern",
@@ -98561,7 +98533,7 @@
    "website": "hamiltonmadisonhouse.org",
    "src": "nyc",
    "page": "https://hamiltonmadisonhouse.org/join-us/",
-   "crawledAt": 1794813862092
+   "crawledAt": 1794905248700
   },
   {
    "title": "Senior Application Operations Engineer",
@@ -98771,7 +98743,7 @@
    "website": "hazeltree.com",
    "src": "nyc",
    "page": "https://hazeltree.com/careers/",
-   "crawledAt": 1794813861831
+   "crawledAt": 1794905253785
   },
   {
    "title": "Account Manager",
@@ -98785,7 +98757,7 @@
    "website": "hazeltree.com",
    "src": "nyc",
    "page": "https://hazeltree.com/careers/",
-   "crawledAt": 1794813861831
+   "crawledAt": 1794905253785
   },
   {
    "title": "Support Manager",
@@ -98799,7 +98771,7 @@
    "website": "hazeltree.com",
    "src": "nyc",
    "page": "https://hazeltree.com/careers/",
-   "crawledAt": 1794813861831
+   "crawledAt": 1794905253785
   },
   {
    "title": "Finance & Admin Business Analyst - RTR (Japanese Bilingual)",
@@ -98813,7 +98785,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Data Engineer-Machine Learning - 2",
@@ -98827,7 +98799,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Technical Consultant-AI Integration",
@@ -98841,7 +98813,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Package Consultant-SAP HANA FIN CO",
@@ -98855,7 +98827,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Data Scientist-Artificial Intelligence",
@@ -98869,7 +98841,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Business Analyst - Banking",
@@ -98883,7 +98855,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Business Transformation Consultant-Finance Transformation",
@@ -98897,7 +98869,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Security Consultant-Data Security",
@@ -98911,7 +98883,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Data Engineer-Data Modeling",
@@ -98925,7 +98897,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Application Consultant-AWS Cloud",
@@ -98939,7 +98911,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Package Consultant-SAP HANA Billing",
@@ -98953,7 +98925,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Oracle Cloud Benefits Lead",
@@ -98967,7 +98939,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Lead Analog Circuit Design Engineer",
@@ -98981,7 +98953,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Application Developer-IBM Integration",
@@ -98995,7 +98967,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE",
@@ -99009,7 +98981,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Package Consultant-SAP HANA FIN TR",
@@ -99023,7 +98995,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Solution Architect-Data Platforms",
@@ -99037,7 +99009,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Application Developer-Google Cloud FullStack",
@@ -99051,7 +99023,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "L3 Threat Response Analyst",
@@ -99065,7 +99037,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "QA Engineer Lead – Guidewire (On-site TX)",
@@ -99079,7 +99051,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "PROCESS DELIVERY SPECIALIST-PROCURE TO PAY",
@@ -99093,7 +99065,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Quantum algorithm developer",
@@ -99107,7 +99079,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "TRANSITION MANAGER-FINANCE",
@@ -99121,7 +99093,7 @@
    "website": "hakkoda.io",
    "src": "nyc",
    "page": "https://www.ibm.com/careers/search",
-   "crawledAt": 1794813876597
+   "crawledAt": 1794905262763
   },
   {
    "title": "Project Manager",
@@ -99135,7 +99107,7 @@
    "website": "healthybaby.com",
    "src": "nyc",
    "page": "https://healthybaby.com/pages/careers",
-   "crawledAt": 1794813878352
+   "crawledAt": 1794905270499
   },
   {
    "title": "Haven Health Cottonwood, Maintenance Manager - Full Time",
@@ -99149,7 +99121,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "Haven Health Cottonwood, Resident Relations Manager - Full Time",
@@ -99163,7 +99135,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "Haven Health Douglas, Maintenance Manager - Full Time",
@@ -99177,7 +99149,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "Haven Health Scottsdale, Marketing Admissions Manager - Full Time",
@@ -99191,7 +99163,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "Haven Health Scottsdale, Medical Records Manager - Full Time",
@@ -99205,7 +99177,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "MDS Coordinator",
@@ -99219,7 +99191,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "Haven Health Sierra Vista, Maintenance Manager - Full Time",
@@ -99233,7 +99205,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "Haven Health Yuma, Activity Manager - Full Time",
@@ -99247,7 +99219,7 @@
    "website": "havenhealthaz.com",
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
-   "crawledAt": 1794813882090
+   "crawledAt": 1794905268821
   },
   {
    "title": "BCBA &#8211; Board Certified Behavior Analyst &#8211; Silver Spring, MD",
@@ -99471,7 +99443,7 @@
    "website": "hhaexchange.com",
    "src": "nyc",
    "page": "https://www.hhaexchange.com/blog/why-caregiving-is-a-career-not-a-job",
-   "crawledAt": 1794813883043
+   "crawledAt": 1794905274396
   },
   {
    "title": "IT Operations Specialist (Remote)",
@@ -99485,7 +99457,7 @@
    "website": "housecanary.com",
    "src": "nyc",
    "page": "https://www.housecanary.com/resources/careers",
-   "crawledAt": 1794813895032
+   "crawledAt": 1794905283572
   },
   {
    "title": "Senior Product Marketing Manager",
@@ -99629,7 +99601,7 @@
    "website": "humcapital.com",
    "src": "nyc",
    "page": "https://humcapital.com/careers/",
-   "crawledAt": 1794813887145
+   "crawledAt": 1794905277841
   },
   {
    "title": "Product Designer",
@@ -99643,7 +99615,7 @@
    "website": "humcapital.com",
    "src": "nyc",
    "page": "https://humcapital.com/careers/",
-   "crawledAt": 1794813887145
+   "crawledAt": 1794905277841
   },
   {
    "title": "SEO Specialist",
@@ -99657,7 +99629,7 @@
    "website": "houseofpsalm.com",
    "src": "nyc",
    "page": "https://www.houseofpsalm.com/about/careers/",
-   "crawledAt": 1794813897886
+   "crawledAt": 1794905285482
   },
   {
    "title": "Content Specialist",
@@ -99671,7 +99643,7 @@
    "website": "houseofpsalm.com",
    "src": "nyc",
    "page": "https://www.houseofpsalm.com/about/careers/",
-   "crawledAt": 1794813897886
+   "crawledAt": 1794905285482
   },
   {
    "title": "Digital PR Specialist",
@@ -99685,7 +99657,7 @@
    "website": "houseofpsalm.com",
    "src": "nyc",
    "page": "https://www.houseofpsalm.com/about/careers/",
-   "crawledAt": 1794813897886
+   "crawledAt": 1794905285482
   },
   {
    "title": "Development Manager",
@@ -99715,7 +99687,7 @@
    "website": "gpreinc.com",
    "src": "nyc",
    "page": "https://careers.gpreinc.com/us/en",
-   "crawledAt": 1794813914071
+   "crawledAt": 1794905298985
   },
   {
    "title": "Process Engineer II",
@@ -99729,7 +99701,7 @@
    "website": "gpreinc.com",
    "src": "nyc",
    "page": "https://careers.gpreinc.com/us/en",
-   "crawledAt": 1794813914071
+   "crawledAt": 1794905298985
   },
   {
    "title": "Sr Piping Designer",
@@ -99743,7 +99715,7 @@
    "website": "gpreinc.com",
    "src": "nyc",
    "page": "https://careers.gpreinc.com/us/en",
-   "crawledAt": 1794813914071
+   "crawledAt": 1794905298985
   },
   {
    "title": "Software Engineer",
@@ -99757,7 +99729,7 @@
    "website": "hypr.com",
    "src": "nyc",
    "page": "https://www.hypr.com/company/careers",
-   "crawledAt": 1794813903166
+   "crawledAt": 1794905290967
   },
   {
    "title": "Compliance Analyst",
@@ -99771,7 +99743,7 @@
    "website": "hypr.com",
    "src": "nyc",
    "page": "https://www.hypr.com/company/careers",
-   "crawledAt": 1794813903166
+   "crawledAt": 1794905290967
   },
   {
    "title": "Marketing Manager",
@@ -99785,7 +99757,7 @@
    "website": "hypr.com",
    "src": "nyc",
    "page": "https://www.hypr.com/company/careers",
-   "crawledAt": 1794813903166
+   "crawledAt": 1794905290967
   },
   {
    "title": "Senior 3D Designer",
@@ -99864,7 +99836,7 @@
    "website": "idexcel.com",
    "src": "nyc",
    "page": "https://idexcel.com/jobs",
-   "crawledAt": 1794813909240
+   "crawledAt": 1794905296514
   },
   {
    "title": "Technical Project Manager",
@@ -99878,7 +99850,7 @@
    "website": "idexcel.com",
    "src": "nyc",
    "page": "https://idexcel.com/jobs",
-   "crawledAt": 1794813909240
+   "crawledAt": 1794905296514
   },
   {
    "title": "Module Lead",
@@ -99892,7 +99864,7 @@
    "website": "idexcel.com",
    "src": "nyc",
    "page": "https://idexcel.com/jobs",
-   "crawledAt": 1794813909240
+   "crawledAt": 1794905296514
   },
   {
    "title": "Lead Recruiter",
@@ -99906,7 +99878,7 @@
    "website": "idexcel.com",
    "src": "nyc",
    "page": "https://idexcel.com/jobs",
-   "crawledAt": 1794813909240
+   "crawledAt": 1794905296514
   },
   {
    "title": "Test Engineer",
@@ -99920,7 +99892,7 @@
    "website": "idexcel.com",
    "src": "nyc",
    "page": "https://idexcel.com/jobs",
-   "crawledAt": 1794813909240
+   "crawledAt": 1794905296514
   },
   {
    "title": "Inside Sales Account Executive",
@@ -100197,7 +100169,7 @@
    "website": "geoedge.com",
    "src": "nyc",
    "page": "https://www.geoedge.com/careers/",
-   "crawledAt": 1794813923249
+   "crawledAt": 1794905309625
   },
   {
    "title": "Senior Security Researcher – Web Threats",
@@ -100211,7 +100183,7 @@
    "website": "geoedge.com",
    "src": "nyc",
    "page": "https://www.geoedge.com/careers/",
-   "crawledAt": 1794813923249
+   "crawledAt": 1794905309625
   },
   {
    "title": "Presales Solution Engineer, APAC",
@@ -100225,7 +100197,7 @@
    "website": "geoedge.com",
    "src": "nyc",
    "page": "https://www.geoedge.com/careers/",
-   "crawledAt": 1794813923249
+   "crawledAt": 1794905309625
   },
   {
    "title": "Sales Representative, Former Employee",
@@ -100239,7 +100211,7 @@
    "website": "geoedge.com",
    "src": "nyc",
    "page": "https://www.geoedge.com/careers/",
-   "crawledAt": 1794813923249
+   "crawledAt": 1794905309625
   },
   {
    "title": "Solutions Engineer, Current Employee",
@@ -100253,7 +100225,7 @@
    "website": "geoedge.com",
    "src": "nyc",
    "page": "https://www.geoedge.com/careers/",
-   "crawledAt": 1794813923249
+   "crawledAt": 1794905309625
   },
   {
    "title": "SW Engineer, Current Employee",
@@ -100267,7 +100239,7 @@
    "website": "geoedge.com",
    "src": "nyc",
    "page": "https://www.geoedge.com/careers/",
-   "crawledAt": 1794813923249
+   "crawledAt": 1794905309625
   },
   {
    "title": "Travel Operations Assistant Remote, US",
@@ -100450,7 +100422,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "GMP Specialist",
@@ -100464,7 +100436,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Data Science & Analytics Manager",
@@ -100478,7 +100450,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Dare To Lead",
@@ -100492,7 +100464,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Programmatic & AdTech Consultant",
@@ -100506,7 +100478,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Account Director",
@@ -100520,7 +100492,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Head of Paid Social / Lead Paid Social Consultant",
@@ -100534,7 +100506,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Performance Account Manager, Search",
@@ -100548,7 +100520,7 @@
    "website": "incubeta.com",
    "src": "nyc",
    "page": "https://incubeta.com/careers/",
-   "crawledAt": 1794813918469
+   "crawledAt": 1794905312532
   },
   {
    "title": "Senior Technical Consultant",
@@ -100562,7 +100534,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "Senior Manager – Managed Services",
@@ -100576,7 +100548,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "Technical Manager – BC",
@@ -100590,7 +100562,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "Technical Content Writer",
@@ -100604,7 +100576,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "CRM Project Lead",
@@ -100618,7 +100590,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "CRM Business Analyst / Senior Business Analyst",
@@ -100632,7 +100604,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "Azure Infrastructure Lead",
@@ -100646,7 +100618,7 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
   },
   {
    "title": "Technical Lead – Power BI",
@@ -100660,7 +100632,55 @@
    "website": "intech-systems.com",
    "src": "nyc",
    "page": "https://intech-systems.com/about/careers/",
-   "crawledAt": 1794813922732
+   "crawledAt": 1794905313256
+  },
+  {
+   "title": "Director, HCP Marketing- Rare Disease",
+   "url": "https://jobs.alfasigma.com/job/Morristown-Director%2C-HCP-Marketing-Rare-Disease-MN/1438996633/",
+   "datePosted": "2026-11-15",
+   "locations": [
+    "Morristown, US"
+   ],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Intercept Pharmaceuticals",
+   "website": "interceptpharma.com",
+   "src": "nyc",
+   "page": "https://alfasigmausa.com/careers/",
+   "crawledAt": 1794905318853
+  },
+  {
+   "title": "Senior Manager, Forecasting",
+   "url": "https://jobs.alfasigma.com/job/Morristown-Senior-Manager%2C-Forecasting-MN/1428464833/",
+   "datePosted": "2026-11-15",
+   "locations": [
+    "Morristown, US"
+   ],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Intercept Pharmaceuticals",
+   "website": "interceptpharma.com",
+   "src": "nyc",
+   "page": "https://alfasigmausa.com/careers/",
+   "crawledAt": 1794905318853
+  },
+  {
+   "title": "Senior Director, Commercial Analytics & Operations- Rare Disease",
+   "url": "https://jobs.alfasigma.com/job/Morristown-Senior-Director%2C-Commercial-Analytics-&-Operations-Rare-Disease-MN/1417511333/",
+   "datePosted": "2026-11-14",
+   "locations": [
+    "Morristown, US"
+   ],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Intercept Pharmaceuticals",
+   "website": "interceptpharma.com",
+   "src": "nyc",
+   "page": "https://alfasigmausa.com/careers/",
+   "crawledAt": 1794905318853
   },
   {
    "title": "Territory Business Manager- Buffalo- Rare Disease (US)",
@@ -100674,7 +100694,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Senior Manager, Financial Systems, Planning & Analysis",
@@ -100690,7 +100710,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Senior Manager, HPC Marketing- Rare Disease",
@@ -100706,7 +100726,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Vice President, Head of Medical Affairs- Rare Disease",
@@ -100722,21 +100742,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
-  },
-  {
-   "title": "Specialty Sales Manager- Fayetteville, AR- Nutrition (US)",
-   "url": "https://jobs.alfasigma.com/job/Specialty-Sales-Manager-Fayetteville%2C-AR-Nutrition/1446239633/",
-   "datePosted": "2026-11-07",
-   "locations": [],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Intercept Pharmaceuticals",
-   "website": "interceptpharma.com",
-   "src": "nyc",
-   "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Specialty Sales Manager- Louisville KY- Nutrition (US)",
@@ -100750,7 +100756,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Specialty Sales Manager- Nashville, TN- Nutrition (US)",
@@ -100764,7 +100770,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Specialty Sales Manager- Hartford CT- Nutrition (US)",
@@ -100778,7 +100784,21 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
+  },
+  {
+   "title": "Specialty Sales Manager- Fayetteville, AR- Nutrition (US)",
+   "url": "https://jobs.alfasigma.com/job/Specialty-Sales-Manager-Fayetteville%2C-AR-Nutrition/1446239633/",
+   "datePosted": "2026-11-07",
+   "locations": [],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Intercept Pharmaceuticals",
+   "website": "interceptpharma.com",
+   "src": "nyc",
+   "page": "https://alfasigmausa.com/careers/",
+   "crawledAt": 1794905318853
   },
   {
    "title": "Specialty Sales Manager, San Jose- Nutrition (US)",
@@ -100792,7 +100812,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Executive Administrative Assistant",
@@ -100808,7 +100828,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Specialty Sales Manager- Grand Rapids- Nutrition (US)",
@@ -100822,7 +100842,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Director, Patient Advocacy- Rare Disease",
@@ -100838,55 +100858,7 @@
    "website": "interceptpharma.com",
    "src": "nyc",
    "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
-  },
-  {
-   "title": "Director, HCP Marketing- Rare Disease",
-   "url": "https://jobs.alfasigma.com/job/Morristown-Director%2C-HCP-Marketing-Rare-Disease-MN/1438996633/",
-   "datePosted": "2026-10-17",
-   "locations": [
-    "Morristown, US"
-   ],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Intercept Pharmaceuticals",
-   "website": "interceptpharma.com",
-   "src": "nyc",
-   "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
-  },
-  {
-   "title": "Senior Manager, Forecasting",
-   "url": "https://jobs.alfasigma.com/job/Morristown-Senior-Manager%2C-Forecasting-MN/1428464833/",
-   "datePosted": "2026-10-17",
-   "locations": [
-    "Morristown, US"
-   ],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Intercept Pharmaceuticals",
-   "website": "interceptpharma.com",
-   "src": "nyc",
-   "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
-  },
-  {
-   "title": "Senior Director, Commercial Analytics & Operations- Rare Disease",
-   "url": "https://jobs.alfasigma.com/job/Morristown-Senior-Director%2C-Commercial-Analytics-&-Operations-Rare-Disease-MN/1417511333/",
-   "datePosted": "2026-10-16",
-   "locations": [
-    "Morristown, US"
-   ],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Intercept Pharmaceuticals",
-   "website": "interceptpharma.com",
-   "src": "nyc",
-   "page": "https://alfasigmausa.com/careers/",
-   "crawledAt": 1794813928620
+   "crawledAt": 1794905318853
   },
   {
    "title": "Account Based Marketing Manager",
@@ -101168,7 +101140,7 @@
    "website": "iproov.com",
    "src": "nyc",
    "page": "https://www.iproov.com/careers",
-   "crawledAt": 1794813931478
+   "crawledAt": 1794905320654
   },
   {
    "title": "Red Team Engineer",
@@ -101182,7 +101154,7 @@
    "website": "iproov.com",
    "src": "nyc",
    "page": "https://www.iproov.com/careers",
-   "crawledAt": 1794813931478
+   "crawledAt": 1794905320654
   },
   {
    "title": "Full Stack Software Engineer",
@@ -101196,7 +101168,7 @@
    "website": "iproov.com",
    "src": "nyc",
    "page": "https://www.iproov.com/careers",
-   "crawledAt": 1794813931478
+   "crawledAt": 1794905320654
   },
   {
    "title": "Full Stack Engineer",
@@ -101210,7 +101182,7 @@
    "website": "iproov.com",
    "src": "nyc",
    "page": "https://www.iproov.com/careers",
-   "crawledAt": 1794813931478
+   "crawledAt": 1794905320654
   },
   {
    "title": "Senior Sales Enablement Specialist",
@@ -101224,7 +101196,7 @@
    "website": "iproov.com",
    "src": "nyc",
    "page": "https://www.iproov.com/careers",
-   "crawledAt": 1794813931478
+   "crawledAt": 1794905320654
   },
   {
    "title": "Cyber Security Engineer",
@@ -101238,7 +101210,7 @@
    "website": "iproov.com",
    "src": "nyc",
    "page": "https://www.iproov.com/careers",
-   "crawledAt": 1794813931478
+   "crawledAt": 1794905320654
   },
   {
    "title": "Software Engineer",
@@ -101369,7 +101341,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "Sales Development Representative",
@@ -101383,7 +101355,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "Flutter developer",
@@ -101397,7 +101369,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "Technical Project Manager",
@@ -101411,7 +101383,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "React JS Developer",
@@ -101425,7 +101397,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "Business analyst",
@@ -101439,7 +101411,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "HR executive",
@@ -101453,7 +101425,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "UI Developer, Innofied",
@@ -101467,7 +101439,7 @@
    "website": "innofied.com",
    "src": "nyc",
    "page": "https://www.innofied.com/career/",
-   "crawledAt": 1794813941834
+   "crawledAt": 1794905332204
   },
   {
    "title": "Contract / Of-Counsel",
@@ -101481,7 +101453,7 @@
    "website": "justpoint.com",
    "src": "nyc",
    "page": "https://justpoint.com/careers/",
-   "crawledAt": 1794813934745
+   "crawledAt": 1794905324480
   },
   {
    "title": "Lead Developer, R&D, CA",
@@ -101495,7 +101467,7 @@
    "website": "ipipeline.com",
    "src": "nyc",
    "page": "https://ipipeline.com/about-us/culture-careers/",
-   "crawledAt": 1794813945580
+   "crawledAt": 1794905338902
   },
   {
    "title": "Software Engineer",
@@ -101509,7 +101481,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101523,7 +101495,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101537,7 +101509,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101551,7 +101523,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101565,7 +101537,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101579,7 +101551,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101593,7 +101565,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101607,7 +101579,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101621,7 +101593,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101635,7 +101607,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101649,7 +101621,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101663,7 +101635,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101677,7 +101649,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "UI Developer",
@@ -101691,7 +101663,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Software Engineer",
@@ -101705,7 +101677,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Sales Manager",
@@ -101719,7 +101691,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Marketing Analyst",
@@ -101733,7 +101705,7 @@
    "website": "jivainfotech.com",
    "src": "nyc",
    "page": "https://careers.jivainfotech.com/",
-   "crawledAt": 1794813949591
+   "crawledAt": 1794905338462
   },
   {
    "title": "Holly Mitchell, Organizational Development Specialist",
@@ -101747,7 +101719,7 @@
    "website": "iqcu.com",
    "src": "nyc",
    "page": "https://www.iqcu.com/careers",
-   "crawledAt": 1794813949419
+   "crawledAt": 1794905347642
   },
   {
    "title": "Stefanie Havasy, Organizational Development Specialist",
@@ -101761,7 +101733,7 @@
    "website": "iqcu.com",
    "src": "nyc",
    "page": "https://www.iqcu.com/careers",
-   "crawledAt": 1794813949419
+   "crawledAt": 1794905347642
   },
   {
    "title": "Lailah Berry, Member Service Representative",
@@ -101775,7 +101747,7 @@
    "website": "iqcu.com",
    "src": "nyc",
    "page": "https://www.iqcu.com/careers",
-   "crawledAt": 1794813949419
+   "crawledAt": 1794905347642
   },
   {
    "title": "Security Consultant – Hardware Specialist",
@@ -101789,7 +101761,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "Technical Account Executive",
@@ -101803,7 +101775,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "Business Development Specialist",
@@ -101817,7 +101789,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "Information Security Intern",
@@ -101831,7 +101803,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "Senior Associate, Investigations and Disputes",
@@ -101845,7 +101817,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "Senior Data Analyst",
@@ -101859,7 +101831,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "HR Associate, Operations",
@@ -101873,7 +101845,7 @@
    "website": "k2integrity.com",
    "src": "nyc",
    "page": "https://www.k2integrity.com/en/careers/",
-   "crawledAt": 1794813955435
+   "crawledAt": 1794905345680
   },
   {
    "title": "Hiring Manager",
@@ -101887,7 +101859,7 @@
    "website": "kasada.io",
    "src": "nyc",
    "page": "https://www.kasada.io/careers",
-   "crawledAt": 1794813959826
+   "crawledAt": 1794905356003
   },
   {
    "title": "Programmer Analyst",
@@ -101901,7 +101873,7 @@
    "website": "kaizentek.com",
    "src": "nyc",
    "page": "https://kaizentek.com/news-events/news/ironbound-community-corporation-job-fair",
-   "crawledAt": 1794813958877
+   "crawledAt": 1794905352532
   },
   {
    "title": "Senior Release / CI Engineer",
@@ -101915,7 +101887,7 @@
    "website": "izotope.com",
    "src": "nyc",
    "page": "https://www.izotope.com/pages/work-with-us",
-   "crawledAt": 1794813975310
+   "crawledAt": 1794905368996
   },
   {
    "title": "Senior Software Engineer",
@@ -101929,7 +101901,7 @@
    "website": "izotope.com",
    "src": "nyc",
    "page": "https://www.izotope.com/pages/work-with-us",
-   "crawledAt": 1794813975310
+   "crawledAt": 1794905368996
   },
   {
    "title": "President and Chief Operating Officer",
@@ -101943,7 +101915,7 @@
    "website": "kleintools.com",
    "src": "nyc",
    "page": "https://www.kleintools.com/careers/benefits",
-   "crawledAt": 1794813963796
+   "crawledAt": 1794905360055
   },
   {
    "title": "Compose in a beautiful web-based editor",
@@ -101957,7 +101929,7 @@
    "website": "laterpress.com",
    "src": "nyc",
    "page": "https://laterpress.com/jobs",
-   "crawledAt": 1794813966428
+   "crawledAt": 1794905362707
   },
   {
    "title": "Corporate Management Analyst",
@@ -101971,7 +101943,7 @@
    "website": "landa.app",
    "src": "nyc",
    "page": "https://landa.app/jobs",
-   "crawledAt": 1794813972208
+   "crawledAt": 1794905368702
   },
   {
    "title": "Full Stack Engineer",
@@ -101985,7 +101957,7 @@
    "website": "landa.app",
    "src": "nyc",
    "page": "https://landa.app/jobs",
-   "crawledAt": 1794813972208
+   "crawledAt": 1794905368702
   },
   {
    "title": "Customer Service Specialist",
@@ -101999,7 +101971,7 @@
    "website": "landa.app",
    "src": "nyc",
    "page": "https://landa.app/jobs",
-   "crawledAt": 1794813972208
+   "crawledAt": 1794905368702
   },
   {
    "title": "In-House Counsel",
@@ -102026,7 +101998,7 @@
    "website": "lexset.ai",
    "src": "nyc",
    "page": "https://lexset.ai/jobs.html",
-   "crawledAt": 1794813975069
+   "crawledAt": 1794905371460
   },
   {
    "title": "Operation Control Center Specialist",
@@ -102040,7 +102012,7 @@
    "website": "lifeflight.org",
    "src": "nyc",
    "page": "https://www.lifeflight.org/about-us/careers/",
-   "crawledAt": 1794813981942
+   "crawledAt": 1794905376806
   },
   {
    "title": "Communications Specialist",
@@ -102054,7 +102026,7 @@
    "website": "lifeflight.org",
    "src": "nyc",
    "page": "https://www.lifeflight.org/about-us/careers/",
-   "crawledAt": 1794813981942
+   "crawledAt": 1794905376806
   },
   {
    "title": "Operations Manager",
@@ -102068,7 +102040,7 @@
    "website": "liquiditygroup.com",
    "src": "nyc",
    "page": "https://www.liquidity.com/careers",
-   "crawledAt": 1794813979262
+   "crawledAt": 1794905375297
   },
   {
    "title": "Brand Marketer",
@@ -102082,7 +102054,7 @@
    "website": "liveintent.com",
    "src": "nyc",
    "page": "https://www.liveintent.com/careers/",
-   "crawledAt": 1794813987211
+   "crawledAt": 1794905382583
   },
   {
    "title": "IT Systems Administrator",
@@ -102096,7 +102068,7 @@
    "website": "liveintent.com",
    "src": "nyc",
    "page": "https://www.liveintent.com/careers/",
-   "crawledAt": 1794813987211
+   "crawledAt": 1794905382583
   },
   {
    "title": "Art Director",
@@ -102110,7 +102082,7 @@
    "website": "liveintent.com",
    "src": "nyc",
    "page": "https://www.liveintent.com/careers/",
-   "crawledAt": 1794813987211
+   "crawledAt": 1794905382583
   },
   {
    "title": "Talent Acquisition Manager",
@@ -102124,7 +102096,7 @@
    "website": "liveintent.com",
    "src": "nyc",
    "page": "https://www.liveintent.com/careers/",
-   "crawledAt": 1794813987211
+   "crawledAt": 1794905382583
   },
   {
    "title": "Employee Experience Manager",
@@ -102138,7 +102110,7 @@
    "website": "liveintent.com",
    "src": "nyc",
    "page": "https://www.liveintent.com/careers/",
-   "crawledAt": 1794813987211
+   "crawledAt": 1794905382583
   },
   {
    "title": "Key Account Manager",
@@ -102152,7 +102124,7 @@
    "website": "localised.com",
    "src": "nyc",
    "page": "https://www.localised.com/jobs",
-   "crawledAt": 1794813989548
+   "crawledAt": 1794905382760
   },
   {
    "title": "Shopify Engineer",
@@ -102166,7 +102138,7 @@
    "website": "localised.com",
    "src": "nyc",
    "page": "https://www.localised.com/jobs",
-   "crawledAt": 1794813989548
+   "crawledAt": 1794905382760
   },
   {
    "title": "Performance Marketing Manager",
@@ -102180,7 +102152,7 @@
    "website": "localised.com",
    "src": "nyc",
    "page": "https://www.localised.com/jobs",
-   "crawledAt": 1794813989548
+   "crawledAt": 1794905382760
   },
   {
    "title": "Associate Project Manager",
@@ -102194,7 +102166,7 @@
    "website": "linkwellhealth.com",
    "src": "nyc",
    "page": "https://linkwellhealth.com/we-are-hiring/",
-   "crawledAt": 1794813996378
+   "crawledAt": 1794905392857
   },
   {
    "title": "Managing Editor",
@@ -102208,7 +102180,7 @@
    "website": "linkwellhealth.com",
    "src": "nyc",
    "page": "https://linkwellhealth.com/we-are-hiring/",
-   "crawledAt": 1794813996378
+   "crawledAt": 1794905392857
   },
   {
    "title": "Sales Customer Service Representative (CSR) - Remote",
@@ -102222,7 +102194,7 @@
    "website": "longbridge-financial.com",
    "src": "nyc",
    "page": "https://longbridge-financial.com/careers/",
-   "crawledAt": 1794813997419
+   "crawledAt": 1794905393230
   },
   {
    "title": "Part-Time Recruiting Intern - Paramus Office",
@@ -102236,7 +102208,7 @@
    "website": "longbridge-financial.com",
    "src": "nyc",
    "page": "https://longbridge-financial.com/careers/",
-   "crawledAt": 1794813997419
+   "crawledAt": 1794905393230
   },
   {
    "title": "Wholesale Reverse Made Easy (RME) Account Executive",
@@ -102250,7 +102222,7 @@
    "website": "longbridge-financial.com",
    "src": "nyc",
    "page": "https://longbridge-financial.com/careers/",
-   "crawledAt": 1794813997419
+   "crawledAt": 1794905393230
   },
   {
    "title": "Key Account Manager",
@@ -102264,7 +102236,7 @@
    "website": "loginextsolutions.com",
    "src": "nyc",
    "page": "https://www.loginextsolutions.com/careers",
-   "crawledAt": 1794814006506
+   "crawledAt": 1794905402931
   },
   {
    "title": "Product Delivery Manager",
@@ -102278,7 +102250,7 @@
    "website": "loginextsolutions.com",
    "src": "nyc",
    "page": "https://www.loginextsolutions.com/careers",
-   "crawledAt": 1794814006506
+   "crawledAt": 1794905402931
   },
   {
    "title": "Team Lead - Customer Success",
@@ -102292,7 +102264,7 @@
    "website": "loginextsolutions.com",
    "src": "nyc",
    "page": "https://www.loginextsolutions.com/careers",
-   "crawledAt": 1794814006506
+   "crawledAt": 1794905402931
   },
   {
    "title": "Tumi Langa, Sales Director, Africa",
@@ -102306,7 +102278,7 @@
    "website": "liveu.tv",
    "src": "nyc",
    "page": "https://www.liveu.tv/company/careers",
-   "crawledAt": 1794814010755
+   "crawledAt": 1794905406101
   },
   {
    "title": "Avigail Camon, Software Director",
@@ -102320,7 +102292,7 @@
    "website": "liveu.tv",
    "src": "nyc",
    "page": "https://www.liveu.tv/company/careers",
-   "crawledAt": 1794814010755
+   "crawledAt": 1794905406101
   },
   {
    "title": "Toby Liu, Tech Director, China",
@@ -102334,7 +102306,7 @@
    "website": "liveu.tv",
    "src": "nyc",
    "page": "https://www.liveu.tv/company/careers",
-   "crawledAt": 1794814010755
+   "crawledAt": 1794905406101
   },
   {
    "title": "Freight and Logistics Manager",
@@ -102348,7 +102320,7 @@
    "website": "meetmaev.com",
    "src": "nyc",
    "page": "https://www.meetmaev.com/careers",
-   "crawledAt": 1794814022042
+   "crawledAt": 1794905420817
   },
   {
    "title": "Operations Consultation Manager",
@@ -102362,7 +102334,7 @@
    "website": "magnoliabakery.com",
    "src": "nyc",
    "page": "https://www.magnoliabakery.com/pages/careers",
-   "crawledAt": 1794814035888
+   "crawledAt": 1794905431080
   },
   {
    "title": "Senior Facilities Manager",
@@ -102376,7 +102348,7 @@
    "website": "magnoliabakery.com",
    "src": "nyc",
    "page": "https://www.magnoliabakery.com/pages/careers",
-   "crawledAt": 1794814035888
+   "crawledAt": 1794905431080
   },
   {
    "title": "Jewelry Designer",
@@ -102390,7 +102362,7 @@
    "website": "malkanewyork.com",
    "src": "nyc",
    "page": "https://malkanewyork.com/pages/careers",
-   "crawledAt": 1794814037162
+   "crawledAt": 1794905437987
   },
   {
    "title": "Financial Services Representative",
@@ -102404,7 +102376,7 @@
    "website": "magnoliawealth.com",
    "src": "nyc",
    "page": "https://www.magnoliawealth.com/join-our-team/",
-   "crawledAt": 1794814049889
+   "crawledAt": 1794905445358
   },
   {
    "title": "Technical Project Manager",
@@ -102418,7 +102390,7 @@
    "website": "magicedtech.com",
    "src": "nyc",
    "page": "https://www.magicedtech.com/career-possibilities/",
-   "crawledAt": 1794814045194
+   "crawledAt": 1794905447220
   },
   {
    "title": "System Engineer",
@@ -102458,7 +102430,7 @@
    "website": "mavenoid.com",
    "src": "nyc",
    "page": "https://www.mavenoid.com/en/careers",
-   "crawledAt": 1794814049464
+   "crawledAt": 1794905450287
   },
   {
    "title": "Fundamental Analyst Programme",
@@ -102472,7 +102444,7 @@
    "website": "mwam.com",
    "src": "nyc",
    "page": "https://www.mwam.com/",
-   "crawledAt": 1794817726408
+   "crawledAt": 1794905454645
   },
   {
    "title": "Finance Manager, International Retail Chain",
@@ -102486,7 +102458,7 @@
    "website": "metaprisebanking.com",
    "src": "nyc",
    "page": "https://metaprisebanking.com/jobs",
-   "crawledAt": 1794814057056
+   "crawledAt": 1794905457519
   },
   {
    "title": "Senior Designer - Temporary",
@@ -102826,7 +102798,7 @@
    "website": "mindbodygreen.com",
    "src": "nyc",
    "page": "https://www.mindbodygreen.com/jobs",
-   "crawledAt": 1794814063324
+   "crawledAt": 1794905468154
   },
   {
    "title": "Freelance Brand Strategist, Commercial RFPs (As Needed)",
@@ -102840,7 +102812,7 @@
    "website": "mindbodygreen.com",
    "src": "nyc",
    "page": "https://www.mindbodygreen.com/jobs",
-   "crawledAt": 1794814063324
+   "crawledAt": 1794905468154
   },
   {
    "title": "Freelance Brand Strategist, Pharma RFPs (As Needed)",
@@ -102854,7 +102826,7 @@
    "website": "mindbodygreen.com",
    "src": "nyc",
    "page": "https://www.mindbodygreen.com/jobs",
-   "crawledAt": 1794814063324
+   "crawledAt": 1794905468154
   },
   {
    "title": "Temporary Ecommerce Operations Specialist (Parental Leave Cover)",
@@ -102868,7 +102840,7 @@
    "website": "mindbodygreen.com",
    "src": "nyc",
    "page": "https://www.mindbodygreen.com/jobs",
-   "crawledAt": 1794814063324
+   "crawledAt": 1794905468154
   },
   {
    "title": "Chief Commercial Officer",
@@ -102882,7 +102854,7 @@
    "website": "metric-search.com",
    "src": "nyc",
    "page": "https://metric-search.com/insights/dimitri-woronoff-white-raven-cdmo-career-stories/",
-   "crawledAt": 1794814066040
+   "crawledAt": 1794905465580
   },
   {
    "title": "Learning & Talent Development Manager",
@@ -102896,7 +102868,7 @@
    "website": "metric-search.com",
    "src": "nyc",
    "page": "https://metric-search.com/insights/dimitri-woronoff-white-raven-cdmo-career-stories/",
-   "crawledAt": 1794814066040
+   "crawledAt": 1794905465580
   },
   {
    "title": "Business Development Executive",
@@ -102910,7 +102882,7 @@
    "website": "metric-search.com",
    "src": "nyc",
    "page": "https://metric-search.com/insights/dimitri-woronoff-white-raven-cdmo-career-stories/",
-   "crawledAt": 1794814066040
+   "crawledAt": 1794905465580
   },
   {
    "title": "Senior Recruiter",
@@ -102924,7 +102896,7 @@
    "website": "metric-search.com",
    "src": "nyc",
    "page": "https://metric-search.com/insights/dimitri-woronoff-white-raven-cdmo-career-stories/",
-   "crawledAt": 1794814066040
+   "crawledAt": 1794905465580
   },
   {
    "title": "Senior Embedded OS Field Engineer",
@@ -103133,7 +103105,7 @@
    "website": "mixpeek.com",
    "src": "nyc",
    "page": "https://mixpeek.com/careers",
-   "crawledAt": 1794814068162
+   "crawledAt": 1794905469333
   },
   {
    "title": "Developer Relations Engineer",
@@ -103147,7 +103119,7 @@
    "website": "mixpeek.com",
    "src": "nyc",
    "page": "https://mixpeek.com/careers",
-   "crawledAt": 1794814068162
+   "crawledAt": 1794905469333
   },
   {
    "title": "Forward Deployed Engineer / Solutions Architect",
@@ -103161,7 +103133,7 @@
    "website": "mixpeek.com",
    "src": "nyc",
    "page": "https://mixpeek.com/careers",
-   "crawledAt": 1794814068162
+   "crawledAt": 1794905469333
   },
   {
    "title": "Enterprise Account Executive",
@@ -103175,7 +103147,7 @@
    "website": "mixpeek.com",
    "src": "nyc",
    "page": "https://mixpeek.com/careers",
-   "crawledAt": 1794814068162
+   "crawledAt": 1794905469333
   },
   {
    "title": "Interior designer",
@@ -103189,7 +103161,7 @@
    "website": "minoanexperience.com",
    "src": "nyc",
    "page": "https://minoan.com/join-us",
-   "crawledAt": 1794814075474
+   "crawledAt": 1794905476583
   },
   {
    "title": "Property manager",
@@ -103203,7 +103175,7 @@
    "website": "minoanexperience.com",
    "src": "nyc",
    "page": "https://minoan.com/join-us",
-   "crawledAt": 1794814075474
+   "crawledAt": 1794905476583
   },
   {
    "title": "Paid Ads Performance Specialist",
@@ -103217,7 +103189,7 @@
    "website": "metric.com.sg",
    "src": "nyc",
    "page": "https://www.metric.com.sg/career-lisiting/",
-   "crawledAt": 1794814078797
+   "crawledAt": 1794905480155
   },
   {
    "title": "Search Engine Optimisation Specialist",
@@ -103231,7 +103203,7 @@
    "website": "metric.com.sg",
    "src": "nyc",
    "page": "https://www.metric.com.sg/career-lisiting/",
-   "crawledAt": 1794814078797
+   "crawledAt": 1794905480155
   },
   {
    "title": "Cantonese & Mandarin Analytic Linguist",
@@ -103289,7 +103261,7 @@
    "website": "myodetox.com",
    "src": "nyc",
    "page": "https://www.myodetox.com/careers",
-   "crawledAt": 1794814084537
+   "crawledAt": 1794905485177
   },
   {
    "title": "Fund Reporting Specialist (f/m/d)",
@@ -103303,7 +103275,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Fund Reporting Specialist",
@@ -103317,7 +103289,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Investor Relations Manager (DACH) (m/f/d)",
@@ -103331,7 +103303,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Investor Relations Associate (DACH) (m/f/d)",
@@ -103345,7 +103317,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Private Markets Sales Associate (Investor Relations)",
@@ -103359,7 +103331,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Legal Counsel - Funds",
@@ -103373,7 +103345,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Content Producer (m/f/d)",
@@ -103387,7 +103359,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Growth Associate",
@@ -103401,7 +103373,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Partnerships Associate (f/m/d)",
@@ -103415,7 +103387,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "People Operations Specialist – Digital HR (m/f/d)",
@@ -103429,7 +103401,7 @@
    "website": "moonfare.com",
    "src": "nyc",
    "page": "https://www.moonfare.com/us/careers",
-   "crawledAt": 1794814093973
+   "crawledAt": 1794905492685
   },
   {
    "title": "Automation Engineer",
@@ -103443,7 +103415,7 @@
    "website": "morphisec.com",
    "src": "nyc",
    "page": "https://www.morphisec.com/careers/",
-   "crawledAt": 1794814092522
+   "crawledAt": 1794905492579
   },
   {
    "title": "Managing Director – Company Solutions",
@@ -103457,7 +103429,7 @@
    "website": "nasdaqprivatemarket.com",
    "src": "nyc",
    "page": "https://www.nasdaqprivatemarket.com/careers/",
-   "crawledAt": 1794814099468
+   "crawledAt": 1794905502696
   },
   {
    "title": "User Experience Designer",
@@ -103471,7 +103443,7 @@
    "website": "nclud.com",
    "src": "nyc",
    "page": "https://nclud.com/",
-   "crawledAt": 1794817730638
+   "crawledAt": 1794905496962
   },
   {
    "title": "Visual Designer",
@@ -103485,7 +103457,7 @@
    "website": "nclud.com",
    "src": "nyc",
    "page": "https://nclud.com/",
-   "crawledAt": 1794817730638
+   "crawledAt": 1794905496962
   },
   {
    "title": "Developer",
@@ -103499,7 +103471,7 @@
    "website": "nclud.com",
    "src": "nyc",
    "page": "https://nclud.com/",
-   "crawledAt": 1794817730638
+   "crawledAt": 1794905496962
   },
   {
    "title": "Project Manager",
@@ -103513,21 +103485,7 @@
    "website": "nclud.com",
    "src": "nyc",
    "page": "https://nclud.com/",
-   "crawledAt": 1794817730638
-  },
-  {
-   "title": "Growth Marketing Consultant",
-   "url": "https://neighborhoodtrust.org/who-we-are/career-opportunities/#growth-marketing-consultant",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Neighborhood Trust Financial Partners",
-   "website": "neighborhoodtrust.org",
-   "src": "nyc",
-   "page": "https://neighborhoodtrust.org/who-we-are/career-opportunities/",
-   "crawledAt": 1794814098494
+   "crawledAt": 1794905496962
   },
   {
    "title": "Become A Consultant",
