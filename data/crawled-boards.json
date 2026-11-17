@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T09:12:46.868Z",
+ "generated": "2026-11-17T09:17:28.323Z",
  "companies": 22904,
  "status": {
   "found": 3223,
   "down": 4003,
-  "site": 3862,
-  "no-ats": 11816
+  "site": 3861,
+  "no-ats": 11817
  },
  "byType": {
   "dover": 7,
@@ -30667,20 +30667,6 @@
    "crawledAt": 1794906766553
   },
   {
-   "title": "Applied AI Engineer, Agentic Systems",
-   "url": "https://www.ycombinator.com/companies/shipbob/jobs/YMAwqY5-applied-ai-engineer-agentic-systems",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "ShipBob",
-   "website": "shipbob.com",
-   "src": "yc",
-   "page": "https://www.shipbob.com/careers/",
-   "crawledAt": 1794815298868
-  },
-  {
    "title": "iOS Engineer",
    "url": "https://getmeadow.com/jobs#ios-engineer",
    "datePosted": null,
@@ -30692,7 +30678,7 @@
    "website": "getmeadow.com",
    "src": "yc",
    "page": "https://getmeadow.com/jobs",
-   "crawledAt": 1794815304134
+   "crawledAt": 1794906825596
   },
   {
    "title": "Software Engineer (Full-Stack)",
@@ -30706,7 +30692,7 @@
    "website": "getmeadow.com",
    "src": "yc",
    "page": "https://getmeadow.com/jobs",
-   "crawledAt": 1794815304134
+   "crawledAt": 1794906825596
   },
   {
    "title": "Account Executive",
@@ -30720,7 +30706,7 @@
    "website": "getmeadow.com",
    "src": "yc",
    "page": "https://getmeadow.com/jobs",
-   "crawledAt": 1794815304134
+   "crawledAt": 1794906825596
   },
   {
    "title": "Nonprofit Solutions Consultant (Sales)",
@@ -30734,7 +30720,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "SEO & Digital Marketing Specialist",
@@ -30748,7 +30734,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "Client Success Representative",
@@ -30762,7 +30748,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "Data Migration Analyst",
@@ -30776,7 +30762,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "HR Generalist, Recruiter",
@@ -30790,7 +30776,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "Community Engagement Manager",
@@ -30804,7 +30790,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "DevOps Engineer",
@@ -30818,7 +30804,7 @@
    "website": "giveffect.com",
    "src": "yc",
    "page": "https://www.giveffect.com/jobs",
-   "crawledAt": 1794815304383
+   "crawledAt": 1794906831324
   },
   {
    "title": "Head of Operations",
@@ -30832,7 +30818,7 @@
    "website": "gemnote.com",
    "src": "yc",
    "page": "https://www.gemnote.com/blog/new-job-gift-ideas",
-   "crawledAt": 1794815311061
+   "crawledAt": 1794906836028
   },
   {
    "title": "Lugger - On-Demand Mover",
@@ -30869,7 +30855,7 @@
    "website": "lugg.com",
    "src": "yc",
    "page": "https://lugg.com/mover/jobs/become-a-lugger",
-   "crawledAt": 1794815318597
+   "crawledAt": 1794906845313
   },
   {
    "title": "{{ product.displayName }}",
@@ -30883,7 +30869,7 @@
    "website": "deako.com",
    "src": "yc",
    "page": "https://www.deako.com/",
-   "crawledAt": 1794815322874
+   "crawledAt": 1794906848318
   },
   {
    "title": "UX Researcher",
@@ -30897,7 +30883,7 @@
    "website": "netomi.com",
    "src": "yc",
    "page": "https://www.netomi.com/",
-   "crawledAt": 1794815321140
+   "crawledAt": 1794906847941
   },
   {
    "title": "Technical Customer Success Manager",
@@ -30911,7 +30897,7 @@
    "website": "netomi.com",
    "src": "yc",
    "page": "https://www.netomi.com/",
-   "crawledAt": 1794815321140
+   "crawledAt": 1794906847941
   },
   {
    "title": "Manufacturing Engineer",
@@ -30925,7 +30911,7 @@
    "website": "isonohealth.com",
    "src": "yc",
    "page": "https://isonohealth.com/",
-   "crawledAt": 1794815325379
+   "crawledAt": 1794906851448
   },
   {
    "title": "Senior Software Engineer - Cloud",
@@ -30939,7 +30925,7 @@
    "website": "isonohealth.com",
    "src": "yc",
    "page": "https://isonohealth.com/",
-   "crawledAt": 1794815325379
+   "crawledAt": 1794906851448
   },
   {
    "title": "Computer Vision/Deep Learning Scientist",
@@ -30953,7 +30939,7 @@
    "website": "isonohealth.com",
    "src": "yc",
    "page": "https://isonohealth.com/",
-   "crawledAt": 1794815325379
+   "crawledAt": 1794906851448
   },
   {
    "title": "Software Developer",
@@ -30967,7 +30953,7 @@
    "website": "zeplin.io",
    "src": "yc",
    "page": "https://zeplin.io/careers/",
-   "crawledAt": 1794815328102
+   "crawledAt": 1794906854931
   },
   {
    "title": "Global Strategic Account Executive",
@@ -30981,7 +30967,7 @@
    "website": "zeplin.io",
    "src": "yc",
    "page": "https://zeplin.io/careers/",
-   "crawledAt": 1794815328102
+   "crawledAt": 1794906854931
   },
   {
    "title": "Technical Customer Success Manager",
@@ -30995,7 +30981,7 @@
    "website": "m.io",
    "src": "yc",
    "page": "https://www.m.io/",
-   "crawledAt": 1794815335219
+   "crawledAt": 1794906861482
   },
   {
    "title": "Product Designer",
@@ -31009,7 +30995,7 @@
    "website": "paveai.com",
    "src": "yc",
    "page": "https://www.paveai.com/careers",
-   "crawledAt": 1794815331234
+   "crawledAt": 1794906858177
   },
   {
    "title": "Senior User Acquisition Manager (Mobile, Subscription Apps) Ukraine, USA and worldwide UUaw",
@@ -31023,7 +31009,7 @@
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794815344042
+   "crawledAt": 1794906870756
   },
   {
    "title": "User Acquisition Manager Remote R",
@@ -31037,7 +31023,7 @@
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794815344042
+   "crawledAt": 1794906870756
   },
   {
    "title": "Creative Strategist Remote R",
@@ -31051,7 +31037,7 @@
    "website": "petcube.com",
    "src": "yc",
    "page": "https://petcube.com/careers/",
-   "crawledAt": 1794815344042
+   "crawledAt": 1794906870756
   },
   {
    "title": "QA Engineer",
@@ -31065,7 +31051,7 @@
    "website": "pocketsuite.io",
    "src": "yc",
    "page": "https://pocketsuite.io/?utm_source=redirect",
-   "crawledAt": 1794815345840
+   "crawledAt": 1794906872706
   },
   {
    "title": "Customer Success",
@@ -31079,7 +31065,7 @@
    "website": "getaccept.com",
    "src": "yc",
    "page": "https://jobs.getaccept.com/",
-   "crawledAt": 1794815354477
+   "crawledAt": 1794906881085
   },
   {
    "title": "Marketing",
@@ -31093,7 +31079,7 @@
    "website": "getaccept.com",
    "src": "yc",
    "page": "https://jobs.getaccept.com/",
-   "crawledAt": 1794815354477
+   "crawledAt": 1794906881085
   },
   {
    "title": "Product",
@@ -31107,7 +31093,7 @@
    "website": "getaccept.com",
    "src": "yc",
    "page": "https://jobs.getaccept.com/",
-   "crawledAt": 1794815354477
+   "crawledAt": 1794906881085
   },
   {
    "title": "Biotech Customer Support Specialist",
@@ -31121,7 +31107,7 @@
    "website": "histowiz.com",
    "src": "yc",
    "page": "https://home.histowiz.com/careers/",
-   "crawledAt": 1794815351662
+   "crawledAt": 1794906878474
   },
   {
    "title": "Histology Manager",
@@ -31135,11 +31121,11 @@
    "website": "histowiz.com",
    "src": "yc",
    "page": "https://home.histowiz.com/careers/",
-   "crawledAt": 1794815351662
+   "crawledAt": 1794906878474
   },
   {
-   "title": "Project Manager",
-   "url": "https://home.histowiz.com/careers/#project-manager",
+   "title": "Project Manager (Histo-Pathology)",
+   "url": "https://home.histowiz.com/careers/#project-manager-histo-pathology-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -31149,7 +31135,7 @@
    "website": "histowiz.com",
    "src": "yc",
    "page": "https://home.histowiz.com/careers/",
-   "crawledAt": 1794815351662
+   "crawledAt": 1794906878474
   },
   {
    "title": "Research Scientist",
@@ -31163,7 +31149,7 @@
    "website": "histowiz.com",
    "src": "yc",
    "page": "https://home.histowiz.com/careers/",
-   "crawledAt": 1794815351662
+   "crawledAt": 1794906878474
   },
   {
    "title": "Senior Marketing Manager",
@@ -31177,7 +31163,7 @@
    "website": "histowiz.com",
    "src": "yc",
    "page": "https://home.histowiz.com/careers/",
-   "crawledAt": 1794815351662
+   "crawledAt": 1794906878474
   },
   {
    "title": "Formal Methods Engineer",
@@ -31191,7 +31177,7 @@
    "website": "onechronos.com",
    "src": "yc",
    "page": "https://www.onechronos.com/careers/",
-   "crawledAt": 1794815356862
+   "crawledAt": 1794906883562
   },
   {
    "title": "Senior DevOps Engineer",
@@ -31205,7 +31191,7 @@
    "website": "onechronos.com",
    "src": "yc",
    "page": "https://www.onechronos.com/careers/",
-   "crawledAt": 1794815356862
+   "crawledAt": 1794906883562
   },
   {
    "title": "Engineering Manager",
@@ -31219,7 +31205,7 @@
    "website": "onechronos.com",
    "src": "yc",
    "page": "https://www.onechronos.com/careers/",
-   "crawledAt": 1794815356862
+   "crawledAt": 1794906883562
   },
   {
    "title": "Systems Engineer",
@@ -31233,7 +31219,7 @@
    "website": "onechronos.com",
    "src": "yc",
    "page": "https://www.onechronos.com/careers/",
-   "crawledAt": 1794815356862
+   "crawledAt": 1794906883562
   },
   {
    "title": "Software Engineer, Data Platform",
@@ -31247,7 +31233,7 @@
    "website": "onechronos.com",
    "src": "yc",
    "page": "https://www.onechronos.com/careers/",
-   "crawledAt": 1794815356862
+   "crawledAt": 1794906883562
   },
   {
    "title": "Sr Federal Account Manager-Civilian",
@@ -31261,7 +31247,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Strategic Account Manager",
@@ -31275,7 +31261,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Telecom System Engineer",
@@ -31289,7 +31275,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Director, Sales - New Logo - West",
@@ -31303,7 +31289,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Account Manager, Mid-Market",
@@ -31317,7 +31303,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Global AV Events and Production Engineer",
@@ -31331,7 +31317,21 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
+  },
+  {
+   "title": "Senior Product Manager, Agent Identity Management",
+   "url": "https://wellfound.com/jobs/4874277-senior-product-manager-agent-identity-management",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "AmberBox Gunshot Detection",
+   "website": "amberbox.com",
+   "src": "yc",
+   "page": "https://amberbox.com/",
+   "crawledAt": 1794906892810
   },
   {
    "title": "Sales Engineer, Mid-Market",
@@ -31345,7 +31345,21 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
+  },
+  {
+   "title": "GTM Strategy & Operations Senior Associate",
+   "url": "https://wellfound.com/jobs/4868440-gtm-strategy-operations-senior-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "AmberBox Gunshot Detection",
+   "website": "amberbox.com",
+   "src": "yc",
+   "page": "https://amberbox.com/",
+   "crawledAt": 1794906892810
   },
   {
    "title": "GTM Engineer, AI-Native Web",
@@ -31359,7 +31373,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Manager, Engineering (Fixed-Term Contract 12-Month)",
@@ -31373,7 +31387,49 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
+  },
+  {
+   "title": "Staff Product Manager, Ads Measurement",
+   "url": "https://wellfound.com/jobs/4861185-staff-product-manager-ads-measurement",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "AmberBox Gunshot Detection",
+   "website": "amberbox.com",
+   "src": "yc",
+   "page": "https://amberbox.com/",
+   "crawledAt": 1794906892810
+  },
+  {
+   "title": "Auth0 Account Executive- New Business",
+   "url": "https://wellfound.com/jobs/4860853-auth0-account-executive-new-business",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "AmberBox Gunshot Detection",
+   "website": "amberbox.com",
+   "src": "yc",
+   "page": "https://amberbox.com/",
+   "crawledAt": 1794906892810
+  },
+  {
+   "title": "Computing Undergraduate Student Intern: HPC Cluster Engineer Academy Internship Program",
+   "url": "https://wellfound.com/jobs/4857073-computing-undergraduate-student-intern-hpc-cluster-engineer-academy-internship-program",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "AmberBox Gunshot Detection",
+   "website": "amberbox.com",
+   "src": "yc",
+   "page": "https://amberbox.com/",
+   "crawledAt": 1794906892810
   },
   {
    "title": "Cloud Network Engineer",
@@ -31387,11 +31443,11 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
-   "title": "Event & Experiences Designer",
-   "url": "https://wellfound.com/jobs/4852013-event-experiences-designer",
+   "title": "Mechanical Design Engineer Asc -Level 1",
+   "url": "https://wellfound.com/jobs/4855516-mechanical-design-engineer-asc-level-1",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -31401,91 +31457,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
-  },
-  {
-   "title": "Partner Solutions Engineer",
-   "url": "https://wellfound.com/jobs/4853072-partner-solutions-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AmberBox Gunshot Detection",
-   "website": "amberbox.com",
-   "src": "yc",
-   "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
-  },
-  {
-   "title": "Senior Project Controls Analyst",
-   "url": "https://wellfound.com/jobs/4850986-senior-project-controls-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AmberBox Gunshot Detection",
-   "website": "amberbox.com",
-   "src": "yc",
-   "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
-  },
-  {
-   "title": "Senior Manager, Product Design - Security",
-   "url": "https://wellfound.com/jobs/4851514-senior-manager-product-design-security",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AmberBox Gunshot Detection",
-   "website": "amberbox.com",
-   "src": "yc",
-   "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
-  },
-  {
-   "title": "Sr. Business Process Analyst",
-   "url": "https://wellfound.com/jobs/4850040-sr-business-process-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AmberBox Gunshot Detection",
-   "website": "amberbox.com",
-   "src": "yc",
-   "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
-  },
-  {
-   "title": "Staff Machine Learning Engineer",
-   "url": "https://wellfound.com/jobs/4850657-staff-machine-learning-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AmberBox Gunshot Detection",
-   "website": "amberbox.com",
-   "src": "yc",
-   "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
-  },
-  {
-   "title": "Project Management & Planning Operations Rep - Level 2",
-   "url": "https://wellfound.com/jobs/4851328-project-management-planning-operations-rep-level-2",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "AmberBox Gunshot Detection",
-   "website": "amberbox.com",
-   "src": "yc",
-   "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Manufacturing Process Engineer (R&D Engineer 1/2)",
@@ -31499,7 +31471,21 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
+  },
+  {
+   "title": "Space Systems Integration Engineer",
+   "url": "https://wellfound.com/jobs/4855431-space-systems-integration-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "AmberBox Gunshot Detection",
+   "website": "amberbox.com",
+   "src": "yc",
+   "page": "https://amberbox.com/",
+   "crawledAt": 1794906892810
   },
   {
    "title": "Senior Data Engineer - Austin, TX",
@@ -31513,7 +31499,7 @@
    "website": "amberbox.com",
    "src": "yc",
    "page": "https://amberbox.com/",
-   "crawledAt": 1794815366245
+   "crawledAt": 1794906892810
   },
   {
    "title": "Senior Software Engineer",
@@ -31527,7 +31513,7 @@
    "website": "hioperator.com",
    "src": "yc",
    "page": "https://www.hioperator.com/",
-   "crawledAt": 1794815361848
+   "crawledAt": 1794906888309
   },
   {
    "title": "Business Software Developer",
@@ -31541,7 +31527,7 @@
    "website": "hioperator.com",
    "src": "yc",
    "page": "https://www.hioperator.com/",
-   "crawledAt": 1794815361848
+   "crawledAt": 1794906888309
   },
   {
    "title": "Business Development Representative",
@@ -31555,7 +31541,7 @@
    "website": "hioperator.com",
    "src": "yc",
    "page": "https://www.hioperator.com/",
-   "crawledAt": 1794815361848
+   "crawledAt": 1794906888309
   },
   {
    "title": "Backend Engineer",
@@ -31569,7 +31555,7 @@
    "website": "gogograndparent.com",
    "src": "yc",
    "page": "https://www.gogograndparent.com/careers",
-   "crawledAt": 1794815432497
+   "crawledAt": 1794906897875
   },
   {
    "title": "Growth Product Manager",
@@ -31583,7 +31569,7 @@
    "website": "gogograndparent.com",
    "src": "yc",
    "page": "https://www.gogograndparent.com/careers",
-   "crawledAt": 1794815432497
+   "crawledAt": 1794906897875
   },
   {
    "title": "Product Manager",
@@ -31597,7 +31583,7 @@
    "website": "gogograndparent.com",
    "src": "yc",
    "page": "https://www.gogograndparent.com/careers",
-   "crawledAt": 1794815432497
+   "crawledAt": 1794906897875
   },
   {
    "title": "Mayge, Team Lead",
@@ -31611,7 +31597,7 @@
    "website": "gogograndparent.com",
    "src": "yc",
    "page": "https://www.gogograndparent.com/careers",
-   "crawledAt": 1794815432497
+   "crawledAt": 1794906897875
   },
   {
    "title": "Kevin Tran, Frontend Software Engineer",
@@ -31625,7 +31611,7 @@
    "website": "withjoy.com",
    "src": "yc",
    "page": "https://withjoy.com/careers/",
-   "crawledAt": 1794815430067
+   "crawledAt": 1794906902628
   },
   {
    "title": "Courtney Cross, Product Designer",
@@ -31639,7 +31625,7 @@
    "website": "withjoy.com",
    "src": "yc",
    "page": "https://withjoy.com/careers/",
-   "crawledAt": 1794815430067
+   "crawledAt": 1794906902628
   },
   {
    "title": "Finance Systems Integration Lead",
@@ -31653,7 +31639,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Data Analyst, Public Sector",
@@ -31667,7 +31653,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Applied AI Engineer",
@@ -31681,7 +31667,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engineering Manager, Customer Platform (GenAI)",
@@ -31695,7 +31681,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engineering Manager, Saudi Arabia",
@@ -31709,7 +31695,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Frontier Agent Engineering Manager, Enterprise",
@@ -31723,7 +31709,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Frontier Agents Engineer (Applied AI)",
@@ -31737,7 +31723,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Frontier Agents Engineer (Forward Deployed Engineering)",
@@ -31751,7 +31737,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Full-Stack Software Engineer, (Forward Deployed), GPS",
@@ -31765,7 +31751,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Infrastructure Software Engineer, Apps Platform",
@@ -31779,7 +31765,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Infrastructure Software Engineer, Enterprise GenAI",
@@ -31793,7 +31779,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Principal Software Engineer, GPS",
@@ -31807,7 +31793,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Security Engineer, Infrastructure",
@@ -31821,7 +31807,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Security Engineer, Product Security",
@@ -31835,7 +31821,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Applied AI Engineer",
@@ -31849,7 +31835,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Engineering Manager, Kuwait",
@@ -31863,7 +31849,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Frontier Agents Engineer (Applied AI)",
@@ -31877,7 +31863,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Frontier Agents Engineer (Forward Deployed Engineering)",
@@ -31891,7 +31877,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
@@ -31905,7 +31891,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Infrastructure Software Engineer, Apps Platform",
@@ -31919,7 +31905,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Infrastructure Software Engineer, Enterprise AI",
@@ -31933,7 +31919,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Software Engineer, Agent Oversight",
@@ -31947,7 +31933,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Software Engineer, AI Operations, GPS",
@@ -31961,7 +31947,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Software Engineer, Orchestration Platform",
@@ -31975,7 +31961,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Software Engineer, Platform",
@@ -31989,7 +31975,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Staff Frontier Agents Engineer",
@@ -32003,7 +31989,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Software Engineer, Enterprise AI",
@@ -32017,7 +32003,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Software Engineer, Platform",
@@ -32031,7 +32017,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Applied AI Engineer",
@@ -32045,7 +32031,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Frontier Agents Engineer (Applied AI)",
@@ -32059,7 +32045,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Frontier Agents Engineer (Forward Deployed Engineering)",
@@ -32073,7 +32059,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
@@ -32087,7 +32073,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Software Engineer, AI Developer Tooling",
@@ -32101,7 +32087,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Software Engineer, Data Platform",
@@ -32115,7 +32101,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Software Engineer, Enterprise GenAI",
@@ -32129,7 +32115,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Software Engineer, Full Stack - Gen AI",
@@ -32143,7 +32129,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Software Engineer, Public Sector",
@@ -32157,7 +32143,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Software Engineer, RL Environments",
@@ -32171,7 +32157,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff/Senior Machine Learning Research Engineer, Intelligent Systems",
@@ -32185,7 +32171,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Global Procurement Analyst",
@@ -32199,7 +32185,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Strategic Finance Manager, BU Partnership",
@@ -32213,7 +32199,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Technical Revenue Accounting Manager",
@@ -32227,7 +32213,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Product Manager, AI Applications",
@@ -32241,7 +32227,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "IT Systems Engineer",
@@ -32255,7 +32241,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Account Based Marketing Lead",
@@ -32269,7 +32255,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Field Marketing & Events Manager",
@@ -32283,7 +32269,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Product Marketing Lead, Enterprise",
@@ -32297,7 +32283,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Web Designer, Brand Web Experience",
@@ -32311,7 +32297,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Contributor Experience Manager, Community",
@@ -32325,7 +32311,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Data Acquisition Lead, Frontier Environments",
@@ -32339,7 +32325,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Frontier Data Strategist",
@@ -32353,7 +32339,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "GenAI Compliance Operations & Programs Associate",
@@ -32367,7 +32353,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Growth Program Manager",
@@ -32381,7 +32367,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Growth Recruiter, High Volume - Contract",
@@ -32395,7 +32381,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Growth Strategy & Operations Lead",
@@ -32409,7 +32395,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Program Manager - Growth Operations, Contract",
@@ -32423,7 +32409,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Quality Operations Lead, Gen AI",
@@ -32437,7 +32423,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "SME, Support Systems Specialist",
@@ -32451,7 +32437,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Strategic Projects Lead, Generative AI",
@@ -32465,7 +32451,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "AI Policy Lead",
@@ -32479,7 +32465,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "AI Product Manager (Coding/Multimodal)",
@@ -32493,7 +32479,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Forward Deployed Product Manager, Enterprise",
@@ -32507,7 +32493,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Product Manager, Enterprise Core Platform",
@@ -32521,7 +32507,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior AI Product Manager",
@@ -32535,7 +32521,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Senior Product Design Manager, Enterprise",
@@ -32549,7 +32535,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Product Designer",
@@ -32563,7 +32549,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Product Designer, Enterprise",
@@ -32577,7 +32563,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Product Designer, Global Public Sector",
@@ -32591,7 +32577,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Staff Product Manager, Agentic Platform",
@@ -32605,7 +32591,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Account Executive, Air Force",
@@ -32619,7 +32605,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Account Executive, Army",
@@ -32633,7 +32619,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Account Executive, Navy",
@@ -32647,7 +32633,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Contracts Manager",
@@ -32661,7 +32647,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Deployment Strategist, Space Systems Command",
@@ -32675,7 +32661,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "DevOps Engineer, Infrastructure & Security",
@@ -32689,7 +32675,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engagement Manager (Hawaii), Public Sector",
@@ -32703,7 +32689,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engagement Manager, Public Sector",
@@ -32717,7 +32703,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engagement Manager, Public Sector (CO Springs)",
@@ -32731,7 +32717,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engagement Manager, Public Sector (Miami, FL)",
@@ -32745,7 +32731,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Engagement Manager, Public Sector (Midwest)",
@@ -32759,7 +32745,7 @@
    "website": "scale.com",
    "src": "yc",
    "page": "https://scale.com/careers",
-   "crawledAt": 1794815436592
+   "crawledAt": 1794906905837
   },
   {
    "title": "Chief Medical Officer",
@@ -32773,7 +32759,7 @@
    "website": "mdalgorithms.com",
    "src": "yc",
    "page": "https://www.mdalgorithms.com/jobs",
-   "crawledAt": 1794815435706
+   "crawledAt": 1794906905126
   },
   {
    "title": "Full Stack Developer - Bountiful",
@@ -32787,7 +32773,7 @@
    "website": "bountiful.ag",
    "src": "yc",
    "page": "https://bountiful.ag/",
-   "crawledAt": 1794815439235
+   "crawledAt": 1794906909390
   },
   {
    "title": "Founding Product Designer",
@@ -32801,7 +32787,7 @@
    "website": "voiceops.com",
    "src": "yc",
    "page": "https://www.voiceops.com/careers",
-   "crawledAt": 1794815449760
+   "crawledAt": 1794906919198
   },
   {
    "title": "Founding AI Engineer",
@@ -32815,7 +32801,7 @@
    "website": "voiceops.com",
    "src": "yc",
    "page": "https://www.voiceops.com/careers",
-   "crawledAt": 1794815449760
+   "crawledAt": 1794906919198
   },
   {
    "title": "Power Electronics Engineer",
@@ -32829,7 +32815,7 @@
    "website": "weflywright.com",
    "src": "yc",
    "page": "https://www.weflywright.com/company/careers",
-   "crawledAt": 1794815444372
+   "crawledAt": 1794906913669
   },
   {
    "title": "Senior Electrical Engineer",
@@ -32843,7 +32829,7 @@
    "website": "weflywright.com",
    "src": "yc",
    "page": "https://www.weflywright.com/company/careers",
-   "crawledAt": 1794815444372
+   "crawledAt": 1794906913669
   },
   {
    "title": "Senior Power Electronics Director",
@@ -32857,7 +32843,7 @@
    "website": "weflywright.com",
    "src": "yc",
    "page": "https://www.weflywright.com/company/careers",
-   "crawledAt": 1794815444372
+   "crawledAt": 1794906913669
   },
   {
    "title": "Electric Motor Design Engineer",
@@ -32871,7 +32857,7 @@
    "website": "weflywright.com",
    "src": "yc",
    "page": "https://www.weflywright.com/company/careers",
-   "crawledAt": 1794815444372
+   "crawledAt": 1794906913669
   },
   {
    "title": "Senior Battery Engineer",
@@ -32885,7 +32871,7 @@
    "website": "weflywright.com",
    "src": "yc",
    "page": "https://www.weflywright.com/company/careers",
-   "crawledAt": 1794815444372
+   "crawledAt": 1794906913669
   },
   {
    "title": "Battery Engineer",
@@ -32899,7 +32885,7 @@
    "website": "weflywright.com",
    "src": "yc",
    "page": "https://www.weflywright.com/company/careers",
-   "crawledAt": 1794815444372
+   "crawledAt": 1794906913669
   },
   {
    "title": "Chief Growth Officer",
@@ -32913,7 +32899,7 @@
    "website": "ridecell.com",
    "src": "yc",
    "page": "https://ridecell.com/careers/",
-   "crawledAt": 1794815448198
+   "crawledAt": 1794906917236
   },
   {
    "title": "Chief Business Officer",
@@ -32927,7 +32913,7 @@
    "website": "ridecell.com",
    "src": "yc",
    "page": "https://ridecell.com/careers/",
-   "crawledAt": 1794815448198
+   "crawledAt": 1794906917236
   },
   {
    "title": "Data Engineer",
@@ -32941,7 +32927,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Administrative Officer",
@@ -32955,7 +32941,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Reliance Care Officer (Arabic Speaking)",
@@ -32969,7 +32955,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Case Management Associate",
@@ -32983,7 +32969,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Associate Nursing Officer",
@@ -32997,7 +32983,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Associate Medical Laboratory Scientist",
@@ -33011,7 +32997,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Communications Associate (French Speaking)",
@@ -33025,7 +33011,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Administrative Associate (Abuja)",
@@ -33039,7 +33025,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Reliance Care Officer (Egypt)",
@@ -33053,7 +33039,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Associate Medical Laboratory Scientist",
@@ -33067,7 +33053,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Provider Operations Associate (Cote D’Ivoire)",
@@ -33081,7 +33067,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Administrative Associate (Ejigbo and Akowonjo)",
@@ -33095,7 +33081,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Administrative Associate (Surulere and Gbagada)",
@@ -33109,7 +33095,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Administrative Associate (Port Harcourt)",
@@ -33123,7 +33109,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Associate Medical Officer",
@@ -33137,7 +33123,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Associate Product Manager",
@@ -33151,7 +33137,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Data Scientist",
@@ -33165,7 +33151,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Business Intelligence Associate",
@@ -33179,7 +33165,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "DevOps Engineer",
@@ -33193,7 +33179,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Associate Data Scientist",
@@ -33207,7 +33193,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Business Intelligence Associate",
@@ -33221,7 +33207,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Associate Nursing Officer",
@@ -33235,7 +33221,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Administrative Associate (RFC Ajah and Lekki)",
@@ -33249,7 +33235,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Reliance Care Officer",
@@ -33263,7 +33249,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "People Partnering Associate",
@@ -33277,7 +33263,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Reliance Care Associate",
@@ -33291,7 +33277,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Finance Associate",
@@ -33305,7 +33291,7 @@
    "website": "getreliancehealth.com",
    "src": "yc",
    "page": "https://getreliancehealth.com/careers/",
-   "crawledAt": 1794815454820
+   "crawledAt": 1794906926704
   },
   {
    "title": "Senior Director, Strategy & Operations",
@@ -33319,7 +33305,7 @@
    "website": "standard.ai",
    "src": "yc",
    "page": "https://standard.ai/careers/",
-   "crawledAt": 1794815456389
+   "crawledAt": 1794906926503
   },
   {
    "title": "Marketing Specialist",
@@ -33333,7 +33319,7 @@
    "website": "standard.ai",
    "src": "yc",
    "page": "https://standard.ai/careers/",
-   "crawledAt": 1794815456389
+   "crawledAt": 1794906926503
   },
   {
    "title": "Software Engineer Intern",
@@ -33347,7 +33333,7 @@
    "website": "safebutler.com",
    "src": "yc",
    "page": "https://www.safebutler.com/careers",
-   "crawledAt": 1794815458748
+   "crawledAt": 1794906931158
   },
   {
    "title": "Software Engineer",
@@ -33361,7 +33347,7 @@
    "website": "veryfi.com",
    "src": "yc",
    "page": "https://www.veryfi.com/careers/",
-   "crawledAt": 1794815468572
+   "crawledAt": 1794906939719
   },
   {
    "title": "Revenue Operations Manager",
@@ -33375,7 +33361,7 @@
    "website": "veryfi.com",
    "src": "yc",
    "page": "https://www.veryfi.com/careers/",
-   "crawledAt": 1794815468572
+   "crawledAt": 1794906939719
   },
   {
    "title": "Senior Customer Success Manager",
@@ -33389,7 +33375,7 @@
    "website": "veryfi.com",
    "src": "yc",
    "page": "https://www.veryfi.com/careers/",
-   "crawledAt": 1794815468572
+   "crawledAt": 1794906939719
   },
   {
    "title": "Business Specialist",
@@ -33403,7 +33389,7 @@
    "website": "primelightworks.com",
    "src": "yc",
    "page": "https://www.treasuresoflatvia.com/brand/smartlynx",
-   "crawledAt": 1794815477233
+   "crawledAt": 1794906950412
   },
   {
    "title": "Operations Manager",
@@ -33417,7 +33403,7 @@
    "website": "primelightworks.com",
    "src": "yc",
    "page": "https://www.treasuresoflatvia.com/brand/smartlynx",
-   "crawledAt": 1794815477233
+   "crawledAt": 1794906950412
   },
   {
    "title": "Scaled Customer Success Manager",
@@ -33431,7 +33417,7 @@
    "website": "hirenimble.com",
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
-   "crawledAt": 1794815475541
+   "crawledAt": 1794906946465
   },
   {
    "title": "Senior Contract Software Engineer (Data & Platform)",
@@ -33445,7 +33431,7 @@
    "website": "hirenimble.com",
    "src": "yc",
    "page": "https://app.hirenimble.com/jobs",
-   "crawledAt": 1794815475541
+   "crawledAt": 1794906946465
   },
   {
    "title": "Controls Engineer",
@@ -33459,7 +33445,7 @@
    "website": "beanstalk.farm",
    "src": "yc",
    "page": "https://beanstalk.farm/jobs",
-   "crawledAt": 1794815480066
+   "crawledAt": 1794906950345
   },
   {
    "title": "Robotics Engineer",
@@ -33473,7 +33459,7 @@
    "website": "beanstalk.farm",
    "src": "yc",
    "page": "https://beanstalk.farm/jobs",
-   "crawledAt": 1794815480066
+   "crawledAt": 1794906950345
   },
   {
    "title": "Mechanical Engineer",
@@ -33487,7 +33473,7 @@
    "website": "beanstalk.farm",
    "src": "yc",
    "page": "https://beanstalk.farm/jobs",
-   "crawledAt": 1794815480066
+   "crawledAt": 1794906950345
   },
   {
    "title": "UI/UX product designer",
@@ -33501,7 +33487,7 @@
    "website": "fondo.com",
    "src": "yc",
    "page": "https://fondo.com/careers/ui-ux-product-designer",
-   "crawledAt": 1794815487634
+   "crawledAt": 1794906961515
   },
   {
    "title": "Senior front-end developer",
@@ -33515,7 +33501,7 @@
    "website": "fondo.com",
    "src": "yc",
    "page": "https://fondo.com/careers/ui-ux-product-designer",
-   "crawledAt": 1794815487634
+   "crawledAt": 1794906961515
   },
   {
    "title": "Digital marketing specialist",
@@ -33529,7 +33515,7 @@
    "website": "fondo.com",
    "src": "yc",
    "page": "https://fondo.com/careers/ui-ux-product-designer",
-   "crawledAt": 1794815487634
+   "crawledAt": 1794906961515
   },
   {
    "title": "Senior backend developer",
@@ -33543,7 +33529,7 @@
    "website": "fondo.com",
    "src": "yc",
    "page": "https://fondo.com/careers/ui-ux-product-designer",
-   "crawledAt": 1794815487634
+   "crawledAt": 1794906961515
   },
   {
    "title": "Graphic designer",
@@ -33557,7 +33543,7 @@
    "website": "fondo.com",
    "src": "yc",
    "page": "https://fondo.com/careers/ui-ux-product-designer",
-   "crawledAt": 1794815487634
+   "crawledAt": 1794906961515
   },
   {
    "title": "I'm an engineer",
@@ -33571,7 +33557,7 @@
    "website": "rippling.com",
    "src": "yc",
    "page": "https://www.rippling.com/country-hiring/united-kingdom-employees",
-   "crawledAt": 1794815492897
+   "crawledAt": 1794906959248
   },
   {
    "title": "Product Lead Remote (Europe/North America) Learn more →",
@@ -33585,7 +33571,7 @@
    "website": "slite.com",
    "src": "yc",
    "page": "https://slite.com/jobs",
-   "crawledAt": 1794815496648
+   "crawledAt": 1794906967939
   },
   {
    "title": "Senior Product Engineer Remote (Europe/North America) Learn more →",
@@ -33599,7 +33585,7 @@
    "website": "slite.com",
    "src": "yc",
    "page": "https://slite.com/jobs",
-   "crawledAt": 1794815496648
+   "crawledAt": 1794906967939
   },
   {
    "title": "Culture Innovation & Strategy Manager",
@@ -33613,7 +33599,7 @@
    "website": "tequitable.com",
    "src": "yc",
    "page": "https://www.tequitable.com/careers",
-   "crawledAt": 1794815498976
+   "crawledAt": 1794906967823
   },
   {
    "title": "Program/Product Manager",
@@ -33627,7 +33613,7 @@
    "website": "tequitable.com",
    "src": "yc",
    "page": "https://www.tequitable.com/careers",
-   "crawledAt": 1794815498976
+   "crawledAt": 1794906967823
   },
   {
    "title": "Content Developer & Learning Experience Lead",
@@ -33641,7 +33627,7 @@
    "website": "tequitable.com",
    "src": "yc",
    "page": "https://www.tequitable.com/careers",
-   "crawledAt": 1794815498976
+   "crawledAt": 1794906967823
   },
   {
    "title": "Full Stack Software Engineer",
@@ -33655,7 +33641,7 @@
    "website": "tequitable.com",
    "src": "yc",
    "page": "https://www.tequitable.com/careers",
-   "crawledAt": 1794815498976
+   "crawledAt": 1794906967823
   },
   {
    "title": "Sr. Data Engineer",
@@ -33669,7 +33655,7 @@
    "website": "acely.com",
    "src": "yc",
    "page": "https://acely.com/",
-   "crawledAt": 1794815504024
+   "crawledAt": 1794906974465
   },
   {
    "title": "Email/Lifecycle Manager, Noteworthy Scents",
@@ -33683,7 +33669,7 @@
    "website": "provenskincare.com",
    "src": "yc",
    "page": "https://provengroupteam.com/careers",
-   "crawledAt": 1794815512351
+   "crawledAt": 1794906977551
   },
   {
    "title": "DevOps Engineer",
@@ -33697,7 +33683,7 @@
    "website": "anjuna.io",
    "src": "yc",
    "page": "https://www.anjuna.io/careers",
-   "crawledAt": 1794815507772
+   "crawledAt": 1794906978381
   },
   {
    "title": "Staff Data Engineer",
@@ -33711,7 +33697,7 @@
    "website": "tilt.io",
    "src": "yc",
    "page": "https://tilt.now/",
-   "crawledAt": 1794815512832
+   "crawledAt": 1794906982378
   },
   {
    "title": "Principal AI/ML Engineer",
@@ -33725,7 +33711,7 @@
    "website": "tilt.io",
    "src": "yc",
    "page": "https://tilt.now/",
-   "crawledAt": 1794815512832
+   "crawledAt": 1794906982378
   },
   {
    "title": "Principal Product Engineer",
@@ -33739,7 +33725,7 @@
    "website": "tilt.io",
    "src": "yc",
    "page": "https://tilt.now/",
-   "crawledAt": 1794815512832
+   "crawledAt": 1794906982378
   },
   {
    "title": "Principal Product Designer",
@@ -33753,7 +33739,7 @@
    "website": "tilt.io",
    "src": "yc",
    "page": "https://tilt.now/",
-   "crawledAt": 1794815512832
+   "crawledAt": 1794906982378
   },
   {
    "title": "Head of Compliance",
@@ -33767,7 +33753,7 @@
    "website": "owny.com",
    "src": "yc",
    "page": "https://www.owny.com/",
-   "crawledAt": 1794815514726
+   "crawledAt": 1794906981600
   },
   {
    "title": "Sales Engineer – Robotics & Automation",
@@ -33781,7 +33767,7 @@
    "website": "orangewood.co",
    "src": "yc",
    "page": "https://www.orangewood.co/jobs",
-   "crawledAt": 1794815519848
+   "crawledAt": 1794906989732
   },
   {
    "title": "Marketing and BDA Intern",
@@ -33795,7 +33781,7 @@
    "website": "orangewood.co",
    "src": "yc",
    "page": "https://www.orangewood.co/jobs",
-   "crawledAt": 1794815519848
+   "crawledAt": 1794906989732
   },
   {
    "title": "Vision Engineer Intern (AI & Computer Vision)",
@@ -33809,7 +33795,7 @@
    "website": "orangewood.co",
    "src": "yc",
    "page": "https://www.orangewood.co/jobs",
-   "crawledAt": 1794815519848
+   "crawledAt": 1794906989732
   },
   {
    "title": "Senior Human Resource Executive",
@@ -33823,7 +33809,7 @@
    "website": "bulkmro.com",
    "src": "yc",
    "page": "https://bulkmro.com/about-us/careers/",
-   "crawledAt": 1794815535066
+   "crawledAt": 1794907003412
   },
   {
    "title": "Senior Procurement Specialist, Ahmedabad",
@@ -33837,7 +33823,7 @@
    "website": "bulkmro.com",
    "src": "yc",
    "page": "https://bulkmro.com/about-us/careers/",
-   "crawledAt": 1794815535066
+   "crawledAt": 1794907003412
   },
   {
    "title": "Procurement Specialist",
@@ -33851,7 +33837,7 @@
    "website": "bulkmro.com",
    "src": "yc",
    "page": "https://bulkmro.com/about-us/careers/",
-   "crawledAt": 1794815535066
+   "crawledAt": 1794907003412
   },
   {
    "title": "Logistics Executive",
@@ -33865,7 +33851,7 @@
    "website": "bulkmro.com",
    "src": "yc",
    "page": "https://bulkmro.com/about-us/careers/",
-   "crawledAt": 1794815535066
+   "crawledAt": 1794907003412
   },
   {
    "title": "Logistics and Sales executive",
@@ -33879,7 +33865,7 @@
    "website": "bulkmro.com",
    "src": "yc",
    "page": "https://bulkmro.com/about-us/careers/",
-   "crawledAt": 1794815535066
+   "crawledAt": 1794907003412
   },
   {
    "title": "Business Development Manager",
@@ -33893,7 +33879,7 @@
    "website": "bulkmro.com",
    "src": "yc",
    "page": "https://bulkmro.com/about-us/careers/",
-   "crawledAt": 1794815535066
+   "crawledAt": 1794907003412
   },
   {
    "title": "Founding Account Executive",
@@ -33907,7 +33893,7 @@
    "website": "useopenwrench.com",
    "src": "yc",
    "page": "https://www.useopenwrench.com/careers",
-   "crawledAt": 1794815526065
+   "crawledAt": 1794906995656
   },
   {
    "title": "Founding Marketing Manager",
@@ -33921,7 +33907,7 @@
    "website": "useopenwrench.com",
    "src": "yc",
    "page": "https://www.useopenwrench.com/careers",
-   "crawledAt": 1794815526065
+   "crawledAt": 1794906995656
   },
   {
    "title": "Sales Development Representative",
@@ -33935,7 +33921,7 @@
    "website": "useopenwrench.com",
    "src": "yc",
    "page": "https://www.useopenwrench.com/careers",
-   "crawledAt": 1794815526065
+   "crawledAt": 1794906995656
   },
   {
    "title": "Senior Software Engineer (Scala)",
@@ -33949,7 +33935,7 @@
    "website": "useopenwrench.com",
    "src": "yc",
    "page": "https://www.useopenwrench.com/careers",
-   "crawledAt": 1794815526065
+   "crawledAt": 1794906995656
   },
   {
    "title": "Senior Software Engineer (Frontend)",
@@ -33963,7 +33949,7 @@
    "website": "useopenwrench.com",
    "src": "yc",
    "page": "https://www.useopenwrench.com/careers",
-   "crawledAt": 1794815526065
+   "crawledAt": 1794906995656
   },
   {
    "title": "Software Engineer III",
@@ -33977,7 +33963,7 @@
    "website": "apprenticehealth.com",
    "src": "yc",
    "page": "https://www.apprenticehealth.com/",
-   "crawledAt": 1794815528651
+   "crawledAt": 1794906999038
   },
   {
    "title": "Software Engineer II",
@@ -33991,7 +33977,7 @@
    "website": "apprenticehealth.com",
    "src": "yc",
    "page": "https://www.apprenticehealth.com/",
-   "crawledAt": 1794815528651
+   "crawledAt": 1794906999038
   },
   {
    "title": "Software Engineer I",
@@ -34005,7 +33991,7 @@
    "website": "apprenticehealth.com",
    "src": "yc",
    "page": "https://www.apprenticehealth.com/",
-   "crawledAt": 1794815528651
+   "crawledAt": 1794906999038
   },
   {
    "title": "Associate Process Engineer",
@@ -34019,7 +34005,7 @@
    "website": "nuvola.tech",
    "src": "yc",
    "page": "https://nuvola.tech/careers/",
-   "crawledAt": 1794815532763
+   "crawledAt": 1794907003208
   },
   {
    "title": "Bioinformatics/Biostatistics specialist",
@@ -34033,7 +34019,7 @@
    "website": "datadrivenbioscience.com",
    "src": "yc",
    "page": "https://www.duoseq.com/",
-   "crawledAt": 1794815538896
+   "crawledAt": 1794907009791
   },
   {
    "title": "General Manager, Nomad Insurance",
@@ -34047,7 +34033,7 @@
    "website": "safetywing.com",
    "src": "yc",
    "page": "https://safetywing.com/join-us",
-   "crawledAt": 1794815551038
+   "crawledAt": 1794907027021
   },
   {
    "title": "Support Specialist",
@@ -34061,7 +34047,7 @@
    "website": "alphavantage.co",
    "src": "yc",
    "page": "https://www.alphavantage.co/careers/",
-   "crawledAt": 1794815542409
+   "crawledAt": 1794907012814
   },
   {
    "title": "Software Engineer",
@@ -34075,7 +34061,7 @@
    "website": "alphavantage.co",
    "src": "yc",
    "page": "https://www.alphavantage.co/careers/",
-   "crawledAt": 1794815542409
+   "crawledAt": 1794907012814
   },
   {
    "title": "Full-Stack Software Engineer",
@@ -34089,7 +34075,7 @@
    "website": "alphavantage.co",
    "src": "yc",
    "page": "https://www.alphavantage.co/careers/",
-   "crawledAt": 1794815542409
+   "crawledAt": 1794907012814
   },
   {
    "title": "Software Engineer",
@@ -34103,7 +34089,7 @@
    "website": "mentalhappy.com",
    "src": "yc",
    "page": "https://www.mentalhappy.com/careers",
-   "crawledAt": 1794815547254
+   "crawledAt": 1794907017833
   },
   {
    "title": "Outbound marketer",
@@ -34117,7 +34103,7 @@
    "website": "mentalhappy.com",
    "src": "yc",
    "page": "https://www.mentalhappy.com/careers",
-   "crawledAt": 1794815547254
+   "crawledAt": 1794907017833
   },
   {
    "title": "Senior Full Stack Software Engineer (5+ years exp)",
@@ -34131,7 +34117,7 @@
    "website": "bluecargo.io",
    "src": "yc",
    "page": "https://www.bluecargo.io/company/career",
-   "crawledAt": 1794815555701
+   "crawledAt": 1794907026618
   },
   {
    "title": "Account Executive",
@@ -34145,7 +34131,7 @@
    "website": "flockjay.com",
    "src": "yc",
    "page": "https://flockjay.com/jobs",
-   "crawledAt": 1794815556815
+   "crawledAt": 1794907031506
   },
   {
    "title": "Software Engineer, Full-Stack",
@@ -34159,7 +34145,7 @@
    "website": "flockjay.com",
    "src": "yc",
    "page": "https://flockjay.com/jobs",
-   "crawledAt": 1794815556815
+   "crawledAt": 1794907031506
   },
   {
    "title": "Software Engineer, Frontend",
@@ -34173,7 +34159,7 @@
    "website": "flockjay.com",
    "src": "yc",
    "page": "https://flockjay.com/jobs",
-   "crawledAt": 1794815556815
+   "crawledAt": 1794907031506
   },
   {
    "title": "Principal Backend Software Engineer, Python",
@@ -34187,7 +34173,7 @@
    "website": "getoxygen.com",
    "src": "yc",
    "page": "https://oxygen.us/",
-   "crawledAt": 1794815559101
+   "crawledAt": 1794907030173
   },
   {
    "title": "Senior Software Development Engineer, Backend (Remote)",
@@ -34201,7 +34187,7 @@
    "website": "getoxygen.com",
    "src": "yc",
    "page": "https://oxygen.us/",
-   "crawledAt": 1794815559101
+   "crawledAt": 1794907030173
   },
   {
    "title": "Full-Stack Engineer (can transition to CTO)",
@@ -34215,7 +34201,7 @@
    "website": "thejuggernaut.com",
    "src": "yc",
    "page": "https://www.thejuggernaut.com/",
-   "crawledAt": 1794815562402
+   "crawledAt": 1794907037241
   },
   {
    "title": "Chief Executive Officer",
@@ -34229,7 +34215,7 @@
    "website": "leena.ai",
    "src": "yc",
    "page": "https://leena.ai/careers",
-   "crawledAt": 1794815566107
+   "crawledAt": 1794907038071
   },
   {
    "title": "Chief Technology Officer",
@@ -34243,7 +34229,7 @@
    "website": "leena.ai",
    "src": "yc",
    "page": "https://leena.ai/careers",
-   "crawledAt": 1794815566107
+   "crawledAt": 1794907038071
   },
   {
    "title": "Chief Revenue Officer",
@@ -34257,7 +34243,7 @@
    "website": "leena.ai",
    "src": "yc",
    "page": "https://leena.ai/careers",
-   "crawledAt": 1794815566107
+   "crawledAt": 1794907038071
   },
   {
    "title": "Chief Strategy Officer",
@@ -34271,7 +34257,7 @@
    "website": "leena.ai",
    "src": "yc",
    "page": "https://leena.ai/careers",
-   "crawledAt": 1794815566107
+   "crawledAt": 1794907038071
   },
   {
    "title": "Chief Finance Officer",
@@ -34285,7 +34271,7 @@
    "website": "leena.ai",
    "src": "yc",
    "page": "https://leena.ai/careers",
-   "crawledAt": 1794815566107
+   "crawledAt": 1794907038071
   },
   {
    "title": "Game Designer",
@@ -34299,7 +34285,7 @@
    "website": "dreamcraft.com",
    "src": "yc",
    "page": "https://www.dreamcraft.com/careers/",
-   "crawledAt": 1794815565812
+   "crawledAt": 1794907041539
   },
   {
    "title": "Sales Engineer",
@@ -34316,7 +34302,7 @@
    "website": "centaur.ai",
    "src": "yc",
    "page": "https://centaur.ai/careers",
-   "crawledAt": 1794815569136
+   "crawledAt": 1794907041220
   },
   {
    "title": "Enterprise Account Manager-",
@@ -34330,7 +34316,7 @@
    "website": "medcrypt.co",
    "src": "yc",
    "page": "https://www.medcrypt.com/",
-   "crawledAt": 1794815572425
+   "crawledAt": 1794907047957
   },
   {
    "title": "Sales & Marketing Intern",
@@ -34344,7 +34330,7 @@
    "website": "swadesh.co",
    "src": "yc",
    "page": "https://www.swadesh.co/",
-   "crawledAt": 1794815575562
+   "crawledAt": 1794907047241
   },
   {
    "title": "Senior Software Engineer - Backend",
@@ -34358,7 +34344,7 @@
    "website": "swadesh.co",
    "src": "yc",
    "page": "https://www.swadesh.co/",
-   "crawledAt": 1794815575562
+   "crawledAt": 1794907047241
   },
   {
    "title": "Senior Software Engineer - Fullstack",
@@ -34372,7 +34358,7 @@
    "website": "swadesh.co",
    "src": "yc",
    "page": "https://www.swadesh.co/",
-   "crawledAt": 1794815575562
+   "crawledAt": 1794907047241
   },
   {
    "title": "Demand Generation Marketing Specialist",
