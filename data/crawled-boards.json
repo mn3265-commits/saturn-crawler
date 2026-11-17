@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-17T11:06:59.158Z",
+ "generated": "2026-11-17T11:10:50.349Z",
  "companies": 22904,
  "status": {
-  "found": 3225,
+  "found": 3228,
   "down": 4002,
-  "site": 3901,
-  "no-ats": 11776
+  "site": 3905,
+  "no-ats": 11769
  },
  "byType": {
   "dover": 7,
   "ashby": 725,
-  "workday": 560,
+  "workday": 562,
   "lever": 266,
-  "gh": 912,
+  "gh": 913,
   "gem": 75,
   "workable": 185,
   "rippling": 137,
@@ -15909,6 +15909,16 @@
    "src": "h1b"
   },
   {
+   "type": "workday",
+   "token": "criteo.wd3.myworkdayjobs.com",
+   "url": "criteo.wd3.myworkdayjobs.com/Criteo_Career_Site",
+   "site": "Criteo_Career_Site",
+   "label": "CRITEO CORP",
+   "website": "criteo.com",
+   "page": "https://www.criteo.com/",
+   "src": "h1b"
+  },
+  {
    "type": "icims",
    "token": "clearygottlieb",
    "url": "careers-clearygottlieb.icims.com",
@@ -15925,6 +15935,16 @@
    "label": "DAVIS POLK & WARDWELL LLP",
    "website": "davispolk.com",
    "page": "https://www.davispolk.com/careers/paralegals",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "vhr-osvhr.wd1.myworkdayjobs.com",
+   "url": "vhr-osvhr.wd1.myworkdayjobs.com/OSV_External_Career_Site",
+   "site": "OSV_External_Career_Site",
+   "label": "ONESOURCE VIRTUAL INC",
+   "website": "onesourcevirtual.com",
+   "page": "https://www.onesourcevirtual.com/careers",
    "src": "h1b"
   },
   {
@@ -15954,6 +15974,15 @@
    "label": "MUREX NORTH AMERICA INC",
    "website": "murex.com",
    "page": "https://www.murex.com/en",
+   "src": "h1b"
+  },
+  {
+   "type": "gh",
+   "token": "genscript",
+   "url": "job-boards.greenhouse.io/genscript",
+   "label": "GENSCRIPT USA INC",
+   "website": "genscript.com",
+   "page": "https://www.genscript.com/CareerOverview.html?src=footer",
    "src": "h1b"
   },
   {
@@ -133386,6 +133415,146 @@
    "crawledAt": 1794903287801
   },
   {
+   "title": "Data Scientist",
+   "url": "https://www.nirvanaenterprises.com/careers#data-scientist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Solutions Architect",
+   "url": "https://www.nirvanaenterprises.com/careers#solutions-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Mobile Developer",
+   "url": "https://www.nirvanaenterprises.com/careers#mobile-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Project Manager",
+   "url": "https://www.nirvanaenterprises.com/careers#project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.nirvanaenterprises.com/careers#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Analytics Manager",
+   "url": "https://www.nirvanaenterprises.com/careers#analytics-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Software Development Manager",
+   "url": "https://www.nirvanaenterprises.com/careers#software-development-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "QA Manager",
+   "url": "https://www.nirvanaenterprises.com/careers#qa-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "UX Designer",
+   "url": "https://www.nirvanaenterprises.com/careers#ux-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
+   "title": "Software Architect",
+   "url": "https://www.nirvanaenterprises.com/careers#software-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NIRVANA ENTERPRISES LLC",
+   "website": "nirvanaenterprises.com",
+   "src": "h1b",
+   "page": "https://www.nirvanaenterprises.com/wp-content/plugins/wp-job-manager-tags/assets/css/style.css?ver=7.1.4",
+   "crawledAt": 1794913651698
+  },
+  {
    "title": "Software Developer",
    "url": "https://cinergytech.com/jobs/software-developer-2/",
    "datePosted": null,
@@ -135622,6 +135791,20 @@
    "crawledAt": 1794903251115
   },
   {
+   "title": "PCSINE042025 NETWORK ENGINEER – ISELIN, NJ",
+   "url": "https://pcsionweb.com/jobs#pcsine042025-network-engineer-iselin-nj",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "PARAM CONSULTING SERVICES INC",
+   "website": "pcsionweb.com",
+   "src": "h1b",
+   "page": "https://pcsionweb.com/jobs",
+   "crawledAt": 1794913776472
+  },
+  {
    "title": "Software Developer",
    "url": "https://seerteksystems.com/careers.html#software-developer",
    "datePosted": null,
@@ -136184,6 +136367,34 @@
    "crawledAt": 1794903254933
   },
   {
+   "title": "Automotive Engineer",
+   "url": "https://tk-chain.com/career/#automotive-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TK CHAIN LLC",
+   "website": "tk-chain.com",
+   "src": "h1b",
+   "page": "https://tk-chain.com/career/",
+   "crawledAt": 1794913814524
+  },
+  {
+   "title": "Clinical Researcher",
+   "url": "https://tk-chain.com/career/#clinical-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TK CHAIN LLC",
+   "website": "tk-chain.com",
+   "src": "h1b",
+   "page": "https://tk-chain.com/career/",
+   "crawledAt": 1794913814524
+  },
+  {
    "title": "Computer Vision Engineer",
    "url": "https://bcgnj.com/careers/#computer-vision-engineer",
    "datePosted": null,
@@ -136490,6 +136701,48 @@
    "src": "h1b",
    "page": "https://www.milbank.com/en/careers/index.html",
    "crawledAt": 1794903258287
+  },
+  {
+   "title": "Entry Level Healthcare Business Analyst - 2 Positions",
+   "url": "https://qualitasinfo.com/Careers.php#entry-level-healthcare-business-analyst-2-positions",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "QUALITAS INFOTECH INC",
+   "website": "qualitasinfo.com",
+   "src": "h1b",
+   "page": "https://qualitasinfo.com/",
+   "crawledAt": 1794913850067
+  },
+  {
+   "title": "Senior Level Healthcare Business Analyst - Multiple Positions",
+   "url": "https://qualitasinfo.com/Careers.php#senior-level-healthcare-business-analyst-multiple-positions",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "QUALITAS INFOTECH INC",
+   "website": "qualitasinfo.com",
+   "src": "h1b",
+   "page": "https://qualitasinfo.com/",
+   "crawledAt": 1794913850067
+  },
+  {
+   "title": "Drug Safety Associate - 1 Position",
+   "url": "https://qualitasinfo.com/Careers.php#drug-safety-associate-1-position",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "QUALITAS INFOTECH INC",
+   "website": "qualitasinfo.com",
+   "src": "h1b",
+   "page": "https://qualitasinfo.com/",
+   "crawledAt": 1794913850067
   },
   {
    "title": "Lead Software Quality Assurance Engineer",
