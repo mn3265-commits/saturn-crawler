@@ -1,6 +1,6 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-16T06:06:49.044Z",
+ "generated": "2026-11-18T06:07:44.973Z",
  "counts": {
   "successfactors": 66,
   "phenom": 26,
@@ -16,7 +16,8 @@
   "goldman": 1,
   "eightfold": 22,
   "icims": 98,
-  "radancy": 17
+  "radancy": 17,
+  "ibm": 1
  },
  "boards": [
   {
