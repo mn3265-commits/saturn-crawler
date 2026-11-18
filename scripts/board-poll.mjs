@@ -1,6 +1,7 @@
 import { techCan, internLane } from './tech-can.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
 import { execFile } from 'node:child_process';
+import { wdEscape, wdStats } from './wd-fetch.mjs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { findRefusal } from './sponsor-refusal.mjs';
@@ -33,7 +34,7 @@ const get = async (url, opts = {}) => {
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
       const r = await fetch(url, { ...opts, signal: AbortSignal.timeout(15000), headers: { 'user-agent': UA, accept: 'application/json', ...(opts.headers || {}) } });
-      if (r.status === 429 && /myworkdayjobs\.com/.test(url)) { const c = await curlGet(url, opts); if (c) return c; }
+      if (r.status === 429 && /myworkdayjobs\.com/.test(url)) { const c = await wdEscape(url, { ...opts, json: true, ua: UA }); if (c && c.status !== 429) return { status: c.status, data: c.data }; }
       if (r.status === 429 && !attempt) { await new Promise(res => setTimeout(res, 2500)); continue; }
       const t = await r.text(); let d = null; try { d = JSON.parse(t); } catch {}
       return { status: r.status, data: d };
@@ -168,8 +169,8 @@ const want = (title, locs, company = '') => (IN_LANE.test(title) || techCan(titl
   void res;
   await writeFile(CACHE, JSON.stringify(cache));
   const nyc = rows.filter(r => r.locations.some(l => locOk(l, r.company)));
-  log(`board-poll: ${boards.length} boards, ${nyc.length} NYC/metro in-lane-title postings in ${hours}h, ${failed} boards failed`);
-  return { boards: boards.length, failed, rows: nyc };
+  log(`board-poll: ${boards.length} boards, ${nyc.length} NYC/metro in-lane-title postings in ${hours}h, ${failed} boards failed; Workday escapes curl ${wdStats.curl} / chrome-tls ${wdStats.impersonate} / still blocked ${wdStats.blocked}`);
+  return { boards: boards.length, failed, rows: nyc, wd: { ...wdStats } };
 }
 
 if (process.argv[1] && fileURLToPath(import.meta.url) === (await import('node:fs')).realpathSync(process.argv[1])) { // realpath: ~/Documents/GitHub/sponsorpath is a symlink
