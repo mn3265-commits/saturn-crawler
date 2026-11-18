@@ -1,5 +1,6 @@
 import { techCan, internLane } from './tech-can.mjs';
 import { readFile, writeFile } from 'node:fs/promises';
+import { execFile } from 'node:child_process';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { findRefusal } from './sponsor-refusal.mjs';
@@ -20,10 +21,19 @@ export const ALLOWED_LOC = { test: l => NYC_LOC.test(l || '') || LOOP_LOC.test(l
 const IN_LANE = /digital|omni|channel|owned|personali|lifecycle|crm|cvm|retention|growth|customer|engagement|loyalty|moneti|activation|pricing|marketing|go.to.market|gtm|consumer|chief of staff|product manager|product owner|product lead|associate product|strateg|consult|operations|member|subscri|insights|commercial|partnerships|brand|campaign|email|experience|program|project|portfolio|\bpmo\b|analytics|analyst|intelligence|transformation|technology|innovation|implementation|solutions|governance|planning|business partner|\bai\b|non-?profit|philanthrop|international development|product/i;
 const OFF = /engineer|developer|scientist|designer|recruit|counsel|attorney|legal|accountant|payroll|nurse|driver|technician|mechanic|warehouse|cashier|barista|sales (?:rep|associate|development)|account executive|\bsdr\b|\bbdr\b|security|infrastructure|devops|data engineer/i;
 
+const curlGet = (url, opts = {}) => new Promise(res => {
+  const a = ['-s', '-m', '20', '-w', '\n%{http_code}', '-A', UA, '-H', 'Accept: application/json'];
+  for (const [k, v] of Object.entries(opts.headers || {})) a.push('-H', `${k}: ${v}`);
+  if (opts.method === 'POST') a.push('-X', 'POST', '--data-binary', String(opts.body ?? ''));
+  execFile('curl', [...a, url], { maxBuffer: 32 << 20 }, (e, out) => { if (e && !out) return res(null);
+    const i = String(out).lastIndexOf('\n'), status = Number(String(out).slice(i + 1)); let d = null; try { d = JSON.parse(String(out).slice(0, i)); } catch {}
+    res(status ? { status, data: d } : null); });
+});
 const get = async (url, opts = {}) => {
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
       const r = await fetch(url, { ...opts, signal: AbortSignal.timeout(15000), headers: { 'user-agent': UA, accept: 'application/json', ...(opts.headers || {}) } });
+      if (r.status === 429 && /myworkdayjobs\.com/.test(url)) { const c = await curlGet(url, opts); if (c) return c; }
       if (r.status === 429 && !attempt) { await new Promise(res => setTimeout(res, 2500)); continue; }
       const t = await r.text(); let d = null; try { d = JSON.parse(t); } catch {}
       return { status: r.status, data: d };
@@ -38,6 +48,10 @@ const wdDays = s => (/today/i.test(s) ? 0 : /yesterday/i.test(s) ? 1 : Number((S
 const DAILY = join(ROOT, 'data', 'board-poll-daily.json');
 export const WD_RECENT_CAP = 15;
 export async function pollTargets({ hours = 72, log = () => {}, all = false, hoursFor = null } = {}) {
+  try { const B = new Set(JSON.parse(await readFile(join(ROOT, 'data', 'big-employers.json'), 'utf8')).names || []);
+    const nm = c => String(c || '').toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9 ]+/g, ' ').replace(/\b(inc|corp|corporation|company|co|plc|ltd|llc|group|holdings|the|na|n a|bank)\b/g, ' ').replace(/\s+/g, ' ').trim();
+    if (B.size) IS_BIG = c => { const k = nm(c); return !!k && (B.has(k) || (k.split(' ').length > 1 && B.has(k.split(' ').slice(0, 2).join(' '))) || B.has(k.split(' ')[0])); };
+  } catch { try { const { loadBigEmployers } = await import('./fleet-class.mjs'); IS_BIG = await loadBigEmployers(); } catch {} }
   const allBoards = (await read(join(ROOT, 'data', 'target-boards.json'), { boards: [] })).boards || [];
   const stamps = await read(DAILY, {});
   const bkey = b => `${b.ats}:${b.token || b.tenant}:${b.site || ''}`;
@@ -50,7 +64,9 @@ export async function pollTargets({ hours = 72, log = () => {}, all = false, hou
   for (const [k, v] of Object.entries(cache)) if (Date.now() - Date.parse(v.at) > 72 * 36e5) delete cache[k];
   const hrsOf = b => (hoursFor ? hoursFor(b) : hours);
   const fresh = (iso, b) => iso && Date.parse(iso) >= Date.now() - hrsOf(b) * 36e5;
-const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLane(title)) && (!OFF.test(title) || techCan(title)) && locs.some(l => ALLOWED_LOC.test(l));
+let IS_BIG = () => false;
+const locOk = (l, company) => ALLOWED_LOC.test(l) || (IS_BIG(company) && isUSLocation(l));
+const want = (title, locs, company = '') => (IN_LANE.test(title) || techCan(title) || internLane(title)) && (!OFF.test(title) || techCan(title)) && locs.some(l => locOk(l, company));
   const rows = []; let failed = 0;
   const push = (b, j) => rows.push({ id: `${b.ats}-${b.token || b.tenant}-${j.id}`, company: b.company, title: j.title, url: j.url, locations: j.locations,
     body: j.body || '', boardTier: b.tier, boardIndustry: b.industry,
@@ -62,7 +78,7 @@ const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLa
     greenhouse: async b => {
       const r = await get(`https://boards-api.greenhouse.io/v1/boards/${b.token}/jobs`);
       if (r.status !== 200) return false;
-      const hits = (r.data.jobs || []).filter(j => fresh(j.first_published, b) && want(j.title, [j.location?.name, ...(j.offices || []).map(o => o.name)]));
+      const hits = (r.data.jobs || []).filter(j => fresh(j.first_published, b) && want(j.title, [j.location?.name, ...(j.offices || []).map(o => o.name)], b.company));
       await pool(hits, 4, async j => {
         const d = await detail(`gh:${b.token}:${j.id}`, async () => {
           const x = await get(`https://boards-api.greenhouse.io/v1/boards/${b.token}/jobs/${j.id}?questions=true`);
@@ -80,7 +96,7 @@ const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLa
       if (r.status !== 200) return false;
       for (const j of r.data.jobs || []) {
         const locs = [j.location, ...(j.secondaryLocations || []).map(s => s.location)].filter(Boolean);
-        if (!fresh(j.publishedAt, b) || !want(j.title, locs)) continue;
+        if (!fresh(j.publishedAt, b) || !want(j.title, locs, b.company)) continue;
         push(b, { id: j.id, title: j.title, url: j.jobUrl, locations: locs, published: j.publishedAt, body: j.descriptionPlain || '', refusal: findRefusal(j.descriptionPlain) });
       }
       return true;
@@ -91,7 +107,7 @@ const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLa
       for (const j of r.data) {
         const iso = j.createdAt ? new Date(j.createdAt).toISOString() : null;
         const locs = [j.categories?.location, ...(j.categories?.allLocations || [])].filter(Boolean);
-        if (!fresh(iso, b) || !want(j.text, locs)) continue;
+        if (!fresh(iso, b) || !want(j.text, locs, b.company)) continue;
         const body = [j.descriptionPlain, ...(j.lists || []).map(l => `${l.text}\n${text(l.content)}`), j.additionalPlain].filter(Boolean).join('\n');
         push(b, { id: j.id, title: j.text, url: j.hostedUrl, locations: locs, published: iso, body, refusal: findRefusal(body) });
       }
@@ -105,7 +121,7 @@ const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLa
         all.push(...(r.data.content || []));
         if ((r.data.content || []).length < 100) break;
       }
-      const hits = all.filter(j => fresh(j.releasedDate, b) && want(j.name, [[j.location?.city, j.location?.region].filter(Boolean).join(', ')]));
+      const hits = all.filter(j => fresh(j.releasedDate, b) && want(j.name, [[j.location?.city, j.location?.region].filter(Boolean).join(', ')], b.company));
       await pool(hits, 4, async j => {
         const d = await detail(`sr:${b.token}:${j.id}`, async () => {
           const x = await get(`https://api.smartrecruiters.com/v1/companies/${b.token}/postings/${j.id}`);
@@ -121,12 +137,12 @@ const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLa
       const base = `https://${b.tenant}.${b.wd}.myworkdayjobs.com/wday/cxs/${b.tenant}/${b.site}`;
       const maxDays = Math.ceil(hrsOf(b) / 24);
       const seen = new Map();
-      for (const q of ['marketing', 'product manager', 'strategy', 'customer', 'growth', 'CRM lifecycle']) {
+      for (const q of ['marketing', 'product manager', 'strategy', 'customer', 'growth', 'CRM lifecycle', 'revenue operations', 'sales operations', 'analytics', 'pricing', 'go to market', 'AI']) {
         for (let off = 0; off < 60; off += 20) {
           const r = await get(`${base}/jobs`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ limit: 20, offset: off, searchText: q, appliedFacets: {} }) });
           if (r.status !== 200) { if (!seen.size && off === 0 && q === 'marketing') return false; break; }
           const list = r.data.jobPostings || [];
-          for (const j of list) if (wdDays(j.postedOn) <= maxDays && want(j.title, [j.locationsText])) seen.set(j.externalPath, j);
+          for (const j of list) if (wdDays(j.postedOn) <= maxDays && want(j.title, [j.locationsText], b.company)) seen.set(j.externalPath, j);
           if (list.length < 20) break;
         }
       }
@@ -151,7 +167,7 @@ const want = (title, locs) => (IN_LANE.test(title) || techCan(title) || internLa
   const res = await pool(boards, 10, async b => { const fn = POLL[b.ats]; if (!fn) return null; const ok = await fn(b); if (!ok) failed++; return ok; });
   void res;
   await writeFile(CACHE, JSON.stringify(cache));
-  const nyc = rows.filter(r => r.locations.some(l => ALLOWED_LOC.test(l)));
+  const nyc = rows.filter(r => r.locations.some(l => locOk(l, r.company)));
   log(`board-poll: ${boards.length} boards, ${nyc.length} NYC/metro in-lane-title postings in ${hours}h, ${failed} boards failed`);
   return { boards: boards.length, failed, rows: nyc };
 }
