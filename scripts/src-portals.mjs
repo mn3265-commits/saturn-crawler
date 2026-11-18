@@ -278,6 +278,22 @@ export const ADAPTERS = {
     }
     return out;
   },
+  async ibm(b, { sinceMs }) {
+    const out = new Map();
+    for (let from = 0; from < 600; from += 100) {
+      const r = await get('https://www-api.ibm.com/search/api/v2', { method: 'POST', retries: 2, body: { appId: 'careers', scopes: ['careers2'], query: { bool: { must: [] } }, size: 100, from, sm: { query: '', lang: 'zz' },
+        sort: [{ dcdate: 'desc' }], post_filter: { term: { field_keyword_05: 'United States' } }, _source: ['title', 'url', 'dcdate', 'field_keyword_19', 'field_keyword_08', 'field_keyword_18', 'description'] } });
+      const list = r.data?.hits?.hits; if (!list?.length) break;
+      for (const { _source: j } of list) {
+        const id = (String(j.url).match(/jobId=(\d+)/) || [])[1]; if (!id) continue;
+        const city = String(j.field_keyword_19 || '').replace(/,\s*US$/, '').replace(/^No City$|^Multiple Cities$/i, '').trim();
+        out.set(id, { id, title: j.title, locs: [[city ? city.replace(/\b\w+/g, w => w[0] + w.slice(1).toLowerCase()) : '', 'United States'].filter(Boolean).join(', ')], postedAt: iso(j.dcdate + 'T00:00:00Z'), postedDay: true,
+          url: j.url, body: text([j.description, j.field_keyword_08 && `Area: ${j.field_keyword_08}`, j.field_keyword_18 && `Level: ${j.field_keyword_18}`].filter(Boolean).join('\n')) });
+      }
+      if (Date.parse(list[list.length - 1]._source.dcdate) < sinceMs - 864e5) break;
+    }
+    return [...out.values()];
+  },
   async tencent(b) {
     const out = [];
     for (let p = 1; p <= 3; p++) {
