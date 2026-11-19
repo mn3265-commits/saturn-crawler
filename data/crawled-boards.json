@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-19T10:58:34.955Z",
+ "generated": "2026-11-19T11:03:46.398Z",
  "companies": 22904,
  "status": {
-  "found": 3254,
+  "found": 3255,
   "site": 3867,
-  "no-ats": 11835,
+  "no-ats": 11834,
   "down": 3948
  },
  "byType": {
@@ -16,7 +16,7 @@
   "gem": 73,
   "workable": 188,
   "rippling": 140,
-  "bamboohr": 168,
+  "bamboohr": 169,
   "smartrecruiters": 57,
   "recruitee": 28,
   "eightfold": 41,
@@ -17994,6 +17994,15 @@
    "label": "NGDATA US INC",
    "website": "ngdata.com",
    "page": "https://ngdata.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "malbek",
+   "url": "malbek.bamboohr.com/jobs",
+   "label": "MALBEC SOLUTIONS INC DBA MALBEK",
+   "website": "malbek.io",
+   "page": "https://www.malbek.io/careers",
    "src": "h1b"
   },
   {
