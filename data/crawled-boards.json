@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-19T11:42:50.477Z",
+ "generated": "2026-11-19T11:48:37.803Z",
  "companies": 22904,
  "status": {
-  "found": 3270,
-  "site": 3906,
-  "no-ats": 11780,
+  "found": 3273,
+  "site": 3909,
+  "no-ats": 11774,
   "down": 3948
  },
  "byType": {
   "dover": 8,
   "ashby": 725,
-  "workday": 566,
-  "lever": 269,
+  "workday": 567,
+  "lever": 270,
   "gh": 925,
   "gem": 73,
   "workable": 190,
   "rippling": 140,
-  "bamboohr": 170,
+  "bamboohr": 171,
   "smartrecruiters": 58,
   "recruitee": 28,
   "eightfold": 42,
@@ -19113,6 +19113,15 @@
    "src": "h1b"
   },
   {
+   "type": "bamboohr",
+   "token": "berkshiregrey",
+   "url": "berkshiregrey.bamboohr.com/jobs",
+   "label": "BERKSHIRE GREY INC",
+   "website": "berkshiregrey.com",
+   "page": "https://www.berkshiregrey.com/careers/",
+   "src": "h1b"
+  },
+  {
    "type": "icims",
    "token": "geosyntec",
    "url": "careers-geosyntec.icims.com",
@@ -19123,11 +19132,30 @@
   },
   {
    "type": "lever",
+   "token": "modeln",
+   "url": "jobs.lever.co/modeln",
+   "label": "MODEL N INC",
+   "website": "modeln.com",
+   "page": "https://www.modeln.com/company/careers/",
+   "src": "h1b"
+  },
+  {
+   "type": "lever",
    "token": "grailbio",
    "url": "jobs.lever.co/grailbio",
    "label": "GRAIL INC",
    "website": "grail.com",
    "page": "https://grail.com/",
+   "src": "h1b"
+  },
+  {
+   "type": "workday",
+   "token": "idexx.wd115.myworkdayjobs.com",
+   "url": "idexx.wd115.myworkdayjobs.com/en-US/IDEXX",
+   "site": "IDEXX",
+   "label": "IDEXX LABORATORIES INC",
+   "website": "idexx.com",
+   "page": "https://www.idexx.com/en/about-idexx/idexx-stories/idexx-education-supports-continuous-learning-at-every-stage-of-a-veterinary-career/",
    "src": "h1b"
   },
   {
@@ -188269,6 +188297,20 @@
    "crawledAt": 1795074194303
   },
   {
+   "title": "Energy Market Analyst - Power",
+   "url": "https://careers.icf.com/us/en/job/R2600808/Energy-Market-Analyst-Power",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ICF INCORPORATED LLC",
+   "website": "icf.com",
+   "src": "h1b",
+   "page": "https://careers.icf.com/us/en",
+   "crawledAt": 1795088751086
+  },
+  {
    "title": "Software Developer",
    "url": "https://apptricus.com/careers.php#software-developer",
    "datePosted": null,
@@ -188491,6 +188533,20 @@
    "src": "h1b",
    "page": "https://www.dynatrace.com/careers/jobs/",
    "crawledAt": 1795074190840
+  },
+  {
+   "title": "Full Stack Developer",
+   "url": "https://decisionsix.com/jobs#full-stack-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "DECISION SIX INC",
+   "website": "decisionsix.com",
+   "src": "h1b",
+   "page": "https://decisionsix.com/jobs",
+   "crawledAt": 1795088778183
   },
   {
    "title": "Software Developer (Pune)",
@@ -188953,6 +189009,34 @@
    "src": "h1b",
    "page": "https://unifysolutions.net/careers/",
    "crawledAt": 1795074251617
+  },
+  {
+   "title": "IT Consultant",
+   "url": "https://appsboat.com/current-openings/#it-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "APPSBOAT INC",
+   "website": "appsboat.com",
+   "src": "h1b",
+   "page": "https://appsboat.com/current-openings/",
+   "crawledAt": 1795088867438
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://appsboat.com/current-openings/#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "APPSBOAT INC",
+   "website": "appsboat.com",
+   "src": "h1b",
+   "page": "https://appsboat.com/current-openings/",
+   "crawledAt": 1795088867438
   },
   {
    "title": "Software Developer (C#)",
