@@ -1,8 +1,8 @@
 {
  "_doc": "Employer ATS boards today.mjs polls directly (scripts/board-poll.mjs). Built and verified by scripts/discover-boards.mjs; tier 1 = core target (consumer fintech, telco/media/streaming, banks/cards, marketplaces/travel, MBB/Big4), 2 = other target.",
- "generated": "2026-11-18T06:02:24.498Z",
+ "generated": "2026-11-19T06:02:47.883Z",
  "counts": {
-  "workday": 348,
+  "workday": 349,
   "ashby": 740,
   "greenhouse": 1161,
   "lever": 217,
@@ -25974,6 +25974,19 @@
    "site": "APA-Careers",
    "verified": "Workday CXS apa/APA-Careers answers (20 jobs); JD names the company",
    "jobs": 20
+  },
+  {
+   "company": "SBA Communications",
+   "tier": 2,
+   "industry": "S&P 500",
+   "source": "more-boards sp500",
+   "poll": "daily",
+   "ats": "workday",
+   "tenant": "sba",
+   "wd": "wd102",
+   "site": "SBACareers",
+   "verified": "Workday CXS sba/SBACareers answers (16 jobs); JD names the company",
+   "jobs": 16
   }
  ]
 }
