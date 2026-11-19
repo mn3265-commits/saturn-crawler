@@ -11,7 +11,8 @@ export const KEYWORDS = ['lifecycle marketing', 'CRM manager', 'CRM marketing', 
   'monetization', 'pricing strategy', 'product marketing manager', 'growth product manager', 'product manager consumer',
   'product manager fintech', 'associate product manager', 'strategy and operations', 'customer strategy consultant',
   'management consultant', 'digital banking product', 'chief of staff', 'email marketing manager', 'digital channels manager',
-  'marketing analytics', 'marketing technology', 'marketing operations', 'marketing automation', 'CRM analyst', 'growth analyst', 'marketing data analyst', 'marketing measurement'];
+  'marketing analytics', 'marketing technology', 'marketing operations', 'marketing automation', 'CRM analyst', 'growth analyst', 'marketing data analyst', 'marketing measurement',
+  'personalization product manager', 'data activation', 'decisioning', 'next best action', 'pricing manager', 'pricing analyst', 'revenue management', 'customer analytics', 'payments product manager', 'card product manager'];
 
 export const US_GEO = 'geoId=103644278&location=United%20States';
 export const BROAD_KEYWORDS = ['marketing analytics', 'marketing technology', 'marketing operations', 'marketing automation', 'CRM analyst', 'growth analyst', 'product manager', 'associate product manager', 'product marketing manager', 'brand manager',

@@ -138,7 +138,7 @@ const want = (title, locs, company = '') => (IN_LANE.test(title) || techCan(titl
       const base = `https://${b.tenant}.${b.wd}.myworkdayjobs.com/wday/cxs/${b.tenant}/${b.site}`;
       const maxDays = Math.ceil(hrsOf(b) / 24);
       const seen = new Map();
-      for (const q of ['marketing', 'product manager', 'strategy', 'customer', 'growth', 'CRM lifecycle', 'revenue operations', 'sales operations', 'analytics', 'pricing', 'go to market', 'AI']) {
+      for (const q of ['marketing', 'product manager', 'strategy', 'customer', 'growth', 'CRM lifecycle', 'revenue operations', 'sales operations', 'analytics', 'pricing', 'go to market', 'AI', 'personalization', 'monetization']) {
         for (let off = 0; off < 60; off += 20) {
           const r = await get(`${base}/jobs`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ limit: 20, offset: off, searchText: q, appliedFacets: {} }) });
           if (r.status !== 200) { if (!seen.size && off === 0 && q === 'marketing') return false; break; }
