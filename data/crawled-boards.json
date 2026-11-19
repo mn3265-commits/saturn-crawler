@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-19T10:48:31.046Z",
+ "generated": "2026-11-19T10:53:09.159Z",
  "companies": 22904,
  "status": {
   "found": 3254,
-  "site": 3866,
-  "no-ats": 11836,
+  "site": 3867,
+  "no-ats": 11835,
   "down": 3948
  },
  "byType": {
@@ -164550,6 +164550,20 @@
    "src": "h1b",
    "page": "https://www.tracfloapp.com/careers/",
    "crawledAt": 1795074381503
+  },
+  {
+   "title": "Technical Project Manager",
+   "url": "https://acronotics.com/careers#technical-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ACRONOTICS INC",
+   "website": "acronotics.com",
+   "src": "h1b",
+   "page": "https://acronotics.com/about",
+   "crawledAt": 1795085570640
   },
   {
    "title": "Senior Developer & Team Lead",
