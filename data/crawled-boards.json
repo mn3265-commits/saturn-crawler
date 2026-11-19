@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-19T10:25:04.645Z",
+ "generated": "2026-11-19T10:28:42.796Z",
  "companies": 22904,
  "status": {
-  "found": 3238,
-  "site": 3850,
-  "no-ats": 11821,
-  "down": 3995
+  "found": 3249,
+  "site": 3860,
+  "no-ats": 11847,
+  "down": 3948
  },
  "byType": {
   "dover": 8,
-  "ashby": 717,
+  "ashby": 724,
   "workday": 562,
-  "lever": 268,
-  "gh": 918,
-  "gem": 72,
+  "lever": 269,
+  "gh": 920,
+  "gem": 73,
   "workable": 187,
   "rippling": 140,
   "bamboohr": 167,
@@ -1087,6 +1087,14 @@
    "src": "yc"
   },
   {
+   "type": "gem",
+   "token": "retool",
+   "url": "jobs.gem.com/retool",
+   "label": "Retool",
+   "website": "retool.com",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "Jerry.ai",
    "url": "jobs.ashbyhq.com/Jerry.ai",
@@ -1453,6 +1461,14 @@
   },
   {
    "type": "ashby",
+   "token": "moderntreasury",
+   "url": "jobs.ashbyhq.com/moderntreasury",
+   "label": "Modern Treasury",
+   "website": "moderntreasury.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
    "token": "InscribeAI",
    "url": "jobs.ashbyhq.com/InscribeAI",
    "label": "Inscribe",
@@ -1702,6 +1718,14 @@
   },
   {
    "type": "ashby",
+   "token": "middesk",
+   "url": "jobs.ashbyhq.com/middesk",
+   "label": "Middesk",
+   "website": "middesk.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
    "token": "ashby",
    "label": "Ashby",
    "website": "ashbyhq.com",
@@ -1923,6 +1947,14 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "rutter",
+   "url": "jobs.ashbyhq.com/rutter",
+   "label": "Rutter",
+   "website": "rutter.com",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "ramenvr",
    "url": "jobs.lever.co/ramenvr",
@@ -1983,6 +2015,14 @@
    "website": "vorticity.xyz",
    "page": "https://vorticity.xyz/jobs",
    "src": "yc"
+  },
+  {
+   "type": "lever",
+   "token": "ophelia",
+   "url": "jobs.lever.co/ophelia",
+   "label": "Ophelia",
+   "website": "ophelia.com",
+   "src": "nyc"
   },
   {
    "type": "ashby",
@@ -2218,6 +2258,14 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "roboflow",
+   "url": "jobs.ashbyhq.com/roboflow",
+   "label": "Roboflow",
+   "website": "roboflow.com",
+   "src": "nyc"
+  },
+  {
    "type": "gem",
    "token": "blueonion-ai",
    "url": "jobs.gem.com/blueonion-ai",
@@ -2450,6 +2498,14 @@
   },
   {
    "type": "ashby",
+   "token": "glimpse",
+   "url": "jobs.ashbyhq.com/glimpse",
+   "label": "Glimpse",
+   "website": "tryglimpse.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
    "token": "herondata",
    "url": "jobs.ashbyhq.com/herondata",
    "label": "Heron",
@@ -2543,6 +2599,14 @@
    "website": "albedo.com",
    "page": "https://albedo.com/company",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "usenourish",
+   "url": "boards.greenhouse.io/usenourish",
+   "label": "Nourish",
+   "website": "nourish.com",
+   "src": "nyc"
   },
   {
    "type": "lever",
@@ -2695,6 +2759,15 @@
    "website": "toplinepro.com",
    "page": "https://www.toplinepro.com/careers",
    "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "remoracarbon",
+   "url": "boards-api.greenhouse.io/v1/boards/remoracarbon",
+   "label": "Remora",
+   "website": "remoracarbon.com",
+   "page": "https://remoracarbon.com/jobs/",
+   "src": "yc"
   },
   {
    "type": "ashby",
@@ -5144,6 +5217,14 @@
   },
   {
    "type": "ashby",
+   "token": "LatchBio",
+   "url": "jobs.ashbyhq.com/LatchBio",
+   "label": "TwentyTwo",
+   "website": "twentytwo.bio",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
    "token": "interfere",
    "url": "jobs.ashbyhq.com/interfere",
    "label": "Interfere",
@@ -6796,6 +6877,14 @@
    "website": "grammarly.com",
    "page": "https://superhuman.com/company/careers",
    "src": "chrome-only"
+  },
+  {
+   "type": "ashby",
+   "token": "oyster",
+   "url": "jobs.ashbyhq.com/oyster",
+   "label": "Oyster",
+   "website": "oysterhr.com",
+   "src": "nyc"
   },
   {
    "type": "workable",
@@ -34445,6 +34534,32 @@
    "crawledAt": 1795078819698
   },
   {
+   "title": "Senior Software Engineer",
+   "url": "https://assembly.com/jobs#senior-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "assembly",
+   "website": "assembly.com",
+   "src": "nyc",
+   "crawledAt": 1795083976569
+  },
+  {
+   "title": "Growth & GTM Engineer",
+   "url": "https://assembly.com/jobs#growth-gtm-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "assembly",
+   "website": "assembly.com",
+   "src": "nyc",
+   "crawledAt": 1795083976569
+  },
+  {
    "title": "I'm an engineer",
    "url": "https://www.rippling.com/careers#i-m-an-engineer",
    "datePosted": null,
@@ -41606,6 +41721,48 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/stoke-space/jobs",
    "crawledAt": 1795076727409
+  },
+  {
+   "title": "Advertising Sales Manager, Gurgaon",
+   "url": "https://www.tilt.bike/careers#advertising-sales-manager-gurgaon",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Tilt",
+   "website": "tilt.bike",
+   "src": "yc",
+   "page": "https://www.tilt.bike/careers",
+   "crawledAt": 1795084061867
+  },
+  {
+   "title": "Campus Acquisition Manager, Bangalore",
+   "url": "https://www.tilt.bike/careers#campus-acquisition-manager-bangalore",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Tilt",
+   "website": "tilt.bike",
+   "src": "yc",
+   "page": "https://www.tilt.bike/careers",
+   "crawledAt": 1795084061867
+  },
+  {
+   "title": "Advertising Sales Manager, Bangalore",
+   "url": "https://www.tilt.bike/careers#advertising-sales-manager-bangalore",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Tilt",
+   "website": "tilt.bike",
+   "src": "yc",
+   "page": "https://www.tilt.bike/careers",
+   "crawledAt": 1795084061867
   },
   {
    "title": "Banking Analyst",
@@ -50533,6 +50690,71 @@
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/nectar/jobs",
    "crawledAt": 1795076745551
+  },
+  {
+   "title": "IDR Filing Specialist",
+   "url": "https://clearesthealth.com/careers#idr-filing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Clearest Health",
+   "website": "clearesthealth.com",
+   "src": "nyc",
+   "crawledAt": 1795084004503
+  },
+  {
+   "title": "Senior Full-Stack Engineer",
+   "url": "https://clearesthealth.com/careers#senior-full-stack-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Clearest Health",
+   "website": "clearesthealth.com",
+   "src": "nyc",
+   "crawledAt": 1795084004503
+  },
+  {
+   "title": "Healthcare Data Analyst",
+   "url": "https://clearesthealth.com/careers#healthcare-data-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Clearest Health",
+   "website": "clearesthealth.com",
+   "src": "nyc",
+   "crawledAt": 1795084004503
+  },
+  {
+   "title": "Customer Success Manager",
+   "url": "https://clearesthealth.com/careers#customer-success-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Clearest Health",
+   "website": "clearesthealth.com",
+   "src": "nyc",
+   "crawledAt": 1795084004503
+  },
+  {
+   "title": "Growth Marketing Lead",
+   "url": "https://clearesthealth.com/careers#growth-marketing-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Clearest Health",
+   "website": "clearesthealth.com",
+   "src": "nyc",
+   "crawledAt": 1795084004503
   },
   {
    "title": "Founding Partnerships Lead",
@@ -101829,6 +102051,123 @@
    "crawledAt": 1795074095633
   },
   {
+   "title": "Account-Based Marketing Manager",
+   "url": "https://fundraiseup.com/careers/#account-based-marketing-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Account Executive, Education Vertical",
+   "url": "https://fundraiseup.com/careers/#account-executive-education-vertical",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Customer Success Manager",
+   "url": "https://fundraiseup.com/careers/#customer-success-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Paid Media Manager",
+   "url": "https://fundraiseup.com/careers/#paid-media-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Revenue Analytics Manager",
+   "url": "https://fundraiseup.com/careers/#revenue-analytics-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Senior People Analytics & AI Automation Lead",
+   "url": "https://fundraiseup.com/careers/#senior-people-analytics-ai-automation-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Senior Product Manager, Core Markets",
+   "url": "https://fundraiseup.com/careers/#senior-product-manager-core-markets",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Senior Product Manager, Partnerships",
+   "url": "https://fundraiseup.com/careers/#senior-product-manager-partnerships",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
+   "title": "Strategic Account Executive",
+   "url": "https://fundraiseup.com/careers/#strategic-account-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Fundraise Up",
+   "website": "fundraiseup.com",
+   "src": "nyc",
+   "crawledAt": 1795084018664
+  },
+  {
    "title": "Compliance Officer",
    "url": "https://fundbox.com/careers/#compliance-officer",
    "datePosted": null,
@@ -113629,6 +113968,32 @@
    "crawledAt": 1795077039339
   },
   {
+   "title": "Data Analyst Research Remote Apply now",
+   "url": "https://www.reveliolabs.com/careers/87704391-8f54-4d51-817d-afd710d485fb",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Revelio Labs",
+   "website": "reveliolabs.com",
+   "src": "nyc",
+   "crawledAt": 1795084025820
+  },
+  {
+   "title": "Account Executive Sales Remote Apply now",
+   "url": "https://www.reveliolabs.com/careers/54e4a58b-621b-41c3-87c8-ba2fade28a08",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Revelio Labs",
+   "website": "reveliolabs.com",
+   "src": "nyc",
+   "crawledAt": 1795084025820
+  },
+  {
    "title": "Marketing",
    "url": "https://careers.ruegiltgroupe.com/teams/marketing/",
    "datePosted": null,
@@ -113709,6 +114074,45 @@
    "website": "roundtabletechnology.com",
    "src": "nyc",
    "crawledAt": 1795077828630
+  },
+  {
+   "title": "Sales Representative",
+   "url": "https://careers.roadwaymoving.com/jobs/739409-sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Roadway Moving",
+   "website": "roadwaymoving.com",
+   "src": "nyc",
+   "crawledAt": 1795084025127
+  },
+  {
+   "title": "Quality Control Specialist",
+   "url": "https://careers.roadwaymoving.com/jobs/737045-quality-control-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Roadway Moving",
+   "website": "roadwaymoving.com",
+   "src": "nyc",
+   "crawledAt": 1795084025127
+  },
+  {
+   "title": "Warehouse Manager",
+   "url": "https://careers.roadwaymoving.com/jobs/732819-warehouse-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Roadway Moving",
+   "website": "roadwaymoving.com",
+   "src": "nyc",
+   "crawledAt": 1795084025127
   },
   {
    "title": "Graphic Designer",
@@ -113847,6 +114251,19 @@
    "src": "nyc",
    "page": "https://www.safeholdinc.com/about-us/our-careers/",
    "crawledAt": 1795077051502
+  },
+  {
+   "title": "Professional Growth",
+   "url": "https://www.rttsweb.com/about-rtts/careers/professional-growth",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "RTTS",
+   "website": "rttsweb.com",
+   "src": "nyc",
+   "crawledAt": 1795084030135
   },
   {
    "title": "Assistant Property Manager - East Harlem, NY",
@@ -114339,6 +114756,32 @@
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
    "crawledAt": 1795077078782
+  },
+  {
+   "title": "Senior Factoring Underwriter & Credit Specialist",
+   "url": "https://www.settle.com/careers#senior-factoring-underwriter-credit-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Settle",
+   "website": "settle.com",
+   "src": "nyc",
+   "crawledAt": 1795084035652
+  },
+  {
+   "title": "Founding Account Executive, Vendor Network",
+   "url": "https://www.settle.com/careers#founding-account-executive-vendor-network",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Settle",
+   "website": "settle.com",
+   "src": "nyc",
+   "crawledAt": 1795084035652
   },
   {
    "title": "Creative Coordinator",
@@ -118924,6 +119367,19 @@
    "crawledAt": 1795077371828
   },
   {
+   "title": "Executive Recruiter Remote",
+   "url": "https://www.threepillars.com/positions/executive-recruiter",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Three Pillars Recruiting",
+   "website": "threepillars.com",
+   "src": "nyc",
+   "crawledAt": 1795084046120
+  },
+  {
    "title": "TileBar - Specialist, Client Exp",
    "url": "https://www.tilebar.com/jobs?footer#tilebar-specialist-client-exp",
    "datePosted": null,
@@ -120886,6 +121342,149 @@
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
    "crawledAt": 1795077542325
+  },
+  {
+   "title": "Product Management",
+   "url": "https://work.co/careers/product-management/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Senior Product Management Lead Lisbon, PT",
+   "url": "https://work.co/careers/product-management/lisbon/senior-product-management-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Design Senior Director (Inglês Avançado) São Paulo, BR",
+   "url": "https://work.co/careers/design/sao-paulo/design-senior-director-ingles-avancado/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Senior Designer São Paulo, BR",
+   "url": "https://work.co/careers/design/sao-paulo/senior-designer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Product Design Director Lisbon, PT",
+   "url": "https://work.co/careers/design/lisbon/product-design-director/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Design Director São Paulo, BR",
+   "url": "https://work.co/careers/design/sao-paulo/design-director/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Product Design Lead Lisbon, PT",
+   "url": "https://work.co/careers/design/lisbon/product-design-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Senior Product Design Lead Lisbon, PT",
+   "url": "https://work.co/careers/design/lisbon/senior-product-design-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Senior Design Lead Multiple (BR)",
+   "url": "https://work.co/careers/design/br/senior-design-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Senior Design Lead Multiple (US)",
+   "url": "https://work.co/careers/design/us/senior-design-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
+  },
+  {
+   "title": "Design Lead Multiple (US)",
+   "url": "https://work.co/careers/design/us/design-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Work & Co",
+   "website": "work.co",
+   "src": "nyc",
+   "crawledAt": 1795084056304
   },
   {
    "title": "Managing Director and Chief Executive Officer",
