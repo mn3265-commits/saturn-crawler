@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-19T10:34:38.142Z",
+ "generated": "2026-11-19T10:39:15.145Z",
  "companies": 22904,
  "status": {
   "found": 3251,
-  "site": 3860,
-  "no-ats": 11845,
+  "site": 3863,
+  "no-ats": 11842,
   "down": 3948
  },
  "byType": {
@@ -159863,6 +159863,48 @@
    "crawledAt": 1795083853329
   },
   {
+   "title": "Product Designer",
+   "url": "https://www.thinknum.com/careers#product-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "THINKNUM INC",
+   "website": "thinknum.com",
+   "src": "h1b",
+   "page": "https://www.thinknum.com/careers",
+   "crawledAt": 1795084542833
+  },
+  {
+   "title": "Research Data Analyst",
+   "url": "https://www.thinknum.com/careers#research-data-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "THINKNUM INC",
+   "website": "thinknum.com",
+   "src": "h1b",
+   "page": "https://www.thinknum.com/careers",
+   "crawledAt": 1795084542833
+  },
+  {
+   "title": "Frontend Engineer",
+   "url": "https://www.thinknum.com/careers#frontend-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "THINKNUM INC",
+   "website": "thinknum.com",
+   "src": "h1b",
+   "page": "https://www.thinknum.com/careers",
+   "crawledAt": 1795084542833
+  },
+  {
    "title": "Machine Learning Engineer",
    "url": "https://www.vitrana.com/career.php#machine-learning-engineer",
    "datePosted": null,
@@ -159987,6 +160029,48 @@
    "src": "h1b",
    "page": "https://www.vitrana.com/career.php",
    "crawledAt": 1795074357562
+  },
+  {
+   "title": "CMMC Consultant",
+   "url": "https://vistrada.com/about/careers#cmmc-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "VISTRADA LLC",
+   "website": "vistrada.com",
+   "src": "h1b",
+   "page": "https://vistrada.com/about/careers",
+   "crawledAt": 1795084572087
+  },
+  {
+   "title": "Cybersecurity Analyst",
+   "url": "https://vistrada.com/about/careers#cybersecurity-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "VISTRADA LLC",
+   "website": "vistrada.com",
+   "src": "h1b",
+   "page": "https://vistrada.com/about/careers",
+   "crawledAt": 1795084572087
+  },
+  {
+   "title": "Virtual Chief Information Security Officer (vCISO)",
+   "url": "https://vistrada.com/about/careers#virtual-chief-information-security-officer-vciso-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "VISTRADA LLC",
+   "website": "vistrada.com",
+   "src": "h1b",
+   "page": "https://vistrada.com/about/careers",
+   "crawledAt": 1795084572087
   },
   {
    "title": "Inside Sales Specialist",
@@ -160753,6 +160837,20 @@
    "src": "h1b",
    "page": "https://cloudframe.com/career",
    "crawledAt": 1795074358579
+  },
+  {
+   "title": "Account Executive",
+   "url": "https://www.brokerbuddha.com/careers/account-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "BROKER BUDDHA INC",
+   "website": "brokerbuddha.com",
+   "src": "h1b",
+   "page": "https://www.brokerbuddha.com/en/signin?callbackUrl=%2Fjobs",
+   "crawledAt": 1795084623709
   },
   {
    "title": "Java Developer — React & Spring Boot",
