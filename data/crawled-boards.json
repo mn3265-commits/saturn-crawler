@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-19T10:43:26.218Z",
+ "generated": "2026-11-19T10:48:31.046Z",
  "companies": 22904,
  "status": {
-  "found": 3252,
+  "found": 3254,
   "site": 3866,
-  "no-ats": 11838,
+  "no-ats": 11836,
   "down": 3948
  },
  "byType": {
@@ -12,11 +12,11 @@
   "ashby": 724,
   "workday": 562,
   "lever": 269,
-  "gh": 920,
+  "gh": 921,
   "gem": 73,
   "workable": 188,
   "rippling": 140,
-  "bamboohr": 167,
+  "bamboohr": 168,
   "smartrecruiters": 57,
   "recruitee": 28,
   "eightfold": 41,
@@ -17879,6 +17879,15 @@
    "src": "h1b"
   },
   {
+   "type": "gh",
+   "token": "bursonglobalcareers",
+   "url": "boards-api.greenhouse.io/v1/boards/bursonglobalcareers",
+   "label": "HILL KNOWLTON STRATEGIES LLC",
+   "website": "hkstrategies.in",
+   "page": "https://www.bursonglobal.com/careers",
+   "src": "h1b"
+  },
+  {
    "type": "workable",
    "token": "modaramo",
    "url": "apply.workable.com/modaramo",
@@ -17912,6 +17921,15 @@
    "label": "PICASSO LABS INC DBA CREATIVEX",
    "website": "creativex.com",
    "page": "https://www.creativex.com/careers",
+   "src": "h1b"
+  },
+  {
+   "type": "bamboohr",
+   "token": "pom",
+   "url": "pom.bamboohr.com/jobs",
+   "label": "PEACE OF MIND TECHNOLOGIES LLC",
+   "website": "pom-tec.com",
+   "page": "https://pom-tec.com/resources/careers/",
    "src": "h1b"
   },
   {
