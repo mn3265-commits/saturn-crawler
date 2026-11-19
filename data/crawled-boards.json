@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-19T10:28:42.796Z",
+ "generated": "2026-11-19T10:34:38.142Z",
  "companies": 22904,
  "status": {
-  "found": 3249,
+  "found": 3251,
   "site": 3860,
-  "no-ats": 11847,
+  "no-ats": 11845,
   "down": 3948
  },
  "byType": {
@@ -14,11 +14,11 @@
   "lever": 269,
   "gh": 920,
   "gem": 73,
-  "workable": 187,
+  "workable": 188,
   "rippling": 140,
   "bamboohr": 167,
   "smartrecruiters": 56,
-  "recruitee": 27,
+  "recruitee": 28,
   "eightfold": 41,
   "icims": 158,
   "oracle": 91,
@@ -17660,6 +17660,15 @@
    "src": "h1b"
   },
   {
+   "type": "workable",
+   "token": "samsung-sds-america",
+   "url": "apply.workable.com/samsung-sds-america",
+   "label": "SAMSUNG SDS AMERICA INC",
+   "website": "samsungsds.com",
+   "page": "http://www.samsungsds.com/en/etc/error/error.html",
+   "src": "h1b"
+  },
+  {
    "type": "ashby",
    "token": "statista",
    "url": "jobs.ashbyhq.com/statista",
@@ -17675,6 +17684,15 @@
    "label": "STATISTA INC",
    "website": "statista.com",
    "page": "https://jobs.ashbyhq.com/statista",
+   "src": "h1b"
+  },
+  {
+   "type": "recruitee",
+   "token": "transperfect",
+   "url": "transperfect.recruitee.com",
+   "label": "TRANSPERFECT INC",
+   "website": "transperfect.com",
+   "page": "https://www.transperfect.com/jobs/",
    "src": "h1b"
   },
   {
