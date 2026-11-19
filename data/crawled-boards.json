@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-19T10:20:50.698Z",
+ "generated": "2026-11-19T10:25:04.645Z",
  "companies": 22904,
  "status": {
-  "down": 4009,
-  "found": 3227,
-  "site": 3849,
-  "no-ats": 11819
+  "found": 3238,
+  "site": 3850,
+  "no-ats": 11821,
+  "down": 3995
  },
  "byType": {
-  "dover": 7,
-  "ashby": 714,
+  "dover": 8,
+  "ashby": 717,
   "workday": 562,
   "lever": 268,
-  "gh": 912,
-  "gem": 71,
+  "gh": 918,
+  "gem": 72,
   "workable": 187,
-  "rippling": 139,
+  "rippling": 140,
   "bamboohr": 167,
   "smartrecruiters": 56,
   "recruitee": 27,
@@ -25,6 +25,22 @@
   "successfactors": 14
  },
  "boards": [
+  {
+   "type": "dover",
+   "token": "Attention",
+   "url": "dover.com/Attention/careers",
+   "label": "Attention",
+   "website": "attention.tech",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "ramp",
+   "url": "jobs.ashbyhq.com/ramp",
+   "label": "Ramp",
+   "website": "ramp.com",
+   "src": "nyc"
+  },
   {
    "type": "dover",
    "token": "Attention",
@@ -159,6 +175,14 @@
   },
   {
    "type": "gh",
+   "token": "mixpanel",
+   "url": "job-boards.greenhouse.io/mixpanel",
+   "label": "Mixpanel",
+   "website": "mixpanel.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "smartasset",
    "url": "boards.greenhouse.io/embed/job_board/js?for=smartasset",
    "label": "SmartAsset",
@@ -246,6 +270,22 @@
    "src": "yc"
   },
   {
+   "type": "gh",
+   "token": "lob",
+   "url": "boards-api.greenhouse.io/v1/boards/lob",
+   "label": "Lob",
+   "website": "lob.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "lob1",
+   "url": "boards-api.greenhouse.io/v1/boards/lob1",
+   "label": "Lob",
+   "website": "lob.com",
+   "src": "nyc"
+  },
+  {
    "type": "gem",
    "token": "aptdeco",
    "label": "AptDeco",
@@ -330,6 +370,14 @@
    "website": "snapdocs.com",
    "page": "https://www.snapdocs.com/careers",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "radar",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=radar",
+   "label": "Radar",
+   "website": "goradar.com",
+   "src": "nyc"
   },
   {
    "type": "gh",
@@ -428,6 +476,14 @@
    "website": "sfox.com",
    "page": "https://www.sfox.com/company/work-with-us/",
    "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "readme",
+   "url": "jobs.ashbyhq.com/readme",
+   "label": "ReadMe",
+   "website": "readme.com",
+   "src": "nyc"
   },
   {
    "type": "gh",
@@ -532,6 +588,14 @@
    "label": "Ironclad",
    "website": "ironcladapp.com",
    "page": "https://ironcladapp.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "scentbird",
+   "url": "ats.rippling.com/scentbird",
+   "label": "Scentbird",
+   "website": "scentbird.com",
    "src": "nyc"
   },
   {
@@ -683,6 +747,14 @@
    "website": "fountain.com",
    "page": "https://www.fountain.com/ai-glossary-for-hr-frontline-hiring",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "saltsecurity",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=saltsecurity",
+   "label": "Salt Security",
+   "website": "salt.security",
+   "src": "nyc"
   },
   {
    "type": "ashby",
@@ -837,6 +909,14 @@
    "website": "boomsupersonic.com",
    "page": "https://ats.rippling.com/boom-supersonic/jobs/9a4d79c0-d602-4cb4-a1d3-629b13faaa74",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "novacredit",
+   "url": "boards.greenhouse.io/novacredit",
+   "label": "Nova Credit",
+   "website": "novacredit.com",
+   "src": "nyc"
   },
   {
    "type": "ashby",
@@ -2268,6 +2348,15 @@
    "label": "doola",
    "website": "doola.com",
    "page": "https://www.doola.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gem",
+   "token": "nabla-bio",
+   "url": "jobs.gem.com/nabla-bio",
+   "label": "Nabla Bio",
+   "website": "nabla.bio",
+   "page": "https://www.nabla.bio/",
    "src": "nyc"
   },
   {
@@ -5656,6 +5745,15 @@
    "label": "Yieldstreet",
    "website": "yieldstreet.com",
    "src": "nyc-startups"
+  },
+  {
+   "type": "ashby",
+   "token": "socure",
+   "url": "jobs.ashbyhq.com/socure",
+   "label": "Socure",
+   "website": "socure.com",
+   "page": "https://www.socure.com/company/careers",
+   "src": "nyc"
   },
   {
    "type": "gh",
@@ -30054,6 +30152,19 @@
   }
  ],
  "siteJobs": [
+  {
+   "title": "Benefits Sales Lead",
+   "url": "https://gusto.com/about/careers#benefits-sales-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Gusto",
+   "website": "gusto.com",
+   "src": "nyc",
+   "crawledAt": 1795083891437
+  },
   {
    "title": "Product Marketing Manager",
    "url": "https://www.ycombinator.com/companies/onesignal/jobs/06T3lN5-product-marketing-manager",
@@ -142431,7 +142542,7 @@
    "website": "eoneinfotech.com",
    "src": "h1b",
    "page": "https://eoneinfotech.com/wp-content/plugins/uts-job-board/assets/css/customfrontend.css?ver=7.1.4",
-   "crawledAt": 1794914245667
+   "crawledAt": 1795083715175
   },
   {
    "title": "Power BI Developer",
@@ -142445,7 +142556,7 @@
    "website": "eoneinfotech.com",
    "src": "h1b",
    "page": "https://eoneinfotech.com/wp-content/plugins/uts-job-board/assets/css/customfrontend.css?ver=7.1.4",
-   "crawledAt": 1794914245667
+   "crawledAt": 1795083715175
   },
   {
    "title": "Microsoft Dynamics 365 Consultant",
@@ -142459,7 +142570,7 @@
    "website": "eoneinfotech.com",
    "src": "h1b",
    "page": "https://eoneinfotech.com/wp-content/plugins/uts-job-board/assets/css/customfrontend.css?ver=7.1.4",
-   "crawledAt": 1794914245667
+   "crawledAt": 1795083715175
   },
   {
    "title": "Oracle Cloud Technical Consultant",
@@ -142473,7 +142584,7 @@
    "website": "eoneinfotech.com",
    "src": "h1b",
    "page": "https://eoneinfotech.com/wp-content/plugins/uts-job-board/assets/css/customfrontend.css?ver=7.1.4",
-   "crawledAt": 1794914245667
+   "crawledAt": 1795083715175
   },
   {
    "title": "JD Edwards Sales & Distribution Consultant",
@@ -142487,7 +142598,7 @@
    "website": "eoneinfotech.com",
    "src": "h1b",
    "page": "https://eoneinfotech.com/wp-content/plugins/uts-job-board/assets/css/customfrontend.css?ver=7.1.4",
-   "crawledAt": 1794914245667
+   "crawledAt": 1795083715175
   },
   {
    "title": "JD Edwards Finance Consultant",
@@ -142501,7 +142612,7 @@
    "website": "eoneinfotech.com",
    "src": "h1b",
    "page": "https://eoneinfotech.com/wp-content/plugins/uts-job-board/assets/css/customfrontend.css?ver=7.1.4",
-   "crawledAt": 1794914245667
+   "crawledAt": 1795083715175
   },
   {
    "title": "Technical-Head",
@@ -142655,7 +142766,7 @@
    "website": "suthratech.com",
    "src": "h1b",
    "page": "https://suthratech.com/jobs",
-   "crawledAt": 1794914255132
+   "crawledAt": 1795083713035
   },
   {
    "title": "Data Engineer",
@@ -142669,7 +142780,7 @@
    "website": "suthratech.com",
    "src": "h1b",
    "page": "https://suthratech.com/jobs",
-   "crawledAt": 1794914255132
+   "crawledAt": 1795083713035
   },
   {
    "title": "Graphic Designer",
@@ -142683,7 +142794,7 @@
    "website": "suthratech.com",
    "src": "h1b",
    "page": "https://suthratech.com/jobs",
-   "crawledAt": 1794914255132
+   "crawledAt": 1795083713035
   },
   {
    "title": "MERN Stack Developer",
@@ -142697,7 +142808,7 @@
    "website": "suthratech.com",
    "src": "h1b",
    "page": "https://suthratech.com/jobs",
-   "crawledAt": 1794914255132
+   "crawledAt": 1795083713035
   },
   {
    "title": "Senior Power Platform Developer",
@@ -144153,7 +144264,7 @@
    "website": "sequentglobal.com",
    "src": "h1b",
    "page": "https://sequentglobal.com/",
-   "crawledAt": 1794914365316
+   "crawledAt": 1795083736455
   },
   {
    "title": "Construction Manager (Correction Facility)",
@@ -144195,7 +144306,7 @@
    "website": "mobirey.com",
    "src": "h1b",
    "page": "https://mobirey.com/jobs",
-   "crawledAt": 1794914368250
+   "crawledAt": 1795083718816
   },
   {
    "title": "Senior Voice AI Engineer",
@@ -144209,7 +144320,7 @@
    "website": "mobirey.com",
    "src": "h1b",
    "page": "https://mobirey.com/jobs",
-   "crawledAt": 1794914368250
+   "crawledAt": 1795083718816
   },
   {
    "title": "Lead Conversational Voice Designer",
@@ -144223,7 +144334,7 @@
    "website": "mobirey.com",
    "src": "h1b",
    "page": "https://mobirey.com/jobs",
-   "crawledAt": 1794914368250
+   "crawledAt": 1795083718816
   },
   {
    "title": "Business Intelligence Analyst",
@@ -144811,7 +144922,7 @@
    "website": "fusionss.com",
    "src": "h1b",
    "page": "https://fusionss.com/careers.html",
-   "crawledAt": 1794914607388
+   "crawledAt": 1795083723196
   },
   {
    "title": "AI Inference Engineer",
@@ -144825,7 +144936,7 @@
    "website": "fusionss.com",
    "src": "h1b",
    "page": "https://fusionss.com/careers.html",
-   "crawledAt": 1794914607388
+   "crawledAt": 1795083723196
   },
   {
    "title": "Adobe Certified Expert as AEM developer or AEM architect",
@@ -144937,7 +145048,7 @@
    "website": "threatmodeler.ai",
    "src": "h1b",
    "page": "https://www.threatmodeler.ai/careers",
-   "crawledAt": 1794914639476
+   "crawledAt": 1795083730383
   },
   {
    "title": "Senior Cybersecurity Analyst (Noida, India)",
@@ -144951,7 +145062,7 @@
    "website": "threatmodeler.ai",
    "src": "h1b",
    "page": "https://www.threatmodeler.ai/careers",
-   "crawledAt": 1794914639476
+   "crawledAt": 1795083730383
   },
   {
    "title": "IT Support Engineer (India)",
@@ -144965,7 +145076,7 @@
    "website": "threatmodeler.ai",
    "src": "h1b",
    "page": "https://www.threatmodeler.ai/careers",
-   "crawledAt": 1794914639476
+   "crawledAt": 1795083730383
   },
   {
    "title": "Bid Coordinator, Paris",
@@ -145275,7 +145386,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Cloud Solution Migration Specialist",
@@ -145291,7 +145402,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Solution Architects",
@@ -145307,7 +145418,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Salesforce Commerce Cloud Developer",
@@ -145324,7 +145435,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Salesforce Commerce Cloud Tech Lead (B2C)",
@@ -145340,7 +145451,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Salesforce CPQ Business Analyst",
@@ -145356,7 +145467,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Salesforce Architect",
@@ -145372,7 +145483,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Senior Salesforce Developer",
@@ -145388,7 +145499,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Senior Salesforce CPQ Developer",
@@ -145404,7 +145515,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1794914689462
+   "crawledAt": 1795083736112
   },
   {
    "title": "Network Architect",
@@ -146552,7 +146663,7 @@
    "website": "openroadintegratedmedia.com",
    "src": "h1b",
    "page": "https://openroadintegratedmedia.com/careers/",
-   "crawledAt": 1794914710959
+   "crawledAt": 1795083741556
   },
   {
    "title": "Senior Business Analyst (New York, NY)",
@@ -146566,7 +146677,7 @@
    "website": "openroadintegratedmedia.com",
    "src": "h1b",
    "page": "https://openroadintegratedmedia.com/careers/",
-   "crawledAt": 1794914710959
+   "crawledAt": 1795083741556
   },
   {
    "title": "Client Service Senior Manager",
@@ -146580,7 +146691,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1794914719733
+   "crawledAt": 1795083746234
   },
   {
    "title": "Client Service Senior Team Lead",
@@ -146594,7 +146705,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1794914719733
+   "crawledAt": 1795083746234
   },
   {
    "title": "Client Service Team Lead",
@@ -146608,7 +146719,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1794914719733
+   "crawledAt": 1795083746234
   },
   {
    "title": "Client Service Senior Associate",
@@ -146622,7 +146733,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1794914719733
+   "crawledAt": 1795083746234
   },
   {
    "title": "AI Platform Software Engineer",
@@ -147168,7 +147279,21 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1794914891495
+   "crawledAt": 1795083746880
+  },
+  {
+   "title": "Web Developer",
+   "url": "https://www.genesysonline.com/careers#web-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "GENESYS CONSULTING SERVICES INC",
+   "website": "genesysonline.com",
+   "src": "h1b",
+   "page": "https://www.genesysonline.com/job-seekers",
+   "crawledAt": 1795083746880
   },
   {
    "title": "Systems Developer",
@@ -147182,7 +147307,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1794914891495
+   "crawledAt": 1795083746880
   },
   {
    "title": "Software Developer",
@@ -147196,7 +147321,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1794914891495
+   "crawledAt": 1795083746880
   },
   {
    "title": "Network Architect",
@@ -147210,7 +147335,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1794914891495
+   "crawledAt": 1795083746880
   },
   {
    "title": "Software Analyst",
@@ -147224,7 +147349,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1794914891495
+   "crawledAt": 1795083746880
   },
   {
    "title": "BI Engineer",
@@ -148320,7 +148445,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "Cloud Platform Engineer",
@@ -148334,7 +148459,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "Junior Agile Business Analyst (W2)",
@@ -148348,7 +148473,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "SAP BTP Cloud Migration Analyst",
@@ -148362,7 +148487,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "Bench Sales Recruiter",
@@ -148376,7 +148501,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "Senior Test Automation Engineer",
@@ -148390,7 +148515,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "Junior Test Automation Engineer",
@@ -148404,7 +148529,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1794914944202
+   "crawledAt": 1795083754486
   },
   {
    "title": "Support Engineer",
@@ -148614,7 +148739,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1794915032427
+   "crawledAt": 1795083754955
   },
   {
    "title": "Senior Associate, Business Development",
@@ -148628,7 +148753,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1794915032427
+   "crawledAt": 1795083754955
   },
   {
    "title": "Senior Associate/Manager, Finance",
@@ -148642,7 +148767,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1794915032427
+   "crawledAt": 1795083754955
   },
   {
    "title": "Senior DTx Quality Engineer",
@@ -148656,7 +148781,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1794915032427
+   "crawledAt": 1795083754955
   },
   {
    "title": "Senior/Staff Software Engineer",
@@ -148670,7 +148795,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1794915032427
+   "crawledAt": 1795083754955
   },
   {
    "title": "Summer Associate Interviewing FAQs – New York",
@@ -148866,7 +148991,7 @@
    "website": "qualityitsource.com",
    "src": "h1b",
    "page": "https://qualityitsource.com/jobs",
-   "crawledAt": 1794915125743
+   "crawledAt": 1795083758859
   },
   {
    "title": "Lead Clinical Research Associate",
@@ -148897,1056 +149022,6 @@
    "crawledAt": 1795074152099
   },
   {
-   "title": "API Developer",
-   "url": "https://bvteck.com/careers/#api-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Application Architect",
-   "url": "https://bvteck.com/careers/#application-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Application Developer – .NET",
-   "url": "https://bvteck.com/careers/#application-developer-net",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Application Developer – Java",
-   "url": "https://bvteck.com/careers/#application-developer-java",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "AWS Cloud Engineer",
-   "url": "https://bvteck.com/careers/#aws-cloud-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "AWS Solutions Architect",
-   "url": "https://bvteck.com/careers/#aws-solutions-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Azure Cloud Engineer",
-   "url": "https://bvteck.com/careers/#azure-cloud-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Azure Solutions Architect",
-   "url": "https://bvteck.com/careers/#azure-solutions-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Back-End Developer",
-   "url": "https://bvteck.com/careers/#back-end-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Django Developer",
-   "url": "https://bvteck.com/careers/#django-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "FastAPI Developer",
-   "url": "https://bvteck.com/careers/#fastapi-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Front-End Developer",
-   "url": "https://bvteck.com/careers/#front-end-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "General Production Manager",
-   "url": "https://bvteck.com/careers/#general-production-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Mid-Level Data Engineer",
-   "url": "https://bvteck.com/careers/#mid-level-data-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Mid-Level Motion GEOINT Analyst",
-   "url": "https://bvteck.com/careers/#mid-level-motion-geoint-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Motion GEOINT Analyst",
-   "url": "https://bvteck.com/careers/#motion-geoint-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Nurse Manager-Cath Lab",
-   "url": "https://bvteck.com/careers/#nurse-manager-cath-lab",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Partnership Taxation Director",
-   "url": "https://bvteck.com/careers/#partnership-taxation-director",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "PHP Full Stack Developer",
-   "url": "https://bvteck.com/careers/#php-full-stack-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Python Backend Developer",
-   "url": "https://bvteck.com/careers/#python-backend-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Python Full Stack Developer",
-   "url": "https://bvteck.com/careers/#python-full-stack-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "SALT Tax Manager",
-   "url": "https://bvteck.com/careers/#salt-tax-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior AWS Engineer",
-   "url": "https://bvteck.com/careers/#senior-aws-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Azure Engineer",
-   "url": "https://bvteck.com/careers/#senior-azure-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Joint Target Intelligence Analyst",
-   "url": "https://bvteck.com/careers/#senior-joint-target-intelligence-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Lab Manager",
-   "url": "https://bvteck.com/careers/#senior-lab-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Quality Engineer",
-   "url": "https://bvteck.com/careers/#senior-quality-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Tax Associate",
-   "url": "https://bvteck.com/careers/#senior-tax-associate",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Tax Director",
-   "url": "https://bvteck.com/careers/#tax-director",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Tax Manager",
-   "url": "https://bvteck.com/careers/#tax-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Windows Engineering Manager",
-   "url": "https://bvteck.com/careers/#windows-engineering-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "API Test Engineer",
-   "url": "https://bvteck.com/careers/#api-test-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Applied AI Engineer",
-   "url": "https://bvteck.com/careers/#applied-ai-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Cloud Operations Engineer",
-   "url": "https://bvteck.com/careers/#cloud-operations-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Computer Vision Engineer",
-   "url": "https://bvteck.com/careers/#computer-vision-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "FinOps Engineer",
-   "url": "https://bvteck.com/careers/#finops-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Generative AI Engineer",
-   "url": "https://bvteck.com/careers/#generative-ai-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Machine Learning Engineer",
-   "url": "https://bvteck.com/careers/#machine-learning-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Microsoft Dynamics 365 Solution Architect",
-   "url": "https://bvteck.com/careers/#microsoft-dynamics-365-solution-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "MLOps Engineer",
-   "url": "https://bvteck.com/careers/#mlops-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Natural Language Processing Engineer",
-   "url": "https://bvteck.com/careers/#natural-language-processing-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Observability Engineer",
-   "url": "https://bvteck.com/careers/#observability-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Performance Test Engineer",
-   "url": "https://bvteck.com/careers/#performance-test-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Production Support Engineer",
-   "url": "https://bvteck.com/careers/#production-support-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "QA Automation Engineer",
-   "url": "https://bvteck.com/careers/#qa-automation-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Power Platform Solutions Architect",
-   "url": "https://bvteck.com/careers/#senior-power-platform-solutions-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior QA Automation Engineer",
-   "url": "https://bvteck.com/careers/#senior-qa-automation-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Snowflake Architect",
-   "url": "https://bvteck.com/careers/#snowflake-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Systems Architect",
-   "url": "https://bvteck.com/careers/#systems-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Technical Operations Lead",
-   "url": "https://bvteck.com/careers/#technical-operations-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Test Automation Lead",
-   "url": "https://bvteck.com/careers/#test-automation-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Angular Developer",
-   "url": "https://bvteck.com/careers/#angular-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "BI Developer",
-   "url": "https://bvteck.com/careers/#bi-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Build and Release Engineer",
-   "url": "https://bvteck.com/careers/#build-and-release-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Cloud Migration Engineer",
-   "url": "https://bvteck.com/careers/#cloud-migration-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Cloud Network Engineer",
-   "url": "https://bvteck.com/careers/#cloud-network-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Cloud Systems Engineer",
-   "url": "https://bvteck.com/careers/#cloud-systems-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Data Analyst",
-   "url": "https://bvteck.com/careers/#data-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Data Quality Engineer",
-   "url": "https://bvteck.com/careers/#data-quality-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Data Warehouse Developer",
-   "url": "https://bvteck.com/careers/#data-warehouse-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Linux Systems Engineer",
-   "url": "https://bvteck.com/careers/#linux-systems-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Looker Developer",
-   "url": "https://bvteck.com/careers/#looker-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Power BI Developer",
-   "url": "https://bvteck.com/careers/#power-bi-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "React Developer",
-   "url": "https://bvteck.com/careers/#react-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Reporting Analyst",
-   "url": "https://bvteck.com/careers/#reporting-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Angular Developer",
-   "url": "https://bvteck.com/careers/#senior-angular-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior Data Analyst",
-   "url": "https://bvteck.com/careers/#senior-data-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Senior React Developer",
-   "url": "https://bvteck.com/careers/#senior-react-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Tableau Developer",
-   "url": "https://bvteck.com/careers/#tableau-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Windows Systems Engineer",
-   "url": "https://bvteck.com/careers/#windows-systems-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Ab Initio Developer",
-   "url": "https://bvteck.com/careers/#ab-initio-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Accessibility Test Engineer",
-   "url": "https://bvteck.com/careers/#accessibility-test-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Atlassian Solutions Engineer",
-   "url": "https://bvteck.com/careers/#atlassian-solutions-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "AWS Data Engineer",
-   "url": "https://bvteck.com/careers/#aws-data-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Azure Data Engineer",
-   "url": "https://bvteck.com/careers/#azure-data-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
    "title": "CI/CD Engineer",
    "url": "https://bvteck.com/careers/#ci-cd-engineer",
    "datePosted": null,
@@ -149958,35 +149033,7 @@
    "website": "bvteck.com",
    "src": "h1b",
    "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Database Developer",
-   "url": "https://bvteck.com/careers/#database-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
-  },
-  {
-   "title": "Databricks Engineer",
-   "url": "https://bvteck.com/careers/#databricks-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "BRIGHT VISION TECHNOLOGIES LLC",
-   "website": "bvteck.com",
-   "src": "h1b",
-   "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
+   "crawledAt": 1795083766335
   },
   {
    "title": "Docker Engineer",
@@ -150000,11 +149047,11 @@
    "website": "bvteck.com",
    "src": "h1b",
    "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
+   "crawledAt": 1795083766335
   },
   {
-   "title": "Informatica Developer",
-   "url": "https://bvteck.com/careers/#informatica-developer",
+   "title": "Forward Deployed Engineer",
+   "url": "https://bvteck.com/careers/#forward-deployed-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -150014,7 +149061,1085 @@
    "website": "bvteck.com",
    "src": "h1b",
    "page": "https://bvteck.com/career-portal/",
-   "crawledAt": 1794915174056
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Infrastructure as Code Engineer",
+   "url": "https://bvteck.com/careers/#infrastructure-as-code-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Kubernetes Engineer",
+   "url": "https://bvteck.com/careers/#kubernetes-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Microsoft Dynamics 365 Solution Architect",
+   "url": "https://bvteck.com/careers/#microsoft-dynamics-365-solution-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Site Reliability Engineer",
+   "url": "https://bvteck.com/careers/#site-reliability-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Snowflake Architect",
+   "url": "https://bvteck.com/careers/#snowflake-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Terraform Engineer",
+   "url": "https://bvteck.com/careers/#terraform-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Apache Spark Developer",
+   "url": "https://bvteck.com/careers/#apache-spark-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Appium Automation Engineer",
+   "url": "https://bvteck.com/careers/#appium-automation-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Cloud Architect",
+   "url": "https://bvteck.com/careers/#cloud-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Cloud Infrastructure Engineer",
+   "url": "https://bvteck.com/careers/#cloud-infrastructure-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Cypress Automation Engineer",
+   "url": "https://bvteck.com/careers/#cypress-automation-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Data Architect",
+   "url": "https://bvteck.com/careers/#data-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Data Engineer",
+   "url": "https://bvteck.com/careers/#data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Databricks Architect",
+   "url": "https://bvteck.com/careers/#databricks-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Databricks Engineer",
+   "url": "https://bvteck.com/careers/#databricks-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Devops Engineer",
+   "url": "https://bvteck.com/careers/#devops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "DevOps Lead",
+   "url": "https://bvteck.com/careers/#devops-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "ETL Architect",
+   "url": "https://bvteck.com/careers/#etl-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "ETL Developer",
+   "url": "https://bvteck.com/careers/#etl-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Flutter Developer",
+   "url": "https://bvteck.com/careers/#flutter-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Lead Data Engineer",
+   "url": "https://bvteck.com/careers/#lead-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Mobile Application Architect",
+   "url": "https://bvteck.com/careers/#mobile-application-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Oracle Fusion Financials Consultant",
+   "url": "https://bvteck.com/careers/#oracle-fusion-financials-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Platform Engineer",
+   "url": "https://bvteck.com/careers/#platform-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Playwright Automation Engineer",
+   "url": "https://bvteck.com/careers/#playwright-automation-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "PySpark Developer",
+   "url": "https://bvteck.com/careers/#pyspark-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "React Native Developer",
+   "url": "https://bvteck.com/careers/#react-native-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "SAP Basis Administrator",
+   "url": "https://bvteck.com/careers/#sap-basis-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "SAP BTP Developer",
+   "url": "https://bvteck.com/careers/#sap-btp-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "SAP Functional Lead",
+   "url": "https://bvteck.com/careers/#sap-functional-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "SAP Integration Suite Consultant",
+   "url": "https://bvteck.com/careers/#sap-integration-suite-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "SAP Solution Architect",
+   "url": "https://bvteck.com/careers/#sap-solution-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior Data Engineer",
+   "url": "https://bvteck.com/careers/#senior-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior DevOps Engineer",
+   "url": "https://bvteck.com/careers/#senior-devops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Snowflake Developer",
+   "url": "https://bvteck.com/careers/#snowflake-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Android Developer",
+   "url": "https://bvteck.com/careers/#android-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "API Developer",
+   "url": "https://bvteck.com/careers/#api-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Application Architect",
+   "url": "https://bvteck.com/careers/#application-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Application Developer – .NET",
+   "url": "https://bvteck.com/careers/#application-developer-net",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Application Developer – Java",
+   "url": "https://bvteck.com/careers/#application-developer-java",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "AWS Cloud Engineer",
+   "url": "https://bvteck.com/careers/#aws-cloud-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "AWS Solutions Architect",
+   "url": "https://bvteck.com/careers/#aws-solutions-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Azure Cloud Engineer",
+   "url": "https://bvteck.com/careers/#azure-cloud-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Azure Solutions Architect",
+   "url": "https://bvteck.com/careers/#azure-solutions-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Back-End Developer",
+   "url": "https://bvteck.com/careers/#back-end-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Django Developer",
+   "url": "https://bvteck.com/careers/#django-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "FastAPI Developer",
+   "url": "https://bvteck.com/careers/#fastapi-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Front-End Developer",
+   "url": "https://bvteck.com/careers/#front-end-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "General Production Manager",
+   "url": "https://bvteck.com/careers/#general-production-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "iOS Developer",
+   "url": "https://bvteck.com/careers/#ios-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Manual QA Engineer",
+   "url": "https://bvteck.com/careers/#manual-qa-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Mid-Level Data Engineer",
+   "url": "https://bvteck.com/careers/#mid-level-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Mid-Level Motion GEOINT Analyst",
+   "url": "https://bvteck.com/careers/#mid-level-motion-geoint-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Mobile QA Engineer",
+   "url": "https://bvteck.com/careers/#mobile-qa-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Motion GEOINT Analyst",
+   "url": "https://bvteck.com/careers/#motion-geoint-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Nurse Manager-Cath Lab",
+   "url": "https://bvteck.com/careers/#nurse-manager-cath-lab",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Partnership Taxation Director",
+   "url": "https://bvteck.com/careers/#partnership-taxation-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "PHP Full Stack Developer",
+   "url": "https://bvteck.com/careers/#php-full-stack-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Python Backend Developer",
+   "url": "https://bvteck.com/careers/#python-backend-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Python Full Stack Developer",
+   "url": "https://bvteck.com/careers/#python-full-stack-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "SALT Tax Manager",
+   "url": "https://bvteck.com/careers/#salt-tax-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior Android Developer",
+   "url": "https://bvteck.com/careers/#senior-android-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior AWS Engineer",
+   "url": "https://bvteck.com/careers/#senior-aws-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior Azure Engineer",
+   "url": "https://bvteck.com/careers/#senior-azure-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior iOS Developer",
+   "url": "https://bvteck.com/careers/#senior-ios-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior Joint Target Intelligence Analyst",
+   "url": "https://bvteck.com/careers/#senior-joint-target-intelligence-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior Lab Manager",
+   "url": "https://bvteck.com/careers/#senior-lab-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Senior Quality Engineer",
+   "url": "https://bvteck.com/careers/#senior-quality-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Tax Director",
+   "url": "https://bvteck.com/careers/#tax-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Tax Manager",
+   "url": "https://bvteck.com/careers/#tax-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Windows Engineering Manager",
+   "url": "https://bvteck.com/careers/#windows-engineering-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "API Test Engineer",
+   "url": "https://bvteck.com/careers/#api-test-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Applied AI Engineer",
+   "url": "https://bvteck.com/careers/#applied-ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Cloud Operations Engineer",
+   "url": "https://bvteck.com/careers/#cloud-operations-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Computer Vision Engineer",
+   "url": "https://bvteck.com/careers/#computer-vision-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "FinOps Engineer",
+   "url": "https://bvteck.com/careers/#finops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
+  },
+  {
+   "title": "Generative AI Engineer",
+   "url": "https://bvteck.com/careers/#generative-ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BRIGHT VISION TECHNOLOGIES LLC",
+   "website": "bvteck.com",
+   "src": "h1b",
+   "page": "https://bvteck.com/career-portal/",
+   "crawledAt": 1795083766335
   },
   {
    "title": "Distinguished Security Specialist",
@@ -150115,8 +150240,8 @@
    "crawledAt": 1795074340843
   },
   {
-   "title": "Senior Consultant - Cybersecurity & AI Trust",
-   "url": "https://www.sia-partners.com/en/join-us#senior-consultant-cybersecurity-ai-trust",
+   "title": "Billing Specialist",
+   "url": "https://www.sia-partners.com/en/join-us#billing-specialist",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -150126,11 +150251,11 @@
    "website": "sia-partners.com",
    "src": "h1b",
    "page": "https://www.sia-partners.com/en/join-us/careers",
-   "crawledAt": 1794915227416
+   "crawledAt": 1795083765433
   },
   {
-   "title": "AI Architect (Product Architecture)",
-   "url": "https://www.sia-partners.com/en/join-us#ai-architect-product-architecture-",
+   "title": "Senior Consultant - Social Strategy",
+   "url": "https://www.sia-partners.com/en/join-us#senior-consultant-social-strategy",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -150140,21 +150265,7 @@
    "website": "sia-partners.com",
    "src": "h1b",
    "page": "https://www.sia-partners.com/en/join-us/careers",
-   "crawledAt": 1794915227416
-  },
-  {
-   "title": "Retail & Consumer Goods Consultant",
-   "url": "https://www.sia-partners.com/en/join-us#retail-consumer-goods-consultant",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "SIA PARTNERS US INC",
-   "website": "sia-partners.com",
-   "src": "h1b",
-   "page": "https://www.sia-partners.com/en/join-us/careers",
-   "crawledAt": 1794915227416
+   "crawledAt": 1795083765433
   },
   {
    "title": "Gaurav Singh, Senior Application Support Engineer",
@@ -150350,7 +150461,7 @@
    "website": "efficioconsulting.com",
    "src": "h1b",
    "page": "https://www.efficioconsulting.com/en-gb/careers/diversity-efficio/",
-   "crawledAt": 1794915279888
+   "crawledAt": 1795083775552
   },
   {
    "title": "Business Analyst",
@@ -150364,7 +150475,7 @@
    "website": "rubiksys.com",
    "src": "h1b",
    "page": "https://rubiksys.com/wp-content/plugins/easyjobs/public/assets/dist/css/easyjobs-public.min.css?ver=2.5.1",
-   "crawledAt": 1794915324902
+   "crawledAt": 1795083777357
   },
   {
    "title": "Software Engineer",
@@ -150378,7 +150489,7 @@
    "website": "rubiksys.com",
    "src": "h1b",
    "page": "https://rubiksys.com/wp-content/plugins/easyjobs/public/assets/dist/css/easyjobs-public.min.css?ver=2.5.1",
-   "crawledAt": 1794915324902
+   "crawledAt": 1795083777357
   },
   {
    "title": "Software Quality Analyst",
@@ -150392,7 +150503,7 @@
    "website": "rubiksys.com",
    "src": "h1b",
    "page": "https://rubiksys.com/wp-content/plugins/easyjobs/public/assets/dist/css/easyjobs-public.min.css?ver=2.5.1",
-   "crawledAt": 1794915324902
+   "crawledAt": 1795083777357
   },
   {
    "title": "Production Support Analyst",
@@ -150406,7 +150517,7 @@
    "website": "rubiksys.com",
    "src": "h1b",
    "page": "https://rubiksys.com/wp-content/plugins/easyjobs/public/assets/dist/css/easyjobs-public.min.css?ver=2.5.1",
-   "crawledAt": 1794915324902
+   "crawledAt": 1795083777357
   },
   {
    "title": "Design Lead",
@@ -150420,7 +150531,7 @@
    "website": "rubiksys.com",
    "src": "h1b",
    "page": "https://rubiksys.com/wp-content/plugins/easyjobs/public/assets/dist/css/easyjobs-public.min.css?ver=2.5.1",
-   "crawledAt": 1794915324902
+   "crawledAt": 1795083777357
   },
   {
    "title": "Outbound Specialist",
@@ -150434,7 +150545,7 @@
    "website": "rubiksys.com",
    "src": "h1b",
    "page": "https://rubiksys.com/wp-content/plugins/easyjobs/public/assets/dist/css/easyjobs-public.min.css?ver=2.5.1",
-   "crawledAt": 1794915324902
+   "crawledAt": 1795083777357
   },
   {
    "title": "Specification Developer",
@@ -152296,7 +152407,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1794915493322
+   "crawledAt": 1795083780275
   },
   {
    "title": "Senior Scientist, Cell Product & Engineering",
@@ -152310,7 +152421,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1794915493322
+   "crawledAt": 1795083780275
   },
   {
    "title": "Project Manager, Bioprocess Analytics",
@@ -152324,7 +152435,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1794915493322
+   "crawledAt": 1795083780275
   },
   {
    "title": "Project Manager, Nucleic Acid Drug Development",
@@ -152338,7 +152449,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1794915493322
+   "crawledAt": 1795083780275
   },
   {
    "title": "Business Development Manager, Product & Services",
@@ -152352,7 +152463,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1794915493322
+   "crawledAt": 1795083780275
   },
   {
    "title": "Logistics Services Specialist",
@@ -152366,7 +152477,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1794915493322
+   "crawledAt": 1795083780275
   },
   {
    "title": "Appian Consultant - USA",
@@ -152828,7 +152939,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1794915522513
+   "crawledAt": 1795083781422
   },
   {
    "title": "DevOps Engineer",
@@ -152842,7 +152953,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1794915522513
+   "crawledAt": 1795083781422
   },
   {
    "title": "Data Scientist",
@@ -152856,7 +152967,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1794915522513
+   "crawledAt": 1795083781422
   },
   {
    "title": "UX/UI Designer",
@@ -152870,7 +152981,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1794915522513
+   "crawledAt": 1795083781422
   },
   {
    "title": "Customer Solutions Architect",
@@ -153052,7 +153163,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1794915575639
+   "crawledAt": 1795083790929
   },
   {
    "title": "Quant & IT Specialist (M/F)",
@@ -153066,7 +153177,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1794915575639
+   "crawledAt": 1795083790929
   },
   {
    "title": "Geoffroy, Senior Consultant – Quantitative Finance Practice",
@@ -153080,7 +153191,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1794915575639
+   "crawledAt": 1795083790929
   },
   {
    "title": "William, Business Analyst Consultant – Operations & Finance Practice",
@@ -153094,7 +153205,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1794915575639
+   "crawledAt": 1795083790929
   },
   {
    "title": "Technology Solutions Architect",
@@ -153290,11 +153401,11 @@
    "website": "workmarket.com",
    "src": "h1b",
    "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1794915609409
+   "crawledAt": 1795083792235
   },
   {
-   "title": "Associate Digital Sales Representative I",
-   "url": "https://jobs.adp.com/en/jobs/282198/associate-digital-sales-representative-i/",
+   "title": "Implementation Specialist I - Entry Level",
+   "url": "https://jobs.adp.com/en/jobs/282116/implementation-specialist-i-entry-level/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -153304,35 +153415,7 @@
    "website": "workmarket.com",
    "src": "h1b",
    "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1794915609409
-  },
-  {
-   "title": "Senior Implementation Consultant - Payroll",
-   "url": "https://jobs.adp.com/en/jobs/281471/senior-implementation-consultant-payroll/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "WORK MARKET INC",
-   "website": "workmarket.com",
-   "src": "h1b",
-   "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1794915609409
-  },
-  {
-   "title": "Digital Sales District Manager",
-   "url": "https://jobs.adp.com/en/jobs/6013177711032026/digital-sales-district-manager/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "WORK MARKET INC",
-   "website": "workmarket.com",
-   "src": "h1b",
-   "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1794915609409
+   "crawledAt": 1795083792235
   },
   {
    "title": "Business Analyst",
@@ -153346,7 +153429,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "Data Engineer (Job Code DE) –",
@@ -153360,7 +153443,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "UI Developer",
@@ -153374,7 +153457,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "DevOps Engineer",
@@ -153388,7 +153471,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "Mainframe Developer",
@@ -153402,7 +153485,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "Programmer Analyst",
@@ -153416,7 +153499,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "Software Developer",
@@ -153430,7 +153513,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1794915608534
+   "crawledAt": 1795083796941
   },
   {
    "title": "Bid and Submissions Coordinator &#8211; Sydney",
@@ -153668,7 +153751,7 @@
    "website": "blueskycreativestudio.com",
    "src": "h1b",
    "page": "https://blueskycreativestudio.com/",
-   "crawledAt": 1794915638601
+   "crawledAt": 1795083795517
   },
   {
    "title": "File Manager",
@@ -153682,7 +153765,7 @@
    "website": "blueskycreativestudio.com",
    "src": "h1b",
    "page": "https://blueskycreativestudio.com/",
-   "crawledAt": 1794915638601
+   "crawledAt": 1795083795517
   },
   {
    "title": "Code Editor",
@@ -153696,7 +153779,7 @@
    "website": "blueskycreativestudio.com",
    "src": "h1b",
    "page": "https://blueskycreativestudio.com/",
-   "crawledAt": 1794915638601
+   "crawledAt": 1795083795517
   },
   {
    "title": "Product Development, Software Developer",
@@ -153710,7 +153793,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "Onelign - AI SaaS, Software Engineer",
@@ -153724,7 +153807,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "MOS, Senior Manager",
@@ -153738,7 +153821,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "Finance, Manager",
@@ -153752,7 +153835,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "Business Development, Analyst",
@@ -153766,7 +153849,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "Senior Devops Engineer, Technology & Infrastructure",
@@ -153780,7 +153863,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "Finance, Analyst",
@@ -153794,7 +153877,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1794915659908
+   "crawledAt": 1795083800060
   },
   {
    "title": "Workflow Designer",
@@ -154578,7 +154661,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Frontend Developer",
@@ -154592,7 +154675,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Backend Developer",
@@ -154606,7 +154689,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Data Scientist",
@@ -154620,7 +154703,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "QA Engineer",
@@ -154634,7 +154717,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Product Manager",
@@ -154648,7 +154731,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "UX/UI Designer",
@@ -154662,7 +154745,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "DevOps Engineer",
@@ -154676,7 +154759,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Account Manager",
@@ -154690,7 +154773,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Digital Marketing Specialist",
@@ -154704,7 +154787,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Customer Success Manager",
@@ -154718,7 +154801,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1794915822525
+   "crawledAt": 1795083803332
   },
   {
    "title": "Research Associate",
@@ -155576,7 +155659,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Business Development Manager - Economic Impact Consulting",
@@ -155590,7 +155673,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Conference & Speaker Engagement Coordinator",
@@ -155604,7 +155687,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Economic Analyst / Economist - US Consulting - Tourism Economics",
@@ -155618,7 +155701,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Head of North American Cities Research & Forecasting - Associate Director",
@@ -155632,7 +155715,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Head of Spatial Modelling & Research",
@@ -155646,7 +155729,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "HR & Office Operations Specialist",
@@ -155660,7 +155743,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Lead Economist - US Construction and Infrastructure - Remote US",
@@ -155674,7 +155757,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Marketing & Business Development Intern",
@@ -155688,7 +155771,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Research Associate - Thought Leadership - New York",
@@ -155702,7 +155785,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Sales Support Intern - Hong Kong",
@@ -155716,7 +155799,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Senior HR Operations Specialist",
@@ -155730,7 +155813,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Software Developer - Content Delivery (C#/Typescript)",
@@ -155744,7 +155827,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Software Developer - Models (C#/Typescript)",
@@ -155758,7 +155841,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Talent Pool - Account Management - Alpine Macro",
@@ -155772,7 +155855,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1794915916005
+   "crawledAt": 1795083812539
   },
   {
    "title": "Senior Director",
@@ -155800,7 +155883,7 @@
    "website": "androcs.com",
    "src": "h1b",
    "page": "https://www.androcs.com/wp/careers/job-listings/",
-   "crawledAt": 1794915924186
+   "crawledAt": 1795083814140
   },
   {
    "title": "Associate Scientist/Engineer – Radio Frequency Engineering",
@@ -155814,7 +155897,7 @@
    "website": "androcs.com",
    "src": "h1b",
    "page": "https://www.androcs.com/wp/careers/job-listings/",
-   "crawledAt": 1794915924186
+   "crawledAt": 1795083814140
   },
   {
    "title": "Associate Scientist/Engineer (All Levels)",
@@ -155828,7 +155911,7 @@
    "website": "androcs.com",
    "src": "h1b",
    "page": "https://www.androcs.com/wp/careers/job-listings/",
-   "crawledAt": 1794915924186
+   "crawledAt": 1795083814140
   },
   {
    "title": "Quality Assurance Engineer",
@@ -155856,11 +155939,11 @@
    "website": "shearman.com",
    "src": "h1b",
    "page": "https://careers.aoshearman.com/en",
-   "crawledAt": 1794915934969
+   "crawledAt": 1795083822124
   },
   {
-   "title": "BD Manager - Data, Intellectual Property & Technology Transactions M&A",
-   "url": "https://careers.aoshearman.com/en/job/london/bd-manager-data-intellectual-property-and-technology-transactions-m-and-a/3392/46568986240",
+   "title": "IT Analyst",
+   "url": "https://careers.aoshearman.com/en/job/london/it-analyst/3392/47028455424",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -155870,7 +155953,21 @@
    "website": "shearman.com",
    "src": "h1b",
    "page": "https://careers.aoshearman.com/en",
-   "crawledAt": 1794915934969
+   "crawledAt": 1795083822124
+  },
+  {
+   "title": "Research Analyst",
+   "url": "https://careers.aoshearman.com/en/job/belfast/research-analyst/3392/47028455296",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SHEARMAN & STERLING LLP",
+   "website": "shearman.com",
+   "src": "h1b",
+   "page": "https://careers.aoshearman.com/en",
+   "crawledAt": 1795083822124
   },
   {
    "title": "ACCOUNT MANAGER",
@@ -155999,6 +156096,34 @@
    "crawledAt": 1795074353237
   },
   {
+   "title": "Platform Engineer",
+   "url": "https://systems-plus.com/careers/#platform-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SYSTEMS PLUS SOLUTIONS USA LLC",
+   "website": "systems-plus.com",
+   "src": "h1b",
+   "page": "https://systems-plus.com/careers/",
+   "crawledAt": 1795083829853
+  },
+  {
+   "title": "ServiceNow Developer",
+   "url": "https://systems-plus.com/careers/#servicenow-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SYSTEMS PLUS SOLUTIONS USA LLC",
+   "website": "systems-plus.com",
+   "src": "h1b",
+   "page": "https://systems-plus.com/careers/",
+   "crawledAt": 1795083829853
+  },
+  {
    "title": "Mid Golang Developer",
    "url": "https://systems-plus.com/careers/#mid-golang-developer",
    "datePosted": null,
@@ -156010,7 +156135,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Mid Data Engineer",
@@ -156024,7 +156149,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Power Platform Tech Lead",
@@ -156038,7 +156163,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Senior Infrastructure Engineer, Microsoft 365",
@@ -156052,7 +156177,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Cybersecurity Architect",
@@ -156066,7 +156191,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Threat Management Lead",
@@ -156080,7 +156205,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "React Developer",
@@ -156094,7 +156219,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "TA Manager",
@@ -156108,7 +156233,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Apex Developer",
@@ -156122,7 +156247,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "SharePoint & Power Automate Support Engineer",
@@ -156136,7 +156261,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "QA Automation Engineer",
@@ -156150,7 +156275,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Operations Lead, Managed Services (MSP)",
@@ -156164,7 +156289,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Java Engineer",
@@ -156178,7 +156303,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Databricks Technical Lead",
@@ -156192,7 +156317,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Principal Software Engineer",
@@ -156206,7 +156331,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Data Visualization (Power BI) Senior Consultant",
@@ -156220,7 +156345,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Data and Cloud Architect",
@@ -156234,7 +156359,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "AS/400 Administrator",
@@ -156248,7 +156373,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Global NetSuite Lead",
@@ -156262,7 +156387,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Data Engineer",
@@ -156276,7 +156401,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Senior Data Engineer",
@@ -156290,7 +156415,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "TVM Analyst",
@@ -156304,7 +156429,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "SAP ABAP Senior Consultant",
@@ -156318,7 +156443,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1794916079848
+   "crawledAt": 1795083829853
   },
   {
    "title": "Career Growth",
@@ -156416,7 +156541,7 @@
    "website": "dreamlegal.in",
    "src": "h1b",
    "page": "https://dreamlegal.in/",
-   "crawledAt": 1794916094073
+   "crawledAt": 1795083834061
   },
   {
    "title": "Michael Brown Senior product manager, Ethyca",
@@ -156682,7 +156807,7 @@
    "website": "ltschem.com",
    "src": "h1b",
    "page": "https://ltschem.com/jobs",
-   "crawledAt": 1794916126367
+   "crawledAt": 1795083839134
   },
   {
    "title": "Sales Executive",
@@ -158614,7 +158739,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1794916673503
+   "crawledAt": 1795083838992
   },
   {
    "title": "Associate Software Engineer",
@@ -158628,7 +158753,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1794916673503
+   "crawledAt": 1795083838992
   },
   {
    "title": "Associate Software Engineer (Intern)",
@@ -158642,21 +158767,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1794916673503
-  },
-  {
-   "title": "Data Analytics Engineer",
-   "url": "https://jahnelgroup.com/careers#data-analytics-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "JAHNEL GROUP INC",
-   "website": "jahnelgroup.com",
-   "src": "h1b",
-   "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1794916673503
+   "crawledAt": 1795083838992
   },
   {
    "title": "Forward Deployed Engineer",
@@ -158670,7 +158781,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1794916673503
+   "crawledAt": 1795083838992
   },
   {
    "title": "Laravel Developer (Vue / AI)",
@@ -158684,7 +158795,21 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1794916673503
+   "crawledAt": 1795083838992
+  },
+  {
+   "title": "Principal Software Engineer",
+   "url": "https://jahnelgroup.com/careers#principal-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "JAHNEL GROUP INC",
+   "website": "jahnelgroup.com",
+   "src": "h1b",
+   "page": "https://jahnelgroup.com/careers",
+   "crawledAt": 1795083838992
   },
   {
    "title": "Junior and Intermediate Architect and/or project manager",
@@ -158796,7 +158921,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Content Strategist, Amazon & Marketplace",
@@ -158810,7 +158935,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "[Contractual] Senior Influencer Manager (India - Remote)",
@@ -158824,7 +158949,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Motion Designer (Temporary)",
@@ -158838,77 +158963,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Senior Video Editor (Temporary)",
-   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/los-angeles/6251358004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "AI Product Owner",
-   "url": "https://www.monks.com/careers/mexico-city/6226123004/ai-product-owner",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Senior Designer - Temporary",
-   "url": "https://www.monks.com/careers/san-francisco/6227269004/senior-designer-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/denver/6251360004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Senior Designer (Temporary)",
@@ -158922,35 +158977,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Project Manager (Temporary)",
-   "url": "https://www.monks.com/careers/6261742004/project-manager-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Sr. Technical Writer",
-   "url": "https://www.monks.com/careers/california/6227277004/sr-technical-writer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Shopify Technical Project Lead",
@@ -158964,7 +158991,105 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Sr. Technical Writer",
+   "url": "https://www.monks.com/careers/california/6227277004/sr-technical-writer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Senior Designer - Temporary",
+   "url": "https://www.monks.com/careers/san-francisco/6227269004/senior-designer-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/denver/6251360004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/los-angeles/6251358004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Senior Video Editor (Temporary)",
+   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Project Manager (Temporary)",
+   "url": "https://www.monks.com/careers/6261742004/project-manager-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "AI Product Owner",
+   "url": "https://www.monks.com/careers/mexico-city/6226123004/ai-product-owner",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
   },
   {
    "title": "Senior Site Reliability Engineer",
@@ -158978,7 +159103,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Senior Product Manager",
@@ -158992,7 +159117,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Battery Test Engineer",
@@ -159006,7 +159131,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Product Designer",
@@ -159020,7 +159145,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
@@ -159034,7 +159159,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
@@ -159048,7 +159173,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "DevOps Engineer",
@@ -159062,7 +159187,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Unisys OS 2200 Application Support Specialist",
@@ -159076,7 +159201,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Unisys OS 2200 Infrastructure Support Specialist",
@@ -159090,7 +159215,21 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
+  },
+  {
+   "title": "Senior Full Stack Software Engineer",
+   "url": "https://www.monks.com/careers/6251246004/senior-full-stack-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795083853329
   },
   {
    "title": "Backend Engineer",
@@ -159104,35 +159243,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Senior Product Designer (Data Visualization)",
-   "url": "https://www.monks.com/careers/6227293004/senior-product-designer-data-visualization",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
-  },
-  {
-   "title": "Lead Software Engineer",
-   "url": "https://www.monks.com/careers/6256145004/lead-software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1794916750527
+   "crawledAt": 1795083853329
   },
   {
    "title": "Machine Learning Engineer",
