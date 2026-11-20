@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-20T08:30:20.128Z",
+ "generated": "2026-11-20T08:35:29.027Z",
  "companies": 22904,
  "status": {
-  "found": 3180,
-  "site": 3859,
+  "found": 3181,
+  "site": 3858,
   "no-ats": 11842,
   "down": 4023
  },
  "byType": {
   "dover": 7,
-  "ashby": 683,
+  "ashby": 684,
   "workday": 566,
   "gh": 892,
   "lever": 264,
@@ -5639,6 +5639,14 @@
    "label": "Zola",
    "website": "zola.com",
    "page": "https://www.zola.com/about/jobs",
+   "src": "nyc-startups"
+  },
+  {
+   "type": "ashby",
+   "token": "drata",
+   "url": "jobs.ashbyhq.com/drata",
+   "label": "Drata",
+   "website": "drata.com",
    "src": "nyc-startups"
   },
   {
@@ -77896,215 +77904,7 @@
    "company": "Mediaocean",
    "website": "mediaocean.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077584275
-  },
-  {
-   "title": "Senior Technical Support Specialist",
-   "url": "https://drata.com/about/careers#senior-technical-support-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Solutions Architect - APAC",
-   "url": "https://drata.com/about/careers#solutions-architect-apac",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Staff Product Engineer, TPRM",
-   "url": "https://drata.com/about/careers#staff-product-engineer-tprm",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Staff Software Engineer, Evidence & Frameworks",
-   "url": "https://drata.com/about/careers#staff-software-engineer-evidence-frameworks",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Principal Product Marketing Manager",
-   "url": "https://drata.com/about/careers#principal-product-marketing-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Senior Director, Demand Generation",
-   "url": "https://drata.com/about/careers#senior-director-demand-generation",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Senior Marketing Operations Manager",
-   "url": "https://drata.com/about/careers#senior-marketing-operations-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Senior Partner Marketing Manager, Channel & Audit",
-   "url": "https://drata.com/about/careers#senior-partner-marketing-manager-channel-audit",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Revenue Operations Manager",
-   "url": "https://drata.com/about/careers#revenue-operations-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Senior Product Manager, Compliance",
-   "url": "https://drata.com/about/careers#senior-product-manager-compliance",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Commercial Account Executive - London",
-   "url": "https://drata.com/about/careers#commercial-account-executive-london",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Commercial Account Executive - PA, OH, CT",
-   "url": "https://drata.com/about/careers#commercial-account-executive-pa-oh-ct",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Emerging Account Executive - London",
-   "url": "https://drata.com/about/careers#emerging-account-executive-london",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Enterprise Account Executive - London/UK",
-   "url": "https://drata.com/about/careers#enterprise-account-executive-london-uk",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Sales Development Representative, Emerging",
-   "url": "https://drata.com/about/careers#sales-development-representative-emerging",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
-  },
-  {
-   "title": "Sales Engineer - London",
-   "url": "https://drata.com/about/careers#sales-engineer-london",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Drata",
-   "website": "drata.com",
-   "src": "nyc-startups",
-   "crawledAt": 1795077593566
+   "crawledAt": 1795163535259
   },
   {
    "title": "Front Desk Coordinator",
@@ -78383,7 +78183,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Applications Security Architect Bengaluru, Karnataka, India",
@@ -78396,7 +78196,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Employment Counsel Remote",
@@ -78409,7 +78209,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Procurement Manager Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -78422,7 +78222,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Engineer (Professional Services) Waltham, Massachusetts, United States",
@@ -78435,7 +78235,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Integration Specialist I Bengaluru, Karnataka, India",
@@ -78448,7 +78248,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Integration Specialist II Chennai, Tamil Nadu, India",
@@ -78461,7 +78261,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Success Manager II Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, ",
@@ -78474,7 +78274,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Success Manager II Chennai, Tamil Nadu, India",
@@ -78487,7 +78287,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Technical Solutions Analyst II Bengaluru, Karnataka, India",
@@ -78500,7 +78300,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Manager, GTM Consulting (Professional Services) Waltham, Massachusetts, United States",
@@ -78513,7 +78313,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Manager, GTM Engineering (Professional Services) Waltham, Massachusetts, United States",
@@ -78526,7 +78326,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior GTM Consultant Waltham, Massachusetts, United States",
@@ -78539,7 +78339,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior GTM Engineer (Professional Services) Waltham, Massachusetts, United States",
@@ -78552,7 +78352,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior GTM Onboarding Manager Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachu",
@@ -78565,7 +78365,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior GTM Onboarding Manager London, United Kingdom",
@@ -78578,7 +78378,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior GTM Success Manager Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachuset",
@@ -78591,7 +78391,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior GTM Success Manager Chennai, Tamil Nadu, India",
@@ -78604,7 +78404,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Technical Support Engineer Remote",
@@ -78617,7 +78417,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Research Specialist I Vancouver, Washington, United States",
@@ -78630,7 +78430,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "FinOps Engineer III Remote - Canada; Remote-Ireland",
@@ -78643,7 +78443,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Machine Learning Engineer Waltham, Massachusetts, United States",
@@ -78656,7 +78456,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Software Engineer Remote-US-CA",
@@ -78669,7 +78469,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior DevOps Engineer Toronto, Ontario, Canada",
@@ -78682,7 +78482,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Full Stack Software Engineer — Workflows Bethesda, Maryland, United States",
@@ -78695,7 +78495,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Software Engineer Bengaluru, Karnataka, India",
@@ -78708,7 +78508,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Software Engineer Bengaluru, Karnataka, India",
@@ -78721,7 +78521,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Software Engineer (Java)- US Remote Remote-US-DC; Remote-US-MD; Remote-US-VA",
@@ -78734,7 +78534,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Software Engineer, Mobile Engineer Bethesda, Maryland, United States",
@@ -78747,7 +78547,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Software Engineer III Austin, Texas, United States",
@@ -78760,7 +78560,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Software Engineer III Bethesda, Maryland, United States; Remote; Vancouver, Washington, United States; Waltham, Massachu",
@@ -78773,7 +78573,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Software Engineer III Bethesda, Maryland, United States",
@@ -78786,7 +78586,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Software Engineer III - Data Acquisition Waltham, Massachusetts, United States",
@@ -78799,7 +78599,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Software Engineer III -Frontend Software Engineer Bethesda, Maryland, United States",
@@ -78812,7 +78612,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Email Operations Manager Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -78825,7 +78625,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Data Scientist - Product Analytics Remote",
@@ -78838,7 +78638,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Product Management, Growth Remote",
@@ -78851,7 +78651,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Product Manager, AI Evaluation and Data Policy Waltham, Massachusetts, United States",
@@ -78864,7 +78664,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Business Intelligence Analyst – Product Analytics Remote",
@@ -78877,7 +78677,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Director, Product Management, Agentic Platform Remote-US",
@@ -78890,7 +78690,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Executive Assistant (Hybrid Waltham, MA) Waltham, Massachusetts, United States",
@@ -78903,7 +78703,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Account Manager I London, United Kingdom",
@@ -78916,7 +78716,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Account Manager I Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, Unite",
@@ -78929,7 +78729,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Account Manager, Enterprise Growth Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -78942,7 +78742,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Account Manager, SMB Vancouver, Washington, United States",
@@ -78955,7 +78755,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Account Manager, SMB Waltham, Massachusetts, United States",
@@ -78968,7 +78768,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Director, PE/VC & Portfolio Partnerships Waltham, Massachusetts, United States",
@@ -78981,7 +78781,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Director, Strategic Technology & ISV Partnerships Waltham, Massachusetts, United States",
@@ -78994,7 +78794,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Enterprise Account Manager London, United Kingdom",
@@ -79007,7 +78807,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "GTM Data Solutions Architect Waltham, Massachusetts, United States",
@@ -79020,7 +78820,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Manager, Account Management (Emerging Enterprise) Vancouver, Washington, United States; Waltham, Massachusetts, United S",
@@ -79033,7 +78833,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Manager, GTM Development London, United Kingdom",
@@ -79046,7 +78846,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Mid-Market Account Manager London, United Kingdom",
@@ -79059,7 +78859,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Sales Development Representative I London, United Kingdom",
@@ -79072,7 +78872,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Account Manager (Enterprise) Remote",
@@ -79085,7 +78885,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Customer Experience Enablement Manager Remote-US",
@@ -79098,7 +78898,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Sales Development Representative London, United Kingdom",
@@ -79111,7 +78911,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "SMB New Business Account Executive London, United Kingdom",
@@ -79124,7 +78924,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Director, Engineering Bengaluru, Karnataka, India",
@@ -79137,7 +78937,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "IAM Systems Administrator II Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
@@ -79150,7 +78950,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Principal Data Engineer Remote-US",
@@ -79163,7 +78963,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Program Manager, GTM Programs Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachu",
@@ -79176,7 +78976,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Sales Operations Specialist Chennai, Tamil Nadu, India",
@@ -79189,7 +78989,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Analytics Engineer Toronto, Ontario, Canada",
@@ -79202,7 +79002,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Contracts Administrator London, United Kingdom",
@@ -79215,7 +79015,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Product Manager - SAP FICO Bengaluru, Karnataka, India",
@@ -79228,7 +79028,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Software Engineer Toronto, Ontario, Canada",
@@ -79241,7 +79041,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Senior Software Engineer Chennai, Tamil Nadu, India",
@@ -79254,7 +79054,7 @@
    "company": "ZoomInfo",
    "website": "zoominfo.com",
    "src": "nyc-startups",
-   "crawledAt": 1795077597984
+   "crawledAt": 1795163551211
   },
   {
    "title": "Talent Acquisition Manager, Bengaluru, India",
@@ -82039,7 +81839,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1795077604323
+   "crawledAt": 1795163554105
   },
   {
    "title": "Procurement Coordinator",
@@ -82052,7 +81852,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1795077604323
+   "crawledAt": 1795163554105
   },
   {
    "title": "Associate Product Engineer",
@@ -82065,7 +81865,7 @@
    "company": "Book of the Month",
    "website": "bookofthemonth.com",
    "src": "nyc",
-   "crawledAt": 1795077604323
+   "crawledAt": 1795163554105
   },
   {
    "title": "Front End Developer (Angular)",
@@ -83688,7 +83488,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "SEO Analyst",
@@ -83701,7 +83501,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "SEO Content Writer",
@@ -83714,7 +83514,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Search Engine Marketing (SEM) Specialist",
@@ -83727,7 +83527,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Data Engineer",
@@ -83740,7 +83540,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Technology Solutions Consultant",
@@ -83753,7 +83553,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Cloud Support Engineer",
@@ -83766,7 +83566,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Quality Assurance Lead",
@@ -83779,7 +83579,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Automation Engineer",
@@ -83792,7 +83592,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "AI/ML Analyst",
@@ -83805,7 +83605,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "API Integration Developer",
@@ -83818,7 +83618,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Database Administrator",
@@ -83831,7 +83631,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Machine Learning Engineer",
@@ -83844,7 +83644,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Cloud DevOps Specialist",
@@ -83857,7 +83657,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "CRM Implementation Specialist",
@@ -83870,7 +83670,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Software Developer",
@@ -83883,7 +83683,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Business Intelligence (BI) Analyst",
@@ -83896,7 +83696,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "IT Support Engineer",
@@ -83909,7 +83709,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Cybersecurity Specialist / Analyst",
@@ -83922,7 +83722,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Social Media Strategist",
@@ -83935,7 +83735,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Sales Operations Analyst",
@@ -83948,7 +83748,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Python Developer",
@@ -83961,7 +83761,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Full-Stack Developer",
@@ -83974,7 +83774,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "UI/UX Designer",
@@ -83987,7 +83787,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Email Marketing Specialist",
@@ -84000,7 +83800,7 @@
    "company": "Jean Martin",
    "website": "jeanmartin.com",
    "src": "nyc",
-   "crawledAt": 1795077608553
+   "crawledAt": 1795163559097
   },
   {
    "title": "Sales Associate",
@@ -85151,43 +84951,30 @@
    "crawledAt": 1795160009888
   },
   {
-   "title": "Senior Software Engineer/Architect",
-   "url": "https://careers.embark.com/contact/seniorsoftwareindia",
+   "title": "Technical Implementation Associate & Engineer",
+   "url": "https://www.embark.com/about-us/careers/#technical-implementation-associate-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
+   "via": "text",
    "company": "Embark Corporation",
    "website": "embark.com",
    "src": "nyc",
-   "crawledAt": 1795077610291
+   "crawledAt": 1795163559813
   },
   {
-   "title": "Senior Support Specialist",
-   "url": "https://careers.embark.com/contact/seniorsupportspecialist",
+   "title": "Senior Software Engineer",
+   "url": "https://www.embark.com/about-us/careers/#senior-software-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
    "startDate": null,
-   "via": "link",
+   "via": "text",
    "company": "Embark Corporation",
    "website": "embark.com",
    "src": "nyc",
-   "crawledAt": 1795077610291
-  },
-  {
-   "title": "Technical Implementation Associate",
-   "url": "https://careers.embark.com/contact/videointerview",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Embark Corporation",
-   "website": "embark.com",
-   "src": "nyc",
-   "crawledAt": 1795077610291
+   "crawledAt": 1795163559813
   },
   {
    "title": "Strong knowledge of Google Ad Manager",
@@ -91562,7 +91349,7 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1795077617259
+   "crawledAt": 1795163565737
   },
   {
    "title": "Product Manager",
@@ -91575,7 +91362,7 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1795077617259
+   "crawledAt": 1795163565737
   },
   {
    "title": "Security Research Engineer",
@@ -91588,7 +91375,7 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1795077617259
+   "crawledAt": 1795163565737
   },
   {
    "title": "Software Engineer",
@@ -91601,7 +91388,7 @@
    "company": "Apiiro",
    "website": "apiiro.com",
    "src": "nyc",
-   "crawledAt": 1795077617259
+   "crawledAt": 1795163565737
   },
   {
    "title": "Content Developer Manager",
@@ -93242,7 +93029,7 @@
    "company": "Billie",
    "website": "mybillie.com",
    "src": "nyc",
-   "crawledAt": 1795077620531
+   "crawledAt": 1795163567840
   },
   {
    "title": "Cookie consent manager",
@@ -93255,7 +93042,7 @@
    "company": "Bison Trails",
    "website": "bisontrails.co",
    "src": "nyc",
-   "crawledAt": 1795077623343
+   "crawledAt": 1795163574243
   },
   {
    "title": "outpost/lead-flows-js/error.gif",
@@ -94318,7 +94105,7 @@
    "company": "Break The Web",
    "website": "breaktheweb.agency",
    "src": "nyc",
-   "crawledAt": 1795077627812
+   "crawledAt": 1795163575651
   },
   {
    "title": "Senior Staff Accountant",
@@ -95273,7 +95060,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1795077628172
+   "crawledAt": 1795163580383
   },
   {
    "title": "Office Manager",
@@ -95286,7 +95073,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1795077628172
+   "crawledAt": 1795163580383
   },
   {
    "title": "Project Manager",
@@ -95299,7 +95086,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1795077628172
+   "crawledAt": 1795163580383
   },
   {
    "title": "Technical Specialist",
@@ -95312,7 +95099,7 @@
    "company": "Cascade Environmental",
    "website": "cascade-env.com",
    "src": "nyc",
-   "crawledAt": 1795077628172
+   "crawledAt": 1795163580383
   },
   {
    "title": "Part-Time On-Site Catering Coordinator",
@@ -96615,7 +96402,7 @@
    "company": "Crypto Briefing",
    "website": "cryptobriefing.com",
    "src": "nyc",
-   "crawledAt": 1795077630310
+   "crawledAt": 1795163578137
   },
   {
    "title": "Mariana Furquim, Data Scientist",
@@ -97717,7 +97504,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "HR Director, North America & EOR United States",
@@ -97730,7 +97517,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Data Analytics Engineer (Maternity Cover) Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -97743,7 +97530,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Partnership Manager – Private Equity Canada; United States",
@@ -97756,7 +97543,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Solutions Consultant Canada; United States",
@@ -97769,7 +97556,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Senior Software Engineer, AI Builder (Python) Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -97782,7 +97569,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Account Executive Canada; United States",
@@ -97795,7 +97582,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Account Executive UK",
@@ -97808,7 +97595,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Account Manager Canada; United States",
@@ -97821,7 +97608,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Sales Team Lead – Player/Coach UK",
@@ -97834,7 +97621,7 @@
    "company": "Datarails",
    "website": "datarails.com",
    "src": "nyc",
-   "crawledAt": 1795077641248
+   "crawledAt": 1795163592527
   },
   {
    "title": "Full Stack Developer",
@@ -99373,7 +99160,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1795077638205
+   "crawledAt": 1795163592998
   },
   {
    "title": "Entry-Level Sales Representative",
@@ -99386,7 +99173,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1795077638205
+   "crawledAt": 1795163592998
   },
   {
    "title": "Sales Representative (Exterior Remodeling)",
@@ -99399,7 +99186,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1795077638205
+   "crawledAt": 1795163592998
   },
   {
    "title": "Sales Representative",
@@ -99412,7 +99199,7 @@
    "company": "Exterior Point Home Remodeling",
    "website": "exteriorpoint.com",
    "src": "nyc",
-   "crawledAt": 1795077638205
+   "crawledAt": 1795163592998
   },
   {
    "title": "Central Operations Careers",
@@ -99453,7 +99240,7 @@
    "company": "Factory PR",
    "website": "factorypr.com",
    "src": "nyc",
-   "crawledAt": 1795077649184
+   "crawledAt": 1795163600603
   },
   {
    "title": "Sr. Data & Insights Manager",
@@ -99484,8 +99271,8 @@
    "crawledAt": 1795159994589
   },
   {
-   "title": "Enterprise Transformation, Senior Lead",
-   "url": "https://fairygodboss.com/jobs/squarespace/enterprise-transformation-senior-lead-497485e0e1ef891e900a0ee2adaf40f9",
+   "title": "Software Engineer II - Underwriting",
+   "url": "https://fairygodboss.com/jobs/northwestern-mutual-corporate-careers/software-engineer-ii-underwriting-ec7e90b390deb1b4d7de9e60260a01fe",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -99494,37 +99281,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Director, Data Science",
-   "url": "https://fairygodboss.com/jobs/capitalone/director-data-science-4fb16e38268cd5dd3c57d66e29108430",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Cable Plant Engineer",
-   "url": "https://fairygodboss.com/jobs/leidos/cable-plant-engineer-0a68b40f2c83c01f51a00594296111ba",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
+   "crawledAt": 1795163596695
   },
   {
    "title": "Senior Software Engineer",
-   "url": "https://fairygodboss.com/jobs/toyota-motor-north-america/senior-software-engineer-9be617436e0202ae7da09cb4a0db64c5",
+   "url": "https://fairygodboss.com/jobs/cargill/senior-software-engineer-13aacb5fecd440ebcc2f5f22381459ed",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -99533,11 +99294,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1795077644861
+   "crawledAt": 1795163596695
   },
   {
-   "title": "Customer Assistance Representative - PDX Portland Airport - Hiring Event ONLY",
-   "url": "https://fairygodboss.com/jobs/enterprise-mobility/customer-assistance-representative-pdx-portland-airport-hiring-event-only-fbbccaf331b4093e6c321d3396b6208d",
+   "title": "Senior Recruiter II (US)",
+   "url": "https://fairygodboss.com/jobs/td-bank/senior-recruiter-ii-us-5a8cf516cc5c5e0130a75312155f11ea",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -99546,11 +99307,11 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1795077644861
+   "crawledAt": 1795163596695
   },
   {
-   "title": "Director - UI Architect",
-   "url": "https://fairygodboss.com/jobs/blackrock/director-ui-architect-61e42725c36364dd02ade66c72c1d036",
+   "title": "Japan Wealth (Alternative Specialist), Director",
+   "url": "https://fairygodboss.com/jobs/blackrock/japan-wealth-alternative-specialist-director-655c2c93849961086dc94753ff75a2fb",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -99559,85 +99320,7 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Senior Specialist, Pricing Excellence and Regulatory Operations",
-   "url": "https://fairygodboss.com/jobs/mastercard-incorporated/senior-specialist-pricing-excellence-and-regulatory-operations-9a8209621dcfcd9cb96255b4c03a6640",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Small Business Sales, Territory Manager, Ohio",
-   "url": "https://fairygodboss.com/jobs/thehartford/small-business-sales-territory-manager-ohio-732a5604b6c09ebab189ea2197ab234d",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Member Service Representative (Full-Time) - Peninsula Town Center",
-   "url": "https://fairygodboss.com/jobs/navyfederal/member-service-representative-full-time-peninsula-town-center-da96652b8c1736883108cf6d117d8748",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Client Operations Analyst - 12m FTC",
-   "url": "https://fairygodboss.com/jobs/capitalgroup/client-operations-analyst-12m-ftc-af16c852b62ff993f5a70b36234eee09",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Senior Director, Real Estate Portfolio Strategy and Planning",
-   "url": "https://fairygodboss.com/jobs/fanniemae/senior-director-real-estate-portfolio-strategy-and-planning-e043a0c826980d31b6946110d433bf47",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
-  },
-  {
-   "title": "Data Scientist Graduate (TikTok Product) - 2027 Start",
-   "url": "https://fairygodboss.com/jobs/tiktok/data-scientist-graduate-tiktok-product-2027-start-c9b901a1e65cccf211b4415b5144dadd",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Fairygodboss",
-   "website": "fairygodboss.com",
-   "src": "nyc",
-   "crawledAt": 1795077644861
+   "crawledAt": 1795163596695
   },
   {
    "title": "Outside Sales Representative",
@@ -99650,7 +99333,124 @@
    "company": "Fairygodboss",
    "website": "fairygodboss.com",
    "src": "nyc",
-   "crawledAt": 1795077644861
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Spring 2027 Management Trainee Intern - Lebanon",
+   "url": "https://fairygodboss.com/jobs/enterprise-mobility/spring-2027-management-trainee-intern-lebanon-d3f72c2c221d586ff80bbcb8190f8600",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": "Spring 2027",
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Digital Electronics Verification Engineer II",
+   "url": "https://fairygodboss.com/jobs/cadence/digital-electronics-verification-engineer-ii-2cd6b38a8c44af5b645450563de89b81",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Electronics Engineer",
+   "url": "https://fairygodboss.com/jobs/leidos/electronics-engineer-12675c2131e38a5505bde9afa4d277f4",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Compliance Associate Senior - Global Regulatory Reporting",
+   "url": "https://fairygodboss.com/jobs/capitalgroup/compliance-associate-senior-global-regulatory-reporting-4f884248fd427b28e7176e69753af7fc",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Marketing Executive - Culture",
+   "url": "https://fairygodboss.com/jobs/diageo/marketing-executive-culture-c62021b0b7aa62e0f41c696c2ee390b2",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Maintenance Safety Coordinator",
+   "url": "https://fairygodboss.com/jobs/cummins/maintenance-safety-coordinator-1dc85cd247efd0413dc5cad6fcb1e030",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Senior Associate, Product Management - Commercial Banking Money Movement",
+   "url": "https://fairygodboss.com/jobs/capitalone/senior-associate-product-management-commercial-banking-money-movement-6b0a63793e517279e4e641ec549ec556",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Senior Director, Real Estate Portfolio Strategy and Planning",
+   "url": "https://fairygodboss.com/jobs/fanniemae/senior-director-real-estate-portfolio-strategy-and-planning-e043a0c826980d31b6946110d433bf47",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
+  },
+  {
+   "title": "Cloud Engineer",
+   "url": "https://fairygodboss.com/jobs/toyota-motor-north-america/cloud-engineer-7581bf912f283d43652a051e1012757c",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Fairygodboss",
+   "website": "fairygodboss.com",
+   "src": "nyc",
+   "crawledAt": 1795163596695
   },
   {
    "title": "Software Engineer",
@@ -99859,7 +99659,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1795077649610
+   "crawledAt": 1795163600973
   },
   {
    "title": "Product Manager Learn More ",
@@ -99872,7 +99672,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1795077649610
+   "crawledAt": 1795163600973
   },
   {
    "title": "Technical Project Manager Learn More ",
@@ -99885,7 +99685,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1795077649610
+   "crawledAt": 1795163600973
   },
   {
    "title": "Business Development Manager Learn More ",
@@ -99898,7 +99698,7 @@
    "company": "FinMkt",
    "website": "finmkt.io",
    "src": "nyc",
-   "crawledAt": 1795077649610
+   "crawledAt": 1795163600973
   },
   {
    "title": "Operations Associate/Manager (Full time)",
@@ -100065,7 +99865,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Customer Service Associate",
@@ -100078,7 +99878,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Customer Service Associate (Member Concierge)",
@@ -100091,7 +99891,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Fleet Support Specialist",
@@ -100104,7 +99904,20 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
+  },
+  {
+   "title": "General Manager",
+   "url": "https://careers.flexcar.com/apply/6QN0uEeN22/General-Manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Flexcar",
+   "website": "flexcar.com",
+   "src": "nyc",
+   "crawledAt": 1795163607655
   },
   {
    "title": "Instructional Designer",
@@ -100117,7 +99930,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Loss Prevention Specialist II",
@@ -100130,7 +99943,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Member Experience Associate (Member Concierge)",
@@ -100143,7 +99956,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Operations Specialist",
@@ -100156,7 +99969,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Operations Specialist",
@@ -100169,7 +99982,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Operator, Flexcar Global Security Operations Center",
@@ -100182,7 +99995,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Risk Data Scientist",
@@ -100195,7 +100008,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Sales Advisor - Membership",
@@ -100208,20 +100021,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
-  },
-  {
-   "title": "Senior Product Manager",
-   "url": "https://careers.flexcar.com/apply/36UmEpLd4b/Senior-Product-Manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Flexcar",
-   "website": "flexcar.com",
-   "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Service Manager",
@@ -100234,7 +100034,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Site Lead",
@@ -100247,7 +100047,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Transportation Manager",
@@ -100260,7 +100060,7 @@
    "company": "Flexcar",
    "website": "flexcar.com",
    "src": "nyc",
-   "crawledAt": 1795077656771
+   "crawledAt": 1795163607655
   },
   {
    "title": "Implementation Manager",
@@ -101664,7 +101464,7 @@
    "company": "GrowNYC",
    "website": "grownyc.org",
    "src": "nyc",
-   "crawledAt": 1795077660174
+   "crawledAt": 1795163612495
   },
   {
    "title": "Human Resources Operations Manager",
@@ -101677,7 +101477,7 @@
    "company": "GrowNYC",
    "website": "grownyc.org",
    "src": "nyc",
-   "crawledAt": 1795077660174
+   "crawledAt": 1795163612495
   },
   {
    "title": "First Officer",
@@ -101704,7 +101504,7 @@
    "company": "GuestCentric Systems",
    "website": "guestcentric.com",
    "src": "nyc",
-   "crawledAt": 1795077662761
+   "crawledAt": 1795163614345
   },
   {
    "title": "EMEA SALES EXECUTIVE",
@@ -101717,7 +101517,7 @@
    "company": "GuestCentric Systems",
    "website": "guestcentric.com",
    "src": "nyc",
-   "crawledAt": 1795077662761
+   "crawledAt": 1795163614345
   },
   {
    "title": "Channel Manager",
@@ -101730,7 +101530,7 @@
    "company": "GuestCentric Systems",
    "website": "guestcentric.com",
    "src": "nyc",
-   "crawledAt": 1795077662761
+   "crawledAt": 1795163614345
   },
   {
    "title": "BTP AI Developer",
@@ -102835,7 +102635,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Engagement Manager",
@@ -102848,7 +102648,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Field Marketing Lead",
@@ -102861,7 +102661,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Senior Sales Enablement Manager",
@@ -102874,7 +102674,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Senior Software Engineer",
@@ -102887,7 +102687,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Product Manager",
@@ -102900,7 +102700,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Engagement Manager (NYC)",
@@ -102913,7 +102713,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Forward Deployed Strategist (NYC)",
@@ -102926,7 +102726,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Senior Enterprise Account Manager",
@@ -102939,7 +102739,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Senior Product Marketing Manager (NYC)",
@@ -102952,7 +102752,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Software Architect",
@@ -102965,7 +102765,7 @@
    "company": "Hyro",
    "website": "hyro.ai",
    "src": "nyc",
-   "crawledAt": 1795077664095
+   "crawledAt": 1795163616625
   },
   {
    "title": "Data Analyst",
@@ -103122,32 +102922,6 @@
    "crawledAt": 1795162414136
   },
   {
-   "title": "Senior 3D Designer",
-   "url": "https://imagination.com/careers/senior-3d-designer-2/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Imagination",
-   "website": "imagination.com",
-   "src": "nyc",
-   "crawledAt": 1795077666564
-  },
-  {
-   "title": "Marketing & PR Executive – North America",
-   "url": "https://imagination.com/careers/marketing-pr-executive-north-america/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Imagination",
-   "website": "imagination.com",
-   "src": "nyc",
-   "crawledAt": 1795077666564
-  },
-  {
    "title": "Operations Assistant",
    "url": "https://imagination.com/careers/operations-assistant/",
    "datePosted": null,
@@ -103158,7 +102932,20 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1795077666564
+   "crawledAt": 1795163618370
+  },
+  {
+   "title": "Senior 3D Designer",
+   "url": "https://imagination.com/careers/senior-3d-designer-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Imagination",
+   "website": "imagination.com",
+   "src": "nyc",
+   "crawledAt": 1795163618370
   },
   {
    "title": "Senior 3D Designer",
@@ -103171,7 +102958,7 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1795077666564
+   "crawledAt": 1795163618370
   },
   {
    "title": "2D Graphics Print Manager",
@@ -103184,7 +102971,7 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1795077666564
+   "crawledAt": 1795163618370
   },
   {
    "title": "Experiential Account Manager – Live Events & Brand Activations",
@@ -103197,7 +102984,7 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1795077666564
+   "crawledAt": 1795163618370
   },
   {
    "title": "Account Director – Experiential & Live Events",
@@ -103210,7 +102997,7 @@
    "company": "Imagination",
    "website": "imagination.com",
    "src": "nyc",
-   "crawledAt": 1795077666564
+   "crawledAt": 1795163618370
   },
   {
    "title": "Lead UI/UX Designer",
@@ -103293,7 +103080,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "BDR Manager",
@@ -103306,7 +103093,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Business Development Representative",
@@ -103319,20 +103106,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
-  },
-  {
-   "title": "Commercial Sales Manager",
-   "url": "https://incident.io/careers#commercial-sales-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "incident.io",
-   "website": "incident.io",
-   "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Enterprise Account Executive",
@@ -103345,7 +103119,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Enterprise Business Development Representative",
@@ -103358,7 +103132,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Expansion Account Manager",
@@ -103371,7 +103145,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "GTM Associate",
@@ -103384,7 +103158,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Solutions Engineer",
@@ -103397,7 +103171,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Cloud Security Engineer",
@@ -103410,7 +103184,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "GRC Engineer",
@@ -103423,7 +103197,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Platform Engineer",
@@ -103436,7 +103210,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Product Engineer",
@@ -103449,7 +103223,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Technical Support Engineer",
@@ -103462,7 +103236,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Commercial Customer Success Manager",
@@ -103475,7 +103249,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Customer Success Engineer",
@@ -103488,7 +103262,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Enterprise Customer Success Manager",
@@ -103501,7 +103275,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Strategic Customer Success Manager",
@@ -103514,7 +103288,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Commercial Legal Counsel",
@@ -103527,7 +103301,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Senior Brand Designer (12 month FTC)",
@@ -103540,7 +103314,7 @@
    "company": "incident.io",
    "website": "incident.io",
    "src": "nyc",
-   "crawledAt": 1795077670760
+   "crawledAt": 1795163623404
   },
   {
    "title": "Customer Success Manager - AppHarbr",
@@ -103637,7 +103411,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1795077675745
+   "crawledAt": 1795163626691
   },
   {
    "title": "Creative Director (Part-time) Remote, US",
@@ -103650,7 +103424,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1795077675745
+   "crawledAt": 1795163626691
   },
   {
    "title": "Finance Associate - Collections Specialist Remote, US",
@@ -103663,7 +103437,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1795077675745
+   "crawledAt": 1795163626691
   },
   {
    "title": "Operations Assistant, Journeys Remote, US",
@@ -103676,7 +103450,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1795077675745
+   "crawledAt": 1795163626691
   },
   {
    "title": "Director, Ambassador Program and Events Remote, US",
@@ -103689,7 +103463,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1795077675745
+   "crawledAt": 1795163626691
   },
   {
    "title": "Product Manager (AI) Remote, US",
@@ -103702,7 +103476,7 @@
    "company": "Indagare",
    "website": "indagare.com",
    "src": "nyc",
-   "crawledAt": 1795077675745
+   "crawledAt": 1795163626691
   },
   {
    "title": "Farm Marketing Group Leader/Consultant",
@@ -103715,7 +103489,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "Hog Sales Manager",
@@ -103728,7 +103502,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "Client Services Associate",
@@ -103741,7 +103515,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "Marketing Associate",
@@ -103754,7 +103528,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "Farm Marketing Consultant",
@@ -103767,7 +103541,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "Talent Acquisition Specialist",
@@ -103780,7 +103554,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "proactive recruiter",
@@ -103793,7 +103567,7 @@
    "company": "Hurley & Associates",
    "website": "hurleyandassociates.com",
    "src": "nyc",
-   "crawledAt": 1795077678582
+   "crawledAt": 1795163634209
   },
   {
    "title": "Digital Growth Manager",
@@ -104312,7 +104086,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1795077680529
+   "crawledAt": 1795163632346
   },
   {
    "title": "Sales Associate with B2B Sales Experience (Hybrid or Remote)",
@@ -104325,7 +104099,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1795077680529
+   "crawledAt": 1795163632346
   },
   {
    "title": "B2B Digital Marketer (Hybrid)",
@@ -104338,7 +104112,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1795077680529
+   "crawledAt": 1795163632346
   },
   {
    "title": "Generative AI Engineer (Hybrid)",
@@ -104351,7 +104125,7 @@
    "company": "Invonto",
    "website": "invonto.com",
    "src": "nyc",
-   "crawledAt": 1795077680529
+   "crawledAt": 1795163632346
   },
   {
    "title": "Senior Account Executive (DACH)",
@@ -104560,7 +104334,7 @@
    "company": "IndSoft",
    "website": "indsoft.com",
    "src": "nyc",
-   "crawledAt": 1795077696189
+   "crawledAt": 1795163650961
   },
   {
    "title": "Software Engineer",
@@ -104573,7 +104347,7 @@
    "company": "IndSoft",
    "website": "indsoft.com",
    "src": "nyc",
-   "crawledAt": 1795077696189
+   "crawledAt": 1795163650961
   },
   {
    "title": "Marketing",
@@ -104586,7 +104360,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1795077692746
+   "crawledAt": 1795163647344
   },
   {
    "title": "Product",
@@ -104599,7 +104373,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1795077692746
+   "crawledAt": 1795163647344
   },
   {
    "title": "Product Operations",
@@ -104612,7 +104386,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1795077692746
+   "crawledAt": 1795163647344
   },
   {
    "title": "Internships & Co-Ops",
@@ -104625,7 +104399,33 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1795077692746
+   "crawledAt": 1795163647344
+  },
+  {
+   "title": "Operations Associate, Jackpocket",
+   "url": "https://careers.draftkings.com/jobs/jr13423/operations-associate-jackpocket/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Jackpocket",
+   "website": "jackpocket.com",
+   "src": "nyc",
+   "crawledAt": 1795163647344
+  },
+  {
+   "title": "Operations Specialist",
+   "url": "https://careers.draftkings.com/jobs/jr15390/operations-specialist/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Jackpocket",
+   "website": "jackpocket.com",
+   "src": "nyc",
+   "crawledAt": 1795163647344
   },
   {
    "title": "Associate Director, Slot Games Product Development",
@@ -104638,46 +104438,7 @@
    "company": "Jackpocket",
    "website": "jackpocket.com",
    "src": "nyc",
-   "crawledAt": 1795077692746
-  },
-  {
-   "title": "Software Engineering Manager, Backend",
-   "url": "https://careers.draftkings.com/jobs/jr14911/software-engineering-manager-backend/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Jackpocket",
-   "website": "jackpocket.com",
-   "src": "nyc",
-   "crawledAt": 1795077692746
-  },
-  {
-   "title": "Senior Machine Learning Engineer, FinTech",
-   "url": "https://careers.draftkings.com/jobs/jr15138/senior-machine-learning-engineer-fintech/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Jackpocket",
-   "website": "jackpocket.com",
-   "src": "nyc",
-   "crawledAt": 1795077692746
-  },
-  {
-   "title": "Senior Machine Learning Engineer",
-   "url": "https://careers.draftkings.com/jobs/jr15263/senior-machine-learning-engineer/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Jackpocket",
-   "website": "jackpocket.com",
-   "src": "nyc",
-   "crawledAt": 1795077692746
+   "crawledAt": 1795163647344
   },
   {
    "title": "Business Development Executive",
@@ -105334,7 +105095,7 @@
    "company": "LexShares",
    "website": "lexshares.com",
    "src": "nyc",
-   "crawledAt": 1795077698393
+   "crawledAt": 1795163651795
   },
   {
    "title": "Full-Stack Product & Field Engineer – AI Systems",
@@ -105767,7 +105528,7 @@
    "company": "Luminary Labs",
    "website": "luminary-labs.com",
    "src": "nyc",
-   "crawledAt": 1795077703103
+   "crawledAt": 1795163656530
   },
   {
    "title": "Senior Communications Associate",
@@ -105780,7 +105541,7 @@
    "company": "Luminary Labs",
    "website": "luminary-labs.com",
    "src": "nyc",
-   "crawledAt": 1795077703103
+   "crawledAt": 1795163656530
   },
   {
    "title": "Senior Associate",
@@ -105793,7 +105554,7 @@
    "company": "Luminary Labs",
    "website": "luminary-labs.com",
    "src": "nyc",
-   "crawledAt": 1795077703103
+   "crawledAt": 1795163656530
   },
   {
    "title": "Associate",
@@ -105806,7 +105567,7 @@
    "company": "Luminary Labs",
    "website": "luminary-labs.com",
    "src": "nyc",
-   "crawledAt": 1795077703103
+   "crawledAt": 1795163656530
   },
   {
    "title": "Technical Project Manager",
@@ -105833,7 +105594,7 @@
    "company": "Indus Group Inc",
    "website": "indusgroupinc.com",
    "src": "nyc",
-   "crawledAt": 1795077721889
+   "crawledAt": 1795163679366
   },
   {
    "title": "Software Developer, Hackensack, NJ",
@@ -105846,7 +105607,7 @@
    "company": "Indus Group Inc",
    "website": "indusgroupinc.com",
    "src": "nyc",
-   "crawledAt": 1795077721889
+   "crawledAt": 1795163679366
   },
   {
    "title": "Solutions Engineer",
@@ -105892,7 +105653,7 @@
   },
   {
    "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/seattle/6240543004/content-strategist-amazon-marketplace",
+   "url": "https://www.monks.com/careers/los-angeles/6251358004/content-strategist-amazon-marketplace",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -105901,7 +105662,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Content Strategist, Amazon & Marketplace",
@@ -105914,33 +105675,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "[Contractual] Senior Influencer Manager (India - Remote)",
-   "url": "https://www.monks.com/careers/6262323004/contractual-senior-influencer-manager-india-remote",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Motion Designer (Temporary)",
-   "url": "https://www.monks.com/careers/buenos-aires/6204351004/motion-designer-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Senior Designer (Temporary)",
@@ -105953,7 +105688,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Shopify Technical Project Lead",
@@ -105966,20 +105701,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Sr. Technical Writer",
-   "url": "https://www.monks.com/careers/california/6227277004/sr-technical-writer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Senior Designer - Temporary",
@@ -105992,59 +105714,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/denver/6251360004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/los-angeles/6251358004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Senior Video Editor (Temporary)",
-   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Project Manager (Temporary)",
-   "url": "https://www.monks.com/careers/6261742004/project-manager-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "AI Product Owner",
@@ -106057,11 +105727,24 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
-   "title": "Senior Site Reliability Engineer",
-   "url": "https://www.monks.com/careers/6238896004/senior-site-reliability-engineer",
+   "title": "Project Manager (Temporary)",
+   "url": "https://www.monks.com/careers/6261742004/project-manager-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/seattle/6240543004/content-strategist-amazon-marketplace",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -106070,7 +105753,72 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/denver/6251360004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Motion Designer (Temporary)",
+   "url": "https://www.monks.com/careers/buenos-aires/6204351004/motion-designer-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Sr. Technical Writer",
+   "url": "https://www.monks.com/careers/california/6227277004/sr-technical-writer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "[Contractual] Senior Influencer Manager (India - Remote)",
+   "url": "https://www.monks.com/careers/6262323004/contractual-senior-influencer-manager-india-remote",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Senior Video Editor (Temporary)",
+   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
   },
   {
    "title": "Senior Product Manager",
@@ -106083,7 +105831,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Battery Test Engineer",
@@ -106096,11 +105844,11 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
-   "title": "Product Designer",
-   "url": "https://www.monks.com/careers/6135833004/product-designer",
+   "title": "Senior Site Reliability Engineer",
+   "url": "https://www.monks.com/careers/6238896004/senior-site-reliability-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -106109,72 +105857,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
-   "url": "https://www.monks.com/careers/6135379004/sdet-testing-engineer-lead-talent-pool-future-opportunities",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
-   "url": "https://www.monks.com/careers/6135496004/senior-data-engineer-talent-pool-future-opportunities",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "DevOps Engineer",
-   "url": "https://www.monks.com/careers/6135310004/devops-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Unisys OS 2200 Application Support Specialist",
-   "url": "https://www.monks.com/careers/5844582004/unisys-os-2200-application-support-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
-  },
-  {
-   "title": "Unisys OS 2200 Infrastructure Support Specialist",
-   "url": "https://www.monks.com/careers/5789855004/unisys-os-2200-infrastructure-support-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MightyHive",
-   "website": "mightyhive.com",
-   "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Senior Full Stack Software Engineer",
@@ -106187,7 +105870,98 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Product Designer",
+   "url": "https://www.monks.com/careers/6135833004/product-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
+   "url": "https://www.monks.com/careers/6135379004/sdet-testing-engineer-lead-talent-pool-future-opportunities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
+   "url": "https://www.monks.com/careers/6135496004/senior-data-engineer-talent-pool-future-opportunities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "DevOps Engineer",
+   "url": "https://www.monks.com/careers/6135310004/devops-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Director - Engineering",
+   "url": "https://www.monks.com/careers/6231993004/director-engineering",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Unisys OS 2200 Application Support Specialist",
+   "url": "https://www.monks.com/careers/5844582004/unisys-os-2200-application-support-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
+  },
+  {
+   "title": "Unisys OS 2200 Infrastructure Support Specialist",
+   "url": "https://www.monks.com/careers/5789855004/unisys-os-2200-infrastructure-support-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MightyHive",
+   "website": "mightyhive.com",
+   "src": "nyc",
+   "crawledAt": 1795163667364
   },
   {
    "title": "Backend Engineer",
@@ -106200,7 +105974,7 @@
    "company": "MightyHive",
    "website": "mightyhive.com",
    "src": "nyc",
-   "crawledAt": 1795077713699
+   "crawledAt": 1795163667364
   },
   {
    "title": "Business & Project Operations Roles",
@@ -106297,7 +106071,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Cloud Backend Platform Engineer, nRF Cloud - Boston, MA",
@@ -106310,7 +106084,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Engineering Manager, Cloud Platform – nRF Cloud",
@@ -106323,7 +106097,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Technical Program Manager Oslo, Norway",
@@ -106336,7 +106110,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Business Development Manager, nRF Cloud Taipei, Taiwan",
@@ -106349,7 +106123,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Embedded OS Field Engineer",
@@ -106362,7 +106136,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Product Marketing Manager, nRF Cloud Boston, MA",
@@ -106375,7 +106149,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Product Marketing Manager, nRF Cloud Oslo, Norway",
@@ -106388,7 +106162,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Principal Full Stack Engineer, TypeScript/Python Oslo, Norway",
@@ -106401,7 +106175,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Principal Full Stack Engineer, TypeScript/Python Boston, MA",
@@ -106414,7 +106188,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Senior Full Stack Engineer - TypeScript/Python Oslo, Norway",
@@ -106427,7 +106201,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Full Stack Engineer - TypeScript/Python Boston, MA",
@@ -106440,7 +106214,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Embedded OS Field Engineer",
@@ -106453,7 +106227,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Business Development Manager, nRF Cloud Shenzhen, China",
@@ -106466,7 +106240,7 @@
    "company": "Memfault",
    "website": "memfault.com",
    "src": "nyc",
-   "crawledAt": 1795077720624
+   "crawledAt": 1795163673630
   },
   {
    "title": "Vice President Sales (m/w/d)",
@@ -106479,7 +106253,7 @@
    "company": "Metanet",
    "website": "metanet.ch",
    "src": "nyc",
-   "crawledAt": 1795077730277
+   "crawledAt": 1795163681825
   },
   {
    "title": "Founding ML Infrastructure Engineer",
@@ -106860,7 +106634,7 @@
    "company": "MarketSmiths",
    "website": "marketsmiths.com",
    "src": "nyc",
-   "crawledAt": 1795077728495
+   "crawledAt": 1795163686798
   },
   {
    "title": "Sr Benefits Manager",
@@ -106901,7 +106675,7 @@
    "company": "MoversTech CRM",
    "website": "moverstech.com",
    "src": "nyc",
-   "crawledAt": 1795077732470
+   "crawledAt": 1795163686188
   },
   {
    "title": "David Turbeville, Regional Sales Manager",
@@ -107138,7 +106912,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Designer",
@@ -107151,7 +106925,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Web Designer",
@@ -107164,7 +106938,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Visual Designer",
@@ -107177,7 +106951,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Digital Designer",
@@ -107190,7 +106964,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Design Director",
@@ -107203,7 +106977,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "CAD Designer",
@@ -107216,7 +106990,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Web Developer",
@@ -107229,7 +107003,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Mobile Developer",
@@ -107242,7 +107016,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Software Engineer",
@@ -107255,7 +107029,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": ".NET Developer",
@@ -107268,7 +107042,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Back End Developer",
@@ -107281,7 +107055,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Python Developer",
@@ -107294,7 +107068,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Full Stack Developer",
@@ -107307,7 +107081,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Java Developer",
@@ -107320,7 +107094,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "JavaScript Developer",
@@ -107333,7 +107107,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Ruby Developer",
@@ -107346,7 +107120,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "SQL Developer",
@@ -107359,7 +107133,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Computer Scientist",
@@ -107372,7 +107146,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Front End Developer",
@@ -107385,7 +107159,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Data Scientist",
@@ -107398,7 +107172,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Data Analyst",
@@ -107411,7 +107185,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Business Analyst",
@@ -107424,7 +107198,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Machine Learning Engineer",
@@ -107437,7 +107211,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Data Engineer",
@@ -107450,7 +107224,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Database Administrator",
@@ -107463,7 +107237,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "User Experience Designer",
@@ -107476,7 +107250,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "UI Designer",
@@ -107489,7 +107263,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "UX Researcher",
@@ -107502,7 +107276,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Product Designer",
@@ -107515,7 +107289,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Video Editor",
@@ -107528,7 +107302,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Video Manager",
@@ -107541,7 +107315,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Motion Graphics Designer",
@@ -107554,7 +107328,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Digital Marketer",
@@ -107567,7 +107341,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Search Manager",
@@ -107580,7 +107354,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Web Optimization Specialist",
@@ -107593,7 +107367,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Digital Analyst",
@@ -107606,7 +107380,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Paid Search Manager",
@@ -107619,7 +107393,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Marketing Analyst",
@@ -107632,7 +107406,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Digital Strategist",
@@ -107645,7 +107419,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Social Media Strategist",
@@ -107658,7 +107432,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Marketing Manager",
@@ -107671,7 +107445,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Social Media Manager",
@@ -107684,7 +107458,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Financial Analyst",
@@ -107697,7 +107471,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Investment Analyst",
@@ -107710,7 +107484,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Private Equity Associate",
@@ -107723,7 +107497,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Research Analyst",
@@ -107736,7 +107510,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Product Manager",
@@ -107749,7 +107523,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Project Manager",
@@ -107762,7 +107536,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Software Project Manager",
@@ -107775,7 +107549,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Construction Project Manager",
@@ -107788,7 +107562,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "IT Project Manager",
@@ -107801,7 +107575,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Business Manager",
@@ -107814,7 +107588,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Business Consultant",
@@ -107827,7 +107601,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Business Administrator",
@@ -107840,7 +107614,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Interior Designer",
@@ -107853,7 +107627,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "BIM Manager",
@@ -107866,7 +107640,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "BIM Coordinator",
@@ -107879,7 +107653,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "CAD Coordinator",
@@ -107892,7 +107666,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "CAD Manager",
@@ -107905,7 +107679,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Architect",
@@ -107918,7 +107692,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Architectural Designer",
@@ -107931,7 +107705,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Civil 3D Coordinator",
@@ -107944,7 +107718,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Security Engineer",
@@ -107957,7 +107731,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Security Analyst",
@@ -107970,7 +107744,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "IT Security Specialist",
@@ -107983,7 +107757,7 @@
    "company": "Noble Desktop",
    "website": "nobledesktop.com",
    "src": "nyc",
-   "crawledAt": 1795077733257
+   "crawledAt": 1795163688161
   },
   {
    "title": "Senior Python Developer",
@@ -109606,7 +109380,7 @@
    "company": "Nuvalence",
    "website": "nuvalence.io",
    "src": "nyc",
-   "crawledAt": 1795077738982
+   "crawledAt": 1795163693808
   },
   {
    "title": "M&A CONSULTANT",
@@ -110123,7 +109897,7 @@
    "company": "Papier",
    "website": "papier.com",
    "src": "nyc",
-   "crawledAt": 1795077742682
+   "crawledAt": 1795163696703
   },
   {
    "title": "Eve, Business Intelligence Executive",
@@ -110136,7 +109910,7 @@
    "company": "Papier",
    "website": "papier.com",
    "src": "nyc",
-   "crawledAt": 1795077742682
+   "crawledAt": 1795163696703
   },
   {
    "title": "Sarah, Project Delivery Manager",
@@ -110149,7 +109923,7 @@
    "company": "Papier",
    "website": "papier.com",
    "src": "nyc",
-   "crawledAt": 1795077742682
+   "crawledAt": 1795163696703
   },
   {
    "title": "Machine Learning Engineer, Outmax",
@@ -110162,7 +109936,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Senior Account Manager - Publishers (AMERICAS)",
@@ -110175,7 +109949,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Senior Sales Manager",
@@ -110188,7 +109962,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Sales Manager",
@@ -110201,7 +109975,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Publisher Success Manager",
@@ -110214,7 +109988,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "UI/UX Designer",
@@ -110227,7 +110001,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Managing Director, UK",
@@ -110240,7 +110014,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "International Sales Director",
@@ -110253,7 +110027,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Demand Manager",
@@ -110266,7 +110040,7 @@
    "company": "Perion Network",
    "website": "perion.com",
    "src": "nyc",
-   "crawledAt": 1795077744673
+   "crawledAt": 1795163699953
   },
   {
    "title": "Nicole - Influencer Account Coordinator",
@@ -110321,7 +110095,7 @@
    "company": "Per Scholas",
    "website": "perscholas.org",
    "src": "nyc",
-   "crawledAt": 1795077751283
+   "crawledAt": 1795163710017
   },
   {
    "title": "Senior Marketing Manager",
@@ -110362,7 +110136,7 @@
    "company": "Playbill",
    "website": "playbill.com",
    "src": "nyc",
-   "crawledAt": 1795077753884
+   "crawledAt": 1795163710318
   },
   {
    "title": "Applied Data Scientist",
@@ -110543,7 +110317,7 @@
    "company": "Pro Bono Net",
    "website": "probono.net",
    "src": "nyc",
-   "crawledAt": 1795077754879
+   "crawledAt": 1795163713044
   },
   {
    "title": "Senior Full Stack Developer",
@@ -110556,7 +110330,7 @@
    "company": "Pro Bono Net",
    "website": "probono.net",
    "src": "nyc",
-   "crawledAt": 1795077754879
+   "crawledAt": 1795163713044
   },
   {
    "title": "MERN Stack Developer (1 Position) – Full-Time",
@@ -111703,7 +111477,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1795077761073
+   "crawledAt": 1795163718171
   },
   {
    "title": "Paid Media Manager",
@@ -111716,7 +111490,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1795077761073
+   "crawledAt": 1795163718171
   },
   {
    "title": "Paid Search Coordinator",
@@ -111729,7 +111503,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1795077761073
+   "crawledAt": 1795163718171
   },
   {
    "title": "Paid Search Specialist",
@@ -111742,7 +111516,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1795077761073
+   "crawledAt": 1795163718171
   },
   {
    "title": "Ryan Jeffrey, Digital Marketing Manager, Maui Jim",
@@ -111755,7 +111529,7 @@
    "company": "Razor Rank",
    "website": "razorrank.com",
    "src": "nyc",
-   "crawledAt": 1795077761073
+   "crawledAt": 1795163718171
   },
   {
    "title": "Data Engineer",
@@ -111768,7 +111542,7 @@
    "company": "RDAlabs",
    "website": "rdalabs.com",
    "src": "nyc",
-   "crawledAt": 1795077830536
+   "crawledAt": 1795163723559
   },
   {
    "title": "Data Engineer",
@@ -111781,7 +111555,7 @@
    "company": "RDAlabs",
    "website": "rdalabs.com",
    "src": "nyc",
-   "crawledAt": 1795077830536
+   "crawledAt": 1795163723559
   },
   {
    "title": "Senior Django/React Developer",
@@ -111946,7 +111720,7 @@
    "company": "Rue Gilt Groupe",
    "website": "ruegiltgroupe.com",
    "src": "nyc",
-   "crawledAt": 1795077819883
+   "crawledAt": 1795163720428
   },
   {
    "title": "Community Lead",
@@ -112015,7 +111789,7 @@
    "company": "RoundTable Technology",
    "website": "roundtabletechnology.com",
    "src": "nyc",
-   "crawledAt": 1795077828630
+   "crawledAt": 1795163726384
   },
   {
    "title": "Sales Representative",
@@ -112067,7 +111841,7 @@
    "company": "SBG Funding",
    "website": "sbgfunding.com",
    "src": "nyc",
-   "crawledAt": 1795077834175
+   "crawledAt": 1795163728558
   },
   {
    "title": "Account Executive",
@@ -112080,7 +111854,7 @@
    "company": "SBG Funding",
    "website": "sbgfunding.com",
    "src": "nyc",
-   "crawledAt": 1795077834175
+   "crawledAt": 1795163728558
   },
   {
    "title": "Patient Coordinator Specialist",
@@ -118989,7 +118763,7 @@
    "website": "waze.com",
    "src": "nyc",
    "page": "https://www.waze.com/",
-   "crawledAt": 1795077519817
+   "crawledAt": 1795163479499
   },
   {
    "title": "Associate Director, Dublin",
@@ -119003,7 +118777,7 @@
    "website": "wachsman.com",
    "src": "nyc",
    "page": "https://wachsman.com/careers/",
-   "crawledAt": 1795077533691
+   "crawledAt": 1795163480786
   },
   {
    "title": "Digital Marketing Coordinator",
@@ -119017,7 +118791,7 @@
    "website": "wheelhouseit.com",
    "src": "nyc",
    "page": "https://www.wheelhouseit.com/careers/",
-   "crawledAt": 1795077535472
+   "crawledAt": 1795163494868
   },
   {
    "title": "Marketing & Account Manager",
@@ -119031,7 +118805,7 @@
    "website": "wheelhouseit.com",
    "src": "nyc",
    "page": "https://www.wheelhouseit.com/careers/",
-   "crawledAt": 1795077535472
+   "crawledAt": 1795163494868
   },
   {
    "title": "Team Engineer",
@@ -119045,7 +118819,7 @@
    "website": "wheelhouseit.com",
    "src": "nyc",
    "page": "https://www.wheelhouseit.com/careers/",
-   "crawledAt": 1795077535472
+   "crawledAt": 1795163494868
   },
   {
    "title": "Logistics Manager Req# 856",
@@ -119059,7 +118833,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Associate (freezer department) Req# 855",
@@ -119073,7 +118847,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Associate Req# 427",
@@ -119087,7 +118861,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Associate Req# 842",
@@ -119101,7 +118875,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Associate (PM Shift) Req# 388",
@@ -119115,7 +118889,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Sales Associate - Korean Markets Req# 794",
@@ -119129,7 +118903,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Sales Associate Req# 226",
@@ -119143,7 +118917,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Washington DC Branch - Warehouse Associate Req# 849",
@@ -119157,7 +118931,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Product Category Specialist Req# 845",
@@ -119171,7 +118945,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Inventory Planning Associate Req# 780",
@@ -119185,7 +118959,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Sales Associate Req# 404",
@@ -119199,7 +118973,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Systems Support Associate Req# 839",
@@ -119213,7 +118987,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Systems Support Associate Req# 838",
@@ -119227,7 +119001,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Orlando Sales Associate - Korean Markets Req# 835",
@@ -119241,7 +119015,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Warehouse Associate Req# 824",
@@ -119255,7 +119029,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Office Manager Req# 831",
@@ -119269,7 +119043,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Sales Associate Req# 709",
@@ -119283,7 +119057,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Inside Sales Rep Req# 774",
@@ -119297,7 +119071,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Sales Associate Req# 590",
@@ -119311,7 +119085,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Logistics Manager Req# 746",
@@ -119325,7 +119099,7 @@
    "website": "wismettacusa.com",
    "src": "nyc",
    "page": "https://jobs.dayforcehcm.com/en-US/wafna/USACAREERSITE",
-   "crawledAt": 1795077542325
+   "crawledAt": 1795163491594
   },
   {
    "title": "Product Management",
@@ -119482,7 +119256,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "CEO, Rivet and Chief Supply Officer",
@@ -119496,7 +119270,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Chief People and Culture Officer",
@@ -119510,7 +119284,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "General Counsel & Chief Governance Officer",
@@ -119524,7 +119298,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Chief Experience Officer",
@@ -119538,7 +119312,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Chief Revenue Officer",
@@ -119552,7 +119326,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Chief Financial Officer",
@@ -119566,7 +119340,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Chief Marketing Officer",
@@ -119580,7 +119354,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Chief Product and Technology Officer",
@@ -119594,7 +119368,7 @@
    "website": "wework.co.in",
    "src": "nyc",
    "page": "https://wework.co.in/careers/",
-   "crawledAt": 1795077549558
+   "crawledAt": 1795163505203
   },
   {
    "title": "Case Design Associate, Atlanta",
@@ -119608,7 +119382,7 @@
    "website": "wingedkeel.com",
    "src": "nyc",
    "page": "https://www.wingedkeel.com/careers",
-   "crawledAt": 1795077552243
+   "crawledAt": 1795163504758
   },
   {
    "title": "Finance Associate, New York",
@@ -119622,7 +119396,7 @@
    "website": "wingedkeel.com",
    "src": "nyc",
    "page": "https://www.wingedkeel.com/careers",
-   "crawledAt": 1795077552243
+   "crawledAt": 1795163504758
   },
   {
    "title": "Product Lead",
@@ -119636,7 +119410,7 @@
    "website": "xyretail.com",
    "src": "nyc",
    "page": "https://www.xyretail.com/career",
-   "crawledAt": 1795077555836
+   "crawledAt": 1795163510044
   },
   {
    "title": "Junior AI Engineer",
@@ -119650,7 +119424,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Junior Software Engineer",
@@ -119664,7 +119438,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Power Platform Developer",
@@ -119678,7 +119452,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "RPA Solution Architect",
@@ -119692,7 +119466,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Senior Account Manager",
@@ -119706,7 +119480,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Senior Consultant Program Manager - Tungsten",
@@ -119720,7 +119494,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Senior UiPath Developer",
@@ -119734,7 +119508,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Senior UiPath Developer - Document Understanding",
@@ -119748,7 +119522,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Solutions Architect - UiPath",
@@ -119762,7 +119536,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Technical Account Manager (UiPath)",
@@ -119776,7 +119550,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Tungsten Total Agility Consultant",
@@ -119790,7 +119564,7 @@
    "website": "wonderbotz.com",
    "src": "nyc",
    "page": "https://wonderbotz.com/about-us/culture-and-careers/",
-   "crawledAt": 1795077557564
+   "crawledAt": 1795163510193
   },
   {
    "title": "Senior Customer Success Manager",
@@ -119804,7 +119578,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1795077567425
+   "crawledAt": 1795163518525
   },
   {
    "title": "Senior Marketing Manager",
@@ -119818,7 +119592,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1795077567425
+   "crawledAt": 1795163518525
   },
   {
    "title": "Product Marketing Manager",
@@ -119832,7 +119606,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1795077567425
+   "crawledAt": 1795163518525
   },
   {
    "title": "Account Manager",
@@ -119846,7 +119620,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1795077567425
+   "crawledAt": 1795163518525
   },
   {
    "title": "Marketing Manager",
@@ -119860,7 +119634,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1795077567425
+   "crawledAt": 1795163518525
   },
   {
    "title": "Senior Sales Manager",
@@ -119874,7 +119648,7 @@
    "website": "youappi.com",
    "src": "nyc",
    "page": "https://www.comeet.com/jobs/youappi/C9.00B",
-   "crawledAt": 1795077567425
+   "crawledAt": 1795163518525
   },
   {
    "title": "LegalTech Business Analyst",
@@ -119888,7 +119662,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "AI Solutions Architect",
@@ -119902,7 +119676,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "Senior QA Engineer",
@@ -119916,7 +119690,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "Backend/Golang Developer",
@@ -119930,7 +119704,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "Healthcare Solutions Architect",
@@ -119944,7 +119718,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "LLM Engineer",
@@ -119958,7 +119732,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "Project Manager/Business Analyst",
@@ -119972,7 +119746,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "Senior DevOps Engineer",
@@ -119986,7 +119760,7 @@
    "website": "zfort.com",
    "src": "nyc",
    "page": "https://www.zfort.com/company/careers",
-   "crawledAt": 1795077567672
+   "crawledAt": 1795163516060
   },
   {
    "title": "Social Media and Email Marketing Specialist",
@@ -120000,7 +119774,7 @@
    "website": "zoefin.com",
    "src": "nyc",
    "page": "https://zoefinancial.com/careers",
-   "crawledAt": 1795077574230
+   "crawledAt": 1795163522926
   },
   {
    "title": "Marketing Analyst",
@@ -120014,7 +119788,7 @@
    "website": "zoefin.com",
    "src": "nyc",
    "page": "https://zoefinancial.com/careers",
-   "crawledAt": 1795077574230
+   "crawledAt": 1795163522926
   },
   {
    "title": "Enterprise Account Manager (UK)",
@@ -120028,7 +119802,7 @@
    "website": "xysense.com",
    "src": "nyc",
    "page": "https://xysense.com/careers/",
-   "crawledAt": 1795077582275
+   "crawledAt": 1795163535843
   },
   {
    "title": "Customer Success Manager (USA)",
@@ -120042,7 +119816,7 @@
    "website": "xysense.com",
    "src": "nyc",
    "page": "https://xysense.com/careers/",
-   "crawledAt": 1795077582275
+   "crawledAt": 1795163535843
   },
   {
    "title": "2027 Investment Banking Summer Associate Program - Early Careers",
