@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-21T07:49:32.209Z",
+ "generated": "2026-11-21T07:54:48.477Z",
  "companies": 22940,
  "status": {
   "found": 3188,
-  "site": 3766,
-  "no-ats": 11878,
+  "site": 3765,
+  "no-ats": 11879,
   "down": 4108
  },
  "byType": {
@@ -91022,7 +91022,7 @@
    "website": "ai21.com",
    "src": "nyc",
    "page": "https://www.ai21.com/careers/",
-   "crawledAt": 1795161616114
+   "crawledAt": 1795247439964
   },
   {
    "title": "Deep Learning Team Lead",
@@ -91036,7 +91036,7 @@
    "website": "ai21.com",
    "src": "nyc",
    "page": "https://www.ai21.com/careers/",
-   "crawledAt": 1795161616114
+   "crawledAt": 1795247439964
   },
   {
    "title": "Technical Project Manager – Post training",
@@ -91050,7 +91050,7 @@
    "website": "ai21.com",
    "src": "nyc",
    "page": "https://www.ai21.com/careers/",
-   "crawledAt": 1795161616114
+   "crawledAt": 1795247439964
   },
   {
    "title": "Senior Marketing Designer",
@@ -91064,7 +91064,35 @@
    "website": "ai21.com",
    "src": "nyc",
    "page": "https://www.ai21.com/careers/",
-   "crawledAt": 1795161616114
+   "crawledAt": 1795247439964
+  },
+  {
+   "title": "Apartment Leasing Consultant - Capri North and South",
+   "url": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html#apartment-leasing-consultant-capri-north-and-south",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "AIR Communities",
+   "website": "aircommunities.com",
+   "src": "nyc",
+   "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
+   "crawledAt": 1795247434982
+  },
+  {
+   "title": "Apartment Community Manager - Timucuan Lakeside",
+   "url": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html#apartment-community-manager-timucuan-lakeside",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "AIR Communities",
+   "website": "aircommunities.com",
+   "src": "nyc",
+   "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Terrawood",
@@ -91078,7 +91106,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Sorrel",
@@ -91092,7 +91120,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Front Desk Associate",
@@ -91106,7 +91134,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Ridgeview",
@@ -91120,7 +91148,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - The Adeline",
@@ -91134,7 +91162,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Resident Relations Specialist - Adair off Addison",
@@ -91148,7 +91176,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Consultant - Verandahs of Brighton Bay",
@@ -91162,7 +91190,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - Zerzura",
@@ -91176,7 +91204,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - Mountain Gate and Trails",
@@ -91190,7 +91218,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - Legacy North",
@@ -91204,7 +91232,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Luxury Leasing Consultant - Park Towne Place",
@@ -91218,7 +91246,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Multi Site",
@@ -91232,7 +91260,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - 4230 Fairway Coyote Ridge",
@@ -91246,7 +91274,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Cue Galatyn Station",
@@ -91260,7 +91288,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Citi Lakes",
@@ -91274,7 +91302,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Bilingual Community Manager",
@@ -91288,7 +91316,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Resident Relations Specialist - The Westside",
@@ -91302,7 +91330,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Creekside",
@@ -91316,7 +91344,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - Pine and Parker",
@@ -91330,7 +91358,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Park Haven West Arlington",
@@ -91344,7 +91372,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Resident Relations Specialist - North Glen MacArthur",
@@ -91358,7 +91386,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - North Glen MacArthur",
@@ -91372,7 +91400,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Wimbledon Oaks",
@@ -91386,7 +91414,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - The Westside",
@@ -91400,21 +91428,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
-  },
-  {
-   "title": "Apartment Leasing Sales Consultant - Park Apartments",
-   "url": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html#apartment-leasing-sales-consultant-park-apartments",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "AIR Communities",
-   "website": "aircommunities.com",
-   "src": "nyc",
-   "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Arcadia",
@@ -91428,7 +91442,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - The Rosery",
@@ -91442,7 +91456,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Villages of Cypress Creek",
@@ -91456,7 +91470,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Regional Property Manager - Las Vegas",
@@ -91470,7 +91484,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - Burano Hunters Creek",
@@ -91484,7 +91498,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager - Pacific Bay Vistas",
@@ -91498,7 +91512,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Lumiere Chandler",
@@ -91512,7 +91526,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - The Broadway",
@@ -91526,7 +91540,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Community Manager",
@@ -91540,7 +91554,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant",
@@ -91554,7 +91568,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Stone Creek",
@@ -91568,7 +91582,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Cortona South Tampa",
@@ -91582,7 +91596,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Sterling Apartment Homes",
@@ -91596,7 +91610,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Apartment Leasing Sales Consultant - Bay",
@@ -91610,21 +91624,7 @@
    "website": "aircommunities.com",
    "src": "nyc",
    "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
-  },
-  {
-   "title": "Apartment Leasing Sales Consultant - Capri North & South",
-   "url": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html#apartment-leasing-sales-consultant-capri-north-south",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "AIR Communities",
-   "website": "aircommunities.com",
-   "src": "nyc",
-   "page": "https://www.aircommunities.com/en/career-home/air-communities-leasing-careers.html",
-   "crawledAt": 1795161609831
+   "crawledAt": 1795247434982
   },
   {
    "title": "Electrical Design Engineer",
@@ -91638,7 +91638,7 @@
    "website": "actpower.com",
    "src": "nyc",
    "page": "https://www.actpower.com/careers/",
-   "crawledAt": 1795161621383
+   "crawledAt": 1795247443907
   },
   {
    "title": "Field Sales Engineer (Remote-TX/AZ/CA)",
@@ -91652,7 +91652,7 @@
    "website": "actpower.com",
    "src": "nyc",
    "page": "https://www.actpower.com/careers/",
-   "crawledAt": 1795161621383
+   "crawledAt": 1795247443907
   },
   {
    "title": "Implementation Specialist",
@@ -91682,7 +91682,7 @@
    "website": "alltechishuman.org",
    "src": "nyc",
    "page": "https://alltechishuman.org/responsible-tech-job-board",
-   "crawledAt": 1795161625583
+   "crawledAt": 1795247449502
   },
   {
    "title": "Systems Developer",
@@ -91696,7 +91696,889 @@
    "website": "alltechishuman.org",
    "src": "nyc",
    "page": "https://alltechishuman.org/responsible-tech-job-board",
-   "crawledAt": 1795161625583
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Remote Software Developer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#remote-software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Remote Senior Technical Researcher",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#remote-senior-technical-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Platforms Risk and Control Specialist",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#platforms-risk-and-control-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Privacy Operations Analyst",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#privacy-operations-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Commercial and Privacy Counsel",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-commercial-and-privacy-counsel",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Events and Community Manager, Center for Civic Futures",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#events-and-community-manager-center-for-civic-futures",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Special Assistant to the Executive Director",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#special-assistant-to-the-executive-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Policy Insights Lead, Assurance",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#policy-insights-lead-assurance",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Sr Accessibility Program Manager",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#sr-accessibility-program-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Global Trust & Safety Policy Manager",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#global-trust-safety-policy-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Program Coordinator",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#program-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Entrepreneur in Residence (EIR) Program Lead",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#entrepreneur-in-residence-eir-program-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Responsible AI Technical Lead",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#responsible-ai-technical-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Communications Manager",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#communications-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Security & Compliance Operations Lead, Global Operations",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#security-compliance-operations-lead-global-operations",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Privacy Research Engineer, AI",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#privacy-research-engineer-ai",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Mid-Senior, Executive/Director",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#mid-senior-executive-director",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "AI Safety Lab Lead",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#ai-safety-lab-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Fund Director, AI & Economic Mobility",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#fund-director-ai-economic-mobility",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Executive Director, Ethical and Applied AI Hub",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#executive-director-ethical-and-applied-ai-hub",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Program and Operations Manager, Ethical and Applied AI Hub",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#program-and-operations-manager-ethical-and-applied-ai-hub",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Chief Technology & Product Officer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#chief-technology-product-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Software Engineer - AI Oversight",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-software-engineer-ai-oversight",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Technical AI Governance Researcher",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#technical-ai-governance-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "AI Legal Data Engineer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#ai-legal-data-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Communications Associate",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#communications-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Founding Engineer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#founding-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Staff Machine Learning Engineer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#staff-machine-learning-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Analyst",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Privacy & AI Consultant",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#privacy-ai-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "AI Risk Management & AI Risk Engineering Consultant",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#ai-risk-management-ai-risk-engineering-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Communications and Marketing Manager",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#communications-and-marketing-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior AI Governance Specialist",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-ai-governance-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Global Response Operations, Protect Analyst",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#global-response-operations-protect-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Privacy Counsel",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-privacy-counsel",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Technologist or Senior Policy Researcher, AI Governance Lab",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-technologist-or-senior-policy-researcher-ai-governance-lab",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Policy Counsel, Free Expression Project",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-policy-counsel-free-expression-project",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Product Security Incident Response Analyst",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#product-security-incident-response-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Staff Manager, Product Security Response",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#staff-manager-product-security-response",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Project Associate",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-project-associate",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior AI Governance Manager, Marcom",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-ai-governance-manager-marcom",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Responsible AI Engineer Specialist",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#responsible-ai-engineer-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Responsible AI Engineer Manager/Senior Manager",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#responsible-ai-engineer-manager-senior-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Research Intern - AI & Human Systems",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#research-intern-ai-human-systems",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Government Solutions Account Lead",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#government-solutions-account-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Digital Project Manager",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#digital-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Technologist / Senior Policy Researcher",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-technologist-senior-policy-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Eu Policy Officer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#eu-policy-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Principal Analyst, Trust and Safety",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#principal-analyst-trust-and-safety",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Privacy Counsel - UK",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#privacy-counsel-uk",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Project Manager - OSINT",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#project-manager-osint",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior / Research Associate, AI Evaluation and Assurance",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-research-associate-ai-evaluation-and-assurance",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Senior Consultant - Business Consulting Risk",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#senior-consultant-business-consulting-risk",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "AI Researcher, AI Safety & Security",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#ai-researcher-ai-safety-security",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Director, Privacy Officer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#director-privacy-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "AI Engineer",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#ai-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Software Engineer, Product",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#software-engineer-product",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Programme Officer, Prevent Child Sexual Abuse",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#programme-officer-prevent-child-sexual-abuse",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Lead Analyst, Frontier Safety",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#lead-analyst-frontier-safety",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Field Coordinator",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#field-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Strategy and Operations Manager, YouTube Trust and Safety",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#strategy-and-operations-manager-youtube-trust-and-safety",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Research Scientist - MIT AI Risk Initiative",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#research-scientist-mit-ai-risk-initiative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
+  },
+  {
+   "title": "Safety Case Research - Product Development Lead",
+   "url": "https://alltechishuman.org/responsible-tech-job-board#safety-case-research-product-development-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "All Tech Is Human",
+   "website": "alltechishuman.org",
+   "src": "nyc",
+   "page": "https://alltechishuman.org/responsible-tech-job-board",
+   "crawledAt": 1795247449502
   },
   {
    "title": "Digital Designer",
@@ -91710,7 +92592,7 @@
    "website": "airtechintl.com",
    "src": "nyc",
    "page": "https://www.airtechjobs.com/",
-   "crawledAt": 1795161630701
+   "crawledAt": 1795247452704
   },
   {
    "title": "AI and Data Science Team Lead",
@@ -91724,7 +92606,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Backend Developer",
@@ -91738,7 +92620,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Cloud DevOps Engineer",
@@ -91752,7 +92634,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "D&A - Senior Data Engineer",
@@ -91766,7 +92648,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Data Architect",
@@ -91780,7 +92662,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Data Presale Solution Architect",
@@ -91794,7 +92676,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "DevOps Engineer",
@@ -91808,7 +92690,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "G&A - IT Specialist",
@@ -91822,7 +92704,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Marketing Cloud Consultant",
@@ -91836,7 +92718,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Sales - Account Executive - Enterprise Sector",
@@ -91850,7 +92732,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Technical Project Manager",
@@ -91864,7 +92746,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "AWS Connect Engineer (VoIP)",
@@ -91878,7 +92760,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Cloud Security Operations Specialist",
@@ -91892,7 +92774,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "CloudOps Technical Lead",
@@ -91906,7 +92788,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "D&A - Senior ML Engineer",
@@ -91920,7 +92802,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Data Engineer (Hebrew Speaker)",
@@ -91934,7 +92816,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "DevOps Engineer (Hebrew Speaker)",
@@ -91948,7 +92830,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Security Operations Specialist",
@@ -91962,7 +92844,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "MS - AWS Cloud Engineer",
@@ -91976,7 +92858,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "PS -AWS Solutions Architect",
@@ -91990,7 +92872,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Sales - Anthropic Partnership Sales Lead",
@@ -92004,7 +92886,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Sales - AWS Account Executive - IL",
@@ -92018,7 +92900,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Sales - Services Account Executive",
@@ -92032,7 +92914,7 @@
    "website": "allcloud.io",
    "src": "nyc",
    "page": "https://allcloud.io/careers/",
-   "crawledAt": 1795161638222
+   "crawledAt": 1795247460594
   },
   {
    "title": "Service Associate",
@@ -92046,7 +92928,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Senior Wealth Planner",
@@ -92060,7 +92942,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Financial Planning Intern",
@@ -92074,7 +92956,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Branch Office Administrator",
@@ -92088,7 +92970,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Service Administrator",
@@ -92102,7 +92984,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Performance Marketing Manager",
@@ -92116,7 +92998,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Regional Practice Growth Consultant",
@@ -92130,35 +93012,7 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
-  },
-  {
-   "title": "Equity Trader and Research Analyst",
-   "url": "https://allworthfinancial.com/careers#equity-trader-and-research-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Allworth Financial",
-   "website": "allworthfinancial.com",
-   "src": "nyc",
-   "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
-  },
-  {
-   "title": "Tax Client Service Representative",
-   "url": "https://allworthfinancial.com/careers#tax-client-service-representative",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Allworth Financial",
-   "website": "allworthfinancial.com",
-   "src": "nyc",
-   "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
   },
   {
    "title": "Future Client Specialist",
@@ -92172,7 +93026,35 @@
    "website": "allworthfinancial.com",
    "src": "nyc",
    "page": "https://allworthfinancial.com/why-people-work-with-us",
-   "crawledAt": 1795161644996
+   "crawledAt": 1795247466432
+  },
+  {
+   "title": "Equity Trader and Research Analyst",
+   "url": "https://allworthfinancial.com/careers#equity-trader-and-research-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Allworth Financial",
+   "website": "allworthfinancial.com",
+   "src": "nyc",
+   "page": "https://allworthfinancial.com/why-people-work-with-us",
+   "crawledAt": 1795247466432
+  },
+  {
+   "title": "Tax Client Service Representative",
+   "url": "https://allworthfinancial.com/careers#tax-client-service-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Allworth Financial",
+   "website": "allworthfinancial.com",
+   "src": "nyc",
+   "page": "https://allworthfinancial.com/why-people-work-with-us",
+   "crawledAt": 1795247466432
   },
   {
    "title": "Sr. Software Engineer",
@@ -92298,7 +93180,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Professional Services Specialist",
@@ -92312,7 +93194,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Technical Communications and Operations Specialist",
@@ -92326,7 +93208,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Business Development Senior Specialist (German speaking)",
@@ -92340,7 +93222,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Associate Director, Business Development",
@@ -92354,7 +93236,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Business Development Manager",
@@ -92368,7 +93250,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Account Manager",
@@ -92382,7 +93264,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "Business Development Senior Specialist",
@@ -92396,7 +93278,7 @@
    "website": "amenityanalytics.com",
    "src": "nyc",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795161647729
+   "crawledAt": 1795247468301
   },
   {
    "title": "AI Engineer",
@@ -92462,7 +93344,7 @@
    "website": "anyword.com",
    "src": "nyc",
    "page": "https://www.anyword.com/careers",
-   "crawledAt": 1795161651769
+   "crawledAt": 1795247475918
   },
   {
    "title": "Digital Advertising Analyst",
@@ -92476,7 +93358,7 @@
    "website": "anyword.com",
    "src": "nyc",
    "page": "https://www.anyword.com/careers",
-   "crawledAt": 1795161651769
+   "crawledAt": 1795247475918
   },
   {
    "title": "Senior Manager, Growth Marketing",
@@ -92490,7 +93372,7 @@
    "website": "anyword.com",
    "src": "nyc",
    "page": "https://www.anyword.com/careers",
-   "crawledAt": 1795161651769
+   "crawledAt": 1795247475918
   },
   {
    "title": "Demand Gen Manager",
@@ -92504,7 +93386,7 @@
    "website": "anyword.com",
    "src": "nyc",
    "page": "https://www.anyword.com/careers",
-   "crawledAt": 1795161651769
+   "crawledAt": 1795247475918
   },
   {
    "title": "Parva Bhayani, Network Engineer, Chicago, Illinois",
@@ -92518,7 +93400,7 @@
    "website": "anuvu.com",
    "src": "nyc",
    "page": "https://www.anuvu.com/our-company/careers",
-   "crawledAt": 1795161651492
+   "crawledAt": 1795247471889
   },
   {
    "title": "BUSINESS DEVELOPMENT MANAGER - CHINA",
@@ -92532,7 +93414,7 @@
    "website": "anzu.io",
    "src": "nyc",
    "page": "https://www.anzu.io/careers",
-   "crawledAt": 1795161658794
+   "crawledAt": 1795247477927
   },
   {
    "title": "TECHNICAL SPECIALIST",
@@ -92546,7 +93428,7 @@
    "website": "anzu.io",
    "src": "nyc",
    "page": "https://www.anzu.io/careers",
-   "crawledAt": 1795161658794
+   "crawledAt": 1795247477927
   },
   {
    "title": "JUNIOR TECHNICAL SPECIALIST",
@@ -92560,7 +93442,7 @@
    "website": "anzu.io",
    "src": "nyc",
    "page": "https://www.anzu.io/careers",
-   "crawledAt": 1795161658794
+   "crawledAt": 1795247477927
   },
   {
    "title": "AD OPERATIONS MANAGER",
@@ -92574,7 +93456,7 @@
    "website": "anzu.io",
    "src": "nyc",
    "page": "https://www.anzu.io/careers",
-   "crawledAt": 1795161658794
+   "crawledAt": 1795247477927
   },
   {
    "title": "JUNIOR AD OPERATIONS MANAGER",
@@ -92588,7 +93470,7 @@
    "website": "anzu.io",
    "src": "nyc",
    "page": "https://www.anzu.io/careers",
-   "crawledAt": 1795161658794
+   "crawledAt": 1795247477927
   },
   {
    "title": "Mobile Application Development Project Manager",
@@ -92602,7 +93484,7 @@
    "website": "appicoders.com",
    "src": "nyc",
    "page": "https://appicoders.com/careers",
-   "crawledAt": 1795161657976
+   "crawledAt": 1795247481164
   },
   {
    "title": "Backend Developer(s)",
@@ -92616,7 +93498,7 @@
    "website": "appicoders.com",
    "src": "nyc",
    "page": "https://appicoders.com/careers",
-   "crawledAt": 1795161657976
+   "crawledAt": 1795247481164
   },
   {
    "title": "App Developer(s) - React Native",
@@ -92630,7 +93512,7 @@
    "website": "appicoders.com",
    "src": "nyc",
    "page": "https://appicoders.com/careers",
-   "crawledAt": 1795161657976
+   "crawledAt": 1795247481164
   },
   {
    "title": "Business Development Executive(s)",
@@ -92644,7 +93526,7 @@
    "website": "appicoders.com",
    "src": "nyc",
    "page": "https://appicoders.com/careers",
-   "crawledAt": 1795161657976
+   "crawledAt": 1795247481164
   },
   {
    "title": "UI/UX (React JS) Developer(s)",
@@ -92658,7 +93540,7 @@
    "website": "appicoders.com",
    "src": "nyc",
    "page": "https://appicoders.com/careers",
-   "crawledAt": 1795161657976
+   "crawledAt": 1795247481164
   },
   {
    "title": "QA Engineer",
@@ -92672,7 +93554,7 @@
    "website": "applova.io",
    "src": "nyc",
    "page": "https://applova.io/careers/",
-   "crawledAt": 1795161663589
+   "crawledAt": 1795247482441
   },
   {
    "title": "Business Analyst",
@@ -92686,7 +93568,7 @@
    "website": "applova.io",
    "src": "nyc",
    "page": "https://applova.io/careers/",
-   "crawledAt": 1795161663589
+   "crawledAt": 1795247482441
   },
   {
    "title": "Customer Success/Customer Support Engineer",
@@ -92700,7 +93582,7 @@
    "website": "applova.io",
    "src": "nyc",
    "page": "https://applova.io/careers/",
-   "crawledAt": 1795161663589
+   "crawledAt": 1795247482441
   },
   {
    "title": "Technical Lead",
@@ -92714,7 +93596,7 @@
    "website": "applova.io",
    "src": "nyc",
    "page": "https://applova.io/careers/",
-   "crawledAt": 1795161663589
+   "crawledAt": 1795247482441
   },
   {
    "title": "Project Manager",
@@ -92728,7 +93610,7 @@
    "website": "appliedlabs.io",
    "src": "nyc",
    "page": "https://www.appliedlabs.io/careers",
-   "crawledAt": 1795161668025
+   "crawledAt": 1795247485787
   },
   {
    "title": "Middle Shopify Developer",
@@ -92742,7 +93624,7 @@
    "website": "appliedlabs.io",
    "src": "nyc",
    "page": "https://www.appliedlabs.io/careers",
-   "crawledAt": 1795161668025
+   "crawledAt": 1795247485787
   },
   {
    "title": "Senior Full-Stack Developer (React/TypeScript)",
@@ -92756,7 +93638,7 @@
    "website": "appliedlabs.io",
    "src": "nyc",
    "page": "https://www.appliedlabs.io/careers",
-   "crawledAt": 1795161668025
+   "crawledAt": 1795247485787
   },
   {
    "title": "Shopify Developer - Frontend & UI Specialist (Mid-Sr)",
@@ -92770,7 +93652,21 @@
    "website": "appliedlabs.io",
    "src": "nyc",
    "page": "https://www.appliedlabs.io/careers",
-   "crawledAt": 1795161668025
+   "crawledAt": 1795247485787
+  },
+  {
+   "title": "Sr Client Account Manager",
+   "url": "https://www.amsive.com/careers/#sr-client-account-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Amsive",
+   "website": "amsive.com",
+   "src": "nyc",
+   "page": "https://www.amsive.com/careers/",
+   "crawledAt": 1795247487492
   },
   {
    "title": "Art Director",
@@ -92784,7 +93680,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Associate Director, Social & Influencer Strategy",
@@ -92798,7 +93694,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Client Account Manager",
@@ -92812,7 +93708,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Client Account Director",
@@ -92826,7 +93722,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Client Account Manager, Insurance",
@@ -92840,7 +93736,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Client Account Director, Healthcare Accounts",
@@ -92854,7 +93750,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "SEO Strategist",
@@ -92868,7 +93764,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Sr SEO Specialist",
@@ -92882,7 +93778,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Senior Manager, Digital Media",
@@ -92896,7 +93792,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Social & Influencer Intern",
@@ -92910,21 +93806,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
-  },
-  {
-   "title": "Organic Search Intern (SEO)",
-   "url": "https://www.amsive.com/careers/#organic-search-intern-seo-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "INTERN",
-   "startDate": null,
-   "via": "text",
-   "company": "Amsive",
-   "website": "amsive.com",
-   "src": "nyc",
-   "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Digital Media Intern",
@@ -92938,7 +93820,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Plant Manager – Print & Mail Manufacturing",
@@ -92952,7 +93834,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Senior Email Production Specialist",
@@ -92966,7 +93848,7 @@
    "website": "amsive.com",
    "src": "nyc",
    "page": "https://www.amsive.com/careers/",
-   "crawledAt": 1795161675025
+   "crawledAt": 1795247487492
   },
   {
    "title": "Plant Finance Manager",
@@ -92994,7 +93876,7 @@
    "website": "apploi.com",
    "src": "nyc",
    "page": "https://apploi.com/careers/",
-   "crawledAt": 1795161694240
+   "crawledAt": 1795247493748
   },
   {
    "title": "Graphic Designer",
@@ -93008,7 +93890,7 @@
    "website": "appinventiv.com",
    "src": "nyc",
    "page": "https://appinventiv.com/career/",
-   "crawledAt": 1795161699218
+   "crawledAt": 1795247491873
   },
   {
    "title": "AL/ML Engineer",
@@ -93022,7 +93904,7 @@
    "website": "appinventiv.com",
    "src": "nyc",
    "page": "https://appinventiv.com/career/",
-   "crawledAt": 1795161699218
+   "crawledAt": 1795247491873
   },
   {
    "title": "Outbound Sales Lead",
@@ -93036,7 +93918,7 @@
    "website": "appinventiv.com",
    "src": "nyc",
    "page": "https://appinventiv.com/career/",
-   "crawledAt": 1795161699218
+   "crawledAt": 1795247491873
   },
   {
    "title": "Social Media Executive",
@@ -93050,7 +93932,7 @@
    "website": "appinventiv.com",
    "src": "nyc",
    "page": "https://appinventiv.com/career/",
-   "crawledAt": 1795161699218
+   "crawledAt": 1795247491873
   },
   {
    "title": "On-Site Project / Product Manager",
@@ -93064,7 +93946,7 @@
    "website": "appinventiv.com",
    "src": "nyc",
    "page": "https://appinventiv.com/career/",
-   "crawledAt": 1795161699218
+   "crawledAt": 1795247491873
   },
   {
    "title": "Senior Content Writer",
@@ -93078,7 +93960,7 @@
    "website": "appinventiv.com",
    "src": "nyc",
    "page": "https://appinventiv.com/career/",
-   "crawledAt": 1795161699218
+   "crawledAt": 1795247491873
   },
   {
    "title": "Careers",
@@ -93162,7 +94044,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Production Designer",
@@ -93176,7 +94058,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Event & Experiential Visual Designer",
@@ -93190,7 +94072,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Motion Designer",
@@ -93204,7 +94086,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Product Marketing Manager, Home Services",
@@ -93218,7 +94100,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Senior Presentation Designer (Executive & Events)",
@@ -93232,7 +94114,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Senior Art Director (Agency)",
@@ -93246,7 +94128,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Senior Project Manager",
@@ -93260,7 +94142,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Marketing Designer",
@@ -93274,7 +94156,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Product Designer",
@@ -93288,7 +94170,7 @@
    "website": "artisantalent.com",
    "src": "nyc",
    "page": "https://artisantalent.com/jobs/houston/",
-   "crawledAt": 1795161705528
+   "crawledAt": 1795247497469
   },
   {
    "title": "Construction Services Administrator",
@@ -93323,8 +94205,8 @@
    "crawledAt": 1795246038287
   },
   {
-   "title": "PMO Lead",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#pmo-lead",
+   "title": "Dayforce Functional Analyst",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#dayforce-functional-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -93334,161 +94216,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Supply Chain Business Analyst",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#supply-chain-business-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Strategy Lead",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#strategy-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "M&A Manager",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#m-a-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Apprentice & Trainee Coordinator",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#apprentice-trainee-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Communications Specialist",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#communications-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "HVFS Estimator / Planner",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#hvfs-estimator-planner",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Electrical Project Coordinator",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#electrical-project-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Procurement Specialist",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#procurement-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Inventory & Materials Planning Lead",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#inventory-materials-planning-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Supply Chain Master Data Officer",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#supply-chain-master-data-officer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
-  },
-  {
-   "title": "Item & Vendor Master Data Officer",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#item-vendor-master-data-officer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Ampcontrol",
-   "website": "ampcontrolgroup.com",
-   "src": "nyc",
-   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Data Quality Officer",
@@ -93502,7 +94230,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Test Manager",
@@ -93516,11 +94244,11 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
-   "title": "Hire and Project Manager",
-   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#hire-and-project-manager",
+   "title": "HVFS Estimator / Planner",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#hvfs-estimator-planner",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -93530,7 +94258,161 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Electrical Project Coordinator",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#electrical-project-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "PMO Lead",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#pmo-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Supply Chain Business Analyst",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#supply-chain-business-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Strategy Lead",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#strategy-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "M&A Manager",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#m-a-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Apprentice & Trainee Coordinator",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#apprentice-trainee-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Communications Specialist",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#communications-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Procurement Specialist",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#procurement-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Inventory & Materials Planning Lead",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#inventory-materials-planning-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Supply Chain Master Data Officer",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#supply-chain-master-data-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
+  },
+  {
+   "title": "Item & Vendor Master Data Officer",
+   "url": "https://ampcontrolgroup.com/work-with-us/join-our-team#item-vendor-master-data-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Ampcontrol",
+   "website": "ampcontrolgroup.com",
+   "src": "nyc",
+   "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
+   "crawledAt": 1795247504555
   },
   {
    "title": "Project Manager",
@@ -93544,7 +94426,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Engineering Coordinator",
@@ -93558,7 +94440,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Junior Project Manager",
@@ -93572,7 +94454,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Technology Integration Engineer",
@@ -93586,7 +94468,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Electrical Engineer",
@@ -93600,7 +94482,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Senior Electrical Engineer",
@@ -93614,7 +94496,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Mechanical Engineer",
@@ -93628,7 +94510,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Electrical Project Engineer",
@@ -93642,7 +94524,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Systems Engineer",
@@ -93656,7 +94538,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Project Administrator",
@@ -93670,7 +94552,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Administration Coordinator",
@@ -93684,7 +94566,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Quality Coordinator",
@@ -93698,7 +94580,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Business Development Manager",
@@ -93712,7 +94594,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Business Development Manager – Data Centres",
@@ -93726,7 +94608,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Gareth O’Reilly appointed as CEO & Managing Director",
@@ -93740,7 +94622,7 @@
    "website": "ampcontrolgroup.com",
    "src": "nyc",
    "page": "https://ampcontrolgroup.com/work-with-us/supporting-our-community",
-   "crawledAt": 1795161715815
+   "crawledAt": 1795247504555
   },
   {
    "title": "Senior Analyst,",
@@ -93754,7 +94636,7 @@
    "website": "aspirion.com",
    "src": "nyc",
    "page": "https://www.aspirion.com/careers/",
-   "crawledAt": 1795161722426
+   "crawledAt": 1795247503456
   },
   {
    "title": "Senior Learning Experience Developer",
@@ -93768,7 +94650,7 @@
    "website": "ana.net",
    "src": "nyc",
    "page": "https://www.ana.net/content/show/id/ana-careers",
-   "crawledAt": 1795161733349
+   "crawledAt": 1795247518012
   },
   {
    "title": "Video Editor & Production Specialist",
@@ -93782,7 +94664,7 @@
    "website": "ana.net",
    "src": "nyc",
    "page": "https://www.ana.net/content/show/id/ana-careers",
-   "crawledAt": 1795161733349
+   "crawledAt": 1795247518012
   },
   {
    "title": "D365 Developer",
@@ -93796,7 +94678,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Software Engineer – Iterable Platform",
@@ -93810,7 +94692,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Junior Designer",
@@ -93824,7 +94706,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "DevOps Engineer(Azure DevOps / Mobile CI/CD)",
@@ -93838,7 +94720,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Quality Assurance Manager",
@@ -93852,7 +94734,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Laravel PHP Developer (eCommerce & Integrations)",
@@ -93866,7 +94748,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Software Engineer (Dot Net)",
@@ -93880,7 +94762,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Network Engineer",
@@ -93894,7 +94776,7 @@
    "website": "asentechllc.com",
    "src": "nyc",
    "page": "https://www.asentechllc.com/careers/",
-   "crawledAt": 1795161728138
+   "crawledAt": 1795247510902
   },
   {
    "title": "Visual Designer – Brand & Storytelling",
@@ -93908,7 +94790,7 @@
    "website": "atoms.com",
    "src": "nyc",
    "page": "https://join.collabs.shopify.com/community/apply/f_kC_iXSSQ0",
-   "crawledAt": 1795161738126
+   "crawledAt": 1795247522050
   },
   {
    "title": "Visual Designer (Email + Ads) — Contract",
@@ -93922,7 +94804,7 @@
    "website": "atoms.com",
    "src": "nyc",
    "page": "https://join.collabs.shopify.com/community/apply/f_kC_iXSSQ0",
-   "crawledAt": 1795161738126
+   "crawledAt": 1795247522050
   },
   {
    "title": "Sales Director",
@@ -93936,7 +94818,7 @@
    "website": "audiencex.com",
    "src": "nyc",
    "page": "https://audiencex.com/careers/",
-   "crawledAt": 1795161754603
+   "crawledAt": 1795247534811
   },
   {
    "title": "Freelance Graphic Designer",
@@ -93950,7 +94832,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Design Intern",
@@ -93964,7 +94846,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Technical Architect / Tech Lead",
@@ -93978,7 +94860,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Account Manager",
@@ -93992,7 +94874,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Freelance Senior Digital Designer (Shopify & E-commerce)",
@@ -94006,7 +94888,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Digital Project Manager",
@@ -94020,7 +94902,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "QA / Data Entry Specialist",
@@ -94034,7 +94916,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "AI Engineer / Shopify Developer",
@@ -94048,7 +94930,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Senior Project Manager",
@@ -94062,7 +94944,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Senior or Executive",
@@ -94076,7 +94958,7 @@
    "website": "barrelny.com",
    "src": "nyc",
    "page": "https://www.barrelny.com/careers",
-   "crawledAt": 1795161742621
+   "crawledAt": 1795247526083
   },
   {
    "title": "Senior Packaging Engineer",
@@ -94116,7 +94998,7 @@
    "website": "biocatch.com",
    "src": "nyc",
    "page": "https://www.biocatch.com/careers/candidate-privacy-notice",
-   "crawledAt": 1795161757287
+   "crawledAt": 1795247539591
   },
   {
    "title": "Rule Manager",
@@ -94130,7 +95012,7 @@
    "website": "biocatch.com",
    "src": "nyc",
    "page": "https://www.biocatch.com/careers/candidate-privacy-notice",
-   "crawledAt": 1795161757287
+   "crawledAt": 1795247539591
   },
   {
    "title": "Associate Software Engineer",
@@ -94228,7 +95110,7 @@
    "website": "autismcarepartners.com",
    "src": "nyc",
    "page": "https://autismcarepartners.com/careers/",
-   "crawledAt": 1795161764307
+   "crawledAt": 1795247544645
   },
   {
    "title": "Senior DevOps Engineer - European Client Projects",
@@ -94242,7 +95124,7 @@
    "website": "wearebluecode.com",
    "src": "nyc",
    "page": "https://wearebluecode.com/",
-   "crawledAt": 1795161763643
+   "crawledAt": 1795247545925
   },
   {
    "title": "Account Executive",
@@ -94256,7 +95138,7 @@
    "website": "bizzabo.com",
    "src": "nyc",
    "page": "https://www.bizzabo.com/careers",
-   "crawledAt": 1795161770125
+   "crawledAt": 1795247552676
   },
   {
    "title": "Customer Success Manager",
@@ -94270,7 +95152,7 @@
    "website": "bizzabo.com",
    "src": "nyc",
    "page": "https://www.bizzabo.com/careers",
-   "crawledAt": 1795161770125
+   "crawledAt": 1795247552676
   },
   {
    "title": "Product Marketing Lead",
@@ -94284,7 +95166,7 @@
    "website": "bizzabo.com",
    "src": "nyc",
    "page": "https://www.bizzabo.com/careers",
-   "crawledAt": 1795161770125
+   "crawledAt": 1795247552676
   },
   {
    "title": "Strategic FP&A Manager",
@@ -94298,7 +95180,7 @@
    "website": "bizzabo.com",
    "src": "nyc",
    "page": "https://www.bizzabo.com/careers",
-   "crawledAt": 1795161770125
+   "crawledAt": 1795247552676
   },
   {
    "title": "SEO Specialist &#8211; Contract",
@@ -94441,7 +95323,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Contract Project Manager (Evergreen)",
@@ -94455,7 +95337,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Project Manager (Evergreen)",
@@ -94469,7 +95351,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Program Manager (Digital, Websites) - Evergreen",
@@ -94483,7 +95365,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Contract Program Manager (Digital, Websites) - Evergreen",
@@ -94497,7 +95379,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Contract UX Designer (Evergreen)",
@@ -94511,7 +95393,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Contract Media Planner (Evergreen)",
@@ -94525,7 +95407,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Media Strategist, Buying",
@@ -94539,7 +95421,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Senior Media Strategist",
@@ -94553,7 +95435,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Principal Analyst",
@@ -94567,7 +95449,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Contract Product Manager (Evergreen)",
@@ -94581,7 +95463,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Product Manager (Evergreen)",
@@ -94595,7 +95477,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Contract Senior Analyst (Evergreen)",
@@ -94609,7 +95491,7 @@
    "website": "bluestate.co",
    "src": "nyc",
    "page": "https://www.bluestate.co/careers/",
-   "crawledAt": 1795161771296
+   "crawledAt": 1795247551411
   },
   {
    "title": "Machine Learning Engineer (mid-level LHL)",
@@ -94942,7 +95824,7 @@
    "website": "bioscriptgroup.com",
    "src": "nyc",
    "page": "https://bioscriptgroup.com/careers/",
-   "crawledAt": 1795161781957
+   "crawledAt": 1795247563356
   },
   {
    "title": "Medical Writer",
@@ -94956,7 +95838,7 @@
    "website": "bioscriptgroup.com",
    "src": "nyc",
    "page": "https://bioscriptgroup.com/careers/",
-   "crawledAt": 1795161781957
+   "crawledAt": 1795247563356
   },
   {
    "title": "Account Executive",
@@ -94970,7 +95852,7 @@
    "website": "bioscriptgroup.com",
    "src": "nyc",
    "page": "https://bioscriptgroup.com/careers/",
-   "crawledAt": 1795161781957
+   "crawledAt": 1795247563356
   },
   {
    "title": "Projects Manager",
@@ -94984,7 +95866,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Community Success Coordinator",
@@ -94998,7 +95880,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Snr. Consumer Insights Analyst",
@@ -95012,7 +95894,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Consumer Insights Analyst",
@@ -95026,7 +95908,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Research & Consumer Insights Manager",
@@ -95040,7 +95922,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Research Technology (ResTech) Product Manager",
@@ -95054,7 +95936,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Data Analyst",
@@ -95068,7 +95950,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Data Scientist",
@@ -95082,7 +95964,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Data Engineer",
@@ -95096,7 +95978,7 @@
    "website": "bluedotinsights.com",
    "src": "nyc",
    "page": "https://bluedotinsights.zohorecruit.com/jobs/Careers",
-   "crawledAt": 1795161780754
+   "crawledAt": 1795247562642
   },
   {
    "title": "Senior AI Engineer",
@@ -95110,7 +95992,7 @@
    "website": "bondsports.co",
    "src": "nyc",
    "page": "https://facilities.bondsports.co/careers",
-   "crawledAt": 1795161788423
+   "crawledAt": 1795247570694
   },
   {
    "title": "Chief Technology Officer",
@@ -95124,7 +96006,7 @@
    "website": "braincheck.com",
    "src": "nyc",
    "page": "https://braincheck.com/about/careers/",
-   "crawledAt": 1795161787063
+   "crawledAt": 1795247568438
   },
   {
    "title": "People Operations & Events Manager",
@@ -95138,7 +96020,7 @@
    "website": "braincheck.com",
    "src": "nyc",
    "page": "https://braincheck.com/about/careers/",
-   "crawledAt": 1795161787063
+   "crawledAt": 1795247568438
   },
   {
    "title": "Customer Success Representative",
@@ -95152,7 +96034,7 @@
    "website": "braincheck.com",
    "src": "nyc",
    "page": "https://braincheck.com/about/careers/",
-   "crawledAt": 1795161787063
+   "crawledAt": 1795247568438
   },
   {
    "title": "Senior SEO Strategist",
@@ -95259,7 +96141,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Corporate Counsel",
@@ -95273,7 +96155,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Production Associate (Modern Farmer)",
@@ -95287,7 +96169,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "R&D Experiment Coordinator",
@@ -95301,7 +96183,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "R&D Specialist (Strawberries)",
@@ -95315,7 +96197,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "R&D Team Lead",
@@ -95329,7 +96211,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Sales Analytics Manager",
@@ -95343,7 +96225,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Sanitation Associate (Night Shift)",
@@ -95357,7 +96239,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Senior Electrical Engineer",
@@ -95371,7 +96253,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Senior Software Engineer",
@@ -95385,7 +96267,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Senior Technical Program Manager",
@@ -95399,7 +96281,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Shipping & Receiving Associate (Night Shift)",
@@ -95413,7 +96295,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Warehouse Associate (Modern Farmer)",
@@ -95427,7 +96309,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Newton Kalengamaliro, Senior Ag Scientist",
@@ -95441,7 +96323,7 @@
    "website": "boweryfarming.com",
    "src": "nyc",
    "page": "https://boweryfarming.com/farm-careers/",
-   "crawledAt": 1795161801781
+   "crawledAt": 1795247579565
   },
   {
    "title": "Associate Editor",
@@ -95645,7 +96527,7 @@
    "website": "breadboard.com",
    "src": "nyc",
    "page": "https://www.breadboard.com/careers",
-   "crawledAt": 1795161795675
+   "crawledAt": 1795247577381
   },
   {
    "title": "Qualification Requirements for a Product Manager",
@@ -95659,7 +96541,7 @@
    "website": "brainstation.io",
    "src": "nyc",
    "page": "https://brainstation.io/career-guides/how-to-become-a-product-manager",
-   "crawledAt": 1795161801940
+   "crawledAt": 1795247583609
   },
   {
    "title": "Project Manager",
@@ -95673,7 +96555,7 @@
    "website": "brainstation.io",
    "src": "nyc",
    "page": "https://brainstation.io/career-guides/how-to-become-a-product-manager",
-   "crawledAt": 1795161801940
+   "crawledAt": 1795247583609
   },
   {
    "title": "Product Manager",
@@ -95687,11 +96569,11 @@
    "website": "brainstation.io",
    "src": "nyc",
    "page": "https://brainstation.io/career-guides/how-to-become-a-product-manager",
-   "crawledAt": 1795161801940
+   "crawledAt": 1795247583609
   },
   {
    "title": "Business Development Manager",
-   "url": "https://www.brandmuscle.com/careers/#business-development-manager",
+   "url": "https://www.brandmuscle.com/careers#business-development-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -95701,7 +96583,7 @@
    "website": "brandmuscle.com",
    "src": "nyc",
    "page": "https://www.brandmuscle.com/careers",
-   "crawledAt": 1795161807710
+   "crawledAt": 1795247585678
   },
   {
    "title": "Senior Designer",
@@ -95715,7 +96597,7 @@
    "website": "brandpie.com",
    "src": "nyc",
    "page": "https://brandpie.com/about/careers/",
-   "crawledAt": 1795161813967
+   "crawledAt": 1795247594852
   },
   {
    "title": "Junior Operations Associate",
@@ -95729,7 +96611,7 @@
    "website": "bubblegoods.com",
    "src": "nyc",
    "page": "https://bubblegoods.com/pages/careers",
-   "crawledAt": 1795161815843
+   "crawledAt": 1795247593683
   },
   {
    "title": "Design Engineer, Ecommerce",
@@ -95743,7 +96625,7 @@
    "website": "bubblegoods.com",
    "src": "nyc",
    "page": "https://bubblegoods.com/pages/careers",
-   "crawledAt": 1795161815843
+   "crawledAt": 1795247593683
   },
   {
    "title": "Staff / Principal Full Stack AI Engineer",
@@ -95757,7 +96639,7 @@
    "website": "brighthire.com",
    "src": "nyc",
    "page": "https://brighthire.com/solutions/faster-hiring/",
-   "crawledAt": 1795161827053
+   "crawledAt": 1795247605622
   },
   {
    "title": "Senior/Staff Full Stack AI Engineer",
@@ -95771,7 +96653,7 @@
    "website": "brighthire.com",
    "src": "nyc",
    "page": "https://brighthire.com/solutions/faster-hiring/",
-   "crawledAt": 1795161827053
+   "crawledAt": 1795247605622
   },
   {
    "title": "Staff/Principal Product Manager",
@@ -95785,7 +96667,7 @@
    "website": "brighthire.com",
    "src": "nyc",
    "page": "https://brighthire.com/solutions/faster-hiring/",
-   "crawledAt": 1795161827053
+   "crawledAt": 1795247605622
   },
   {
    "title": "Sales Development Representative",
@@ -95799,21 +96681,7 @@
    "website": "brighthire.com",
    "src": "nyc",
    "page": "https://brighthire.com/solutions/faster-hiring/",
-   "crawledAt": 1795161827053
-  },
-  {
-   "title": "School Coordinator",
-   "url": "https://blockslearning.com/jobs/30b2fda5-b248-4cb0-91c0-f7d6abe82cde",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "Building Blocks Early Learning Center",
-   "website": "blockslearning.com",
-   "src": "nyc",
-   "page": "https://blockslearning.com/jobs/",
-   "crawledAt": 1795161825140
+   "crawledAt": 1795247605622
   },
   {
    "title": "Corporate & Special Events Specialist",
@@ -95827,7 +96695,7 @@
    "website": "broadwaycares.org",
    "src": "nyc",
    "page": "https://broadwaycares.org/careers/",
-   "crawledAt": 1795161841940
+   "crawledAt": 1795247620394
   },
   {
    "title": "Individual Giving Officer",
@@ -95841,7 +96709,7 @@
    "website": "broadwaycares.org",
    "src": "nyc",
    "page": "https://broadwaycares.org/careers/",
-   "crawledAt": 1795161841940
+   "crawledAt": 1795247620394
   },
   {
    "title": "Junior Planner",
@@ -95953,7 +96821,7 @@
    "website": "burstdgtl.com",
    "src": "nyc",
    "page": "https://burstdgtl.com/career/",
-   "crawledAt": 1795161843469
+   "crawledAt": 1795247618994
   },
   {
    "title": "Digital Marketing Executive",
@@ -95967,7 +96835,7 @@
    "website": "burstdgtl.com",
    "src": "nyc",
    "page": "https://burstdgtl.com/career/",
-   "crawledAt": 1795161843469
+   "crawledAt": 1795247618994
   },
   {
    "title": "SEO Executive",
@@ -95981,7 +96849,7 @@
    "website": "burstdgtl.com",
    "src": "nyc",
    "page": "https://burstdgtl.com/career/",
-   "crawledAt": 1795161843469
+   "crawledAt": 1795247618994
   },
   {
    "title": "Sign up as a Creator or Talent Manager",
@@ -95995,7 +96863,7 @@
    "website": "captiv8.io",
    "src": "nyc",
    "page": "https://captiv8.io/",
-   "crawledAt": 1795161845394
+   "crawledAt": 1795247622649
   },
   {
    "title": "I am a Talent Manager",
@@ -96009,7 +96877,7 @@
    "website": "captiv8.io",
    "src": "nyc",
    "page": "https://captiv8.io/",
-   "crawledAt": 1795161845394
+   "crawledAt": 1795247622649
   },
   {
    "title": "Connect with a Sleep Specialist",
@@ -96023,7 +96891,7 @@
    "website": "casper.com",
    "src": "nyc",
    "page": "https://casper.com/pages/jobs",
-   "crawledAt": 1795161866727
+   "crawledAt": 1795247642141
   },
   {
    "title": "Marketing Partner Manager (Germany)",
@@ -96107,7 +96975,7 @@
    "website": "cellectar.com",
    "src": "nyc",
    "page": "https://www.cellectar.com/careers",
-   "crawledAt": 1795161850114
+   "crawledAt": 1795247627188
   },
   {
    "title": "Environmental Health & Safety Manager",
@@ -96371,7 +97239,7 @@
    "website": "chargeafter.com",
    "src": "nyc",
    "page": "https://chargeafter.com/careers/",
-   "crawledAt": 1795161857032
+   "crawledAt": 1795247632313
   },
   {
    "title": "Enterprise Sales Director, Home Improvement",
@@ -96385,7 +97253,7 @@
    "website": "chargeafter.com",
    "src": "nyc",
    "page": "https://chargeafter.com/careers/",
-   "crawledAt": 1795161857032
+   "crawledAt": 1795247632313
   },
   {
    "title": "Enterprise Sales Director, Retail",
@@ -96399,7 +97267,7 @@
    "website": "chargeafter.com",
    "src": "nyc",
    "page": "https://chargeafter.com/careers/",
-   "crawledAt": 1795161857032
+   "crawledAt": 1795247632313
   },
   {
    "title": "Enterprise Solution Architect",
@@ -96413,7 +97281,7 @@
    "website": "chargeafter.com",
    "src": "nyc",
    "page": "https://chargeafter.com/careers/",
-   "crawledAt": 1795161857032
+   "crawledAt": 1795247632313
   },
   {
    "title": "Program Manager",
@@ -96427,7 +97295,7 @@
    "website": "chargeafter.com",
    "src": "nyc",
    "page": "https://chargeafter.com/careers/",
-   "crawledAt": 1795161857032
+   "crawledAt": 1795247632313
   },
   {
    "title": "Technical Project Manager",
@@ -96441,7 +97309,7 @@
    "website": "chargeafter.com",
    "src": "nyc",
    "page": "https://chargeafter.com/careers/",
-   "crawledAt": 1795161857032
+   "crawledAt": 1795247632313
   },
   {
    "title": "Client Service Officer",
@@ -96455,7 +97323,7 @@
    "website": "chiltontrustcompany.com",
    "src": "nyc",
    "page": "https://chiltontrustcompany.com/about-us/culture-careers/",
-   "crawledAt": 1795161873443
+   "crawledAt": 1795247646248
   },
   {
    "title": "Interim-President, General Counsel & Chief Compliance Officer",
@@ -96469,7 +97337,7 @@
    "website": "chiltontrustcompany.com",
    "src": "nyc",
    "page": "https://chiltontrustcompany.com/about-us/culture-careers/",
-   "crawledAt": 1795161873443
+   "crawledAt": 1795247646248
   },
   {
    "title": "Senior Data Analyst, Client Analytics",
@@ -96497,7 +97365,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Power BI Developer",
@@ -96511,7 +97379,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Tableau Developer",
@@ -96525,7 +97393,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Azure Developer",
@@ -96539,7 +97407,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Full Stack Developer",
@@ -96553,7 +97421,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Backend Developer",
@@ -96567,7 +97435,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire PHP Developer",
@@ -96581,7 +97449,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Python Developer",
@@ -96595,7 +97463,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Java Developer",
@@ -96609,7 +97477,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire NodeJS Developer",
@@ -96623,7 +97491,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Laravel Developer",
@@ -96637,7 +97505,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Frontend Developer",
@@ -96651,7 +97519,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Angular Developer",
@@ -96665,7 +97533,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire ReactJS Developer",
@@ -96679,7 +97547,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire VueJS Developer",
@@ -96693,7 +97561,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Mobile App Developer",
@@ -96707,7 +97575,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire iOS Developer",
@@ -96721,7 +97589,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Android Developer",
@@ -96735,7 +97603,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire React Native Developer",
@@ -96749,7 +97617,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Flutter Developer",
@@ -96763,7 +97631,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Xamarin Developer",
@@ -96777,7 +97645,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire CMS Developer",
@@ -96791,7 +97659,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire WordPress Developer",
@@ -96805,7 +97673,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Joomla Developer",
@@ -96819,7 +97687,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Drupal Developer",
@@ -96833,7 +97701,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire eCommerce Developer",
@@ -96847,7 +97715,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire nopCommerce Developer",
@@ -96861,7 +97729,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Hire Shopify Developer",
@@ -96875,7 +97743,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "QA Engineer",
@@ -96889,7 +97757,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Software Engineer - L2",
@@ -96903,7 +97771,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Potential Team Lead (.Net)",
@@ -96917,7 +97785,7 @@
    "website": "clariontech.com",
    "src": "nyc",
    "page": "https://www.clariontech.com/careers",
-   "crawledAt": 1795161886329
+   "crawledAt": 1795247660493
   },
   {
    "title": "Care Experience Specialist",
@@ -97001,7 +97869,7 @@
    "website": "classlink.com",
    "src": "nyc",
    "page": "https://www.classlink.com/company/careers",
-   "crawledAt": 1795161880316
+   "crawledAt": 1795247651692
   },
   {
    "title": "Partner Solutions Engineer",
@@ -97015,7 +97883,7 @@
    "website": "classlink.com",
    "src": "nyc",
    "page": "https://www.classlink.com/company/careers",
-   "crawledAt": 1795161880316
+   "crawledAt": 1795247651692
   },
   {
    "title": "UX Designer",
@@ -97029,7 +97897,7 @@
    "website": "citrusbits.com",
    "src": "nyc",
    "page": "https://citrusbits.com/career/",
-   "crawledAt": 1795161884077
+   "crawledAt": 1795247655220
   },
   {
    "title": "Project Manager",
@@ -97043,7 +97911,7 @@
    "website": "citrusbits.com",
    "src": "nyc",
    "page": "https://citrusbits.com/career/",
-   "crawledAt": 1795161884077
+   "crawledAt": 1795247655220
   },
   {
    "title": "Solution Architect",
@@ -97057,7 +97925,7 @@
    "website": "ciglobaltech.com",
    "src": "nyc",
    "page": "https://ciglobaltech.com/careers/",
-   "crawledAt": 1795161890435
+   "crawledAt": 1795247661875
   },
   {
    "title": "Release Engineer",
@@ -97071,7 +97939,7 @@
    "website": "ciglobaltech.com",
    "src": "nyc",
    "page": "https://ciglobaltech.com/careers/",
-   "crawledAt": 1795161890435
+   "crawledAt": 1795247661875
   },
   {
    "title": "Project Manager",
@@ -97085,7 +97953,7 @@
    "website": "ciglobaltech.com",
    "src": "nyc",
    "page": "https://ciglobaltech.com/careers/",
-   "crawledAt": 1795161890435
+   "crawledAt": 1795247661875
   },
   {
    "title": "Technical Architect",
@@ -97099,7 +97967,7 @@
    "website": "ciglobaltech.com",
    "src": "nyc",
    "page": "https://ciglobaltech.com/careers/",
-   "crawledAt": 1795161890435
+   "crawledAt": 1795247661875
   },
   {
    "title": "Senior Systems & Infrastructure Administrator",
@@ -97113,7 +97981,7 @@
    "website": "ciglobaltech.com",
    "src": "nyc",
    "page": "https://ciglobaltech.com/careers/",
-   "crawledAt": 1795161890435
+   "crawledAt": 1795247661875
   },
   {
    "title": "Sage X3 Developer",
@@ -97127,7 +97995,7 @@
    "website": "ciglobaltech.com",
    "src": "nyc",
    "page": "https://ciglobaltech.com/careers/",
-   "crawledAt": 1795161890435
+   "crawledAt": 1795247661875
   },
   {
    "title": "Store Manager, Brooklyn Made Store at City Point",
@@ -97183,7 +98051,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "Python AI/ML Developer",
@@ -97197,7 +98065,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "Lead AI Engineer",
@@ -97211,7 +98079,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "Java Software Engineer",
@@ -97225,7 +98093,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "IAM Governance Engineer",
@@ -97239,7 +98107,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "SCADA Process Control Specialist",
@@ -97253,7 +98121,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "Nurse Case Manager",
@@ -97267,7 +98135,7 @@
    "website": "cogentinfo.com",
    "src": "nyc",
    "page": "https://cogentinfo.com/careers",
-   "crawledAt": 1795161893255
+   "crawledAt": 1795247666447
   },
   {
    "title": "Chief Operating Officer",
@@ -97281,7 +98149,7 @@
    "website": "commonenergy.us",
    "src": "nyc",
    "page": "https://www.commonenergy.us/careers",
-   "crawledAt": 1795161899548
+   "crawledAt": 1795247670986
   },
   {
    "title": "Middle Scraping Engineer",
@@ -97295,7 +98163,7 @@
    "website": "competera.net",
    "src": "nyc",
    "page": "https://competera.ai/company/careers",
-   "crawledAt": 1795161901242
+   "crawledAt": 1795247673053
   },
   {
    "title": "Data Scientist",
@@ -97309,7 +98177,7 @@
    "website": "competera.net",
    "src": "nyc",
    "page": "https://competera.ai/company/careers",
-   "crawledAt": 1795161901242
+   "crawledAt": 1795247673053
   },
   {
    "title": "Lead Data Scientist",
@@ -97323,7 +98191,7 @@
    "website": "competera.net",
    "src": "nyc",
    "page": "https://competera.ai/company/careers",
-   "crawledAt": 1795161901242
+   "crawledAt": 1795247673053
   },
   {
    "title": "Senior Solution Architect",
@@ -97337,7 +98205,7 @@
    "website": "conduktor.io",
    "src": "nyc",
    "page": "https://www.conduktor.io/careers",
-   "crawledAt": 1795161905718
+   "crawledAt": 1795247676568
   },
   {
    "title": "Engineering Manager",
@@ -97351,7 +98219,7 @@
    "website": "conduktor.io",
    "src": "nyc",
    "page": "https://www.conduktor.io/careers",
-   "crawledAt": 1795161905718
+   "crawledAt": 1795247676568
   },
   {
    "title": "Senior Technical Support Engineer",
@@ -97365,7 +98233,7 @@
    "website": "conduktor.io",
    "src": "nyc",
    "page": "https://www.conduktor.io/careers",
-   "crawledAt": 1795161905718
+   "crawledAt": 1795247676568
   },
   {
    "title": "Senior GenAI Engineer",
@@ -97379,7 +98247,7 @@
    "website": "corridorplatforms.com",
    "src": "nyc",
    "page": "https://corridorplatforms.com/careers",
-   "crawledAt": 1795161904772
+   "crawledAt": 1795247676060
   },
   {
    "title": "Senior Backend Engineer",
@@ -97393,7 +98261,7 @@
    "website": "corridorplatforms.com",
    "src": "nyc",
    "page": "https://corridorplatforms.com/careers",
-   "crawledAt": 1795161904772
+   "crawledAt": 1795247676060
   },
   {
    "title": "Integration Engineer",
@@ -97407,7 +98275,7 @@
    "website": "corridorplatforms.com",
    "src": "nyc",
    "page": "https://corridorplatforms.com/careers",
-   "crawledAt": 1795161904772
+   "crawledAt": 1795247676060
   },
   {
    "title": "Creative Director",
@@ -97421,7 +98289,7 @@
    "website": "convinceandconvert.com",
    "src": "nyc",
    "page": "https://www.lt.agency/about/careers",
-   "crawledAt": 1795161912200
+   "crawledAt": 1795247688058
   },
   {
    "title": "Public Relations Strategist",
@@ -97435,7 +98303,7 @@
    "website": "convinceandconvert.com",
    "src": "nyc",
    "page": "https://www.lt.agency/about/careers",
-   "crawledAt": 1795161912200
+   "crawledAt": 1795247688058
   },
   {
    "title": "Product Director, Coresignal",
@@ -97449,7 +98317,7 @@
    "website": "coresignal.com",
    "src": "nyc",
    "page": "https://coresignal.com/ai-entry-level-hiring/",
-   "crawledAt": 1795161976871
+   "crawledAt": 1795247683233
   },
   {
    "title": "Editor",
