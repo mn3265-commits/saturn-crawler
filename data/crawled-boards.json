@@ -1,25 +1,25 @@
 {
- "generated": "2026-11-22T09:40:05.342Z",
+ "generated": "2026-11-22T09:45:35.835Z",
  "companies": 22940,
  "status": {
-  "found": 3190,
-  "no-ats": 11891,
-  "site": 3720,
-  "down": 4139
+  "found": 3229,
+  "no-ats": 11868,
+  "site": 3726,
+  "down": 4117
  },
  "byType": {
   "dover": 7,
-  "ashby": 685,
-  "workday": 569,
-  "gh": 894,
-  "lever": 264,
-  "workable": 186,
-  "rippling": 135,
-  "bamboohr": 167,
-  "gem": 69,
+  "ashby": 698,
+  "workday": 570,
+  "gh": 911,
+  "lever": 268,
+  "gem": 71,
+  "rippling": 137,
+  "workable": 188,
+  "bamboohr": 169,
+  "smartrecruiters": 58,
   "recruitee": 28,
   "eightfold": 43,
-  "smartrecruiters": 57,
   "icims": 159,
   "oracle": 92,
   "successfactors": 14
@@ -103,6 +103,24 @@
    "website": "apollographql.com",
    "page": "https://www.apollographql.com/careers",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "goatgroup",
+   "url": "boards.greenhouse.io/goatgroup",
+   "label": "GOAT Group",
+   "website": "goatgroup.com",
+   "page": "https://www.goatgroup.com/jobs",
+   "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "Tremendous",
+   "url": "jobs.ashbyhq.com/Tremendous",
+   "label": "Tremendous",
+   "website": "tremendous.com",
+   "page": "https://www.tremendous.com/careers/",
+   "src": "nyc"
   },
   {
    "type": "gh",
@@ -203,6 +221,15 @@
    "src": "h1b"
   },
   {
+   "type": "gh",
+   "token": "fivetran",
+   "url": "boards-api.greenhouse.io/v1/boards/fivetran",
+   "label": "Fivetran",
+   "website": "fivetran.com",
+   "page": "https://www.fivetran.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "Influxdata",
    "url": "jobs.ashbyhq.com/Influxdata",
@@ -244,6 +271,33 @@
    "label": "Lob",
    "website": "lob.com",
    "src": "nyc"
+  },
+  {
+   "type": "gem",
+   "token": "aptdeco",
+   "url": "jobs.gem.com/aptdeco",
+   "label": "AptDeco",
+   "website": "aptdeco.com",
+   "page": "https://www.aptdeco.com/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Ambition",
+   "website": "ambition.com",
+   "page": "https://ambition.com/about",
+   "src": "yc"
+  },
+  {
+   "type": "lever",
+   "token": "codecombat",
+   "url": "jobs.lever.co/codecombat",
+   "label": "CodeCombat",
+   "website": "codecombat.com",
+   "page": "https://codecombat.com/jobs",
+   "src": "yc"
   },
   {
    "type": "lever",
@@ -323,6 +377,15 @@
    "label": "PicnicAI",
    "website": "picnic.ai",
    "page": "https://picnic.ai/careers",
+   "src": "yc"
+  },
+  {
+   "type": "workable",
+   "token": "airhelp",
+   "url": "apply.workable.com/airhelp",
+   "label": "AirHelp",
+   "website": "airhelp.com",
+   "page": "https://careers.airhelp.com/",
    "src": "yc"
   },
   {
@@ -478,6 +541,14 @@
    "src": "yc"
   },
   {
+   "type": "bamboohr",
+   "token": "flaviar",
+   "url": "flaviar.bamboohr.com/jobs",
+   "label": "Flaviar",
+   "website": "flaviar.com",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "ironcladhq",
    "url": "jobs.ashbyhq.com/ironcladhq",
@@ -519,6 +590,15 @@
    "label": "Plate IQ",
    "website": "plateiq.com",
    "page": "https://ottimate.com/careers/",
+   "src": "yc"
+  },
+  {
+   "type": "lever",
+   "token": "reachpower",
+   "url": "jobs.lever.co/reachpower",
+   "label": "Reach",
+   "website": "reachpower.com",
+   "page": "https://reachpower.com/careers/",
    "src": "yc"
   },
   {
@@ -647,6 +727,60 @@
    "src": "yc"
   },
   {
+   "type": "gh",
+   "token": "go1us",
+   "url": "boards-api.greenhouse.io/v1/boards/go1us",
+   "label": "Go1",
+   "website": "go1.com",
+   "page": "https://www.go1.com/company/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "go1au",
+   "url": "boards-api.greenhouse.io/v1/boards/go1au",
+   "label": "Go1",
+   "website": "go1.com",
+   "page": "https://www.go1.com/company/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "go1eu",
+   "url": "boards-api.greenhouse.io/v1/boards/go1eu",
+   "label": "Go1",
+   "website": "go1.com",
+   "page": "https://www.go1.com/company/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "go1vn",
+   "url": "boards-api.greenhouse.io/v1/boards/go1vn",
+   "label": "Go1",
+   "website": "go1.com",
+   "page": "https://www.go1.com/company/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "go1my",
+   "url": "boards-api.greenhouse.io/v1/boards/go1my",
+   "label": "Go1",
+   "website": "go1.com",
+   "page": "https://www.go1.com/company/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "apolloio",
+   "url": "boards-api.greenhouse.io/v1/boards/apolloio",
+   "label": "Apollo",
+   "website": "apollo.io",
+   "page": "https://www.apollo.io/careers",
+   "src": "nyc"
+  },
+  {
    "type": "bamboohr",
    "token": "netbeez",
    "url": "netbeez.bamboohr.com/careers",
@@ -763,6 +897,15 @@
    "src": "yc"
   },
   {
+   "type": "lever",
+   "token": "multiplylabs",
+   "url": "jobs.lever.co/multiplylabs",
+   "label": "Multiply Labs",
+   "website": "multiplylabs.com",
+   "page": "https://www.multiplylabs.com/_astro/careers.BkOwHNue.css",
+   "src": "yc"
+  },
+  {
    "type": "ashby",
    "token": "Commure-Athelas",
    "url": "jobs.ashbyhq.com/Commure-Athelas",
@@ -806,6 +949,15 @@
    "website": "classdojo.com",
    "page": "https://www.classdojo.com/jobs/",
    "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "mednet",
+   "url": "jobs.ashbyhq.com/mednet",
+   "label": "Mednet",
+   "website": "themednet.org",
+   "page": "https://www.themednet.org/careers",
+   "src": "nyc"
   },
   {
    "type": "gem",
@@ -915,6 +1067,15 @@
    "src": "yc"
   },
   {
+   "type": "ashby",
+   "token": "UpCodes",
+   "url": "jobs.ashbyhq.com/UpCodes",
+   "label": "UpCodes",
+   "website": "up.codes",
+   "page": "https://up.codes/careers",
+   "src": "yc"
+  },
+  {
    "type": "gh",
    "token": "roofr",
    "url": "boards-api.greenhouse.io/v1/boards/roofr",
@@ -922,6 +1083,24 @@
    "website": "roofr.com",
    "page": "https://roofr.com/careers",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "lively43",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=lively43",
+   "label": "Lively, Inc.",
+   "website": "livelyme.com",
+   "page": "https://livelyme.com/careers",
+   "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "aclu",
+   "url": "boards-api.greenhouse.io/v1/boards/aclu",
+   "label": "ACLU",
+   "website": "aclu.org",
+   "page": "https://act.aclu.org/a/join-aclu-people-power?ms=aclu_website",
+   "src": "nyc"
   },
   {
    "type": "ashby",
@@ -940,6 +1119,15 @@
    "website": "flocksafety.com",
    "page": "https://www.flocksafety.com/careers/positions",
    "src": "yc"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "CocuSocial",
+   "url": "careers.smartrecruiters.com/CocuSocial",
+   "label": "CocuSocial",
+   "website": "cocusocial.com",
+   "page": "https://www.cocusocial.com/",
+   "src": "nyc"
   },
   {
    "type": "lever",
@@ -1050,6 +1238,14 @@
    "src": "yc"
   },
   {
+   "type": "ashby",
+   "token": "vanta",
+   "url": "jobs.ashbyhq.com/vanta",
+   "label": "Vanta",
+   "website": "vanta.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "treasuryprime",
    "url": "job-boards.greenhouse.io/treasuryprime",
@@ -1137,6 +1333,15 @@
    "label": "Verse Medical",
    "website": "versemedical.com",
    "page": "https://versemedical.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "pelago",
+   "url": "boards-api.greenhouse.io/v1/boards/pelago",
+   "label": "Pelago",
+   "website": "pelagohealth.com",
+   "page": "https://www.pelagohealth.com/company/careers/",
    "src": "nyc"
   },
   {
@@ -1541,6 +1746,15 @@
    "website": "lucidbots.com",
    "page": "https://www.lucidbots.com/",
    "src": "yc"
+  },
+  {
+   "type": "gh",
+   "token": "odeko",
+   "url": "job-boards.greenhouse.io/odeko",
+   "label": "Odeko",
+   "website": "odeko.com",
+   "page": "https://www.odeko.com/",
+   "src": "nyc"
   },
   {
    "type": "bamboohr",
@@ -2151,6 +2365,14 @@
    "src": "h1b"
   },
   {
+   "type": "lever",
+   "token": "finch",
+   "url": "jobs.lever.co/finch",
+   "label": "Finch",
+   "website": "tryfinch.com",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "fieldguide",
    "url": "jobs.ashbyhq.com/fieldguide",
@@ -2274,6 +2496,15 @@
    "website": "vapi.ai",
    "page": "https://vapi.ai/careers",
    "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "camber",
+   "url": "jobs.ashbyhq.com/camber",
+   "label": "Camber",
+   "website": "camber.health",
+   "page": "https://www.camber.health/company/careers",
+   "src": "nyc"
   },
   {
    "type": "gh",
@@ -2750,6 +2981,15 @@
    "label": "Stepful",
    "website": "stepful.com",
    "page": "https://www.stepful.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "output",
+   "url": "jobs.ashbyhq.com/output",
+   "label": "Output Labs",
+   "website": "outputlabs.ai",
+   "page": "https://www.outputlabs.ai/careers",
    "src": "nyc"
   },
   {
@@ -3635,6 +3875,15 @@
    "src": "yc"
   },
   {
+   "type": "gem",
+   "token": "santehq-com",
+   "url": "jobs.gem.com/santehq-com",
+   "label": "Santé",
+   "website": "santehq.com",
+   "page": "https://www.santehq.com/about",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "foundation",
    "url": "jobs.ashbyhq.com/foundation",
@@ -4230,6 +4479,15 @@
   },
   {
    "type": "ashby",
+   "token": "reviserobotics",
+   "url": "jobs.ashbyhq.com/reviserobotics",
+   "label": "Revise Robotics",
+   "website": "reviserobotics.com",
+   "page": "https://www.reviserobotics.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
    "token": "weave-os",
    "url": "jobs.ashbyhq.com/weave-os",
    "label": "Weave",
@@ -4497,6 +4755,15 @@
    "website": "wafer.ai",
    "page": "https://www.wafer.ai/",
    "src": "yc"
+  },
+  {
+   "type": "ashby",
+   "token": "ATG",
+   "url": "jobs.ashbyhq.com/ATG",
+   "label": "Autonomous Technologies Group",
+   "website": "becomeautonomous.com",
+   "page": "https://atg.science/careers",
+   "src": "nyc"
   },
   {
    "type": "ashby",
@@ -6586,6 +6853,14 @@
    "src": "nyc"
   },
   {
+   "type": "rippling",
+   "token": "cancer-research-institute-inc",
+   "url": "ats.rippling.com/cancer-research-institute-inc",
+   "label": "Cancer Research Institute",
+   "website": "cancerresearch.org",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "centivo",
    "url": "jobs.ashbyhq.com/centivo",
@@ -6613,6 +6888,15 @@
   },
   {
    "type": "gh",
+   "token": "birdygrey",
+   "url": "job-boards.greenhouse.io/birdygrey",
+   "label": "Birdy Grey",
+   "website": "birdygrey.com",
+   "page": "https://www.birdygrey.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "craftsman",
    "url": "job-boards.greenhouse.io/craftsman",
    "label": "CRAFTSMAN\\u002B",
@@ -6636,6 +6920,15 @@
    "label": "Copia Automation",
    "website": "copia.io",
    "page": "https://copia.io/company/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "cubesoftware",
+   "url": "jobs.ashbyhq.com/cubesoftware",
+   "label": "Cube",
+   "website": "cubesoftware.com",
+   "page": "https://www.cubesoftware.com/",
    "src": "nyc"
   },
   {
@@ -6782,6 +7075,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "escribers",
+   "url": "boards.greenhouse.io/escribers",
+   "label": "eScribers, LLC",
+   "website": "escribers.net",
+   "page": "https://escribers.net/",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "floqast",
    "label": "FloQast",
@@ -6825,6 +7127,24 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "glossgenius",
+   "url": "job-boards.greenhouse.io/glossgenius",
+   "label": "Genius AI",
+   "website": "genius.ai",
+   "page": "https://genius.ai/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "geniusai",
+   "url": "jobs.ashbyhq.com/geniusai",
+   "label": "Genius AI",
+   "website": "genius.ai",
+   "page": "https://genius.ai/",
+   "src": "nyc"
+  },
+  {
    "type": "workday",
    "token": "digitalturbine.wd501.myworkdayjobs.com",
    "url": "digitalturbine.wd501.myworkdayjobs.com/Digital_Turbine_External_Careers",
@@ -6835,11 +7155,28 @@
   },
   {
    "type": "gh",
+   "token": "garnerhealth",
+   "url": "boards-api.greenhouse.io/v1/boards/garnerhealth",
+   "label": "Garner Health",
+   "website": "getgarner.com",
+   "page": "https://garnerhealth.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "gtv",
    "url": "job-boards.greenhouse.io/gtv",
    "label": "Grocery TV",
    "website": "grocerytv.com",
    "page": "https://grocerytv.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "hanover-park",
+   "url": "jobs.ashbyhq.com/hanover-park",
+   "label": "Hanover Park",
+   "website": "hanoverpark.com",
    "src": "nyc"
   },
   {
@@ -6860,6 +7197,14 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Hire Digital",
+   "website": "hiredigital.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "huntress",
    "url": "job-boards.greenhouse.io/huntress",
@@ -6876,12 +7221,29 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "hume-ai",
+   "url": "jobs.ashbyhq.com/hume-ai",
+   "label": "Hume AI",
+   "website": "hume.ai",
+   "src": "nyc"
+  },
+  {
    "type": "workday",
    "token": "curemd.wd1.myworkdayjobs.com",
    "url": "curemd.wd1.myworkdayjobs.com/en-US/CureMD",
    "site": "CureMD",
    "label": "CureMD",
    "website": "curemd.com",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "hytt.wd5.myworkdayjobs.com",
+   "url": "hytt.wd5.myworkdayjobs.com/Highway_Transport",
+   "site": "Highway_Transport",
+   "label": "Highway Transport Logistics",
+   "website": "highwaytransport.com",
    "src": "nyc"
   },
   {
@@ -6909,6 +7271,14 @@
    "label": "Intenseye",
    "website": "intenseye.com",
    "page": "https://www.intenseye.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "id5",
+   "url": "job-boards.greenhouse.io/id5",
+   "label": "ID5",
+   "website": "id5.io",
    "src": "nyc"
   },
   {
@@ -7152,6 +7522,14 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "lognet",
+   "url": "lognet.bamboohr.com/careers",
+   "label": "LOG-NET, Inc.",
+   "website": "log-net.com",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "nayya",
    "url": "boards-api.greenhouse.io/v1/boards/nayya",
@@ -7184,6 +7562,14 @@
    "label": "mParticle by Rokt",
    "website": "mparticle.com",
    "page": "https://www.rokt.com/company/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "openai-deployment-company",
+   "url": "jobs.ashbyhq.com/openai-deployment-company",
+   "label": "Northslope",
+   "website": "northslope.com",
    "src": "nyc"
   },
   {
@@ -85008,6 +85394,97 @@
    "crawledAt": 1795332447547
   },
   {
+   "title": "Delivery Lead, Engineering",
+   "url": "https://www.hyperexponential.com/careers#delivery-lead-engineering",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
+   "title": "Chief Strategy Officer",
+   "url": "https://www.hyperexponential.com/careers#chief-strategy-officer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
+   "title": "Backend Engineer, Engineering",
+   "url": "https://www.hyperexponential.com/careers#backend-engineer-engineering",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
+   "title": "Solutions Engineering Lead",
+   "url": "https://www.hyperexponential.com/careers#solutions-engineering-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
+   "title": "Field Marketing Manager",
+   "url": "https://www.hyperexponential.com/careers#field-marketing-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
+   "title": "Junior Model Developer, Customer and Consulting",
+   "url": "https://www.hyperexponential.com/careers#junior-model-developer-customer-and-consulting",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
+   "title": "Frontend Engineer, Engineering",
+   "url": "https://www.hyperexponential.com/careers#frontend-engineer-engineering",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "hyperexponential",
+   "website": "hyperexponential.com",
+   "src": "nyc",
+   "crawledAt": 1795340688941
+  },
+  {
    "title": "Plant Manager - VGA",
    "url": "https://www.gothamgreens.com/careers/#plant-manager-vga",
    "datePosted": null,
@@ -85062,6 +85539,19 @@
    "src": "nyc",
    "page": "https://www.gothamgreens.com/careers/",
    "crawledAt": 1795332449212
+  },
+  {
+   "title": "Cyber Security Analyst, IEX Group",
+   "url": "https://www.iex.io/careers#cyber-security-analyst-iex-group",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IEX Group",
+   "website": "iex.io",
+   "src": "nyc",
+   "crawledAt": 1795340694801
   },
   {
    "title": "Research Analyst",
@@ -98748,6 +99238,19 @@
    "crawledAt": 1795333011229
   },
   {
+   "title": "Career Growth",
+   "url": "https://www.corgan.com/careers/career-growth",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Corgan",
+   "website": "corgan.com",
+   "src": "nyc",
+   "crawledAt": 1795340705442
+  },
+  {
    "title": "Senior GenAI Engineer",
    "url": "https://corridorplatforms.com/careers#senior-genai-engineer",
    "datePosted": null,
@@ -101478,6 +101981,19 @@
    "crawledAt": 1795333254378
   },
   {
+   "title": "Executive team",
+   "url": "https://wikimediafoundation.org/role/executive/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Elite Wiki Writers",
+   "website": "elitewikiwriters.com",
+   "src": "nyc",
+   "crawledAt": 1795340707336
+  },
+  {
    "title": "Implementation Project Manager",
    "url": "https://getequiem.com/careers#implementation-project-manager",
    "datePosted": null,
@@ -103823,6 +104339,84 @@
    "crawledAt": 1795333364008
   },
   {
+   "title": "Digital Marketing Manager",
+   "url": "https://www.grmdocumentmanagement.com/company/careers/digital-marketing-manager/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "GRM Information Management Services",
+   "website": "grmdocumentmanagement.com",
+   "src": "nyc",
+   "crawledAt": 1795340716970
+  },
+  {
+   "title": "Sales Executive",
+   "url": "https://www.grmdocumentmanagement.com/company/careers/sales-executive/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "GRM Information Management Services",
+   "website": "grmdocumentmanagement.com",
+   "src": "nyc",
+   "crawledAt": 1795340716970
+  },
+  {
+   "title": "Account Executive",
+   "url": "https://www.grmdocumentmanagement.com/company/careers/account-executive/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "GRM Information Management Services",
+   "website": "grmdocumentmanagement.com",
+   "src": "nyc",
+   "crawledAt": 1795340716970
+  },
+  {
+   "title": "Sales Executive – Digital ECM",
+   "url": "https://www.grmdocumentmanagement.com/company/careers/sales-executive-digital-ecm/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "GRM Information Management Services",
+   "website": "grmdocumentmanagement.com",
+   "src": "nyc",
+   "crawledAt": 1795340716970
+  },
+  {
+   "title": "Digital Account Manager",
+   "url": "https://www.grmdocumentmanagement.com/company/careers/digital-account-manager/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "GRM Information Management Services",
+   "website": "grmdocumentmanagement.com",
+   "src": "nyc",
+   "crawledAt": 1795340716970
+  },
+  {
+   "title": "Copywriter (GRM Marketing)",
+   "url": "https://www.grmdocumentmanagement.com/company/careers/copywriter-grm-marketing/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "GRM Information Management Services",
+   "website": "grmdocumentmanagement.com",
+   "src": "nyc",
+   "crawledAt": 1795340716970
+  },
+  {
    "title": "Founder and Director",
    "url": "https://www.grantthornton.ae/events/join-us-for-the-launch-of-the-third-edition-of-the-discovery-series/#founder-and-director",
    "datePosted": null,
@@ -104913,6 +105507,149 @@
    "src": "nyc",
    "page": "https://www.havenhealthaz.com/careers",
    "crawledAt": 1795333413812
+  },
+  {
+   "title": "Office Manager- West Chester",
+   "url": "https://hhfamily.com/jobs/office-manager-west-chester/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "BCBA – Board Certified Behavior Analyst – Columbia, MD",
+   "url": "https://hhfamily.com/jobs/bcba-board-certified-behavior-analyst-columbia-md/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "BCBA – Board Certified Behavior Analyst – Silver Spring, MD",
+   "url": "https://hhfamily.com/jobs/bcba-board-certified-behavior-analyst-silver-spring-md/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "Revenue Cycle Specialist II",
+   "url": "https://hhfamily.com/jobs/revenue-cycle-specialist-ii/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "Lead Board-Certified Behavior Analyst (BCBA) – In Clinic",
+   "url": "https://hhfamily.com/jobs/lead-board-certified-behavior-analyst-bcba-in-clinic-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "Clinic Director (BCBA)",
+   "url": "https://hhfamily.com/jobs/clinic-director-bcba/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "Board-Certified Behavior Analyst (BCBA) – In Clinic",
+   "url": "https://hhfamily.com/jobs/board-certified-behavior-analyst-bcba-in-clinic-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "BCBA – Board Certified Behavior Analyst – York",
+   "url": "https://hhfamily.com/jobs/bcba-board-certified-behavior-analyst-york-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "BCBA – Board Certified Behavior Analyst – Mechanicsburg (Rossmoyne)",
+   "url": "https://hhfamily.com/jobs/bcba-board-certified-behavior-analyst-mechanicsburg-rossmoyne-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "BCBA – Board Certified Behavior Analyst – Drexel Hill, PA",
+   "url": "https://hhfamily.com/jobs/bcba-board-certified-behavior-analyst-drexel-hill-pa/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
+  },
+  {
+   "title": "BCBA – Board Certified Behavior Analyst",
+   "url": "https://hhfamily.com/jobs/bcba-board-certified-behavior-analyst-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Helping Hands Family",
+   "website": "hhfamily.com",
+   "src": "nyc",
+   "crawledAt": 1795340716825
   },
   {
    "title": "Proposal Manager",
@@ -180829,7 +181566,7 @@
    "website": "mediatek.com",
    "src": "h1b",
    "page": "https://www.mediatek.com/",
-   "crawledAt": 1795088386367
+   "crawledAt": 1795340466484
   },
   {
    "title": "Technical Consultant (Rolling Meadows, IL)",
@@ -181921,7 +182658,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Database SRE / SQL Reliability Engineer",
@@ -181935,7 +182672,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Senior Infrastructure Automation & Patching Engineer",
@@ -181949,7 +182686,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Senior Infrastructure Automation Engineer",
@@ -181963,7 +182700,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "PAM Security Engineer",
@@ -181977,7 +182714,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Centrify Authentication Engineer / PAM Security Engineer",
@@ -181991,7 +182728,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Authentication & PAM Engineer",
@@ -182005,7 +182742,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Azure Cloud & DevOps Engineer",
@@ -182019,7 +182756,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Cloud Systems Engineer",
@@ -182033,7 +182770,7 @@
    "website": "teksoftsystems.com",
    "src": "h1b",
    "page": "https://teksoftsystems.com/jobs.html",
-   "crawledAt": 1795088466187
+   "crawledAt": 1795340468490
   },
   {
    "title": "Software Developer",
@@ -182327,7 +183064,7 @@
    "website": "exesg.us",
    "src": "h1b",
    "page": "https://exesg.us/careers.html",
-   "crawledAt": 1795088492232
+   "crawledAt": 1795340471186
   },
   {
    "title": "Software Developer",
@@ -182341,7 +183078,7 @@
    "website": "exesg.us",
    "src": "h1b",
    "page": "https://exesg.us/careers.html",
-   "crawledAt": 1795088492232
+   "crawledAt": 1795340471186
   },
   {
    "title": "Software Engineer",
@@ -182355,7 +183092,7 @@
    "website": "exesg.us",
    "src": "h1b",
    "page": "https://exesg.us/careers.html",
-   "crawledAt": 1795088492232
+   "crawledAt": 1795340471186
   },
   {
    "title": "SQL Database Administrator",
@@ -182649,7 +183386,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Professional Services Specialist",
@@ -182663,7 +183400,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Technical Communications and Operations Specialist",
@@ -182677,7 +183414,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Business Development Senior Specialist (German speaking)",
@@ -182691,7 +183428,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Associate Director, Business Development",
@@ -182705,7 +183442,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Business Development Manager",
@@ -182719,7 +183456,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Account Manager",
@@ -182733,7 +183470,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Business Development Senior Specialist",
@@ -182747,7 +183484,7 @@
    "website": "symphony.com",
    "src": "h1b",
    "page": "https://symphony.com/company/careers/",
-   "crawledAt": 1795088519628
+   "crawledAt": 1795340477380
   },
   {
    "title": "Epic Care Management (CM) Analyst (• Healthy Planet and Compass Rose)",
@@ -183041,7 +183778,7 @@
    "website": "slesha.com",
    "src": "h1b",
    "page": "https://slesha.com/careers/",
-   "crawledAt": 1795088532481
+   "crawledAt": 1795340475948
   },
   {
    "title": "Data Engineer",
@@ -183055,7 +183792,7 @@
    "website": "slesha.com",
    "src": "h1b",
    "page": "https://slesha.com/careers/",
-   "crawledAt": 1795088532481
+   "crawledAt": 1795340475948
   },
   {
    "title": "Software Developer",
@@ -183069,7 +183806,7 @@
    "website": "slesha.com",
    "src": "h1b",
    "page": "https://slesha.com/careers/",
-   "crawledAt": 1795088532481
+   "crawledAt": 1795340475948
   },
   {
    "title": "UI/UX Designer",
@@ -185242,8 +185979,8 @@
    "crawledAt": 1795331480034
   },
   {
-   "title": "Energy Market Analyst - Power",
-   "url": "https://careers.icf.com/us/en/job/R2600808/Energy-Market-Analyst-Power",
+   "title": "Data Engineer",
+   "url": "https://careers.icf.com/us/en/job/R2603342/Data-Engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -185253,7 +185990,35 @@
    "website": "icf.com",
    "src": "h1b",
    "page": "https://careers.icf.com/us/en",
-   "crawledAt": 1795088751086
+   "crawledAt": 1795340493545
+  },
+  {
+   "title": "Senior Communication Manager",
+   "url": "https://careers.icf.com/us/en/job/R2603722/Senior-Communication-Manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ICF INCORPORATED LLC",
+   "website": "icf.com",
+   "src": "h1b",
+   "page": "https://careers.icf.com/us/en",
+   "crawledAt": 1795340493545
+  },
+  {
+   "title": "Lead Software Engineer",
+   "url": "https://careers.icf.com/us/en/job/R2603686/Lead-Software-Engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "ICF INCORPORATED LLC",
+   "website": "icf.com",
+   "src": "h1b",
+   "page": "https://careers.icf.com/us/en",
+   "crawledAt": 1795340493545
   },
   {
    "title": "Software Developer",
@@ -185491,7 +186256,7 @@
    "website": "decisionsix.com",
    "src": "h1b",
    "page": "https://decisionsix.com/jobs",
-   "crawledAt": 1795088778183
+   "crawledAt": 1795340480421
   },
   {
    "title": "Software Developer (Pune)",
@@ -185967,7 +186732,7 @@
    "website": "appsboat.com",
    "src": "h1b",
    "page": "https://appsboat.com/current-openings/",
-   "crawledAt": 1795088867438
+   "crawledAt": 1795340487400
   },
   {
    "title": "Software Engineer",
@@ -185981,7 +186746,7 @@
    "website": "appsboat.com",
    "src": "h1b",
    "page": "https://appsboat.com/current-openings/",
-   "crawledAt": 1795088867438
+   "crawledAt": 1795340487400
   },
   {
    "title": "Software Developer (C#)",
