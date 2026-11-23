@@ -1,27 +1,27 @@
 {
- "generated": "2026-11-23T09:11:12.880Z",
+ "generated": "2026-11-23T09:17:14.872Z",
  "companies": 22940,
  "status": {
-  "found": 3024,
-  "no-ats": 11772,
-  "site": 3831,
-  "down": 4313
+  "found": 3016,
+  "no-ats": 11798,
+  "site": 3843,
+  "down": 4283
  },
  "byType": {
   "dover": 7,
-  "ashby": 656,
-  "workday": 559,
+  "ashby": 653,
+  "workday": 556,
   "gh": 847,
   "lever": 239,
   "gem": 69,
   "rippling": 117,
-  "workable": 171,
+  "workable": 170,
   "bamboohr": 144,
   "smartrecruiters": 56,
   "recruitee": 24,
   "eightfold": 40,
-  "icims": 160,
-  "oracle": 92,
+  "icims": 159,
+  "oracle": 90,
   "successfactors": 14
  },
  "boards": [
@@ -14560,16 +14560,6 @@
   },
   {
    "type": "workday",
-   "token": "synechron.wd1.myworkdayjobs.com",
-   "url": "synechron.wd1.myworkdayjobs.com/SynechronCareers",
-   "site": "SynechronCareers",
-   "label": "SYNECHRON INC",
-   "website": "synechron.com",
-   "page": "https://www.synechron.com/careers",
-   "src": "h1b"
-  },
-  {
-   "type": "workday",
    "token": "genpact.wd108.myworkdayjobs.com",
    "url": "genpact.wd108.myworkdayjobs.com/External_Careers",
    "site": "External_Careers",
@@ -14594,26 +14584,6 @@
    "label": "NIELSEN COMPANY US LLC",
    "website": "nielsen.com",
    "page": "https://www.nielsen.com/careers/",
-   "src": "h1b"
-  },
-  {
-   "type": "workday",
-   "token": "fractal.wd1.myworkdayjobs.com",
-   "url": "fractal.wd1.myworkdayjobs.com/Careers",
-   "site": "Careers",
-   "label": "FRACTAL ANALYTICS INC",
-   "website": "fractalanalytics.com",
-   "page": "https://fractal.wd1.myworkdayjobs.com/Careers",
-   "src": "h1b"
-  },
-  {
-   "type": "workday",
-   "token": "fractal.wd1.myworkdayjobs.com",
-   "url": "fractal.wd1.myworkdayjobs.com/Careers",
-   "site": "Careers",
-   "label": "FRACTAL ANALYTICS INC",
-   "website": "fractalanalytics.com",
-   "page": "https://fractal.wd1.myworkdayjobs.com/Careers",
    "src": "h1b"
   },
   {
@@ -14697,7 +14667,7 @@
    "url": "atyeti.bamboohr.com/jobs",
    "label": "ATYETI INC",
    "website": "atyeti.com",
-   "page": "https://www.atyeti.com/component---src-pages-careers-js-c077ae7b70ee9eb14da4.js",
+   "page": "https://www.atyeti.com/component---src-pages-careers-js-a3e670c64e5b831f7421.js",
    "src": "h1b"
   },
   {
@@ -14725,7 +14695,7 @@
    "site": "MMC",
    "label": "OLIVER WYMAN INC",
    "website": "oliverwyman.com",
-   "page": "https://careers.marsh.com/global/en/oliver-wyman-search",
+   "page": "https://www.oliverwyman.com/middle-east/careers/recruiting-events.html",
    "src": "h1b"
   },
   {
@@ -14853,15 +14823,6 @@
    "src": "h1b"
   },
   {
-   "type": "oracle",
-   "token": "egup.fa.us2.oraclecloud.com",
-   "url": "egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
-   "label": "VERTIV CORPORATION",
-   "website": "vertiv.com",
-   "page": "https://www.vertiv.com/en-us/",
-   "src": "h1b"
-  },
-  {
    "type": "workday",
    "token": "forvismazarsuk.wd107.myworkdayjobs.com",
    "url": "forvismazarsuk.wd107.myworkdayjobs.com/en-GB/FM_1",
@@ -14934,7 +14895,7 @@
    "token": "davispolk.wd5.myworkdayjobs.com",
    "url": "davispolk.wd5.myworkdayjobs.com/en-US/business-professionals-services-usa",
    "site": "business-professionals-services-usa",
-   "label": "DAVIS POLK & WARDWELL LLP",
+   "label": "DAVIS POLK WARDWELL LLP",
    "website": "davispolk.com",
    "page": "https://www.davispolk.com/careers/paralegals",
    "src": "h1b"
@@ -15085,7 +15046,7 @@
    "token": "pitneybowes.wd1.myworkdayjobs.com",
    "url": "pitneybowes.wd1.myworkdayjobs.com/en-US/PBCareers",
    "site": "PBCareers",
-   "label": "PITNEY BOWES GLOBAL ECOMMERCE INC",
+   "label": "PITNEY BOWES INC",
    "website": "pitneybowes.com",
    "page": "https://www.pitneybowes.com/us/careers.html",
    "src": "h1b"
@@ -15096,7 +15057,7 @@
    "url": "jobs.smartrecruiters.com/PAConsulting",
    "label": "PA CONSULTING GROUP INC",
    "website": "paconsulting.com",
-   "page": "https://www.paconsulting.com/jobs/ux-ui-designer-744000159945369",
+   "page": "https://www.paconsulting.com/jobs/defence-homeland-security-general-careers-744000162739984",
    "src": "h1b"
   },
   {
@@ -15105,7 +15066,7 @@
    "url": "jobs.smartrecruiters.com/external-referrals",
    "label": "PA CONSULTING GROUP INC",
    "website": "paconsulting.com",
-   "page": "https://www.paconsulting.com/jobs/ux-ui-designer-744000159945369",
+   "page": "https://www.paconsulting.com/jobs/defence-homeland-security-general-careers-744000162739984",
    "src": "h1b"
   },
   {
@@ -15271,7 +15232,7 @@
    "site": "External",
    "label": "NORTON ROSE FULBRIGHT US LLP",
    "website": "nortonrosefulbright.com",
-   "page": "https://www.nortonrosefulbright.com/en-us",
+   "page": "https://www.nortonrosefulbright.com/en-us/careers",
    "src": "h1b"
   },
   {
@@ -15380,7 +15341,7 @@
    "type": "gh",
    "token": "padilla",
    "url": "boards.greenhouse.io/embed/job_board/js?for=padilla",
-   "label": "PADILLA COMPANY LLP",
+   "label": "PADILLA & COMPANY LLP",
    "website": "padillaco.com",
    "page": "https://padillaco.com/careers",
    "src": "h1b"
@@ -15404,9 +15365,9 @@
    "src": "h1b"
   },
   {
-   "type": "oracle",
-   "token": "fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com",
-   "url": "fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "type": "ashby",
+   "token": "27cfd344-670f-4dcd-8b13-0e18005b0d65",
+   "url": "jobs.ashbyhq.com/27cfd344-670f-4dcd-8b13-0e18005b0d65",
    "label": "VERINT AMERICAS INC",
    "website": "verint.com",
    "page": "https://www.verint.com/careers/",
@@ -15501,7 +15462,7 @@
    "url": "u002Fmiqdigital.wd3.myworkdayjobs.com",
    "label": "MIQ DIGITAL USA INC",
    "website": "miqdigital.org",
-   "page": "https://miqdigital.org/careers/_payload.json?_b=39371842-b735-452e-8336-69eb2248faff",
+   "page": "https://miqdigital.org/careers/_payload.json?_b=5e552107-64b1-437e-b8a9-e28df08677a0",
    "src": "h1b"
   },
   {
@@ -15532,13 +15493,22 @@
    "src": "h1b"
   },
   {
+   "type": "gh",
+   "token": "teneo",
+   "url": "boards.greenhouse.io/embed/job_board/js?for=teneo",
+   "label": "TENEO HOLDINGS LLC",
+   "website": "teneo.com",
+   "page": "https://www.teneo.com/careers/open-positions/8201913003/",
+   "src": "h1b"
+  },
+  {
    "type": "workday",
    "token": "stblaw.wd1.myworkdayjobs.com",
    "url": "stblaw.wd1.myworkdayjobs.com/careers",
    "site": "careers",
    "label": "SIMPSON THACHER & BARTLETT LLP",
    "website": "stblaw.com",
-   "page": "https://www.stblaw.com/your-career",
+   "page": "https://www.stblaw.com/your-career/",
    "src": "h1b"
   },
   {
@@ -15606,15 +15576,6 @@
    "src": "h1b"
   },
   {
-   "type": "ashby",
-   "token": "radar",
-   "url": "jobs.ashbyhq.com/radar",
-   "label": "AUTOMATON INC D/B/A RADAR",
-   "website": "radar.com",
-   "page": "https://radar.com/careers",
-   "src": "h1b"
-  },
-  {
    "type": "gh",
    "token": "illumiallc",
    "url": "job-boards.greenhouse.io/illumiallc",
@@ -15624,21 +15585,12 @@
    "src": "h1b"
   },
   {
-   "type": "ashby",
-   "token": "dClimate",
-   "url": "jobs.ashbyhq.com/dClimate",
-   "label": "DCLIMATE INC",
-   "website": "dclimate.net",
-   "page": "https://www.dclimate.net/",
-   "src": "h1b"
-  },
-  {
    "type": "gh",
    "token": "cleerlyhealth",
    "url": "boards.greenhouse.io/embed/job_board/js?for=cleerlyhealth",
    "label": "CLEERLY INC",
    "website": "cleerlyhealth.com",
-   "page": "https://cleerly.com/careers-board?hsLang=en",
+   "page": "https://cleerly.com/careers-board",
    "src": "h1b"
   },
   {
@@ -15648,15 +15600,6 @@
    "label": "ICRAVE LLC",
    "website": "icrave.com",
    "page": "https://icrave.com/",
-   "src": "h1b"
-  },
-  {
-   "type": "workable",
-   "token": "dentons-europe",
-   "url": "apply.workable.com/dentons-europe",
-   "label": "DENTONS US LLP",
-   "website": "dentons.com",
-   "page": "https://www.dentons.com/en/careers",
    "src": "h1b"
   },
   {
@@ -15784,7 +15727,7 @@
    "url": "navitasgsm.bamboohr.com/careers",
    "label": "NAVITAS INC",
    "website": "navitas.com",
-   "page": "https://www.navitas.com/about/careers/job-search/",
+   "page": "https://www.navitas.com/section-overview/jobs/",
    "src": "h1b"
   },
   {
@@ -15793,7 +15736,7 @@
    "url": "navitas.bamboohr.com/careers",
    "label": "NAVITAS INC",
    "website": "navitas.com",
-   "page": "https://www.navitas.com/about/careers/job-search/",
+   "page": "https://www.navitas.com/section-overview/jobs/",
    "src": "h1b"
   },
   {
@@ -15803,15 +15746,6 @@
    "label": "WUNDERKIND CORPORATION",
    "website": "wunderkind.co",
    "page": "https://www.wunderkind.co/careers",
-   "src": "h1b"
-  },
-  {
-   "type": "gh",
-   "token": "exiger",
-   "url": "boards.greenhouse.io/embed/job_board/js?for=exiger",
-   "label": "EXIGER LLC",
-   "website": "exiger.com",
-   "page": "https://www.exiger.com/careers",
    "src": "h1b"
   },
   {
@@ -16078,39 +16012,12 @@
    "src": "h1b"
   },
   {
-   "type": "ashby",
-   "token": "statista",
-   "url": "jobs.ashbyhq.com/statista",
-   "label": "STATISTA INC",
-   "website": "statista.com",
-   "page": "https://jobs.ashbyhq.com/statista",
-   "src": "h1b"
-  },
-  {
-   "type": "ashby",
-   "token": "statista",
-   "url": "jobs.ashbyhq.com/statista",
-   "label": "STATISTA INC",
-   "website": "statista.com",
-   "page": "https://jobs.ashbyhq.com/statista",
-   "src": "h1b"
-  },
-  {
    "type": "recruitee",
    "token": "transperfect",
    "url": "transperfect.recruitee.com",
    "label": "TRANSPERFECT INC",
    "website": "transperfect.com",
    "page": "https://www.transperfect.com/jobs/",
-   "src": "h1b"
-  },
-  {
-   "type": "icims",
-   "token": "tceusa",
-   "url": "careers-tceusa.icims.com",
-   "label": "TATA CONSULTING ENGINEERS LIMITED",
-   "website": "tce.co.in",
-   "page": "https://www.tataconsultingengineers.com/north-america/",
    "src": "h1b"
   },
   {
@@ -122591,7 +122498,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1795334088475
+   "crawledAt": 1795425170991
   },
   {
    "title": "Regulatory affairs specialist",
@@ -122605,7 +122512,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1795334088475
+   "crawledAt": 1795425170991
   },
   {
    "title": "Chief Medical Informatics Officer (CMIO)",
@@ -122619,7 +122526,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1795334088475
+   "crawledAt": 1795425170991
   },
   {
    "title": "Hospital administrator/manager",
@@ -122633,7 +122540,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1795334088475
+   "crawledAt": 1795425170991
   },
   {
    "title": "Public health policy analyst",
@@ -122647,7 +122554,7 @@
    "website": "sermo.com",
    "src": "nyc",
    "page": "https://www.sermo.com/careers/",
-   "crawledAt": 1795334088475
+   "crawledAt": 1795425170991
   },
   {
    "title": "Capital Markets Director",
@@ -122700,7 +122607,7 @@
    "website": "sesameworkshop.org",
    "src": "nyc",
    "page": "https://sesameworkshop.org/about-us/careers/",
-   "crawledAt": 1795334099290
+   "crawledAt": 1795425172649
   },
   {
    "title": "Accounting Manager",
@@ -122714,7 +122621,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1795334099466
+   "crawledAt": 1795425181691
   },
   {
    "title": "Software Engineer",
@@ -122728,7 +122635,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1795334099466
+   "crawledAt": 1795425181691
   },
   {
    "title": "Staff Designer",
@@ -122742,7 +122649,7 @@
    "website": "shortcut.com",
    "src": "nyc",
    "page": "https://www.shortcut.com/careers/",
-   "crawledAt": 1795334099466
+   "crawledAt": 1795425181691
   },
   {
    "title": "Country Director - Philippines",
@@ -122756,7 +122663,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "National Sales Director - Australia",
@@ -122770,7 +122677,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "County Manager - Japan",
@@ -122784,7 +122691,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Country Director - Thailand",
@@ -122798,7 +122705,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Account Manager - UK (Hybrid)",
@@ -122812,7 +122719,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Account Manager - Germany (Düsseldorf)",
@@ -122826,7 +122733,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Front-End Developer (Video Player)",
@@ -122840,7 +122747,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Associate Product Manager",
@@ -122854,7 +122761,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Assistant Manager - Sales",
@@ -122868,7 +122775,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Account Executive",
@@ -122882,7 +122789,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Senior Sales Manager/Sales Director | GroupM/Indies",
@@ -122896,7 +122803,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Global Agency Partnership Director – UK",
@@ -122910,7 +122817,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Senior Sales Manager",
@@ -122924,7 +122831,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "Senior Sales Manager/Sales Director - Omnicom",
@@ -122938,7 +122845,7 @@
    "website": "silverpush.co",
    "src": "nyc",
    "page": "https://silverpush.co/careers/",
-   "crawledAt": 1795334112233
+   "crawledAt": 1795425185363
   },
   {
    "title": "nCino/Salesforce Solution Architect (Remote)",
@@ -122952,7 +122859,7 @@
    "website": "silverlinecrm.com",
    "src": "nyc",
    "page": "https://silverlinecrm.com/careers/",
-   "crawledAt": 1795334114077
+   "crawledAt": 1795425195874
   },
   {
    "title": "Pre-Sales Solution Architect (Remote)",
@@ -122966,7 +122873,7 @@
    "website": "silverlinecrm.com",
    "src": "nyc",
    "page": "https://silverlinecrm.com/careers/",
-   "crawledAt": 1795334114077
+   "crawledAt": 1795425195874
   },
   {
    "title": "Cyber Security Analyst",
@@ -122980,7 +122887,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1795334121253
+   "crawledAt": 1795425193444
   },
   {
    "title": "Cyber Security Manager",
@@ -122994,7 +122901,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1795334121253
+   "crawledAt": 1795425193444
   },
   {
    "title": "Full Stack Engineer (Ruby on Rails)",
@@ -123008,7 +122915,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1795334121253
+   "crawledAt": 1795425193444
   },
   {
    "title": "Senior Full Stack Engineer (Ruby on Rails)",
@@ -123022,7 +122929,7 @@
    "website": "shipup.co",
    "src": "nyc",
    "page": "https://careers.zigzag.global/shipup",
-   "crawledAt": 1795334121253
+   "crawledAt": 1795425193444
   },
   {
    "title": "Corporate Finance Manager",
@@ -123075,7 +122982,7 @@
    "website": "simplesolve.com",
    "src": "nyc",
    "page": "https://www.simplesolve.com/careers",
-   "crawledAt": 1795334120953
+   "crawledAt": 1795425201080
   },
   {
    "title": "Retail operations leaders",
@@ -123102,7 +123009,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Enterprise Sales Executive",
@@ -123116,7 +123023,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "HR Specialist",
@@ -123130,7 +123037,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "In-House Counsel",
@@ -123144,7 +123051,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Marketing Automation Specialist",
@@ -123158,7 +123065,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Sales Enablement Associate",
@@ -123172,7 +123079,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Sales Engineer",
@@ -123186,7 +123093,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Strategic Account Director",
@@ -123200,7 +123107,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "AI Developer",
@@ -123214,7 +123121,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "AI Solutions Consultant",
@@ -123228,7 +123135,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Solution Architect (APAC)",
@@ -123242,7 +123149,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Enterprise Sales Director – Europe (Poland)",
@@ -123256,7 +123163,7 @@
    "website": "silenteight.com",
    "src": "nyc",
    "page": "https://silenteight.teamtailor.com/jobs",
-   "crawledAt": 1795334129945
+   "crawledAt": 1795425205672
   },
   {
    "title": "Data Engineer",
@@ -123270,7 +123177,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1795334132430
+   "crawledAt": 1795425213004
   },
   {
    "title": "Technical Program Manager",
@@ -123284,7 +123191,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1795334132430
+   "crawledAt": 1795425213004
   },
   {
    "title": "Sr Data Scientist",
@@ -123298,7 +123205,7 @@
    "website": "sigmoid.com",
    "src": "nyc",
    "page": "https://www.sigmoid.com/careers/",
-   "crawledAt": 1795334132430
+   "crawledAt": 1795425213004
   },
   {
    "title": "to Lead",
@@ -123312,7 +123219,7 @@
    "website": "signature-inc.net",
    "src": "nyc",
    "page": "https://signaturemoorestowngroup.com/pages/service-areas/business-consulting-career-opportunities-deptford-nj/",
-   "crawledAt": 1795334138501
+   "crawledAt": 1795425215822
   },
   {
    "title": "Senior Software Engineer, Frontend",
@@ -123326,7 +123233,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1795334139923
+   "crawledAt": 1795425221562
   },
   {
    "title": "Senior Software Engineer - iOS - Paris",
@@ -123340,7 +123247,7 @@
    "website": "sorare.com",
    "src": "nyc",
    "page": "https://sorare.com/jobs",
-   "crawledAt": 1795334139923
+   "crawledAt": 1795425221562
   },
   {
    "title": "Compliance Officer",
@@ -123354,7 +123261,7 @@
    "website": "soliduslabs.com",
    "src": "nyc",
    "page": "https://www.soliduslabs.com/digital-asset-compliance-careers",
-   "crawledAt": 1795334146385
+   "crawledAt": 1795425225074
   },
   {
    "title": "Regulatory Compliance Manager, Malta",
@@ -123368,7 +123275,7 @@
    "website": "soliduslabs.com",
    "src": "nyc",
    "page": "https://www.soliduslabs.com/digital-asset-compliance-careers",
-   "crawledAt": 1795334146385
+   "crawledAt": 1795425225074
   },
   {
    "title": "Chief Delivery Officer | Spaulding Ridge",
@@ -123408,7 +123315,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1795334146020
+   "crawledAt": 1795425227399
   },
   {
    "title": "Project Manager",
@@ -123422,7 +123329,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1795334146020
+   "crawledAt": 1795425227399
   },
   {
    "title": "Senior Art Director",
@@ -123436,7 +123343,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1795334146020
+   "crawledAt": 1795425227399
   },
   {
    "title": "Web Developer",
@@ -123450,7 +123357,7 @@
    "website": "softnice.com",
    "src": "nyc",
    "page": "https://www.softnice.com/careers/recruitment-fraud-alert/",
-   "crawledAt": 1795334146020
+   "crawledAt": 1795425227399
   },
   {
    "title": "Platform Engineer",
@@ -123464,7 +123371,7 @@
    "website": "spareroom.com",
    "src": "nyc",
    "page": "https://www.spareroom.com/content/about/jobs",
-   "crawledAt": 1795334151933
+   "crawledAt": 1795425230219
   },
   {
    "title": "Senior Security Analyst",
@@ -123478,7 +123385,7 @@
    "website": "spectramedix.com",
    "src": "nyc",
    "page": "https://www.spectramedix.com/job-opportunities",
-   "crawledAt": 1795334155657
+   "crawledAt": 1795425238888
   },
   {
    "title": "Jared Riegler / Senior Marketing Manager",
@@ -123492,7 +123399,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1795334219858
+   "crawledAt": 1795425239481
   },
   {
    "title": "Chris Mathew / Training & Operations Manager",
@@ -123506,7 +123413,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1795334219858
+   "crawledAt": 1795425239481
   },
   {
    "title": "Account Executive",
@@ -123520,7 +123427,7 @@
    "website": "sponsorunited.com",
    "src": "nyc",
    "page": "https://www.sponsorunited.com/careers",
-   "crawledAt": 1795334219858
+   "crawledAt": 1795425239481
   },
   {
    "title": "Human Resource Manager",
@@ -123534,7 +123441,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Chief Business Officer",
@@ -123548,7 +123455,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Technology Lead",
@@ -123562,7 +123469,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Quality Assurance Manager",
@@ -123576,7 +123483,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Senior Cloud Specialist",
@@ -123590,7 +123497,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Product Manager",
@@ -123604,7 +123511,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Mobility Lead",
@@ -123618,7 +123525,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Technical Manager",
@@ -123632,7 +123539,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Lead Engineer",
@@ -123646,7 +123553,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "HR Manager",
@@ -123660,7 +123567,7 @@
    "website": "sparxitsolutions.com",
    "src": "nyc",
    "page": "https://www.sparxitsolutions.com/career.shtml",
-   "crawledAt": 1795334219137
+   "crawledAt": 1795425245998
   },
   {
    "title": "Customer Hero Operations Specialist",
@@ -123674,7 +123581,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1795334226799
+   "crawledAt": 1795425245857
   },
   {
    "title": "Marketing Analyst",
@@ -123688,7 +123595,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1795334226799
+   "crawledAt": 1795425245857
   },
   {
    "title": "Product Manager, Acquisitions",
@@ -123702,7 +123609,7 @@
    "website": "spothero.com",
    "src": "nyc",
    "page": "https://spothero.com/careers",
-   "crawledAt": 1795334226799
+   "crawledAt": 1795425245857
   },
   {
    "title": "Senior Account Executive, Client Services",
@@ -123716,7 +123623,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1795334225700
+   "crawledAt": 1795425251709
   },
   {
    "title": "Project Manager",
@@ -123730,7 +123637,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1795334225700
+   "crawledAt": 1795425251709
   },
   {
    "title": "Account Director",
@@ -123744,7 +123651,7 @@
    "website": "spectrumscience.com",
    "src": "nyc",
    "page": "https://www.spectrumscience.com/careers/",
-   "crawledAt": 1795334225700
+   "crawledAt": 1795425251709
   },
   {
    "title": "Platform Engineer",
@@ -123758,7 +123665,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "Partnerships Director",
@@ -123772,7 +123679,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "Lead Engineer",
@@ -123786,7 +123693,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "Senior Platform Engineer",
@@ -123800,7 +123707,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "FMCG Team Lead, UK",
@@ -123814,7 +123721,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "Customer Success Manager",
@@ -123828,7 +123735,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "People Experience Manager",
@@ -123842,7 +123749,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "People Manager",
@@ -123856,7 +123763,7 @@
    "website": "sopost.com",
    "src": "nyc",
    "page": "https://sopost.careers.hibob.com/",
-   "crawledAt": 1795334239494
+   "crawledAt": 1795425258393
   },
   {
    "title": "Java Backend Software Development Engineer (SDE-2)",
@@ -123870,7 +123777,7 @@
    "website": "smartims.com",
    "src": "nyc",
    "page": "https://smartims.com/careers/",
-   "crawledAt": 1795334246375
+   "crawledAt": 1795425271515
   },
   {
    "title": "Front End Developer",
@@ -123884,7 +123791,7 @@
    "website": "smartims.com",
    "src": "nyc",
    "page": "https://smartims.com/careers/",
-   "crawledAt": 1795334246375
+   "crawledAt": 1795425271515
   },
   {
    "title": "IT Support Engineer",
@@ -123898,7 +123805,7 @@
    "website": "spryker.com",
    "src": "nyc",
    "page": "https://spryker.com/career",
-   "crawledAt": 1795334246450
+   "crawledAt": 1795425264848
   },
   {
    "title": "Solutions Architect",
@@ -123912,7 +123819,7 @@
    "website": "spryker.com",
    "src": "nyc",
    "page": "https://spryker.com/career",
-   "crawledAt": 1795334246450
+   "crawledAt": 1795425264848
   },
   {
    "title": "Enterprise Business Developer",
@@ -123926,7 +123833,7 @@
    "website": "spryker.com",
    "src": "nyc",
    "page": "https://spryker.com/career",
-   "crawledAt": 1795334246450
+   "crawledAt": 1795425264848
   },
   {
    "title": "Lead Front End Engineer",
@@ -123940,7 +123847,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1795334252169
+   "crawledAt": 1795425270431
   },
   {
    "title": "Accounting Manager",
@@ -123954,7 +123861,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1795334252169
+   "crawledAt": 1795425270431
   },
   {
    "title": "Platform Quality Engineer (SDET)",
@@ -123968,7 +123875,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1795334252169
+   "crawledAt": 1795425270431
   },
   {
    "title": "Quality Engineer (SDET)",
@@ -123982,7 +123889,7 @@
    "website": "starcompliance.com",
    "src": "nyc",
    "page": "https://www.starcompliance.com/careers/",
-   "crawledAt": 1795334252169
+   "crawledAt": 1795425270431
   },
   {
    "title": "AI Programming Engineer",
@@ -123996,7 +123903,7 @@
    "website": "stillwaterseo.com",
    "src": "nyc",
    "page": "https://stillwaterseo.com/jobs",
-   "crawledAt": 1795334252248
+   "crawledAt": 1795425276978
   },
   {
    "title": "Senior Enterprise Account Executive",
@@ -124010,7 +123917,7 @@
    "website": "snaplogic.com",
    "src": "nyc",
    "page": "https://www.snaplogic.com/company/careers",
-   "crawledAt": 1795334263158
+   "crawledAt": 1795425287728
   },
   {
    "title": "Software Engineer (Platform)",
@@ -124024,7 +123931,7 @@
    "website": "snaplogic.com",
    "src": "nyc",
    "page": "https://www.snaplogic.com/company/careers",
-   "crawledAt": 1795334263158
+   "crawledAt": 1795425287728
   },
   {
    "title": "Senior Associate, Portfolio Management",
@@ -124038,7 +123945,7 @@
    "website": "starmountaincapital.com",
    "src": "nyc",
    "page": "https://www.starmountain.com/careers",
-   "crawledAt": 1795334257705
+   "crawledAt": 1795425282253
   },
   {
    "title": "Portfolio Management Analyst",
@@ -124052,7 +123959,7 @@
    "website": "starmountaincapital.com",
    "src": "nyc",
    "page": "https://www.starmountain.com/careers",
-   "crawledAt": 1795334257705
+   "crawledAt": 1795425282253
   },
   {
    "title": "Building Maintenance Manager",
@@ -124066,7 +123973,7 @@
    "website": "studyhotels.com",
    "src": "nyc",
    "page": "https://www.studyhotels.com/careers",
-   "crawledAt": 1795334262743
+   "crawledAt": 1795425286645
   },
   {
    "title": "Sales Manager",
@@ -124080,7 +123987,7 @@
    "website": "studyhotels.com",
    "src": "nyc",
    "page": "https://www.studyhotels.com/careers",
-   "crawledAt": 1795334262743
+   "crawledAt": 1795425286645
   },
   {
    "title": "Assistant Restaurant Manager",
@@ -124094,7 +124001,7 @@
    "website": "studyhotels.com",
    "src": "nyc",
    "page": "https://www.studyhotels.com/careers",
-   "crawledAt": 1795334262743
+   "crawledAt": 1795425286645
   },
   {
    "title": "Sales Manager, New Jersey",
@@ -124108,7 +124015,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1795334268780
+   "crawledAt": 1795425293153
   },
   {
    "title": "QA Coordinator, Rotterdam, Netherlands",
@@ -124122,7 +124029,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1795334268780
+   "crawledAt": 1795425293153
   },
   {
    "title": "Plant Manager, Hawaii",
@@ -124136,7 +124043,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1795334268780
+   "crawledAt": 1795425293153
   },
   {
    "title": "Production Planner, California",
@@ -124150,7 +124057,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1795334268780
+   "crawledAt": 1795425293153
   },
   {
    "title": "IT Helpdesk Coordinator",
@@ -124164,7 +124071,7 @@
    "website": "sunnoodle.com",
    "src": "nyc",
    "page": "https://sunnoodle.com/",
-   "crawledAt": 1795334268780
+   "crawledAt": 1795425293153
   },
   {
    "title": "Senior Quality Engineer - Design Assurance",
@@ -124178,7 +124085,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Palantir Foundry Forward Deployed Engineer",
@@ -124192,7 +124099,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Logistics & Administration Coordinator",
@@ -124206,7 +124113,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Accounting Systems Manager",
@@ -124220,7 +124127,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Accounting Systems Production Support Manager",
@@ -124234,7 +124141,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Account Executive",
@@ -124248,7 +124155,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Conflicts Administrator",
@@ -124262,7 +124169,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Regulatory Submission Specialist",
@@ -124276,7 +124183,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Trademark Docketing Manager",
@@ -124290,7 +124197,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Construction Content Strategist",
@@ -124304,7 +124211,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Sales Development Representative | SaaS | Construction",
@@ -124318,7 +124225,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Data Engineer",
@@ -124332,7 +124239,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Office Administrator",
@@ -124346,7 +124253,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Assistant Project Manager",
@@ -124360,7 +124267,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Systems Engineer",
@@ -124374,7 +124281,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "SEO Specialist",
@@ -124388,7 +124295,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Test Engineer",
@@ -124402,7 +124309,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Technical Program Manager",
@@ -124416,7 +124323,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "PPC Specialist",
@@ -124430,7 +124337,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "M&A Director, Valuation & Due Diligence",
@@ -124444,7 +124351,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "GTM and Partnerships Lead",
@@ -124458,7 +124365,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Tax Associate",
@@ -124472,7 +124379,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Data Reporting Analyst",
@@ -124486,7 +124393,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Sales Development Representative (Associate Account Executive)",
@@ -124500,7 +124407,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "EPIC Certified Clinical Applications Lead",
@@ -124514,7 +124421,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Intapp Application Engineer",
@@ -124528,7 +124435,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Office Manager",
@@ -124542,7 +124449,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Golang Developer",
@@ -124556,7 +124463,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "AI Lead",
@@ -124570,7 +124477,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "IT Support Specialist",
@@ -124584,7 +124491,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Matter Mobility Specialist",
@@ -124598,7 +124505,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Quality Manager | ISO 9001 QMS Leadership",
@@ -124612,7 +124519,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Tax Manager - Review & Client Services",
@@ -124626,7 +124533,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Electrical Engineer",
@@ -124640,7 +124547,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Tax Manager",
@@ -124654,7 +124561,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Accounting Manager",
@@ -124668,7 +124575,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Network Engineer",
@@ -124682,7 +124589,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Recruiting Coordinator",
@@ -124696,7 +124603,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Sales Executive",
@@ -124710,7 +124617,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Talent Recruiter",
@@ -124724,7 +124631,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Logistics Sales Executive",
@@ -124738,7 +124645,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Intake & Conflicts Specialist",
@@ -124752,7 +124659,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Product Marketing Manager",
@@ -124766,7 +124673,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Remote Data Scientist",
@@ -124780,7 +124687,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Backend Software Engineer",
@@ -124794,7 +124701,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Lead Network Engineer",
@@ -124808,7 +124715,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "iOS Mobile Engineer",
@@ -124822,7 +124729,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Android Mobile Engineer",
@@ -124836,7 +124743,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Tax Manager- UHNW",
@@ -124850,7 +124757,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Founding Product Manager",
@@ -124864,7 +124771,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Sales Executive - Remote",
@@ -124878,7 +124785,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Software Engineer",
@@ -124892,7 +124799,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Network Engineer",
@@ -124906,7 +124813,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Unanet Accounting Consultant",
@@ -124920,7 +124827,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Sales Development Representative",
@@ -124934,7 +124841,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Salesforce Specialist",
@@ -124948,7 +124855,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior Manager, High Net Worth Tax",
@@ -124962,7 +124869,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Sales Manager | HVAC Industry",
@@ -124976,7 +124883,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Freight Brokerage Account Manager | Fast-Growing Logistics Firm",
@@ -124990,7 +124897,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Staff Engineer, Bazel",
@@ -125004,7 +124911,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Founding Software Engineer",
@@ -125018,7 +124925,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Project Control Specialist",
@@ -125032,7 +124939,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Dynamics CRM Developer",
@@ -125046,7 +124953,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Civil Engineer",
@@ -125060,7 +124967,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Business Development Manager (Southeast)",
@@ -125074,7 +124981,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Senior AI Research Scientist",
@@ -125088,7 +124995,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Python Engineer",
@@ -125102,7 +125009,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Software Engineer",
@@ -125116,7 +125023,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Systems Administrator",
@@ -125130,7 +125037,7 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
    "title": "Staff Software Engineer",
@@ -125144,11 +125051,11 @@
    "website": "strategicemployment.com",
    "src": "nyc",
    "page": "https://strategicemployment.com/looking-for-a-job/",
-   "crawledAt": 1795334268845
+   "crawledAt": 1795425294903
   },
   {
-   "title": "Project Manager",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#project-manager",
+   "title": "Chief People Officer",
+   "url": "https://www.spencer-ogden.com/join-us#chief-people-officer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -125158,11 +125065,11 @@
    "website": "spencer-ogden.com",
    "src": "nyc",
    "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
+   "crawledAt": 1795425304007
   },
   {
-   "title": "Project Engineer",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#project-engineer",
+   "title": "North America, Talent Acquisition Lead",
+   "url": "https://www.spencer-ogden.com/join-us#north-america-talent-acquisition-lead",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -125172,11 +125079,11 @@
    "website": "spencer-ogden.com",
    "src": "nyc",
    "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
+   "crawledAt": 1795425304007
   },
   {
-   "title": "BESS Site manager",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#bess-site-manager",
+   "title": "Senior Talent Acquisition Consultant",
+   "url": "https://www.spencer-ogden.com/join-us#senior-talent-acquisition-consultant",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -125186,63 +125093,7 @@
    "website": "spencer-ogden.com",
    "src": "nyc",
    "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
-  },
-  {
-   "title": "Senior Project Engineer",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#senior-project-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Spencer Ogden",
-   "website": "spencer-ogden.com",
-   "src": "nyc",
-   "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
-  },
-  {
-   "title": "Technical Project Manager - Data Centres",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#technical-project-manager-data-centres",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Spencer Ogden",
-   "website": "spencer-ogden.com",
-   "src": "nyc",
-   "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
-  },
-  {
-   "title": "Mechanical Engineer",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#mechanical-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Spencer Ogden",
-   "website": "spencer-ogden.com",
-   "src": "nyc",
-   "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
-  },
-  {
-   "title": "Field Application Engineer",
-   "url": "https://www.spencer-ogden.com/candidates/jobs#field-application-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Spencer Ogden",
-   "website": "spencer-ogden.com",
-   "src": "nyc",
-   "page": "https://www.spencer-ogden.com/candidates/jobs",
-   "crawledAt": 1795334278230
+   "crawledAt": 1795425304007
   },
   {
    "title": "Senior Development Operations Engineer (Scripting\\Automation)",
@@ -125256,7 +125107,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Mobile Application Developer",
@@ -125270,7 +125121,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "DevOps and Infrastructure Engineer",
@@ -125284,7 +125135,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Sales Engineer",
@@ -125298,7 +125149,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Key Account Manager - Northern California",
@@ -125312,7 +125163,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Key Account Manager - Texas",
@@ -125326,7 +125177,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Business Development Representative",
@@ -125340,7 +125191,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Global Pre-Sales Engineering Manager",
@@ -125354,7 +125205,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Inside Sales Representative",
@@ -125368,7 +125219,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Automation Specialist",
@@ -125382,7 +125233,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Technical Support Analyst",
@@ -125396,7 +125247,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "DCIM Software Solution Coordinator",
@@ -125410,7 +125261,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "DCIM Intern",
@@ -125424,7 +125275,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "DCIM Learning & Development Specialist",
@@ -125438,7 +125289,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Data Center Design Consultant (DCDC)",
@@ -125452,7 +125303,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Registered Communications Distribution Designer (RCDD)",
@@ -125466,7 +125317,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Certified Data Center Specialist (CDCS®)",
@@ -125480,7 +125331,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Certified Data Center Facilities Operations Specialist (CDFOS®)",
@@ -125494,7 +125345,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Certified Data Center Facilities Operations Manager (CDFOM®)",
@@ -125508,7 +125359,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Certified Data Center Environmental Sustainability Specialist (CDESS®)",
@@ -125522,7 +125373,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Data Center Infrastructure Specialist (DCIS)®",
@@ -125536,7 +125387,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Data Center Operations Specialist (DCOS)®",
@@ -125550,7 +125401,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Data Center Operations Manager (DCOM)®",
@@ -125564,7 +125415,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Data Center Engineering Specialist (DCES)®",
@@ -125578,7 +125429,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Data Center Manager (DCM)®",
@@ -125592,7 +125443,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Accredited Tier Designer (ATD)",
@@ -125606,7 +125457,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Accredited Operations Specialist (AOS)",
@@ -125620,7 +125471,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Accredited Tier Specialist (ATS)",
@@ -125634,7 +125485,7 @@
    "website": "sunbirddcim.com",
    "src": "nyc",
    "page": "https://www.sunbirddcim.com/",
-   "crawledAt": 1795334279273
+   "crawledAt": 1795425306764
   },
   {
    "title": "Senior Customer Success Manager, Enterprise",
@@ -125648,7 +125499,7 @@
    "website": "sundaysky.com",
    "src": "nyc",
    "page": "https://sundaysky.com/careers/",
-   "crawledAt": 1795334287594
+   "crawledAt": 1795425315494
   },
   {
    "title": "Enterprise Sales Director, Financial Services",
@@ -125662,7 +125513,7 @@
    "website": "sundaysky.com",
    "src": "nyc",
    "page": "https://sundaysky.com/careers/",
-   "crawledAt": 1795334287594
+   "crawledAt": 1795425315494
   },
   {
    "title": "Job for Associate: Diretor Real Estate São Paulo - SP Associate",
@@ -125676,7 +125527,7 @@
    "website": "suno.com.br",
    "src": "nyc",
    "page": "https://gruposunojobs.gupy.io/",
-   "crawledAt": 1795334290165
+   "crawledAt": 1795425318651
   },
   {
    "title": "Senior Software Engineer | Product",
@@ -125690,7 +125541,7 @@
    "website": "subscribeplatform.com",
    "src": "nyc",
    "page": "https://subscribeplatform.com/careers/",
-   "crawledAt": 1795334296659
+   "crawledAt": 1795425322259
   },
   {
    "title": "Senior Software Engineer | Investments",
@@ -125704,7 +125555,7 @@
    "website": "subscribeplatform.com",
    "src": "nyc",
    "page": "https://subscribeplatform.com/careers/",
-   "crawledAt": 1795334296659
+   "crawledAt": 1795425322259
   },
   {
    "title": "Senior Software Engineer | Reporting",
@@ -125718,7 +125569,7 @@
    "website": "subscribeplatform.com",
    "src": "nyc",
    "page": "https://subscribeplatform.com/careers/",
-   "crawledAt": 1795334296659
+   "crawledAt": 1795425322259
   },
   {
    "title": "Design Intern",
@@ -125732,7 +125583,7 @@
    "website": "heysummerfriday.com",
    "src": "nyc",
    "page": "https://heysummerfriday.com/careers/",
-   "crawledAt": 1795334298379
+   "crawledAt": 1795425327676
   },
   {
    "title": "Senior Account Manager, AI-DNA, $200k/year USD",
@@ -125746,7 +125597,7 @@
    "website": "suuchi.com",
    "src": "nyc",
    "page": "https://careers.ignitetech.ai/jobs",
-   "crawledAt": 1795334305215
+   "crawledAt": 1795425328437
   },
   {
    "title": "Inside Sales Representative, AI-DNA, $100k/year USD",
@@ -125760,7 +125611,7 @@
    "website": "suuchi.com",
    "src": "nyc",
    "page": "https://careers.ignitetech.ai/jobs",
-   "crawledAt": 1795334305215
+   "crawledAt": 1795425328437
   },
   {
    "title": "Senior Site Reliability Engineer, AI-DNA, $100k/year USD",
@@ -125774,7 +125625,7 @@
    "website": "suuchi.com",
    "src": "nyc",
    "page": "https://careers.ignitetech.ai/jobs",
-   "crawledAt": 1795334305215
+   "crawledAt": 1795425328437
   },
   {
    "title": "Principal Al/Machine Learning Scientist, Drug Discovery (China)",
@@ -125814,7 +125665,7 @@
    "website": "taktical.co",
    "src": "nyc",
    "page": "https://taktical.co/jobs/",
-   "crawledAt": 1795334305687
+   "crawledAt": 1795425332938
   },
   {
    "title": "Art Director - Studio T",
@@ -125828,7 +125679,7 @@
    "website": "taktical.co",
    "src": "nyc",
    "page": "https://taktical.co/jobs/",
-   "crawledAt": 1795334305687
+   "crawledAt": 1795425332938
   },
   {
    "title": "Content Strategy and Engagement Lead",
@@ -125842,7 +125693,7 @@
    "website": "taktical.co",
    "src": "nyc",
    "page": "https://taktical.co/jobs/",
-   "crawledAt": 1795334305687
+   "crawledAt": 1795425332938
   },
   {
    "title": "/ what is a forward deployed engineer? →",
@@ -125908,7 +125759,7 @@
    "website": "tensorops.ai",
    "src": "nyc",
    "page": "https://tensorops.ai/careers",
-   "crawledAt": 1795334310310
+   "crawledAt": 1795425333678
   },
   {
    "title": "Bancroft Restaurant Manager",
@@ -125950,7 +125801,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1795334322754
+   "crawledAt": 1795425345762
   },
   {
    "title": "Senior Test Engineer - US Health Insurance",
@@ -125966,7 +125817,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1795334322754
+   "crawledAt": 1795425345762
   },
   {
    "title": "Test Engineer/ Senior Test Engineer - ETL",
@@ -125982,7 +125833,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1795334322754
+   "crawledAt": 1795425345762
   },
   {
    "title": "Test Engineer / Senior Test Engineer - Manual + Data",
@@ -125998,7 +125849,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1795334322754
+   "crawledAt": 1795425345762
   },
   {
    "title": "Test Lead - US Health Insurance",
@@ -126014,7 +125865,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1795334322754
+   "crawledAt": 1795425345762
   },
   {
    "title": "Senior Test Engineer - Manual + Mobile",
@@ -126030,7 +125881,7 @@
    "website": "testingmavens.com",
    "src": "nyc",
    "page": "https://www.testingmavens.com/",
-   "crawledAt": 1795334322754
+   "crawledAt": 1795425345762
   },
   {
    "title": "Customer Account Manager (New England)",
@@ -126070,7 +125921,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Senior Manager, Business Development - Solar Panel Recycling Lead",
@@ -126084,7 +125935,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Manager, Business Development (Commercial)",
@@ -126098,7 +125949,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Manager, Business Development - Commercial",
@@ -126112,7 +125963,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Senior Manager, Creative",
@@ -126126,7 +125977,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Associate, Account Management",
@@ -126140,7 +125991,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Warehouse Associate - Disassembly",
@@ -126154,7 +126005,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Senior Manager, Business Development - West Coast",
@@ -126168,7 +126019,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Senior Manager, Business Development - Mountain West",
@@ -126182,7 +126033,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Warehouse Associate - Disassembly",
@@ -126196,7 +126047,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Associate, Warehouse - Consolidation",
@@ -126210,7 +126061,7 @@
    "website": "terracycle.com",
    "src": "nyc",
    "page": "https://www.terracycle.com/en-US/",
-   "crawledAt": 1795334322096
+   "crawledAt": 1795425345657
   },
   {
    "title": "Senior Implementation Manager, Copenhagen",
@@ -126224,7 +126075,7 @@
    "website": "templafy.com",
    "src": "nyc",
    "page": "https://www.templafy.com/home/about-us/careers/",
-   "crawledAt": 1795334330859
+   "crawledAt": 1795425354912
   },
   {
    "title": "Program Manager",
@@ -126238,7 +126089,7 @@
    "website": "theclarientgroup.com",
    "src": "nyc",
    "page": "https://theclarientgroup.com/careers/",
-   "crawledAt": 1795334330401
+   "crawledAt": 1795425352208
   },
   {
    "title": "Project Coordinator",
@@ -126252,7 +126103,7 @@
    "website": "theclarientgroup.com",
    "src": "nyc",
    "page": "https://theclarientgroup.com/careers/",
-   "crawledAt": 1795334330401
+   "crawledAt": 1795425352208
   },
   {
    "title": "Project Manager/ Structured Cabling Designer",
@@ -126266,7 +126117,7 @@
    "website": "theclarientgroup.com",
    "src": "nyc",
    "page": "https://theclarientgroup.com/careers/",
-   "crawledAt": 1795334330401
+   "crawledAt": 1795425352208
   },
   {
    "title": "Associate Sales Representative",
@@ -126449,7 +126300,7 @@
    "website": "ltvco.com",
    "src": "nyc",
    "page": "https://www.ltvco.com/careers/?location=costa%20rica",
-   "crawledAt": 1795334336837
+   "crawledAt": 1795425359068
   },
   {
    "title": "Affiliate Manager",
@@ -126463,7 +126314,7 @@
    "website": "ltvco.com",
    "src": "nyc",
    "page": "https://www.ltvco.com/careers/?location=costa%20rica",
-   "crawledAt": 1795334336837
+   "crawledAt": 1795425359068
   },
   {
    "title": "Talent Acquisition Manager",
@@ -126477,7 +126328,7 @@
    "website": "ltvco.com",
    "src": "nyc",
    "page": "https://www.ltvco.com/careers/?location=costa%20rica",
-   "crawledAt": 1795334336837
+   "crawledAt": 1795425359068
   },
   {
    "title": "Director of Engineering – Pittsburgh",
@@ -126686,7 +126537,7 @@
    "website": "thesearchex.com",
    "src": "nyc",
    "page": "https://www.thesearchex.com/",
-   "crawledAt": 1795334341210
+   "crawledAt": 1795425374113
   },
   {
    "title": "Senior software developer",
@@ -126778,7 +126629,7 @@
    "website": "thermosystems.com",
    "src": "nyc",
    "page": "https://thermosystems.com/careers/",
-   "crawledAt": 1795334345177
+   "crawledAt": 1795425365223
   },
   {
    "title": "Solutions Manager",
@@ -126792,7 +126643,7 @@
    "website": "thermosystems.com",
    "src": "nyc",
    "page": "https://thermosystems.com/careers/",
-   "crawledAt": 1795334345177
+   "crawledAt": 1795425365223
   },
   {
    "title": "Sales Engineer",
@@ -126806,7 +126657,7 @@
    "website": "thermosystems.com",
    "src": "nyc",
    "page": "https://thermosystems.com/careers/",
-   "crawledAt": 1795334345177
+   "crawledAt": 1795425365223
   },
   {
    "title": "Project Coordinator",
@@ -126820,7 +126671,7 @@
    "website": "thermosystems.com",
    "src": "nyc",
    "page": "https://thermosystems.com/careers/",
-   "crawledAt": 1795334345177
+   "crawledAt": 1795425365223
   },
   {
    "title": "Chief Financial Officer",
@@ -126834,7 +126685,7 @@
    "website": "themoneystore.com",
    "src": "nyc",
    "page": "https://www.themoneystore.com/careers/",
-   "crawledAt": 1795334350190
+   "crawledAt": 1795425372850
   },
   {
    "title": "Maintenance Lead",
@@ -126848,7 +126699,7 @@
    "website": "thesciongroup.com",
    "src": "nyc",
    "page": "https://thesciongroup.com/careers/",
-   "crawledAt": 1795334353393
+   "crawledAt": 1795425380867
   },
   {
    "title": "Leasing Consultant",
@@ -126862,7 +126713,7 @@
    "website": "thesciongroup.com",
    "src": "nyc",
    "page": "https://thesciongroup.com/careers/",
-   "crawledAt": 1795334353393
+   "crawledAt": 1795425380867
   },
   {
    "title": "Maintenance Manager",
@@ -126876,7 +126727,7 @@
    "website": "thesciongroup.com",
    "src": "nyc",
    "page": "https://thesciongroup.com/careers/",
-   "crawledAt": 1795334353393
+   "crawledAt": 1795425380867
   },
   {
    "title": "Leasing Consultant, Part-Time",
@@ -126890,7 +126741,7 @@
    "website": "thesciongroup.com",
    "src": "nyc",
    "page": "https://thesciongroup.com/careers/",
-   "crawledAt": 1795334353393
+   "crawledAt": 1795425380867
   },
   {
    "title": "Senior General Manager",
@@ -126904,7 +126755,7 @@
    "website": "thesciongroup.com",
    "src": "nyc",
    "page": "https://thesciongroup.com/careers/",
-   "crawledAt": 1795334353393
+   "crawledAt": 1795425380867
   },
   {
    "title": "Talent Recruiter",
@@ -126918,7 +126769,7 @@
    "website": "thesciongroup.com",
    "src": "nyc",
    "page": "https://thesciongroup.com/careers/",
-   "crawledAt": 1795334353393
+   "crawledAt": 1795425380867
   },
   {
    "title": "EXECUTIVE PRODUCER",
@@ -126932,175 +126783,7 @@
    "website": "xdagency.com",
    "src": "nyc",
    "page": "https://www.xdagency.com/join-the-team",
-   "crawledAt": 1795334356764
-  },
-  {
-   "title": "Energy Research & Project Analyst",
-   "url": "https://cadmusgroup.com/search-careers/#energy-research-project-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "UX Researcher",
-   "url": "https://cadmusgroup.com/search-careers/#ux-researcher",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Data Analyst - Water Quality",
-   "url": "https://cadmusgroup.com/search-careers/#data-analyst-water-quality",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Experienced Water Specialist (Part-Time)",
-   "url": "https://cadmusgroup.com/search-careers/#experienced-water-specialist-part-time-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "PART_TIME",
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Water Policy Junior Analyst – Entry Level",
-   "url": "https://cadmusgroup.com/search-careers/#water-policy-junior-analyst-entry-level",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Senior Full Stack Developer",
-   "url": "https://cadmusgroup.com/search-careers/#senior-full-stack-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Business Process Analyst",
-   "url": "https://cadmusgroup.com/search-careers/#business-process-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Energy Data Analyst",
-   "url": "https://cadmusgroup.com/search-careers/#energy-data-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Water Utility Specialist",
-   "url": "https://cadmusgroup.com/search-careers/#water-utility-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Energy Engineer",
-   "url": "https://cadmusgroup.com/search-careers/#energy-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Data Science Associate",
-   "url": "https://cadmusgroup.com/search-careers/#data-science-associate",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
-  },
-  {
-   "title": "Market Research and Evaluation Project Manager",
-   "url": "https://cadmusgroup.com/search-careers/#market-research-and-evaluation-project-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "The Cadmus Group",
-   "website": "cadmusgroup.com",
-   "src": "nyc",
-   "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
+   "crawledAt": 1795425379551
   },
   {
    "title": "Business Development Operations Specialist",
@@ -127114,11 +126797,11 @@
    "website": "cadmusgroup.com",
    "src": "nyc",
    "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
+   "crawledAt": 1795425391042
   },
   {
-   "title": "Business Development Manager",
-   "url": "https://cadmusgroup.com/search-careers/#business-development-manager",
+   "title": "Data Science Associate",
+   "url": "https://cadmusgroup.com/search-careers/#data-science-associate",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -127128,11 +126811,25 @@
    "website": "cadmusgroup.com",
    "src": "nyc",
    "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
+   "crawledAt": 1795425391042
   },
   {
-   "title": "Building Decarbonization Analyst",
-   "url": "https://cadmusgroup.com/search-careers/#building-decarbonization-analyst",
+   "title": "Experienced Water Specialist (Part-Time)",
+   "url": "https://cadmusgroup.com/search-careers/#experienced-water-specialist-part-time-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "PART_TIME",
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Senior Full Stack Developer",
+   "url": "https://cadmusgroup.com/search-careers/#senior-full-stack-developer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -127142,7 +126839,91 @@
    "website": "cadmusgroup.com",
    "src": "nyc",
    "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Energy Data Analyst",
+   "url": "https://cadmusgroup.com/search-careers/#energy-data-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Water Utility Specialist",
+   "url": "https://cadmusgroup.com/search-careers/#water-utility-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Market Research and Evaluation Project Manager",
+   "url": "https://cadmusgroup.com/search-careers/#market-research-and-evaluation-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Energy Engineer",
+   "url": "https://cadmusgroup.com/search-careers/#energy-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Energy Research & Project Analyst",
+   "url": "https://cadmusgroup.com/search-careers/#energy-research-project-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Data Analyst - Water Quality",
+   "url": "https://cadmusgroup.com/search-careers/#data-analyst-water-quality",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
   },
   {
    "title": "Clean Energy Analyst - Engineer",
@@ -127156,7 +126937,77 @@
    "website": "cadmusgroup.com",
    "src": "nyc",
    "page": "https://cadmusgroup.com/search-careers/",
-   "crawledAt": 1795334362923
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Business Process Analyst",
+   "url": "https://cadmusgroup.com/search-careers/#business-process-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "UX Researcher",
+   "url": "https://cadmusgroup.com/search-careers/#ux-researcher",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Water Policy Junior Analyst – Entry Level",
+   "url": "https://cadmusgroup.com/search-careers/#water-policy-junior-analyst-entry-level",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Building Decarbonization Analyst",
+   "url": "https://cadmusgroup.com/search-careers/#building-decarbonization-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
+  },
+  {
+   "title": "Business Development Manager",
+   "url": "https://cadmusgroup.com/search-careers/#business-development-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "The Cadmus Group",
+   "website": "cadmusgroup.com",
+   "src": "nyc",
+   "page": "https://cadmusgroup.com/search-careers/",
+   "crawledAt": 1795425391042
   },
   {
    "title": "Account Executive",
@@ -127170,7 +127021,7 @@
    "website": "thnks.com",
    "src": "nyc",
    "page": "https://thnks.com/careers/",
-   "crawledAt": 1795334369384
+   "crawledAt": 1795425393853
   },
   {
    "title": "Partnerships & Community Manager",
@@ -127184,7 +127035,7 @@
    "website": "thnks.com",
    "src": "nyc",
    "page": "https://thnks.com/careers/",
-   "crawledAt": 1795334369384
+   "crawledAt": 1795425393853
   },
   {
    "title": "Product Manager",
@@ -127198,7 +127049,7 @@
    "website": "thnks.com",
    "src": "nyc",
    "page": "https://thnks.com/careers/",
-   "crawledAt": 1795334369384
+   "crawledAt": 1795425393853
   },
   {
    "title": "Senior Account Manager",
@@ -127212,7 +127063,7 @@
    "website": "thnks.com",
    "src": "nyc",
    "page": "https://thnks.com/careers/",
-   "crawledAt": 1795334369384
+   "crawledAt": 1795425393853
   },
   {
    "title": "Talent Acquisition Manager",
@@ -127226,7 +127077,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "LinkedIn Recruiter",
@@ -127240,7 +127091,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Content Marketer",
@@ -127254,7 +127105,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Growth & Product Marketing Manager - AI Products",
@@ -127268,7 +127119,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Product Engineer",
@@ -127282,7 +127133,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Senior iOS Engineer",
@@ -127296,7 +127147,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Product Experience Lead",
@@ -127310,7 +127161,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Category Operations Executive - Supply & RFQ",
@@ -127324,7 +127175,7 @@
    "website": "tipstat.com",
    "src": "nyc",
    "page": "https://tipstat.com/work-with-us/",
-   "crawledAt": 1795334373893
+   "crawledAt": 1795425401205
   },
   {
    "title": "Executive Recruiter Remote",
@@ -127365,7 +127216,7 @@
    "website": "tilebar.com",
    "src": "nyc",
    "page": "https://www.tilebar.com/jobs?footer",
-   "crawledAt": 1795334384939
+   "crawledAt": 1795425408953
   },
   {
    "title": "Business Development Associate, ETFs",
@@ -127392,7 +127243,7 @@
    "website": "townhousepartners.com",
    "src": "nyc",
    "page": "https://townhousepartners.com/careers",
-   "crawledAt": 1795334380926
+   "crawledAt": 1795425408570
   },
   {
    "title": "Commercial Real Estate Analyst",
@@ -127406,7 +127257,7 @@
    "website": "townhousepartners.com",
    "src": "nyc",
    "page": "https://townhousepartners.com/careers",
-   "crawledAt": 1795334380926
+   "crawledAt": 1795425408570
   },
   {
    "title": "Commercial Real Estate Associate",
@@ -127420,7 +127271,7 @@
    "website": "townhousepartners.com",
    "src": "nyc",
    "page": "https://townhousepartners.com/careers",
-   "crawledAt": 1795334380926
+   "crawledAt": 1795425408570
   },
   {
    "title": "Backend Unit Lead",
@@ -127434,7 +127285,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Java Engineering Manager",
@@ -127448,7 +127299,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior Backend Developer",
@@ -127462,7 +127313,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Engineering Manager",
@@ -127476,7 +127327,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Frontend Team Lead",
@@ -127490,7 +127341,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Middle Data Analyst",
@@ -127504,7 +127355,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Principal Product Manager",
@@ -127518,7 +127369,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior Product Designer",
@@ -127532,7 +127383,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior Machine Learning Engineer",
@@ -127546,7 +127397,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Content Marketing Specialist",
@@ -127560,7 +127411,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Marketing Operations Specialist",
@@ -127574,7 +127425,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior Analytics Engineer",
@@ -127588,7 +127439,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior Data Platform Engineer",
@@ -127602,7 +127453,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Middle Hardware & Network Engineer",
@@ -127616,7 +127467,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Android Team Lead",
@@ -127630,7 +127481,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior DevOps Engineer",
@@ -127644,7 +127495,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Monitoring Engineer",
@@ -127658,7 +127509,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Android developer",
@@ -127672,7 +127523,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "iOS Senior Developer",
@@ -127686,7 +127537,7 @@
    "website": "tradingview.com",
    "src": "nyc",
    "page": "https://www.tradingview.com/careers/",
-   "crawledAt": 1795334387873
+   "crawledAt": 1795425419105
   },
   {
    "title": "Senior Account Manager North America M/F/Mx",
@@ -127791,7 +127642,7 @@
    "website": "transfix.io",
    "src": "nyc",
    "page": "https://transfix.io/current-openings",
-   "crawledAt": 1795334389343
+   "crawledAt": 1795425413392
   },
   {
    "title": "Fullstack Developer",
@@ -127805,7 +127656,7 @@
    "website": "trangotech.com",
    "src": "nyc",
    "page": "https://trangotech.com/careers/",
-   "crawledAt": 1795334392830
+   "crawledAt": 1795425419400
   },
   {
    "title": "Senior Recruiter (International & Local)",
@@ -127819,7 +127670,7 @@
    "website": "trangotech.com",
    "src": "nyc",
    "page": "https://trangotech.com/careers/",
-   "crawledAt": 1795334392830
+   "crawledAt": 1795425419400
   },
   {
    "title": "Information Security Lead (GRC)",
@@ -127833,7 +127684,7 @@
    "website": "trangotech.com",
    "src": "nyc",
    "page": "https://trangotech.com/careers/",
-   "crawledAt": 1795334392830
+   "crawledAt": 1795425419400
   },
   {
    "title": "Wordpress Developer",
@@ -127847,7 +127698,7 @@
    "website": "trangotech.com",
    "src": "nyc",
    "page": "https://trangotech.com/careers/",
-   "crawledAt": 1795334392830
+   "crawledAt": 1795425419400
   },
   {
    "title": "Spanish Speaking Sales Executive",
@@ -127861,7 +127712,7 @@
    "website": "trangotech.com",
    "src": "nyc",
    "page": "https://trangotech.com/careers/",
-   "crawledAt": 1795334392830
+   "crawledAt": 1795425419400
   },
   {
    "title": "Business Intelligence Analyst",
@@ -127875,7 +127726,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Senior Graphic Designer",
@@ -127889,7 +127740,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Programmatic Account Director",
@@ -127903,7 +127754,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Account Manager (Temp)",
@@ -127917,7 +127768,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Facilities Office Coordinator",
@@ -127931,7 +127782,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Prep Kitchen Manager - Culinary",
@@ -127945,7 +127796,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Newsletter Editor",
@@ -127959,7 +127810,7 @@
    "website": "trustedmediabrands.com",
    "src": "nyc",
    "page": "https://www.trustedmediabrands.com/careers/",
-   "crawledAt": 1795334394093
+   "crawledAt": 1795425423654
   },
   {
    "title": "Financial Analyst",
@@ -127973,7 +127824,7 @@
    "website": "trimont.com",
    "src": "nyc",
    "page": "https://trimont.com/careers/",
-   "crawledAt": 1795334399108
+   "crawledAt": 1795425426553
   },
   {
    "title": "Chief Executive Officer, Trimont",
@@ -127987,7 +127838,7 @@
    "website": "trimont.com",
    "src": "nyc",
    "page": "https://trimont.com/careers/",
-   "crawledAt": 1795334399108
+   "crawledAt": 1795425426553
   },
   {
    "title": "Senior NetApp Storage Administrator",
@@ -128001,7 +127852,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior Backup Administrator",
@@ -128015,7 +127866,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior SQL Database Administrator (SQL DBA)",
@@ -128029,7 +127880,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Incident Manager",
@@ -128043,7 +127894,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior Incident & Change Manager",
@@ -128057,7 +127908,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior SRE Specialist",
@@ -128071,7 +127922,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior Network Administrator",
@@ -128085,7 +127936,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Principal Infrastructure Engineer",
@@ -128099,7 +127950,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior UI / HTML Developer",
@@ -128113,7 +127964,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Systems Analyst(s)",
@@ -128127,7 +127978,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Application Programmer/Developer",
@@ -128141,7 +127992,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Software Developer",
@@ -128155,7 +128006,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Senior iOS Developer",
@@ -128169,7 +128020,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Application Programmer/Developer (Referral Programme)",
@@ -128183,7 +128034,7 @@
    "website": "tringapps.com",
    "src": "nyc",
    "page": "https://tringapps.com/careers/",
-   "crawledAt": 1795334401923
+   "crawledAt": 1795425431354
   },
   {
    "title": "Director of Payer & Provider Operations",
@@ -128197,7 +128048,7 @@
    "website": "twentyeighthealth.com",
    "src": "nyc",
    "page": "https://www.twentyeighthealth.com/career",
-   "crawledAt": 1795334408566
+   "crawledAt": 1795425434465
   },
   {
    "title": "Customer Success Manager, Audit, UK",
@@ -132280,6 +132131,34 @@
    "crawledAt": 1795420570276
   },
   {
+   "title": "ACCOUNTING SPECIALIST",
+   "url": "https://www.eficens.ai/careers#accounting-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "EFICENS SYSTEMS LLC",
+   "website": "eficensit.com",
+   "src": "h1b",
+   "page": "https://www.eficens.ai/careers",
+   "crawledAt": 1795425078766
+  },
+  {
+   "title": "Inside Sales Representative – Cloud Services",
+   "url": "https://www.eficens.ai/careers#inside-sales-representative-cloud-services",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "EFICENS SYSTEMS LLC",
+   "website": "eficensit.com",
+   "src": "h1b",
+   "page": "https://www.eficens.ai/careers",
+   "crawledAt": 1795425078766
+  },
+  {
    "title": "Programmer Analyst -VIII",
    "url": "https://natsoft.us/careers#programmer-analyst-viii",
    "datePosted": null,
@@ -134686,6 +134565,62 @@
    "src": "h1b",
    "page": "https://www.avanitechsolutions.com/careers",
    "crawledAt": 1795420994916
+  },
+  {
+   "title": "Technology Consultant",
+   "url": "https://www.mitchellmartin.com/careers#technology-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "MITCHELL MARTIN INC",
+   "website": "mitchellmartin.com",
+   "src": "h1b",
+   "page": "https://www.mitchellmartin.com/careers/immigration-expertise",
+   "crawledAt": 1795425086454
+  },
+  {
+   "title": "Cybersecurity Analyst",
+   "url": "https://www.mitchellmartin.com/careers#cybersecurity-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "MITCHELL MARTIN INC",
+   "website": "mitchellmartin.com",
+   "src": "h1b",
+   "page": "https://www.mitchellmartin.com/careers/immigration-expertise",
+   "crawledAt": 1795425086454
+  },
+  {
+   "title": "Program Manager",
+   "url": "https://www.mitchellmartin.com/careers#program-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "MITCHELL MARTIN INC",
+   "website": "mitchellmartin.com",
+   "src": "h1b",
+   "page": "https://www.mitchellmartin.com/careers/immigration-expertise",
+   "crawledAt": 1795425086454
+  },
+  {
+   "title": "Full Time Technology Executive",
+   "url": "https://www.mitchellmartin.com/careers#full-time-technology-executive",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "MITCHELL MARTIN INC",
+   "website": "mitchellmartin.com",
+   "src": "h1b",
+   "page": "https://www.mitchellmartin.com/careers/immigration-expertise",
+   "crawledAt": 1795425086454
   },
   {
    "title": "Sailpoint IIQ Developer",
@@ -137628,6 +137563,20 @@
    "crawledAt": 1795420995001
   },
   {
+   "title": "Sales Account Executive - Filled",
+   "url": "https://solution-soft.com/about/careers#sales-account-executive-filled",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SOLUTIONSOFT INC",
+   "website": "solution-soft.com",
+   "src": "h1b",
+   "page": "https://solution-soft.com/about/careers",
+   "crawledAt": 1795425080567
+  },
+  {
    "title": "Health Informatics Specialist",
    "url": "https://intellilinktech.com/careers#health-informatics-specialist",
    "datePosted": null,
@@ -139146,6 +139095,104 @@
    "crawledAt": 1795420992964
   },
   {
+   "title": "Software Developer",
+   "url": "https://siclamerica.com/careers/#software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SICL AMERICA INC",
+   "website": "siclamerica.com",
+   "src": "h1b",
+   "page": "https://siclamerica.com/careers/",
+   "crawledAt": 1795425111354
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://siclamerica.com/careers/#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SICL AMERICA INC",
+   "website": "siclamerica.com",
+   "src": "h1b",
+   "page": "https://siclamerica.com/careers/",
+   "crawledAt": 1795425111354
+  },
+  {
+   "title": "IT Analyst",
+   "url": "https://siclamerica.com/careers/#it-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SICL AMERICA INC",
+   "website": "siclamerica.com",
+   "src": "h1b",
+   "page": "https://siclamerica.com/careers/",
+   "crawledAt": 1795425111354
+  },
+  {
+   "title": "Software Developer – Posted 05/15/2026",
+   "url": "https://www.smsolutionsinc.com/current-openings/#software-developer-posted-05-15-2026",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SATYA MARG SOLUTIONS INC",
+   "website": "smsolutionsinc.com",
+   "src": "h1b",
+   "page": "https://www.smsolutionsinc.com/why-join-us/",
+   "crawledAt": 1795425103601
+  },
+  {
+   "title": "QA Automation Engineer",
+   "url": "https://yottasys.com/careers/qa-automation-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "YOTTA SYSTEMS INC",
+   "website": "yottasys.com",
+   "src": "h1b",
+   "page": "https://yottasys.com/careers/",
+   "crawledAt": 1795425090567
+  },
+  {
+   "title": "Software Developer",
+   "url": "https://yottasys.com/careers/software-developer-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "YOTTA SYSTEMS INC",
+   "website": "yottasys.com",
+   "src": "h1b",
+   "page": "https://yottasys.com/careers/",
+   "crawledAt": 1795425090567
+  },
+  {
+   "title": "Spark Developer",
+   "url": "https://yottasys.com/careers/software-developer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "YOTTA SYSTEMS INC",
+   "website": "yottasys.com",
+   "src": "h1b",
+   "page": "https://yottasys.com/careers/",
+   "crawledAt": 1795425090567
+  },
+  {
    "title": "Becoming a consultant at Simon-Kucher",
    "url": "https://www.simon-kucher.com/en/careers/people-stories/closer-look-becoming-consultant-simon-kucher",
    "datePosted": null,
@@ -139158,6 +139205,986 @@
    "src": "h1b",
    "page": "https://simon-kucher.csod.com/ux/ats/careersite/6/home?c=simon-kucher",
    "crawledAt": 1795420998499
+  },
+  {
+   "title": "Muthuraja Karuppiah, UI Architect",
+   "url": "https://www.harveynashusa.com/jobs#muthuraja-karuppiah-ui-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Ketaki Chiplonkar, Project Manager",
+   "url": "https://www.harveynashusa.com/jobs#ketaki-chiplonkar-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Alejandra Ortiz, Integrated Marketing Coordinator",
+   "url": "https://www.harveynashusa.com/jobs#alejandra-ortiz-integrated-marketing-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Kiran Dasari, IT Team Lead",
+   "url": "https://www.harveynashusa.com/jobs#kiran-dasari-it-team-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Pradeep Kunchala, Electrical Engineer",
+   "url": "https://www.harveynashusa.com/jobs#pradeep-kunchala-electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Test Development Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/test-development-engineer-8562-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Data Platform Manager",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/data-platform-manager-8507-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Data Platform Manager",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/data-platform-manager-8529-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior Infrastructure Engineer - SRE",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-infrastructure-engineer-sre-8528-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior Software Engineer – Data Platform | Healthcare Technology |",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-software-engineer-data-platform-healthcare-technology-8527-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior Agentic AI Security Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-agentic-ai-security-engineer-8535-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Sr. Manager of Network Engineering",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/sr-manager-of-network-engineering-8533-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Principal Network Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/principal-network-engineer-8531-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Merchandising Associate – Bakery/Deli Merchandising Associate",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/merchandising-associate-bakery-deli-merchandising-associate-8554-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Merchandising Associate – Bakery/Deli Merchandising Associate",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/merchandising-associate-bakery-deli-merchandising-associate-8551-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "FP&A Analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/fp-a-analyst-8544-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Operations Coordinator – Retail Technology",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/operations-coordinator-retail-technology-8521-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Billing Analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/billing-analyst-8513-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Billing Analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/billing-analyst-8505-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Billing Analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/billing-analyst-8472-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior Data Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-data-engineer-8508-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior Data Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-data-engineer-8471-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Lead Data Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/lead-data-engineer-8470-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Lead Data Engineer (DataOps) | Azure, Databricks, CI/CD",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/lead-data-engineer-dataops-azure-databricks-ci-cd-8281-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Supply Chain Analyst 3",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/supply-chain-analyst-3-8523-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Data Center Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/data-center-engineer-8550-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Database Designer/Analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/database-designer-analyst-8546-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Information Security Analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/information-security-analyst-8489-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior Agentic AI Security Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-agentic-ai-security-engineer-8534-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Sr. Manager of Network Engineering",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/sr-manager-of-network-engineering-8532-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Principal Network Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/principal-network-engineer-8530-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Principal Network Engineer (HFT Trading Networks)",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/principal-network-engineer-hft-trading-networks-8506-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Business Analyst 1",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/business-analyst-1-8560-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "GCP Data Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/gcp-data-engineer-8557-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Supply Chain Analyst 4",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/supply-chain-analyst-4-8538-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Video Content Script Writer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/video-content-script-writer-8518-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Data Product Manager",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/data-product-manager-8488-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Business Analyst 2",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/business-analyst-2-8487-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Supply Chain Analyst 3",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/supply-chain-analyst-3-8446-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "HR Specialist 4",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/hr-specialist-4-8567-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Project Manager 2",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/project-manager-2-8565-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Customer insights ratings and reviews analyst",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/customer-insights-ratings-and-reviews-analyst-8511-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Supply Chain Analyst 2",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/supply-chain-analyst-2-8510-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Executive Admin Assistant 4",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/executive-admin-assistant-4-8499-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Retail Marketing Procurement Specialist",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/retail-marketing-procurement-specialist-8486-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Product Specialist 2",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/product-specialist-2-8456-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Senior AI/ML Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/senior-ai-ml-engineer-8573-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "AI OS Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/ai-os-engineer-8426-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Contracts Manager IV",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/contracts-manager-iv-8564-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Manager, Spacecraft Mission Execution",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/manager-spacecraft-mission-execution-8572-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Program Manager - Construction",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/program-manager-construction-8571-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Program Manager",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/program-manager-8570-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Program Manager",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/program-manager-8569-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Change Manager",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/change-manager-8541-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Quality Engineer 3",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/quality-engineer-3-8552-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Treasury Specialist",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/treasury-specialist-8561-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Event management --- Operations Manager 1 (Marketing analyst OR Operations Specialist)",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/event-management-operations-manager-1-marketing-analyst-or-operations-specialist-8438-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Operations Business Coordinator",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/operations-business-coordinator-8566-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Salesforce Technical Architect",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/salesforce-technical-architect-8503-2/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "GIS Specialist",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/gis-specialist-8449-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Site Reliability Engineer",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/site-reliability-engineer-8444-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Operations Manager 3",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/operations-manager-3-8545-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Designer - Print I",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/designer-print-i-8477-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Designer - Print I",
+   "url": "https://careers.harveynashusa.com/jobsearch/job-details/designer-print-i-8502-1/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Muthuraja Karuppiah, UI Architect",
+   "url": "https://www.harveynashusa.com/talent-solutions/direct-hiring-contract-staffing#muthuraja-karuppiah-ui-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Ketaki Chiplonkar, Project Manager",
+   "url": "https://www.harveynashusa.com/talent-solutions/direct-hiring-contract-staffing#ketaki-chiplonkar-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Alejandra Ortiz, Integrated Marketing Coordinator",
+   "url": "https://www.harveynashusa.com/talent-solutions/direct-hiring-contract-staffing#alejandra-ortiz-integrated-marketing-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Kiran Dasari, IT Team Lead",
+   "url": "https://www.harveynashusa.com/talent-solutions/direct-hiring-contract-staffing#kiran-dasari-it-team-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "Pradeep Kunchala, Electrical Engineer",
+   "url": "https://www.harveynashusa.com/talent-solutions/direct-hiring-contract-staffing#pradeep-kunchala-electrical-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
+  },
+  {
+   "title": "an AI Staffing Specialist",
+   "url": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent#an-ai-staffing-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "HARVEY NASH INC",
+   "website": "harveynashusa.com",
+   "src": "h1b",
+   "page": "https://www.harveynashusa.com/posts/what-are-ai-staffing-solutions-a-guide-to-hiring-machine-learning-and-ai-talent",
+   "crawledAt": 1795425084060
   },
   {
    "title": "Oracle Service Cloud Application Support Specialist",
@@ -139312,6 +140339,286 @@
    "src": "h1b",
    "page": "https://logisofttechinc.com/careers/",
    "crawledAt": 1795420996636
+  },
+  {
+   "title": "Software Developer- 05/01/2025-05/31/2025",
+   "url": "https://redeemsoft.com/current-openings/#software-developer-05-01-2025-05-31-2025",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "REDEEMSOFT LLC",
+   "website": "redeemsoft.com",
+   "src": "h1b",
+   "page": "https://redeemsoft.com/current-openings/",
+   "crawledAt": 1795425097142
+  },
+  {
+   "title": "Marketing Analyst",
+   "url": "https://www.oncorre.com/careers#marketing-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.oncorre.com/careers#software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Network & Security Analyst",
+   "url": "https://www.oncorre.com/careers#network-security-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Data Scientist",
+   "url": "https://www.oncorre.com/careers#data-scientist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Cloud Enterprise Data Architect",
+   "url": "https://www.oncorre.com/careers#cloud-enterprise-data-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Technical Lead",
+   "url": "https://www.oncorre.com/careers#technical-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Cloud Architect",
+   "url": "https://www.oncorre.com/careers#cloud-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Cloud Platform Architect",
+   "url": "https://www.oncorre.com/careers#cloud-platform-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Software Developer",
+   "url": "https://www.oncorre.com/careers#software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "IT System Support Engineer",
+   "url": "https://www.oncorre.com/careers#it-system-support-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Software Developer, II",
+   "url": "https://www.oncorre.com/careers#software-developer-ii",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "IT Project Manager",
+   "url": "https://www.oncorre.com/careers#it-project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Senior Business Systems Analyst-Applications Development",
+   "url": "https://www.oncorre.com/careers#senior-business-systems-analyst-applications-development",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "QA Analyst",
+   "url": "https://www.oncorre.com/careers#qa-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Programmer Analyst",
+   "url": "https://www.oncorre.com/careers#programmer-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "System Analyst",
+   "url": "https://www.oncorre.com/careers#system-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Business Analyst-II",
+   "url": "https://www.oncorre.com/careers#business-analyst-ii",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "Business Analyst",
+   "url": "https://www.oncorre.com/careers#business-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
+  },
+  {
+   "title": "BI Analyst",
+   "url": "https://www.oncorre.com/careers#bi-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "ONCORRE INC",
+   "website": "oncorre.com",
+   "src": "h1b",
+   "page": "https://www.oncorre.com/careers",
+   "crawledAt": 1795425079526
   },
   {
    "title": "Infrastructure Engineer",
@@ -145678,6 +146985,20 @@
    "src": "h1b",
    "page": "https://mathematica.org/about-mathematica/work-with-us",
    "crawledAt": 1795421017365
+  },
+  {
+   "title": "Become an NNIT Specialist",
+   "url": "https://www.nnit.com/careers/become-an-nnit-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "VALIANCE PARTNERS LLC",
+   "website": "valiancepartners.com",
+   "src": "h1b",
+   "page": "https://www.nnit.com/careers/young-professionals",
+   "crawledAt": 1795425104562
   },
   {
    "title": "Senior Architectural Designer, Commercial Interiors – Boston",
@@ -153049,6 +154370,90 @@
    "src": "h1b",
    "page": "https://cittacore.com/",
    "crawledAt": 1795339990839
+  },
+  {
+   "title": "Software Developer",
+   "url": "https://www.softnet-consulting.com/jobs/software-developer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SOFTNET CONSULTING INC",
+   "website": "softnet-consulting.com",
+   "src": "h1b",
+   "page": "https://www.softnet-consulting.com/career-2/",
+   "crawledAt": 1795425119936
+  },
+  {
+   "title": "Network Engineer: Onsite",
+   "url": "https://www.softnet-consulting.com/jobs/network-engineer-onsite/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SOFTNET CONSULTING INC",
+   "website": "softnet-consulting.com",
+   "src": "h1b",
+   "page": "https://www.softnet-consulting.com/career-2/",
+   "crawledAt": 1795425119936
+  },
+  {
+   "title": "Oracle PPM Functional Analyst",
+   "url": "https://www.softnet-consulting.com/jobs/oracle-ppm-functional-analyst/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SOFTNET CONSULTING INC",
+   "website": "softnet-consulting.com",
+   "src": "h1b",
+   "page": "https://www.softnet-consulting.com/career-2/",
+   "crawledAt": 1795425119936
+  },
+  {
+   "title": "Oracle P2P Functional Lead",
+   "url": "https://www.softnet-consulting.com/jobs/oracle-p2p-functional-lead/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SOFTNET CONSULTING INC",
+   "website": "softnet-consulting.com",
+   "src": "h1b",
+   "page": "https://www.softnet-consulting.com/career-2/",
+   "crawledAt": 1795425119936
+  },
+  {
+   "title": "Oracle Finance Techno Functional Consultant",
+   "url": "https://www.softnet-consulting.com/jobs/oracle-finance-techno-functional-consultant/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SOFTNET CONSULTING INC",
+   "website": "softnet-consulting.com",
+   "src": "h1b",
+   "page": "https://www.softnet-consulting.com/career-2/",
+   "crawledAt": 1795425119936
+  },
+  {
+   "title": "Cybersecurity Engineer",
+   "url": "https://www.softnet-consulting.com/jobs/cybersecurity-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SOFTNET CONSULTING INC",
+   "website": "softnet-consulting.com",
+   "src": "h1b",
+   "page": "https://www.softnet-consulting.com/career-2/",
+   "crawledAt": 1795425119936
   },
   {
    "title": "Network Architect",
@@ -160623,6 +162028,20 @@
    "src": "h1b",
    "page": "http://triumai.com/welcome/career",
    "crawledAt": 1795421036924
+  },
+  {
+   "title": "Software Quality Assurance Analyst",
+   "url": "https://www.bongosys.com/careers/#software-quality-assurance-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "BONGOSYS INC",
+   "website": "bongosys.com",
+   "src": "h1b",
+   "page": "https://www.bongosys.com/careers/",
+   "crawledAt": 1795425154080
   },
   {
    "title": "Executive",
