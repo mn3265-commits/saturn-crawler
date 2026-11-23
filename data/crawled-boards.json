@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-23T08:16:19.440Z",
+ "generated": "2026-11-23T08:22:37.733Z",
  "companies": 22940,
  "status": {
-  "found": 3011,
-  "no-ats": 11764,
-  "site": 3822,
-  "down": 4343
+  "found": 3017,
+  "no-ats": 11759,
+  "site": 3826,
+  "down": 4338
  },
  "byType": {
   "dover": 7,
   "ashby": 656,
-  "workday": 555,
-  "gh": 844,
+  "workday": 558,
+  "gh": 846,
   "lever": 239,
   "gem": 69,
   "rippling": 117,
@@ -20,8 +20,8 @@
   "smartrecruiters": 56,
   "recruitee": 24,
   "eightfold": 40,
-  "icims": 157,
-  "oracle": 90,
+  "icims": 158,
+  "oracle": 91,
   "successfactors": 14
  },
  "boards": [
@@ -10838,6 +10838,24 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "karmanspacedefense",
+   "url": "job-boards.greenhouse.io/karmanspacedefense",
+   "label": "Karman Space & Defense",
+   "website": "karman-sd.com",
+   "page": "https://job-boards.greenhouse.io/karmanspacedefense?gh_src=oszptvl99us",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "karmanspacedefense",
+   "url": "job-boards.greenhouse.io/karmanspacedefense",
+   "label": "Karman Space & Defense",
+   "website": "karman-sd.com",
+   "page": "https://job-boards.greenhouse.io/karmanspacedefense?gh_src=oszptvl99us",
+   "src": "nyc"
+  },
+  {
    "type": "icims",
    "token": "kearnybank",
    "url": "careers-kearnybank.icims.com",
@@ -11056,6 +11074,15 @@
    "src": "nyc"
   },
   {
+   "type": "oracle",
+   "token": "ebwi.fa.us2.oraclecloud.com",
+   "url": "ebwi.fa.us2.oraclecloud.com",
+   "label": "Liquidity Services",
+   "website": "liquidityservices.com",
+   "page": "https://careers.liquidityservices.com/en/sites/careers-liquidityservices",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "magical",
    "url": "jobs.ashbyhq.com/magical",
@@ -11098,7 +11125,7 @@
    "url": "careers-lumanity.icims.com",
    "label": "Lumanity",
    "website": "lumanity.com",
-   "page": "https://lumanity.com/early-careers/",
+   "page": "https://lumanity.com/",
    "src": "nyc"
   },
   {
@@ -11292,6 +11319,15 @@
   },
   {
    "type": "icims",
+   "token": "montenidoaffiliates",
+   "url": "careers-montenidoaffiliates.icims.com",
+   "label": "Monte Nido",
+   "website": "montenido.com",
+   "page": "https://careers.montenidoaffiliates.com/careershome",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
    "token": "mcics",
    "url": "careers-mcics.icims.com",
    "label": "Mortgage Connect",
@@ -11342,7 +11378,7 @@
    "url": "careers-mpowerdirect.icims.com",
    "label": "Mpower Direct",
    "website": "mpowerdirect.com",
-   "page": "https://careers-mpowerdirect.icims.com/",
+   "page": "https://mpowerdirect.com/",
    "src": "nyc"
   },
   {
@@ -13868,6 +13904,16 @@
    "src": "program"
   },
   {
+   "type": "workday",
+   "token": "visa.wd5.myworkdayjobs.com",
+   "url": "visa.wd5.myworkdayjobs.com/Visa",
+   "site": "Visa",
+   "label": "Visa",
+   "website": "corporate.visa.com/en/jobs/university.html",
+   "page": "https://corporate.visa.com/en/jobs/university.html",
+   "src": "program"
+  },
+  {
    "type": "lever",
    "token": "deloitte",
    "url": "jobs.lever.co/deloitte",
@@ -13893,6 +13939,24 @@
    "label": "Deloitte",
    "website": "deloitte.com/us/en/careers/students.html",
    "page": "https://www.deloitte.com/global/en/careers/job-search.html",
+   "src": "program"
+  },
+  {
+   "type": "workday",
+   "token": "att.wd1.myworkdayjobs.com",
+   "url": "att.wd1.myworkdayjobs.com/en-US/ATTGeneral",
+   "site": "ATTGeneral",
+   "label": "AT&T",
+   "website": "att.jobs/students",
+   "src": "program"
+  },
+  {
+   "type": "workday",
+   "token": "jj.wd5.myworkdayjobs.com",
+   "url": "jj.wd5.myworkdayjobs.com/JJ",
+   "site": "JJ",
+   "label": "Johnson & Johnson",
+   "website": "careers.jnj.com/en/students-and-graduates",
    "src": "program"
   },
   {
@@ -114331,6 +114395,552 @@
    "crawledAt": 1795333607431
   },
   {
+   "title": "Never Give Up: Perseverance Leads to This Supervisor&#x27;s Success",
+   "url": "https://jobs.spectrum.com/blog-jay-p",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "How This Sales Manager Found Meaningful Work That Advanced Her Career",
+   "url": "https://jobs.spectrum.com/blog-sales-manager-candice",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum&#x27;s Field Operations Construction Team",
+   "url": "https://jobs.spectrum.com/construction",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum Retail Sales",
+   "url": "https://jobs.spectrum.com/stores",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "A Store Manager&#x2019;s Guide to Creating Exceptional Customer Experiences",
+   "url": "https://jobs.spectrum.com/blog-store-manager-guide-creating-exceptional-CX",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum Named 2026 Community Champion by The Stamford Partnership",
+   "url": "https://jobs.spectrum.com/blog-2026-community-champion-stamford-partnership",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Turning Past Experiences into Spectrum Stores Success",
+   "url": "https://jobs.spectrum.com/blog-spectrum-stores-success-retail-experience",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Inside Multi-Tenant Sales at Spectrum: Relationship-Driven Work with Real Earning Potential",
+   "url": "https://jobs.spectrum.com/blog-inside-multi-tenant-sales",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Building the Future of Digital: Meet the Team Powering Our E-Commerce Growth",
+   "url": "https://jobs.spectrum.com/blog-e-commerce-the-future-of-digital",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "From Associate to Store Manager: Priscilla&#x2019;s Journey of Growth",
+   "url": "https://jobs.spectrum.com/blog-store-manager-growth-journey",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "What Hiring Managers Wish You Knew: Straight Talk from a Recruiter",
+   "url": "https://jobs.spectrum.com/blog-straight-talk-from-a-recruiter",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "The &#x201C;Next Door&#x201D; Mindset: Why Real Connections Drive Real Success at Spectrum",
+   "url": "https://jobs.spectrum.com/blog-the-next-door-mindset",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Finding Success in Residential Connectivity Sales",
+   "url": "https://jobs.spectrum.com/blog-finding-success-residential-connectivity-sales",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Building Connections in Business Sales, One Conversation at a Time",
+   "url": "https://jobs.spectrum.com/blog-building-connections-business-sales",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum National Hiring Week | Sales",
+   "url": "https://jobs.spectrum.com/hiring-events",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum National Hiring Week | Call Center Sales",
+   "url": "https://jobs.spectrum.com/hiring-week",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "How to Stand Out in a Sales Interview: A Recruiter&#x27;s Perspective",
+   "url": "https://jobs.spectrum.com/blog-how-to-stand-out-in-a-sales-interview",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Kat Combined Ambition and Career Growth Opportunities to Build Her Career",
+   "url": "https://jobs.spectrum.com/blog-kat",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Success with Spectrum&#x2019;s Education Benefit Lands Julius on Stage to Inspire Others",
+   "url": "https://jobs.spectrum.com/blog-guild-gathers-live-julius",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "&quot;The 3 qualities I look for in applicants,&quot; from a senior recruiter at a Fortune 500 company",
+   "url": "https://jobs.spectrum.com/blog-3-applicant-qualities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "From Customer Service Representative to Recruiter",
+   "url": "https://jobs.spectrum.com/blog-felicia",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum Is There to Help Veterans Achieve Career Growth",
+   "url": "https://jobs.spectrum.com/blog-nikita-wallace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Nothing Stops This Business Planning Analyst From Achieving Success",
+   "url": "https://jobs.spectrum.com/blog-jeremy",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "3 Tips to Grow your Career from an HR Manager at Spectrum",
+   "url": "https://jobs.spectrum.com/blog-lori",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Looking for Leadership Advice? This Director Shares Her Best Tips and Personal Experiences",
+   "url": "https://jobs.spectrum.com/blog-kat-kerr",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "From NY to NC&#x2014;Project Manager, Patrice, Shares Her Career Journey",
+   "url": "https://jobs.spectrum.com/blog-patrice",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Sales Leader Reveals What It Takes to Be a &#x27;Wonder Woman&#x27;",
+   "url": "https://jobs.spectrum.com/blog-joella-wind",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Dynamic Career Growth Across Network Operations",
+   "url": "https://jobs.spectrum.com/blog-kristin",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "How One Senior Director is Helping Develop Spectrum&#x2019;s Future Leaders",
+   "url": "https://jobs.spectrum.com/blog-khanspasha",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum Business Sales: Where Opportunity Meets Impact",
+   "url": "https://jobs.spectrum.com/blog-spectrum-business-sales",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "From Spectrum Intern to Product Strategy Analyst: This is Davin&#x2019;s Story",
+   "url": "https://jobs.spectrum.com/blog-davin",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum Call Center Sales | Mililani, Hawaii",
+   "url": "https://jobs.spectrum.com/mililani-hawaii",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Spectrum Is Hiring New Residential Sales Account Executives",
+   "url": "https://jobs.spectrum.com/residential-sales",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Sales roles starting at 20 dollars per hour",
+   "url": "https://jobs.spectrum.com/sales-20",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Call Center Sales - Mililani, Hawaii",
+   "url": "https://jobs.spectrum.com/mililani",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Customer Operations",
+   "url": "https://jobs.spectrum.com/browse-customer-operations-jobs",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Field Operations",
+   "url": "https://jobs.spectrum.com/browse-field-operations-jobs",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Product & Technology",
+   "url": "https://jobs.spectrum.com/browse-product-jobs",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
+   "title": "Sales & Marketing",
+   "url": "https://jobs.spectrum.com/browse-sales-and-marketing-jobs",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Logicworks",
+   "website": "logicworks.com",
+   "src": "nyc",
+   "page": "https://rapidscale.com/careers",
+   "crawledAt": 1795421804194
+  },
+  {
    "title": "Grow, learn, lead",
    "url": "https://www.madhive.com/careers#grow-learn-lead",
    "datePosted": null,
@@ -115379,6 +115989,20 @@
    "src": "nyc",
    "page": "https://www.montoux.com/careers",
    "crawledAt": 1795420824054
+  },
+  {
+   "title": "Managing Editor",
+   "url": "https://www.marketsmedia.com/jobs-act-generates-jitters/#managing-editor",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Markets Media",
+   "website": "marketsmedia.com",
+   "src": "nyc",
+   "page": "https://www.marketsmediagroup.com/careers/",
+   "crawledAt": 1795421821166
   },
   {
    "title": "Healthcare and Therapy Careers at Myodetox",
@@ -128880,7 +129504,7 @@
    "company": "Wells Fargo",
    "website": "wellsfargojobs.com/en/early-careers",
    "src": "program",
-   "crawledAt": 1795332075298
+   "crawledAt": 1795421889990
   },
   {
    "title": "2027 Investment Banking Summer Associate Program (CA) - Early Careers",
@@ -128893,7 +129517,7 @@
    "company": "Wells Fargo",
    "website": "wellsfargojobs.com/en/early-careers",
    "src": "program",
-   "crawledAt": 1795332075298
+   "crawledAt": 1795421889990
   },
   {
    "title": "My Account",
@@ -128906,7 +129530,7 @@
    "company": "PwC",
    "website": "pwc.com/us/en/careers/university-relations.html",
    "src": "program",
-   "crawledAt": 1795332079567
+   "crawledAt": 1795421894810
   },
   {
    "title": "Shared success benefits",
@@ -128919,7 +129543,7 @@
    "company": "PwC",
    "website": "pwc.com/us/en/careers/university-relations.html",
    "src": "program",
-   "crawledAt": 1795332079567
+   "crawledAt": 1795421894810
   },
   {
    "title": "Managing Director",
@@ -128933,7 +129557,7 @@
    "website": "goldmansachs.com/careers/students/programs-and-internships",
    "src": "program",
    "page": "https://www.goldmansachs.com/careers/life-at-goldman-sachs",
-   "crawledAt": 1795332044049
+   "crawledAt": 1795421859338
   },
   {
    "title": "job posting isn't representative",
@@ -128961,7 +129585,7 @@
    "website": "amazon.jobs/content/en/career-programs/university",
    "src": "program",
    "page": "https://amazon.jobs/content/en/career-programs/university/jobs-for-grads",
-   "crawledAt": 1795332042827
+   "crawledAt": 1795421858080
   },
   {
    "title": "Senior Program Manager",
@@ -128975,7 +129599,7 @@
    "website": "amazon.jobs/content/en/career-programs/university",
    "src": "program",
    "page": "https://amazon.jobs/content/en/career-programs/university/jobs-for-grads",
-   "crawledAt": 1795332042827
+   "crawledAt": 1795421858080
   },
   {
    "title": "AWS Cloud Support Associate",
@@ -128989,11 +129613,11 @@
    "website": "amazon.jobs/content/en/career-programs/university",
    "src": "program",
    "page": "https://amazon.jobs/content/en/career-programs/university/jobs-for-grads",
-   "crawledAt": 1795332042827
+   "crawledAt": 1795421858080
   },
   {
-   "title": "GIP intern",
-   "url": "https://www.kpmguscareers.com/early-career/careers#gip-intern",
+   "title": "Global Audit Intern",
+   "url": "https://www.kpmguscareers.com/early-career/careers#global-audit-intern",
    "datePosted": null,
    "locations": [],
    "employmentType": "INTERN",
@@ -129003,7 +129627,7 @@
    "website": "kpmguscareers.com/early-career",
    "src": "program",
    "page": "https://www.kpmguscareers.com/wp-content/themes/understrap-child-main/css/child-theme.min.css?ver=1788286300",
-   "crawledAt": 1795332056512
+   "crawledAt": 1795421871036
   },
   {
    "title": "Growth",
@@ -129172,6 +129796,258 @@
    "src": "program",
    "page": "https://cdn.phenompeople.com/CareerConnectResources/ADOBUS/en_us/desktop/assets/images/h/apple-touch-icon.png",
    "crawledAt": 1795420576025
+  },
+  {
+   "title": "Security Consultant-Data Security",
+   "url": "https://www.ibm.com/careers/search#security-consultant-data-security",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Package Consultant-SAP IS Utilities",
+   "url": "https://www.ibm.com/careers/search#package-consultant-sap-is-utilities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "HR Offboarding Professional Japanese Language Specialist",
+   "url": "https://www.ibm.com/careers/search#hr-offboarding-professional-japanese-language-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "TRANSITION MANAGER-FINANCE",
+   "url": "https://www.ibm.com/careers/search#transition-manager-finance",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Threat Intelligence Consultant-Threat Analysis",
+   "url": "https://www.ibm.com/careers/search#threat-intelligence-consultant-threat-analysis",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Application Developer-Hybrid Cloud Manage",
+   "url": "https://www.ibm.com/careers/search#application-developer-hybrid-cloud-manage",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Package Consultant-SAP HANA SCM EWM",
+   "url": "https://www.ibm.com/careers/search#package-consultant-sap-hana-scm-ewm",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Package Consultant-ServiceNow",
+   "url": "https://www.ibm.com/careers/search#package-consultant-servicenow",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Data Engineer-Data Platforms-SnowFlake",
+   "url": "https://www.ibm.com/careers/search#data-engineer-data-platforms-snowflake",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Finance & Admin Business Analyst - RTR (Japanese Bilingual)",
+   "url": "https://www.ibm.com/careers/search#finance-admin-business-analyst-rtr-japanese-bilingual-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Application Developer- Cloud FullStack",
+   "url": "https://www.ibm.com/careers/search#application-developer-cloud-fullstack",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Application Developer-AWS Cloud FullStack",
+   "url": "https://www.ibm.com/careers/search#application-developer-aws-cloud-fullstack",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Package Consultant-SAP HANA SCM IBP",
+   "url": "https://www.ibm.com/careers/search#package-consultant-sap-hana-scm-ibp",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Package Consultant-SAP HANA FIN TRM",
+   "url": "https://www.ibm.com/careers/search#package-consultant-sap-hana-fin-trm",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Oracle Cloud Benefits Lead",
+   "url": "https://www.ibm.com/careers/search#oracle-cloud-benefits-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Advisory Software Developer",
+   "url": "https://www.ibm.com/careers/search#advisory-software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Data Engineer-Data Platforms-Databricks",
+   "url": "https://www.ibm.com/careers/search#data-engineer-data-platforms-databricks",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
+  },
+  {
+   "title": "Cybersecurity Remediation Engineer",
+   "url": "https://www.ibm.com/careers/search#cybersecurity-remediation-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "IBM",
+   "website": "ibm.com/careers/early-career",
+   "src": "program",
+   "page": "https://www.ibm.com/tw-en/careers",
+   "crawledAt": 1795421958265
   },
   {
    "title": "Gross to Net Program-Managing Director",
@@ -129463,7 +130339,7 @@
    "company": "CBRE Group",
    "website": "cbre.com",
    "src": "chrome-only",
-   "crawledAt": 1795332089733
+   "crawledAt": 1795421903491
   },
   {
    "title": "Building Operations & Management",
@@ -129476,11 +130352,11 @@
    "company": "CBRE Group",
    "website": "cbre.com",
    "src": "chrome-only",
-   "crawledAt": 1795332089733
+   "crawledAt": 1795421903491
   },
   {
-   "title": "Java Backend Developer",
-   "url": "https://careers.cognizant.com/us-en/jobs/00071424193/java-backend-developer/",
+   "title": "Senior Java Full Stack Developer",
+   "url": "https://careers.cognizant.com/us-en/jobs/00071329112/senior-java-full-stack-developer/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -129490,11 +130366,11 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1795332050353
+   "crawledAt": 1795421865083
   },
   {
-   "title": "Mapping System Specialist",
-   "url": "https://careers.cognizant.com/us-en/jobs/00071259411/mapping-system-specialist/",
+   "title": "Quality Engineering Lead",
+   "url": "https://careers.cognizant.com/us-en/jobs/00071334561/quality-engineering-lead/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -129504,11 +130380,11 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1795332050353
+   "crawledAt": 1795421865083
   },
   {
-   "title": "DevOps Project Manager (Agile Transformation & Cloud Delivery)",
-   "url": "https://careers.cognizant.com/us-en/jobs/00071059992/devops-project-manager-agile-transformation-cloud-delivery/",
+   "title": "Sales Director - BPO & Digital Operations CMT",
+   "url": "https://careers.cognizant.com/us-en/jobs/00069311881/sales-director-bpo-digital-operations-cmt/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -129518,7 +130394,21 @@
    "website": "cognizant.com",
    "src": "chrome-only",
    "page": "https://www.cognizant.com/us/en",
-   "crawledAt": 1795332050353
+   "crawledAt": 1795421865083
+  },
+  {
+   "title": "Senior Program Manager – Quality Engineering | Healthcare Payer & Facets",
+   "url": "https://careers.cognizant.com/us-en/jobs/00071398491/senior-program-manager-quality-engineering-healthcare-payer-facets/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Cognizant",
+   "website": "cognizant.com",
+   "src": "chrome-only",
+   "page": "https://www.cognizant.com/us/en",
+   "crawledAt": 1795421865083
   },
   {
    "title": "IT CRM Solutions Engineer",
@@ -129826,7 +130716,7 @@
    "website": "vinted.com",
    "src": "chrome-only",
    "page": "https://www.vinted.com/",
-   "crawledAt": 1795332064028
+   "crawledAt": 1795421878472
   },
   {
    "title": "Intern with Us",
@@ -129910,7 +130800,7 @@
    "website": "goldmansachs.com",
    "src": "chrome-only",
    "page": "https://www.goldmansachs.com/careers/benefits",
-   "crawledAt": 1795332071483
+   "crawledAt": 1795421886867
   },
   {
    "title": "Stephanie, Managing Director, Global Compliance, Hong Kong",
@@ -129924,7 +130814,7 @@
    "website": "goldmansachs.com",
    "src": "chrome-only",
    "page": "https://www.goldmansachs.com/careers/benefits",
-   "crawledAt": 1795332071483
+   "crawledAt": 1795421886867
   },
   {
    "title": "Joanna, Associate, Wealth Management, Shenzhen",
@@ -129938,7 +130828,7 @@
    "website": "goldmansachs.com",
    "src": "chrome-only",
    "page": "https://www.goldmansachs.com/careers/benefits",
-   "crawledAt": 1795332071483
+   "crawledAt": 1795421886867
   },
   {
    "title": "Associate Director, KYC/AML, Compliance & Data Solutions Specialist",
@@ -130063,7 +130953,7 @@
    "company": "TE Connectivity",
    "website": "te.com",
    "src": "chrome-only",
-   "crawledAt": 1795332090622
+   "crawledAt": 1795421905705
   },
   {
    "title": "Staff Engineer, Research",
@@ -130318,6 +131208,20 @@
    "crawledAt": 1795420567304
   },
   {
+   "title": "/pages/our-teams-field-sales/ Field sales Work closely with thousands of independent agents across the country who repre",
+   "url": "https://careers.progressive.com/pages/our-teams-field-sales/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Progressive Corporation",
+   "website": "progressive.com",
+   "src": "chrome-only",
+   "page": "https://www.progressive.com/",
+   "crawledAt": 1795422058965
+  },
+  {
    "title": "Internships & Co-ops",
    "url": "https://www.intuit.com/careers/programs/internships/",
    "datePosted": null,
@@ -130328,7 +131232,7 @@
    "company": "Intuit",
    "website": "intuit.com",
    "src": "chrome-only",
-   "crawledAt": 1795332102101
+   "crawledAt": 1795421916168
   },
   {
    "title": "Operations",
@@ -130580,7 +131484,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Benefits Enrollment Specialist",
@@ -130594,7 +131498,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Solution Consultant",
@@ -130608,7 +131512,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Office Manager",
@@ -130622,7 +131526,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Clerical Lead",
@@ -130636,7 +131540,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Software Engineering Team Lead",
@@ -130650,7 +131554,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Lead Software Engineer",
@@ -130664,7 +131568,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Implementation Consultant",
@@ -130678,7 +131582,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "Program Manager",
@@ -130692,7 +131596,7 @@
    "website": "tylertech.com",
    "src": "chrome-only",
    "page": "https://www.tylertech.com/careers/job-openings",
-   "crawledAt": 1795332079210
+   "crawledAt": 1795421892607
   },
   {
    "title": "→ Finance Manager",
