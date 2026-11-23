@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-23T08:22:37.733Z",
+ "generated": "2026-11-23T08:29:00.655Z",
  "companies": 22940,
  "status": {
-  "found": 3017,
-  "no-ats": 11759,
-  "site": 3826,
-  "down": 4338
+  "found": 3019,
+  "no-ats": 11783,
+  "site": 3828,
+  "down": 4310
  },
  "byType": {
   "dover": 7,
   "ashby": 656,
-  "workday": 558,
+  "workday": 559,
   "gh": 846,
   "lever": 239,
   "gem": 69,
   "rippling": 117,
   "workable": 171,
-  "bamboohr": 142,
+  "bamboohr": 143,
   "smartrecruiters": 56,
   "recruitee": 24,
   "eightfold": 40,
@@ -11491,6 +11491,15 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "nelp",
+   "url": "nelp.bamboohr.com/careers",
+   "label": "National Employment Law Project",
+   "website": "nelp.org",
+   "page": "https://www.nelp.org/about-us/work-at-nelp/",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "New-Story-Schools-OH",
    "url": "jobs.ashbyhq.com/New-Story-Schools-OH",
@@ -14204,6 +14213,15 @@
    "label": "Northrop Grumman",
    "website": "northropgrumman.com",
    "page": "https://www.northropgrumman.com/",
+   "src": "chrome-only"
+  },
+  {
+   "type": "workday",
+   "token": "nordsonhcm.wd501.myworkdayjobs.com",
+   "url": "nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers",
+   "site": "nordsoncareers",
+   "label": "Nordson Corporation",
+   "website": "nordson.com",
    "src": "chrome-only"
   },
   {
@@ -77123,7 +77141,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Mid-Market Account Executive",
@@ -77137,7 +77155,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Account Executive",
@@ -77151,7 +77169,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive - Enterprise",
@@ -77165,7 +77183,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Enterprise, Asset Management",
@@ -77179,7 +77197,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Enterprise, EMEA",
@@ -77193,7 +77211,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market",
@@ -77207,7 +77225,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market - Berlin",
@@ -77221,7 +77239,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market - Munich",
@@ -77235,7 +77253,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market (French Speaking)",
@@ -77249,7 +77267,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market (German Speaking)",
@@ -77263,7 +77281,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market (Italian Speaking)",
@@ -77277,7 +77295,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid Market, EMEA",
@@ -77291,7 +77309,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, Mid-Market - Mexico",
@@ -77305,7 +77323,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, SMB (French Speaking)",
@@ -77319,7 +77337,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, SMB (German Speaking)",
@@ -77333,7 +77351,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, SMB (Portuguese Speaking)",
@@ -77347,7 +77365,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, SMB (Spanish Speaking)",
@@ -77361,7 +77379,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Account Executive, SMB, EMEA",
@@ -77375,7 +77393,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Accounts Payable Lead",
@@ -77389,7 +77407,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Accounts Receivable Manager",
@@ -77403,7 +77421,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "API Product Lead",
@@ -77417,7 +77435,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Associate Commercial Counsel, London",
@@ -77431,7 +77449,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Associate Legal Engineer",
@@ -77445,7 +77463,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Business Development Manager, Cloud & AI",
@@ -77459,7 +77477,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Business Recruiter, GTM",
@@ -77473,7 +77491,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Compliance Analyst",
@@ -77487,7 +77505,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Compliance Engineer",
@@ -77501,7 +77519,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Content & Programming Senior Manager, Global Events",
@@ -77515,7 +77533,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Content Marketing Lead",
@@ -77529,7 +77547,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Content Programs Lead",
@@ -77543,7 +77561,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Corporate Business Development Manager",
@@ -77557,7 +77575,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Corporate Business Development Manager, Legal Data",
@@ -77571,7 +77589,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Corporate Business Development Manager, Product",
@@ -77585,7 +77603,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Creative AI Engineer",
@@ -77599,7 +77617,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Creative Director, Social Video",
@@ -77613,7 +77631,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Customer Success Manager, Enterprise",
@@ -77627,7 +77645,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Customer Success Manager, Enterprise, EMEA",
@@ -77641,7 +77659,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Customer Success Manager, Enterprise, Law Firms, EMEA",
@@ -77655,7 +77673,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Customer Success Manager, Mid Market",
@@ -77669,7 +77687,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Customer Success Manager, Mid Market, EMEA",
@@ -77683,7 +77701,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "CX Data Analyst",
@@ -77697,7 +77715,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Data Scientist, Product",
@@ -77711,7 +77729,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Deal Operations Analyst",
@@ -77725,7 +77743,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager",
@@ -77739,7 +77757,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager, Agents — SF",
@@ -77753,7 +77771,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager, AI Platform",
@@ -77767,7 +77785,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager, Applied AI — NYC",
@@ -77781,7 +77799,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager, Enterprise",
@@ -77795,7 +77813,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager, Model Infrastructure",
@@ -77809,7 +77827,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Engineering Manager, Product",
@@ -77823,7 +77841,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Account Executive, ANZ",
@@ -77837,7 +77855,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Account Executive, Public Sector",
@@ -77851,7 +77869,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Customer Success Manager",
@@ -77865,7 +77883,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Customer Success Manager (Asset Management)",
@@ -77879,7 +77897,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Customer Success Manager, EMEA (Arabic Speaking)",
@@ -77893,7 +77911,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Customer Success Manager, Korea",
@@ -77907,7 +77925,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Enterprise Customer Success Manager, Tokyo",
@@ -77921,7 +77939,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Executive Recruiter",
@@ -77935,7 +77953,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Field Marketing Manager",
@@ -77949,7 +77967,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Forward Deployed Finance Engineer, Buyout",
@@ -77963,7 +77981,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Forward Deployed Finance Engineer, Private Credit",
@@ -77977,7 +77995,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Forward Deployed Finance Engineer, Real Estate",
@@ -77991,7 +78009,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Global CX Workforce Manager",
@@ -78005,7 +78023,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "GTM Onboarding Lead",
@@ -78019,7 +78037,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "GTM Systems Administrator, EMEA",
@@ -78033,7 +78051,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Innovation Product Manager",
@@ -78047,7 +78065,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Integrated Campaigns Lead",
@@ -78061,7 +78079,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer (Funds)",
@@ -78075,7 +78093,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer (In-House)",
@@ -78089,7 +78107,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer (Law Firm, Corporate)",
@@ -78103,7 +78121,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer (Transactional or In-house)",
@@ -78117,7 +78135,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager",
@@ -78131,7 +78149,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Germany",
@@ -78145,7 +78163,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Munich",
@@ -78159,7 +78177,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Paris",
@@ -78173,7 +78191,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Product Specialist",
@@ -78187,7 +78205,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Product Specialist, Germany",
@@ -78201,7 +78219,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Product Specialist, Munich",
@@ -78215,7 +78233,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Legal Engineer Manager, Product Specialist, Paris",
@@ -78229,7 +78247,7 @@
    "website": "harvey.ai",
    "src": "nyc-startups",
    "page": "https://www.harvey.ai/careers",
-   "crawledAt": 1795332104418
+   "crawledAt": 1795422345487
   },
   {
    "title": "Sarah Alliegro, Senior Product Manager",
@@ -78313,7 +78331,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "AI Product Manager",
@@ -78327,7 +78345,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Mid-Market Sales Engineer",
@@ -78341,7 +78359,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "AI Native Product Manager",
@@ -78355,7 +78373,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Data Operations Manager",
@@ -78369,7 +78387,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Product Manager",
@@ -78383,7 +78401,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Senior Technical Program Manager",
@@ -78397,7 +78415,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Senior FedRAMP Program Manager",
@@ -78411,7 +78429,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Software Engineer",
@@ -78425,7 +78443,7 @@
    "website": "abnormalsecurity.com",
    "src": "nyc-startups",
    "page": "https://abnormal.ai/careers",
-   "crawledAt": 1795332118100
+   "crawledAt": 1795422360714
   },
   {
    "title": "Enterprise Account Executive, Embedded Finance",
@@ -78439,7 +78457,7 @@
    "website": "brex.com",
    "src": "nyc-startups",
    "page": "https://www.brex.com/careers",
-   "crawledAt": 1795332119130
+   "crawledAt": 1795422375248
   },
   {
    "title": "Screening & Transaction Monitoring Associate",
@@ -78453,7 +78471,7 @@
    "website": "brex.com",
    "src": "nyc-startups",
    "page": "https://www.brex.com/careers",
-   "crawledAt": 1795332119130
+   "crawledAt": 1795422375248
   },
   {
    "title": "General Counsel, Sardine",
@@ -78523,7 +78541,7 @@
    "website": "greenhouse.io",
    "src": "nyc-startups",
    "page": "https://www.greenhouse.com/blog/introducing-the-orchestrated-hiring-ecosystem",
-   "crawledAt": 1795332132303
+   "crawledAt": 1795422388014
   },
   {
    "title": "Revenue Operations Manager",
@@ -78537,7 +78555,7 @@
    "website": "greenhouse.io",
    "src": "nyc-startups",
    "page": "https://www.greenhouse.com/blog/introducing-the-orchestrated-hiring-ecosystem",
-   "crawledAt": 1795332132303
+   "crawledAt": 1795422388014
   },
   {
    "title": "Quantitative Analyst",
@@ -78677,7 +78695,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Product Designer (Prediction Markets)",
@@ -78691,7 +78709,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Platform Engineer",
@@ -78705,7 +78723,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Staff Platform Engineer",
@@ -78719,7 +78737,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Prediction Markets Operations Intern (Winter 2027)",
@@ -78733,7 +78751,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Product Design Intern (Winter 2027)",
@@ -78747,7 +78765,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Product Management Intern (Winter 2027)",
@@ -78761,7 +78779,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Software Engineering Intern (Winter 2027)",
@@ -78775,7 +78793,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Predictions Partnerships Marketing Lead",
@@ -78789,7 +78807,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Associate, Fraud Operations",
@@ -78803,7 +78821,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Fraud Data Scientist (Credit Card)",
@@ -78817,7 +78835,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Product Manager, Invest / Trade",
@@ -78831,7 +78849,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Associate, Corporate Security",
@@ -78845,7 +78863,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Manager, Platform Security",
@@ -78859,7 +78877,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Staff Platform Security Engineer",
@@ -78873,7 +78891,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Principal Software Engineer, Tooling (Product)",
@@ -78887,7 +78905,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Software Engineer, Money",
@@ -78901,7 +78919,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Software Engineer, Predictions (Mobile)",
@@ -78915,7 +78933,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Senior Software Engineer, Tooling (Product)",
@@ -78929,7 +78947,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Staff Software Engineer, Tooling (Product)",
@@ -78943,7 +78961,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "with team lead",
@@ -78957,7 +78975,7 @@
    "website": "gemini.com",
    "src": "nyc-startups",
    "page": "https://www.gemini.com/careers",
-   "crawledAt": 1795332128193
+   "crawledAt": 1795422385283
   },
   {
    "title": "Strategic Account Executive",
@@ -78971,7 +78989,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Software Engineer, Backend",
@@ -78985,7 +79003,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Associate Manager, Customer Success",
@@ -78999,7 +79017,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Senior Customer Success Manager",
@@ -79013,7 +79031,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Strategic Customer Success Manager with French",
@@ -79027,7 +79045,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "SMB Sales Manager – SaaS",
@@ -79041,7 +79059,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Account Executive with German",
@@ -79055,7 +79073,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Customer Success Manager",
@@ -79069,7 +79087,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Senior Manager, SMB Sales",
@@ -79083,7 +79101,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Senior Customer Success Manager with Italian",
@@ -79097,7 +79115,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Account Executive with French",
@@ -79111,7 +79129,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Strategic Customer Success Manager",
@@ -79125,7 +79143,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Senior Associate, GTM Systems – SevenRooms powered by DoorDash",
@@ -79139,7 +79157,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Sales Development Representative with German",
@@ -79153,7 +79171,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Associate Manager, Product Marketing",
@@ -79167,7 +79185,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Technical Support Representative, In-Store",
@@ -79181,7 +79199,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Sales Development Representative",
@@ -79195,7 +79213,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Account Executive",
@@ -79209,7 +79227,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Account Executive, SevenRooms powered by DoorDash",
@@ -79223,7 +79241,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Account Executive, SevenRooms powered by DoorDash",
@@ -79237,7 +79255,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Technical Support Representative, In-Store",
@@ -79251,7 +79269,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "Account Executive, SevenRooms powered by DoorDash",
@@ -79265,7 +79283,7 @@
    "website": "sevenrooms.com",
    "src": "nyc-startups",
    "page": "https://sevenrooms.com/",
-   "crawledAt": 1795332140866
+   "crawledAt": 1795422399308
   },
   {
    "title": "AML Manager",
@@ -79281,7 +79299,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "AML Monitoring Analyst",
@@ -79297,7 +79315,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Application Security Engineer",
@@ -79313,7 +79331,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Architect - Backend",
@@ -79329,7 +79347,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Automation Engineer",
@@ -79345,7 +79363,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Backend Engineer (C# and .Net)",
@@ -79361,7 +79379,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Banking Ops Associate",
@@ -79377,7 +79395,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Business Development Manager",
@@ -79393,7 +79411,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Business Operations Intern",
@@ -79409,7 +79427,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Commercial Program Manager",
@@ -79425,7 +79443,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Compliance Officer",
@@ -79441,7 +79459,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Compliance Training Senior Analyst",
@@ -79457,7 +79475,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Corporate Secretary India",
@@ -79473,7 +79491,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Experience Manager, Contractor Management",
@@ -79489,7 +79507,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Lifecycle Program Manager",
@@ -79505,7 +79523,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Onboarding Manager, APAC (1 year contract) - JP Speaking",
@@ -79521,7 +79539,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Success Manager",
@@ -79537,7 +79555,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Success Manager - Enterprise",
@@ -79553,7 +79571,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Success & Sales Specialist",
@@ -79569,7 +79587,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Success & Sales Specialist - Fluent in Ukrainian",
@@ -79585,7 +79603,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Digital Marketing Intern",
@@ -79601,7 +79619,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Director, AI Governance & Responsible AI",
@@ -79617,7 +79635,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Director, Corporate Strategy",
@@ -79633,12 +79651,12 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Director of Product Management - MIS",
    "url": "https://www.payoneer.com/careers/position/8355118/?gh_jid=8355118",
-   "datePosted": "2026-11-19T14:29:44.000Z",
+   "datePosted": "2026-11-23T06:33:14.000Z",
    "locations": [
     "Herzliya, Tel Aviv District, Israel"
    ],
@@ -79649,7 +79667,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Escalation Fastlane Specialist",
@@ -79665,7 +79683,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Finance Analyst (Financial Reporting)",
@@ -79681,7 +79699,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Global Director, Total Rewards",
@@ -79697,7 +79715,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Global HR Operations Specialist",
@@ -79713,7 +79731,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Global HR Operations Specialist - Europe",
@@ -79729,7 +79747,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Global HR Operations Specialist - India/APAC [Contract]",
@@ -79745,7 +79763,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Head of Product, PAYO Digital Bank - Stablecoin",
@@ -79761,7 +79779,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Integration Engineer",
@@ -79777,7 +79795,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "KYC Representative (APAC)",
@@ -79793,7 +79811,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Lead, Data & AI Solutions – Enterprise Risk",
@@ -79809,7 +79827,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Legal Counsel - Employment (APAC & MEA)",
@@ -79825,23 +79843,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
-  },
-  {
-   "title": "Manager, Sales Development",
-   "url": "https://www.payoneer.com/careers/position/8226549/?gh_jid=8226549",
-   "datePosted": "2026-11-19T14:29:44.000Z",
-   "locations": [
-    "Kyiv, Ukraine"
-   ],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Payoneer",
-   "website": "payoneer.com",
-   "src": "nyc-startups",
-   "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Manager, Sales Development",
@@ -79857,7 +79859,23 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
+  },
+  {
+   "title": "Manager, Sales Development",
+   "url": "https://www.payoneer.com/careers/position/8226549/?gh_jid=8226549",
+   "datePosted": "2026-11-19T14:29:44.000Z",
+   "locations": [
+    "Kyiv, Ukraine"
+   ],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Payoneer",
+   "website": "payoneer.com",
+   "src": "nyc-startups",
+   "page": "https://careers.payoneer.com/",
+   "crawledAt": 1795422405065
   },
   {
    "title": "MarTech & AI Enablement Manager, Greater China",
@@ -79873,7 +79891,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Mid Market Sales Managerr, APAC (1 year contract) - JP Speaking",
@@ -79889,7 +79907,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Mid-Market Sales Specialist",
@@ -79905,7 +79923,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Operations Business Partner",
@@ -79921,7 +79939,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Operations Director, PPG",
@@ -79937,7 +79955,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Ops Program Manager",
@@ -79953,7 +79971,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Partnerships & Business Development Manager - German/French/Italian/Spanish Speaker",
@@ -79969,7 +79987,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Payroll Analyst - India/Americas",
@@ -79985,7 +80003,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Principal Engineer",
@@ -80001,7 +80019,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Principal Mobile Engineer",
@@ -80017,12 +80035,12 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Principal Product Manager - AI Agent Platform",
    "url": "https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169",
-   "datePosted": "2026-11-19T14:29:44.000Z",
+   "datePosted": "2026-11-22T12:26:48.000Z",
    "locations": [
     "Herzliya, Tel Aviv District, Israel"
    ],
@@ -80033,7 +80051,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Principal Software Engineer — Customer Lifecycle Management (CLM)",
@@ -80049,7 +80067,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Product Analyst",
@@ -80065,7 +80083,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "QA Lead",
@@ -80081,7 +80099,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "R&D Team Lead",
@@ -80097,7 +80115,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Reconciliation Infrastructure Associate",
@@ -80113,7 +80131,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "RFP & Solutions Manager",
@@ -80129,7 +80147,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Risk Management Manager",
@@ -80145,7 +80163,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Salesforce Engineer",
@@ -80161,7 +80179,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Sales Intern - Business Development Team",
@@ -80177,7 +80195,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Sales Specialist, B2B Payments & Cards",
@@ -80193,7 +80211,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Account Executive",
@@ -80209,7 +80227,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior AI-Native Engineer",
@@ -80225,7 +80243,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Applications & Integrations Engineer",
@@ -80241,7 +80259,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Backend Developer (C# or Java)",
@@ -80257,7 +80275,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Backend Engineer",
@@ -80273,7 +80291,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Backend Engineer",
@@ -80289,23 +80307,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
-  },
-  {
-   "title": "Senior Business Development Manager",
-   "url": "https://www.payoneer.com/careers/position/8226199/?gh_jid=8226199",
-   "datePosted": "2026-11-19T14:29:44.000Z",
-   "locations": [
-    "Bangalore, India"
-   ],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Payoneer",
-   "website": "payoneer.com",
-   "src": "nyc-startups",
-   "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Business Development Manager",
@@ -80321,7 +80323,23 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
+  },
+  {
+   "title": "Senior Business Development Manager",
+   "url": "https://www.payoneer.com/careers/position/8226199/?gh_jid=8226199",
+   "datePosted": "2026-11-19T14:29:44.000Z",
+   "locations": [
+    "Bangalore, India"
+   ],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Payoneer",
+   "website": "payoneer.com",
+   "src": "nyc-startups",
+   "page": "https://careers.payoneer.com/",
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Business Operation Manager",
@@ -80337,7 +80355,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Customer Experience Manager",
@@ -80353,7 +80371,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Customer Success Manager - Enterprise",
@@ -80369,7 +80387,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Customer Success Manager - Zhejiang",
@@ -80385,7 +80403,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Data Product Manager",
@@ -80401,23 +80419,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
-  },
-  {
-   "title": "Senior Data Product Manager",
-   "url": "https://www.payoneer.com/careers/position/8330248/?gh_jid=8330248",
-   "datePosted": "2026-11-19T14:29:44.000Z",
-   "locations": [
-    "Gurugram, India"
-   ],
-   "employmentType": "",
-   "startDate": null,
-   "via": "jsonld",
-   "company": "Payoneer",
-   "website": "payoneer.com",
-   "src": "nyc-startups",
-   "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Data Scientist",
@@ -80433,7 +80435,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior DevOps Delivery Engineer, Delivery",
@@ -80449,7 +80451,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior DevSecOps Engineer",
@@ -80465,7 +80467,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Director, Customer Success – LATAM",
@@ -80481,7 +80483,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Director, Customer Success – LATAM",
@@ -80497,7 +80499,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Frontend Engineer",
@@ -80513,7 +80515,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Fullstack Engineer (AI Fluent)",
@@ -80529,7 +80531,7 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
   },
   {
    "title": "Senior Manager, Market Development",
@@ -80545,7 +80547,23 @@
    "website": "payoneer.com",
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
-   "crawledAt": 1795332148379
+   "crawledAt": 1795422405065
+  },
+  {
+   "title": "Senior Manager, Talent Development",
+   "url": "https://www.payoneer.com/careers/position/8012974/?gh_jid=8012974",
+   "datePosted": "2026-11-19T14:29:44.000Z",
+   "locations": [
+    "Shanghai, China"
+   ],
+   "employmentType": "",
+   "startDate": null,
+   "via": "jsonld",
+   "company": "Payoneer",
+   "website": "payoneer.com",
+   "src": "nyc-startups",
+   "page": "https://careers.payoneer.com/",
+   "crawledAt": 1795422405065
   },
   {
    "title": "Customer Engagement Account Consultant, UK",
@@ -80712,7 +80730,7 @@
    "website": "squarespace.com",
    "src": "nyc-startups",
    "page": "https://www.squarespace.com/about/careers",
-   "crawledAt": 1795332157254
+   "crawledAt": 1795422416843
   },
   {
    "title": "Product & Product Design Learn More",
@@ -80726,7 +80744,7 @@
    "website": "squarespace.com",
    "src": "nyc-startups",
    "page": "https://www.squarespace.com/about/careers",
-   "crawledAt": 1795332157254
+   "crawledAt": 1795422416843
   },
   {
    "title": "Artificial Intelligence Data Science Manager",
@@ -80740,7 +80758,7 @@
    "website": "mirakl.com",
    "src": "nyc-startups",
    "page": "https://www.mirakl.com/company/careers/",
-   "crawledAt": 1795332156119
+   "crawledAt": 1795422414718
   },
   {
    "title": "Operations",
@@ -80754,11 +80772,11 @@
    "website": "equinox.com",
    "src": "nyc-startups",
    "page": "https://careers.equinox.com/?icmp=bottomnav-careers",
-   "crawledAt": 1795332173598
+   "crawledAt": 1795422431035
   },
   {
-   "title": "Assistant General Manager, Los Angeles",
-   "url": "https://careers.equinox.com/job/los-angeles/assistant-general-manager-los-angeles/433/58977129600",
+   "title": "Experience Lead, East 63rd Street",
+   "url": "https://careers.equinox.com/job/new-york/experience-lead-east-63rd-street/433/99498344656",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -80768,11 +80786,11 @@
    "website": "equinox.com",
    "src": "nyc-startups",
    "page": "https://careers.equinox.com/?icmp=bottomnav-careers",
-   "crawledAt": 1795332173598
+   "crawledAt": 1795422431035
   },
   {
-   "title": "Assistant General Manager, NYC",
-   "url": "https://careers.equinox.com/job/new-york/assistant-general-manager-nyc/433/3678256416",
+   "title": "Sr. Director, CRM & Lifecycle Marketing",
+   "url": "https://careers.equinox.com/job/new-york/sr-director-crm-and-lifecycle-marketing/433/98884918624",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -80782,7 +80800,21 @@
    "website": "equinox.com",
    "src": "nyc-startups",
    "page": "https://careers.equinox.com/?icmp=bottomnav-careers",
-   "crawledAt": 1795332173598
+   "crawledAt": 1795422431035
+  },
+  {
+   "title": "Lead Massage Therapist, Upper West Side",
+   "url": "https://careers.equinox.com/job/new-york/lead-massage-therapist-upper-west-side/433/98494337456",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Equinox",
+   "website": "equinox.com",
+   "src": "nyc-startups",
+   "page": "https://careers.equinox.com/?icmp=bottomnav-careers",
+   "crawledAt": 1795422431035
   },
   {
    "title": "Senior Content Marketing Manager",
@@ -80950,7 +80982,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Customer Growth 0 open roles",
@@ -80964,7 +80996,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Customer Operations 22 open roles",
@@ -80978,7 +81010,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Customer Success Team 0 open roles",
@@ -80992,7 +81024,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Executive 0 open roles",
@@ -81006,7 +81038,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Facilities And Office Operations 4 open roles",
@@ -81020,7 +81052,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Luxury Marketing 0 open roles",
@@ -81034,7 +81066,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Marketing & Creative 17 open roles",
@@ -81048,7 +81080,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Operations 7 open roles",
@@ -81062,7 +81094,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Product & User Experience 6 open roles",
@@ -81076,7 +81108,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Strategic Growth 47 open roles",
@@ -81090,7 +81122,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Strategic Partnerships 0 open roles",
@@ -81104,7 +81136,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Transaction Operations 2 open roles",
@@ -81118,7 +81150,7 @@
    "website": "compass.com",
    "src": "nyc-startups",
    "page": "https://www.compass.com/careers/",
-   "crawledAt": 1795332169249
+   "crawledAt": 1795422430449
   },
   {
    "title": "Director, Corporate Tax Remote-US",
@@ -82029,7 +82061,7 @@
    "website": "vimeo.com",
    "src": "nyc-startups",
    "page": "https://vimeo.com/careers/culture",
-   "crawledAt": 1795332178277
+   "crawledAt": 1795422440751
   },
   {
    "title": "Customer Experience Representative",
@@ -82043,7 +82075,7 @@
    "website": "dashhudson.com",
    "src": "nyc-startups",
    "page": "https://www.dashsocial.com/careers",
-   "crawledAt": 1795332187616
+   "crawledAt": 1795422445069
   },
   {
    "title": "Enterprise Account Executive",
@@ -82057,7 +82089,7 @@
    "website": "dashhudson.com",
    "src": "nyc-startups",
    "page": "https://www.dashsocial.com/careers",
-   "crawledAt": 1795332187616
+   "crawledAt": 1795422445069
   },
   {
    "title": "Senior Technical Account Manager",
@@ -82071,7 +82103,7 @@
    "website": "dashhudson.com",
    "src": "nyc-startups",
    "page": "https://www.dashsocial.com/careers",
-   "crawledAt": 1795332187616
+   "crawledAt": 1795422445069
   },
   {
    "title": "Solutions Manager",
@@ -82085,7 +82117,7 @@
    "website": "dashhudson.com",
    "src": "nyc-startups",
    "page": "https://www.dashsocial.com/careers",
-   "crawledAt": 1795332187616
+   "crawledAt": 1795422445069
   },
   {
    "title": "Principal Account Executive",
@@ -82141,7 +82173,7 @@
    "website": "sproutsocial.com",
    "src": "nyc-startups",
    "page": "https://sproutsocial.com/careers/",
-   "crawledAt": 1795332185998
+   "crawledAt": 1795422450568
   },
   {
    "title": "Staff Software Engineer, Web (React)",
@@ -82155,7 +82187,7 @@
    "website": "sproutsocial.com",
    "src": "nyc-startups",
    "page": "https://sproutsocial.com/careers/",
-   "crawledAt": 1795332185998
+   "crawledAt": 1795422450568
   },
   {
    "title": "Principal Customer Success Manager",
@@ -82169,7 +82201,7 @@
    "website": "sproutsocial.com",
    "src": "nyc-startups",
    "page": "https://sproutsocial.com/careers/",
-   "crawledAt": 1795332185998
+   "crawledAt": 1795422450568
   },
   {
    "title": "Account Executive, Agency",
@@ -82183,7 +82215,7 @@
    "website": "sproutsocial.com",
    "src": "nyc-startups",
    "page": "https://sproutsocial.com/careers/",
-   "crawledAt": 1795332185998
+   "crawledAt": 1795422450568
   },
   {
    "title": "Engineering Manager",
@@ -82197,7 +82229,7 @@
    "website": "shopltk.com",
    "src": "nyc-startups",
    "page": "https://company.shopltk.com/careers",
-   "crawledAt": 1795332203453
+   "crawledAt": 1795422458289
   },
   {
    "title": "Automation Engineer",
@@ -82211,7 +82243,7 @@
    "website": "atomic.financial",
    "src": "nyc-startups",
    "page": "https://atomic.financial/careers/",
-   "crawledAt": 1795332201474
+   "crawledAt": 1795422464834
   },
   {
    "title": "Senior Software Engineer",
@@ -82225,7 +82257,7 @@
    "website": "atomic.financial",
    "src": "nyc-startups",
    "page": "https://atomic.financial/careers/",
-   "crawledAt": 1795332201474
+   "crawledAt": 1795422464834
   },
   {
    "title": "Graphic Designer",
@@ -82323,7 +82355,7 @@
    "website": "rayatheapp.com",
    "src": "nyc-startups",
    "page": "https://rayatheapp.com/jobs",
-   "crawledAt": 1795332213194
+   "crawledAt": 1795422463075
   },
   {
    "title": "Senior Data Scientist, Places Data Remote Apply Now",
@@ -82337,7 +82369,7 @@
    "website": "rayatheapp.com",
    "src": "nyc-startups",
    "page": "https://rayatheapp.com/jobs",
-   "crawledAt": 1795332213194
+   "crawledAt": 1795422463075
   },
   {
    "title": "As an intern",
@@ -82351,7 +82383,7 @@
    "website": "twosigma.com",
    "src": "nyc-startups",
    "page": "https://www.twosigma.com/careers/engineering/",
-   "crawledAt": 1795332210495
+   "crawledAt": 1795422471269
   },
   {
    "title": "Data Engineer",
@@ -82365,7 +82397,7 @@
    "website": "twosigma.com",
    "src": "nyc-startups",
    "page": "https://www.twosigma.com/careers/engineering/",
-   "crawledAt": 1795332210495
+   "crawledAt": 1795422471269
   },
   {
    "title": "Enterprise Engineer",
@@ -82379,7 +82411,7 @@
    "website": "twosigma.com",
    "src": "nyc-startups",
    "page": "https://www.twosigma.com/careers/engineering/",
-   "crawledAt": 1795332210495
+   "crawledAt": 1795422471269
   },
   {
    "title": "Senior Backend Engineer",
@@ -82393,7 +82425,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Senior Backend Engineering Manager, Recommendations",
@@ -82407,7 +82439,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Senior Data Engineer",
@@ -82421,7 +82453,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Senior Engineering Manager, Enablement",
@@ -82435,7 +82467,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Design Lead, Hinge Futures",
@@ -82449,7 +82481,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Senior Research Operations Program Manager",
@@ -82463,7 +82495,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Lead Researcher, Cultural & Consumer Insights",
@@ -82477,7 +82509,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Remediation Specialist",
@@ -82491,7 +82523,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Support Specialist",
@@ -82505,7 +82537,7 @@
    "website": "hinge.co",
    "src": "nyc-startups",
    "page": "https://hinge.co/careers",
-   "crawledAt": 1795332216439
+   "crawledAt": 1795422472202
   },
   {
    "title": "Accounting Senior Manager, Global Indirect Tax San Francisco, CA",
@@ -82519,7 +82551,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Advertising Solutions Account Executive, EMEA London, England, United Kingdom",
@@ -82533,7 +82565,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Advertising Solutions Account Executive, Media & Entertainment Los Angeles, CA | New York, NY",
@@ -82547,7 +82579,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Advertising Solutions Account Executive, Mobile Gaming & Apps San Francisco, CA",
@@ -82561,7 +82593,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Advertising Solutions Manager, Sales - Tech & Telco Los Angeles, CA | New York, NY | San Francisco, CA",
@@ -82575,7 +82607,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Business Systems QA/DevOps Engineer Remote (US)",
@@ -82589,7 +82621,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Core Tech Engineering Engineering Director & Site Lead- Lisbon Lisbon, Portugal",
@@ -82603,7 +82635,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Core Tech Engineering Engineering Manager, Data Platform - Lisbon Lisbon, Portugal",
@@ -82617,7 +82649,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Core Tech Engineering Senior Software Engineer, Data Platform - Lisbon Lisbon, Portugal",
@@ -82631,7 +82663,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Core Tech Engineering Senior Software Engineer, Privacy Engineering Amsterdam, Netherlands",
@@ -82645,7 +82677,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Core Tech Engineering Staff Software Engineer, Data Platform - Lisbon Lisbon, Portugal",
@@ -82659,7 +82691,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Core Tech Engineering Staff Software Engineer, Privacy Engineering Amsterdam, Netherlands",
@@ -82673,7 +82705,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Customer Success & Ops Solutions Architect, Singapore Singapore",
@@ -82687,7 +82719,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Data Science & Engineering Senior Data Engineer, Ads Remote (US)",
@@ -82701,7 +82733,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Data Science & Engineering Staff Data Engineer San Francisco, CA",
@@ -82715,7 +82747,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Data Science & Engineering Staff Data Scientist, Causal Inference & Experimentation San Francisco, CA",
@@ -82729,7 +82761,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Developer Solutions Senior Manager APAC, Developer Solutions Singapore",
@@ -82743,7 +82775,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Developer Solutions Senior Manager, Developer Solutions New York, NY | San Francisco, CA",
@@ -82757,7 +82789,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Developers Engineering Manager, Machine Learning - Safety San Francisco, CA",
@@ -82771,7 +82803,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Developers Staff Software Engineer, Safety Processing San Francisco, CA",
@@ -82785,7 +82817,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "IT & Corporate Security Regional Security Manager, EMEA Lisbon, Portugal",
@@ -82799,7 +82831,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Legal Associate Commercial Counsel San Francisco, CA",
@@ -82813,7 +82845,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Legal Senior Litigation Counsel San Francisco, CA",
@@ -82827,7 +82859,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Office of the CTO Staff Technical Program Manager, Security + IT San Francisco, CA",
@@ -82841,7 +82873,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Operations Support Program Manager, Fraud and Payments Risk San Francisco, CA",
@@ -82855,7 +82887,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Design Senior Product Designer, Consumer Revenue San Francisco, CA",
@@ -82869,7 +82901,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Design Senior Product Designer, Design Systems San Francisco, CA",
@@ -82883,7 +82915,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Design Senior Staff Brand Designer San Francisco, CA",
@@ -82897,7 +82929,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Engineering Senior Machine Learning Engineer (Growth) San Francisco, CA",
@@ -82911,7 +82943,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Engineering Senior Software Engineer, Consumer Revenue San Francisco, CA",
@@ -82925,7 +82957,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Engineering Staff Software Engineer, Machine Learning (Consumer Revenue) San Francisco, CA",
@@ -82939,7 +82971,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Engineering Staff Software Engineer, Safety Platform Remote (US)",
@@ -82953,7 +82985,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Product Management Group Product Manager, Data/ML San Francisco, CA",
@@ -82967,7 +82999,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Recruiting Senior Recruiter - Lisbon Lisbon, Portugal",
@@ -82981,7 +83013,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Security Engineering Engineering Manager, Platform Security Remote (US)",
@@ -82995,7 +83027,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Security Engineering Senior Platform Security Engineer Remote (US)",
@@ -83009,7 +83041,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Security Engineering Staff Software Engineer, Enterprise Platform San Francisco, CA",
@@ -83023,7 +83055,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Talent Development Sr. HR Manager, Europe Amsterdam, Netherlands",
@@ -83037,7 +83069,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Trust & Safety Threat Investigator Team Lead Los Angeles, CA | New York, NY | San Francisco, CA | Washington, D.C.",
@@ -83051,7 +83083,7 @@
    "website": "discord.com",
    "src": "nyc-startups",
    "page": "https://discord.com/careers",
-   "crawledAt": 1795332218601
+   "crawledAt": 1795422478360
   },
   {
    "title": "Marketing",
@@ -83639,7 +83671,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "FinCrime Reporting Specialist",
@@ -83653,7 +83685,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "Staff Product Designer - Money Movement",
@@ -83667,7 +83699,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "Complaints Officer",
@@ -83681,7 +83713,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "Senior Software Engineer: Safer Changes - Java",
@@ -83695,7 +83727,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "People Operations Junior Specialist (18-month contract)",
@@ -83709,7 +83741,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "Principal Product Designer – Mitigation Platform",
@@ -83723,7 +83755,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "Senior Product Manager – Payment integrations",
@@ -83737,7 +83769,7 @@
    "website": "wise.com",
    "src": "nyc-startups",
    "page": "https://wise.jobs/",
-   "crawledAt": 1795332230964
+   "crawledAt": 1795422487919
   },
   {
    "title": "User Acquisition Lead",
@@ -83751,7 +83783,7 @@
    "website": "timeleft.com",
    "src": "nyc-startups",
    "page": "https://timeleft.com/work-with-us/",
-   "crawledAt": 1795332227679
+   "crawledAt": 1795422487244
   },
   {
    "title": "Product Manager",
@@ -83765,7 +83797,7 @@
    "website": "timeleft.com",
    "src": "nyc-startups",
    "page": "https://timeleft.com/work-with-us/",
-   "crawledAt": 1795332227679
+   "crawledAt": 1795422487244
   },
   {
    "title": "Content Studio Manager",
@@ -83779,7 +83811,7 @@
    "website": "timeleft.com",
    "src": "nyc-startups",
    "page": "https://timeleft.com/work-with-us/",
-   "crawledAt": 1795332227679
+   "crawledAt": 1795422487244
   },
   {
    "title": "HR Ops Manager",
@@ -83793,7 +83825,7 @@
    "website": "timeleft.com",
    "src": "nyc-startups",
    "page": "https://timeleft.com/work-with-us/",
-   "crawledAt": 1795332227679
+   "crawledAt": 1795422487244
   },
   {
    "title": "CX Enablement Manager",
@@ -83807,7 +83839,7 @@
    "website": "timeleft.com",
    "src": "nyc-startups",
    "page": "https://timeleft.com/work-with-us/",
-   "crawledAt": 1795332227679
+   "crawledAt": 1795422487244
   },
   {
    "title": "Senior Data Scientist",
@@ -83821,7 +83853,7 @@
    "website": "timeleft.com",
    "src": "nyc-startups",
    "page": "https://timeleft.com/work-with-us/",
-   "crawledAt": 1795332227679
+   "crawledAt": 1795422487244
   },
   {
    "title": "Global Alliance Lead, Capgemini",
@@ -83835,7 +83867,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Partner Sales Manager",
@@ -83849,7 +83881,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Partner Manager",
@@ -83863,7 +83895,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Product Analyst",
@@ -83877,7 +83909,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Principal Product Designer",
@@ -83891,7 +83923,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Solutions Engineer, Commercial (Austin)",
@@ -83905,7 +83937,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Customer Solutions Architect (Austin)",
@@ -83919,7 +83951,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Customer Solutions Architect (Denver)",
@@ -83933,7 +83965,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Customer Solutions Architect (NYC)",
@@ -83947,7 +83979,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Escalations Manager",
@@ -83961,7 +83993,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Site Reliability Engineer",
@@ -83975,7 +84007,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Software Engineer",
@@ -83989,7 +84021,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Principal Software Engineer, Data Lakes",
@@ -84003,7 +84035,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer",
@@ -84017,7 +84049,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Software Engineer",
@@ -84031,7 +84063,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, Backend",
@@ -84045,7 +84077,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Principal Software Engineer, AI Tooling & Adoption",
@@ -84059,7 +84091,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, Full Stack",
@@ -84073,7 +84105,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, Fusion Adapters",
@@ -84087,7 +84119,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, Developer Productivity",
@@ -84101,7 +84133,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, Infrastructure",
@@ -84115,7 +84147,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Software Engineer, Developer Productivity",
@@ -84129,7 +84161,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, dbt core",
@@ -84143,7 +84175,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Software Engineer, Metadata",
@@ -84157,7 +84189,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Engineering Manager, dbt Engine",
@@ -84171,7 +84203,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Software Engineer, Metadata",
@@ -84185,7 +84217,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Engineering Manager, Metadata",
@@ -84199,7 +84231,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Technical Program Manager, Security",
@@ -84213,7 +84245,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Software Engineer, Orchestration",
@@ -84227,7 +84259,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Staff Site Reliability Engineer",
@@ -84241,7 +84273,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Program Manager",
@@ -84255,7 +84287,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Staff Software Engineer, SAP Connectors",
@@ -84269,7 +84301,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Software Engineer, Developer Experience",
@@ -84283,7 +84315,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Site Reliability Engineer",
@@ -84297,7 +84329,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Lead Full Stack Engineer",
@@ -84311,7 +84343,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Full Stack Engineer",
@@ -84325,7 +84357,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Program Manager, Knowledge Management",
@@ -84339,7 +84371,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Engineering Manager",
@@ -84353,7 +84385,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Global Payroll Analyst",
@@ -84367,7 +84399,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Tax Manager",
@@ -84381,7 +84413,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "GTM Finance Manager",
@@ -84395,7 +84427,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Revenue Technical Accounting Manager",
@@ -84409,7 +84441,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Internal Communications Manager",
@@ -84423,7 +84455,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Manager Security Engineer, Operations",
@@ -84437,7 +84469,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "GRC Staff Engineer",
@@ -84451,7 +84483,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Commercial Counsel",
@@ -84465,7 +84497,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Marketing Strategy Insights Lead",
@@ -84479,7 +84511,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Lifecycle Marketing Manager",
@@ -84493,7 +84525,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Enterprise Demand Generation Lead, North America",
@@ -84507,7 +84539,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Marketing Manager, Commercial",
@@ -84521,7 +84553,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Enterprise Growth Marketing Lead, EMEA",
@@ -84535,7 +84567,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Web Designer",
@@ -84549,7 +84581,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Product Manager, Integrations",
@@ -84563,7 +84595,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Product Manager, Connectors",
@@ -84577,7 +84609,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Product Manager, AI & Developer Experience",
@@ -84591,7 +84623,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Product Manager, Databases",
@@ -84605,7 +84637,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Staff Technical Writer",
@@ -84619,7 +84651,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Product Designer",
@@ -84633,7 +84665,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Pricing & Monetization Data Scientist",
@@ -84647,7 +84679,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Product Designer",
@@ -84661,7 +84693,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Resident Solution Architect",
@@ -84675,7 +84707,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Account Executive, Mid-Market (Denver)",
@@ -84689,7 +84721,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Account Executive, Mid-Market (Oakland)",
@@ -84703,7 +84735,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Business Development Representative (Austin)",
@@ -84717,7 +84749,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Account Executive, Mid-Market (Austin)",
@@ -84731,7 +84763,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Solutions Architect, Enterprise",
@@ -84745,7 +84777,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Regional Director",
@@ -84759,7 +84791,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Sales Director",
@@ -84773,7 +84805,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Enterprise Account Executive",
@@ -84787,7 +84819,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Sales Engineer, Enterprise",
@@ -84801,7 +84833,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Business Development Representative (Sydney)",
@@ -84815,7 +84847,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Business Development Representative (Denver)",
@@ -84829,7 +84861,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Solutions Architect",
@@ -84843,7 +84875,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Principal Partner Solutions Architect (GSI)",
@@ -84857,7 +84889,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Sales Compensation Analyst",
@@ -84871,7 +84903,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Value Engineer",
@@ -84885,7 +84917,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Senior Pricing Enablement Manager",
@@ -84899,7 +84931,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Business Development Representative",
@@ -84913,7 +84945,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Business Development Representative, German Speaking",
@@ -84927,7 +84959,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "Sales Development Representative, Italian and Spanish Speaker",
@@ -84941,7 +84973,7 @@
    "website": "getdbt.com",
    "src": "nyc-startups",
    "page": "https://www.getdbt.com/about-us/careers",
-   "crawledAt": 1795332243875
+   "crawledAt": 1795422504124
   },
   {
    "title": "AI Engineer- Agentic Customer Flow",
@@ -84955,7 +84987,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Backend Engineer",
@@ -84969,7 +85001,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Backend Software Engineer",
@@ -84983,7 +85015,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Backend Software Engineer, AI Agents",
@@ -84997,7 +85029,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Backend Software Engineer, Payments",
@@ -85011,7 +85043,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Backend Software Engineer, Products",
@@ -85025,7 +85057,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Bilingual P&C Sales Producer",
@@ -85039,7 +85071,7 @@
    "website": "nextinsurance.com",
    "src": "nyc-startups",
    "page": "https://www.nextinsurance.com/careers/",
-   "crawledAt": 1795332243981
+   "crawledAt": 1795422501418
   },
   {
    "title": "Senior Business Intelligence Manager",
@@ -85053,7 +85085,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Customer Insights & Analytics Manager",
@@ -85067,7 +85099,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Intern - Software Development Engineer",
@@ -85081,7 +85113,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Lead Software Development Engineer",
@@ -85095,7 +85127,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Lead Software Development Engineer - Infrastructure",
@@ -85109,7 +85141,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Senior Engineering Manager",
@@ -85123,7 +85155,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Senior IT Systems Engineer",
@@ -85137,7 +85169,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Senior Recruiter",
@@ -85151,7 +85183,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Senior Sales Director",
@@ -85165,7 +85197,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Senior Software Development Engineer",
@@ -85179,7 +85211,7 @@
    "website": "amperity.com",
    "src": "nyc",
    "page": "https://amperity.com/careers",
-   "crawledAt": 1795332249960
+   "crawledAt": 1795422510480
   },
   {
    "title": "Design Consultant",
@@ -85207,7 +85239,7 @@
    "website": "alphapoint.com",
    "src": "nyc",
    "page": "https://alphapoint.com/careers",
-   "crawledAt": 1795332249518
+   "crawledAt": 1795422509282
   },
   {
    "title": "Enterprise Sales Executive (Latam Region)",
@@ -85221,7 +85253,7 @@
    "website": "alphapoint.com",
    "src": "nyc",
    "page": "https://alphapoint.com/careers",
-   "crawledAt": 1795332249518
+   "crawledAt": 1795422509282
   },
   {
    "title": "Enterprise Sales Executive",
@@ -85235,7 +85267,7 @@
    "website": "alphapoint.com",
    "src": "nyc",
    "page": "https://alphapoint.com/careers",
-   "crawledAt": 1795332249518
+   "crawledAt": 1795422509282
   },
   {
    "title": "Senior Applied AI Engineer",
@@ -85249,7 +85281,7 @@
    "website": "alaffiahealth.com",
    "src": "nyc",
    "page": "https://alaffiahealth.com/careers",
-   "crawledAt": 1795332255584
+   "crawledAt": 1795422516573
   },
   {
    "title": "Workplace Experience Associate",
@@ -85263,7 +85295,7 @@
    "website": "alaffiahealth.com",
    "src": "nyc",
    "page": "https://alaffiahealth.com/careers",
-   "crawledAt": 1795332255584
+   "crawledAt": 1795422516573
   },
   {
    "title": "Payment Integrity Analyst",
@@ -85277,7 +85309,7 @@
    "website": "alaffiahealth.com",
    "src": "nyc",
    "page": "https://alaffiahealth.com/careers",
-   "crawledAt": 1795332255584
+   "crawledAt": 1795422516573
   },
   {
    "title": "Senior Software Engineer",
@@ -85291,21 +85323,7 @@
    "website": "alaffiahealth.com",
    "src": "nyc",
    "page": "https://alaffiahealth.com/careers",
-   "crawledAt": 1795332255584
-  },
-  {
-   "title": "HR Generalist",
-   "url": "https://www.ispot.tv/about/careers#hr-generalist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "605",
-   "website": "605.tv",
-   "src": "nyc",
-   "page": "https://www.ispot.tv/about/careers",
-   "crawledAt": 1795332258334
+   "crawledAt": 1795422516573
   },
   {
    "title": "President & Chief Revenue Officer",
@@ -85319,7 +85337,7 @@
    "website": "605.tv",
    "src": "nyc",
    "page": "https://www.ispot.tv/about/careers",
-   "crawledAt": 1795332258334
+   "crawledAt": 1795422518469
   },
   {
    "title": "Chief Technology Officer",
@@ -85333,7 +85351,7 @@
    "website": "605.tv",
    "src": "nyc",
    "page": "https://www.ispot.tv/about/careers",
-   "crawledAt": 1795332258334
+   "crawledAt": 1795422518469
   },
   {
    "title": "Chief Product Officer",
@@ -85347,7 +85365,7 @@
    "website": "605.tv",
    "src": "nyc",
    "page": "https://www.ispot.tv/about/careers",
-   "crawledAt": 1795332258334
+   "crawledAt": 1795422518469
   },
   {
    "title": "Chief Financial Officer",
@@ -85361,7 +85379,7 @@
    "website": "605.tv",
    "src": "nyc",
    "page": "https://www.ispot.tv/about/careers",
-   "crawledAt": 1795332258334
+   "crawledAt": 1795422518469
   },
   {
    "title": "Senior Software Engineering Manager, Data Infrastructure",
@@ -85417,7 +85435,7 @@
    "website": "amogy.co",
    "src": "nyc",
    "page": "https://amogy.co/careers",
-   "crawledAt": 1795332262806
+   "crawledAt": 1795422525372
   },
   {
    "title": "Principal Mechanical FEA Engineer",
@@ -85431,7 +85449,7 @@
    "website": "amogy.co",
    "src": "nyc",
    "page": "https://amogy.co/careers",
-   "crawledAt": 1795332262806
+   "crawledAt": 1795422525372
   },
   {
    "title": "Technical Solutions Manager",
@@ -85445,7 +85463,7 @@
    "website": "amogy.co",
    "src": "nyc",
    "page": "https://amogy.co/careers",
-   "crawledAt": 1795332262806
+   "crawledAt": 1795422525372
   },
   {
    "title": "Senior Mechanical Engineer",
@@ -85459,7 +85477,7 @@
    "website": "amogy.co",
    "src": "nyc",
    "page": "https://amogy.co/careers",
-   "crawledAt": 1795332262806
+   "crawledAt": 1795422525372
   },
   {
    "title": "Software Engineer (Newark, CA)",
@@ -85473,7 +85491,7 @@
    "website": "apninc.com",
    "src": "nyc",
    "page": "https://apninc.com/careers/",
-   "crawledAt": 1795332264099
+   "crawledAt": 1795422522752
   },
   {
    "title": "IT TECHNICAL RECRUITER",
@@ -85487,7 +85505,7 @@
    "website": "apninc.com",
    "src": "nyc",
    "page": "https://apninc.com/careers/",
-   "crawledAt": 1795332264099
+   "crawledAt": 1795422522752
   },
   {
    "title": "Senior Implementation Data Scientist",
@@ -85529,7 +85547,7 @@
    "website": "260samplesale.com",
    "src": "nyc",
    "page": "https://260samplesale.com/pages/careers",
-   "crawledAt": 1795332278539
+   "crawledAt": 1795422540190
   },
   {
    "title": "Book Inventory Analyst",
@@ -85582,7 +85600,7 @@
    "website": "beaglesecurity.com",
    "src": "nyc",
    "page": "https://beaglesecurity.com/404",
-   "crawledAt": 1795332267938
+   "crawledAt": 1795422529641
   },
   {
    "title": "Java Developer",
@@ -85596,7 +85614,7 @@
    "website": "beaglesecurity.com",
    "src": "nyc",
    "page": "https://beaglesecurity.com/404",
-   "crawledAt": 1795332267938
+   "crawledAt": 1795422529641
   },
   {
    "title": "Postdoctoral Fellow — OCD, Anxiety &amp; ERP Focus",
@@ -116286,6 +116304,202 @@
    "crawledAt": 1795334709333
   },
   {
+   "title": "Payroll Specialist",
+   "url": "https://millerpipeline.com/our-careers/#payroll-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Continuous Improvement (CI) Intern",
+   "url": "https://millerpipeline.com/our-careers/#continuous-improvement-ci-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Safety, Quality, Compliance (SQC) Coordinator",
+   "url": "https://millerpipeline.com/our-careers/#safety-quality-compliance-sqc-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Project Manager",
+   "url": "https://millerpipeline.com/our-careers/#project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Regional Safety Manager",
+   "url": "https://millerpipeline.com/our-careers/#regional-safety-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Administrative Specialist",
+   "url": "https://millerpipeline.com/our-careers/#administrative-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Field Engineer",
+   "url": "https://millerpipeline.com/our-careers/#field-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Payroll Specialist",
+   "url": "https://millerpipeline.com/search-jobs/#payroll-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Continuous Improvement (CI) Intern",
+   "url": "https://millerpipeline.com/search-jobs/#continuous-improvement-ci-intern",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Safety, Quality, Compliance (SQC) Coordinator",
+   "url": "https://millerpipeline.com/search-jobs/#safety-quality-compliance-sqc-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Project Manager",
+   "url": "https://millerpipeline.com/search-jobs/#project-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Regional Safety Manager",
+   "url": "https://millerpipeline.com/search-jobs/#regional-safety-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Administrative Specialist",
+   "url": "https://millerpipeline.com/search-jobs/#administrative-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
+   "title": "Field Engineer",
+   "url": "https://millerpipeline.com/search-jobs/#field-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Miller Pipeline Co.",
+   "website": "millerpipeline.com",
+   "src": "nyc",
+   "page": "https://millerpipeline.com/search-jobs/",
+   "crawledAt": 1795422263095
+  },
+  {
    "title": "Senior Vice President of Engineering",
    "url": "https://nextleague.com/careers/5132481007",
    "datePosted": "2026-05-15T09:54:22-04:00",
@@ -117535,6 +117749,174 @@
    "src": "nyc",
    "page": "https://nine.energy/about/work-with-us",
    "crawledAt": 1795333744686
+  },
+  {
+   "title": "Forward Deployed-Engineer",
+   "url": "https://hr.nobleprog.com/job-openings-active#forward-deployed-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Principal Solutions Engineer / Solution Architect",
+   "url": "https://hr.nobleprog.com/job-openings-active#principal-solutions-engineer-solution-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Solutions Architect / Engineer & Technical Consultant",
+   "url": "https://hr.nobleprog.com/job-openings-active#solutions-architect-engineer-technical-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Training Coordinator – Turkish Market",
+   "url": "https://hr.nobleprog.com/job-openings-active#training-coordinator-turkish-market",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Training and Consultancy Coordinator (Turkey Market)",
+   "url": "https://hr.nobleprog.com/job-openings-active#training-and-consultancy-coordinator-turkey-market-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Technical Sales Executive - USA",
+   "url": "https://hr.nobleprog.com/job-openings-active#technical-sales-executive-usa",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "DaDesktop Cloud Reliability Engineer - USA",
+   "url": "https://hr.nobleprog.com/job-openings-active#dadesktop-cloud-reliability-engineer-usa",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "DaDesktop Cloud Reliability Engineer - Americas",
+   "url": "https://hr.nobleprog.com/job-openings-active#dadesktop-cloud-reliability-engineer-americas",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Training and Consultancy Coordinator",
+   "url": "https://hr.nobleprog.com/job-openings-active#training-and-consultancy-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Training Coordinator",
+   "url": "https://hr.nobleprog.com/job-openings-active#training-coordinator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Sales Managers / Sales Representative",
+   "url": "https://hr.nobleprog.com/job-openings-active#sales-managers-sales-representative",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
+  },
+  {
+   "title": "Training Coordinator (Vollzeit, unbefristet)",
+   "url": "https://hr.nobleprog.com/job-openings-active#training-coordinator-vollzeit-unbefristet-",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "NobleProg",
+   "website": "nobleprog.co.jp",
+   "src": "nyc",
+   "page": "https://www.nobleprog.co.jp/careers",
+   "crawledAt": 1795422241418
   },
   {
    "title": "Conversions Manager",
