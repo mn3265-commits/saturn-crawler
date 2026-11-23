@@ -1,11 +1,11 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-19T06:08:08.696Z",
+ "generated": "2026-11-23T08:00:48.370Z",
  "counts": {
   "successfactors": 66,
-  "phenom": 26,
+  "phenom": 27,
   "jibe": 48,
-  "oracle": 108,
+  "oracle": 110,
   "avature": 3,
   "tiktok": 1,
   "tencent": 1,
@@ -14,7 +14,7 @@
   "google": 1,
   "apple": 1,
   "goldman": 1,
-  "eightfold": 22,
+  "eightfold": 23,
   "icims": 98,
   "radancy": 17,
   "ibm": 1
@@ -4156,6 +4156,55 @@
    "industry": "tech/consulting",
    "type": "ibm",
    "verified": "2026-11-17 www-api.ibm.com search API answers (483 US jobs)"
+  },
+  {
+   "_was": "AMDOCS INC",
+   "company": "AMDOCS INC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "eightfold",
+   "base": "https://jobs.amdocs.com",
+   "domain": "amdocs.com",
+   "pcsx": true,
+   "jobs": 7,
+   "verified": "eightfold portal answers (7 jobs)"
+  },
+  {
+   "_was": "BLIZZARD ENTERTAINMENT INC",
+   "company": "BLIZZARD ENTERTAINMENT INC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "phenom",
+   "base": "https://careers.blizzard.com",
+   "locale": "global/en",
+   "jobs": 47,
+   "verified": "phenom portal answers (47 jobs)"
+  },
+  {
+   "_was": "TEXAS WOMAN S UNIVERSITY",
+   "company": "TEXAS WOMAN S UNIVERSITY",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "oracle",
+   "host": "ewal.fa.us8.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 128,
+   "verified": "oracle portal answers (128 jobs)"
+  },
+  {
+   "_was": "PENSKE LOGISTICS LLC",
+   "company": "PENSKE LOGISTICS LLC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "oracle",
+   "host": "fa-euyk-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 1544,
+   "verified": "oracle portal answers (1544 jobs)"
   }
  ]
 }
