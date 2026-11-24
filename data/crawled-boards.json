@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-24T13:19:17.538Z",
+ "generated": "2026-11-24T13:23:33.128Z",
  "companies": 22940,
  "status": {
-  "found": 3077,
-  "no-ats": 11759,
+  "found": 3085,
+  "no-ats": 11751,
   "site": 3784,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 660,
+  "ashby": 661,
   "workday": 559,
-  "gh": 869,
-  "lever": 244,
+  "gh": 871,
+  "lever": 246,
   "gem": 71,
   "rippling": 125,
   "workable": 175,
-  "bamboohr": 152,
+  "bamboohr": 155,
   "smartrecruiters": 57,
   "recruitee": 24,
   "eightfold": 40,
@@ -9356,12 +9356,48 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "bugs",
+   "url": "bugs.bamboohr.com/jobs",
+   "label": "Brooklyn Urban Garden Charter School",
+   "website": "bugsbrooklyn.org",
+   "page": "https://www.bugsbrooklyn.org/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "todaytixgroup",
+   "url": "jobs.lever.co/todaytixgroup",
+   "label": "Broadway Roulette",
+   "website": "broadwayroulette.com",
+   "page": "https://broadwayroulette.com/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "bubble",
+   "url": "jobs.ashbyhq.com/bubble",
+   "label": "Bubble",
+   "website": "bubble.io",
+   "page": "https://bubble.io/careers",
+   "src": "nyc"
+  },
+  {
    "type": "icims",
    "token": "belardiwong",
    "url": "careers-belardiwong.icims.com",
    "label": "Belardi Wong",
    "website": "belardiwong.com",
    "page": "https://belardiwong.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "broadsign",
+   "url": "boards-api.greenhouse.io/v1/boards/broadsign",
+   "label": "Broadsign",
+   "website": "broadsign.com",
+   "page": "https://broadsign.com/careers/",
    "src": "nyc"
   },
   {
@@ -9389,6 +9425,15 @@
    "label": "Buoy Software",
    "website": "buoysoftware.com",
    "page": "https://www.buoysoftware.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "buoyhealth",
+   "url": "buoyhealth.bamboohr.com/jobs",
+   "label": "Buoy Health",
+   "website": "buoyhealth.com",
+   "page": "https://www.buoyhealth.com/careers",
    "src": "nyc"
   },
   {
@@ -9425,6 +9470,15 @@
    "label": "Canvas Worldwide",
    "website": "canvasworldwide.com",
    "page": "https://www.canvasworldwide.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "boingo",
+   "url": "boards-api.greenhouse.io/v1/boards/boingo",
+   "label": "Boingo Wireless",
+   "website": "boingo.com",
+   "page": "https://www.boingo.com/corporate/careers/",
    "src": "nyc"
   },
   {
@@ -9498,6 +9552,15 @@
    "label": "Brookdale Community College",
    "website": "brookdalecc.edu",
    "page": "https://www.brookdalecc.edu/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "bringoz",
+   "url": "bringoz.bamboohr.com/careers",
+   "label": "Bringoz",
+   "website": "bringoz.com",
+   "page": "https://www.bringoz.com/careers/",
    "src": "nyc"
   },
   {
@@ -9635,6 +9698,15 @@
    "label": "Causal",
    "website": "causal.app",
    "page": "https://www.lucanet.com/en/careers/jobs/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "charitywater",
+   "url": "jobs.lever.co/charitywater",
+   "label": "charity: water",
+   "website": "charitywater.org",
+   "page": "https://www.charitywater.org/jobs",
    "src": "nyc"
   },
   {
