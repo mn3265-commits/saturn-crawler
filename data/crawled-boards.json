@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-24T13:39:34.710Z",
+ "generated": "2026-11-24T13:44:17.916Z",
  "companies": 22940,
  "status": {
-  "found": 3099,
-  "no-ats": 11737,
+  "found": 3108,
+  "no-ats": 11728,
   "site": 3784,
   "down": 4320
  },
  "byType": {
   "dover": 7,
   "ashby": 662,
-  "workday": 561,
-  "gh": 877,
-  "lever": 248,
+  "workday": 562,
+  "gh": 880,
+  "lever": 250,
   "gem": 71,
-  "rippling": 125,
+  "rippling": 126,
   "workable": 177,
-  "bamboohr": 155,
+  "bamboohr": 156,
   "smartrecruiters": 57,
   "recruitee": 25,
   "eightfold": 40,
@@ -10771,6 +10771,24 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "fambrands",
+   "url": "job-boards.greenhouse.io/fambrands",
+   "label": "FAM Brands",
+   "website": "fambrands.com",
+   "page": "https://www.fambrands.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "prometheanworld",
+   "url": "jobs.lever.co/prometheanworld",
+   "label": "Explain Everything",
+   "website": "explaineverything.com",
+   "page": "https://explaineverything.com/",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "fifty-five",
    "url": "apply.workable.com/fifty-five",
@@ -10784,6 +10802,15 @@
    "url": "apply.workable.com/j",
    "label": "Fifty-Five",
    "website": "fifty-five.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "fairsteadescllc",
+   "url": "job-boards.greenhouse.io/fairsteadescllc",
+   "label": "Fairstead",
+   "website": "fairstead.com",
+   "page": "https://fairstead.com/careers/",
    "src": "nyc"
   },
   {
@@ -10818,6 +10845,15 @@
    "url": "job-boards.greenhouse.io/flatironenergy",
    "label": "Flatiron Energy",
    "website": "flatiron.energy",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "equalitynow",
+   "url": "equalitynow.bamboohr.com/jobs",
+   "label": "Equality Now",
+   "website": "equalitynow.org",
+   "page": "https://equalitynow.org/equality-now-jobs/",
    "src": "nyc"
   },
   {
@@ -10939,12 +10975,40 @@
    "src": "nyc"
   },
   {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Fusion Health",
+   "website": "fusionehr.com",
+   "page": "https://fusionehr.com/careers/",
+   "src": "nyc"
+  },
+  {
    "type": "smartrecruiters",
    "token": "PitchBlackCreative",
    "url": "careers.smartrecruiters.com/PitchBlackCreative",
    "label": "FuseFX",
    "website": "fusefx.com",
    "page": "https://folksvfx.com/careers/open-positions/",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "adobe.wd5.myworkdayjobs.com",
+   "url": "adobe.wd5.myworkdayjobs.com/en-US/external_experienced",
+   "site": "external_experienced",
+   "label": "Frame.io",
+   "website": "frame.io",
+   "page": "https://careers.adobe.com/us/en",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "gallerymediagroup",
+   "url": "boards-api.greenhouse.io/v1/boards/gallerymediagroup",
+   "label": "Gallery Media Group",
+   "website": "gallerymediagroup.com",
+   "page": "https://www.gallerymediagroup.com/careers",
    "src": "nyc"
   },
   {
@@ -10972,6 +11036,15 @@
    "label": "General Atlantic",
    "website": "generalatlantic.com",
    "page": "https://www.generalatlantic.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "wpromote",
+   "url": "jobs.lever.co/wpromote",
+   "label": "Giant Spoon",
+   "website": "giantspoon.com",
+   "page": "https://giantspoon.com/",
    "src": "nyc"
   },
   {
