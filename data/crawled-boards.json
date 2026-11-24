@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-24T13:44:17.916Z",
+ "generated": "2026-11-24T13:49:53.078Z",
  "companies": 22940,
  "status": {
-  "found": 3108,
-  "no-ats": 11728,
-  "site": 3784,
+  "found": 3115,
+  "no-ats": 11720,
+  "site": 3785,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 662,
+  "ashby": 663,
   "workday": 562,
-  "gh": 880,
-  "lever": 250,
+  "gh": 881,
+  "lever": 253,
   "gem": 71,
-  "rippling": 126,
-  "workable": 177,
+  "rippling": 127,
+  "workable": 179,
   "bamboohr": 156,
   "smartrecruiters": 57,
   "recruitee": 25,
@@ -11147,6 +11147,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "globalwebindex",
+   "url": "boards-api.greenhouse.io/v1/boards/globalwebindex",
+   "label": "GWI",
+   "website": "gwi.com",
+   "page": "https://www.gwi.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "weatherbug",
    "url": "apply.workable.com/weatherbug",
@@ -11181,6 +11190,15 @@
    "label": "Happeo",
    "website": "happeo.com",
    "page": "https://www.happeo.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "HaydenAI",
+   "url": "jobs.ashbyhq.com/HaydenAI",
+   "label": "Hayden AI",
+   "website": "hayden.ai",
+   "page": "https://www.hayden.ai/careers",
    "src": "nyc"
   },
   {
@@ -11238,6 +11256,15 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "healthcare",
+   "url": "jobs.lever.co/healthcare",
+   "label": "HealthCare.com",
+   "website": "healthcare.com",
+   "page": "https://www.healthcare.com/jobs",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "hint",
    "url": "apply.workable.com/hint",
@@ -11254,6 +11281,24 @@
    "label": "HiredScore",
    "website": "hiredscore.com",
    "page": "https://www.workday.com/en-us/company/careers/overview.html",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "hold-brothers",
+   "url": "apply.workable.com/hold-brothers",
+   "label": "Hold Brothers",
+   "website": "hold.com",
+   "page": "https://hold.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "cdn-cgi",
+   "url": "apply.workable.com/cdn-cgi",
+   "label": "Hold Brothers",
+   "website": "hold.com",
+   "page": "https://hold.com/",
    "src": "nyc"
   },
   {
@@ -11299,6 +11344,24 @@
    "label": "Horizen Labs",
    "website": "horizenlabs.io",
    "page": "https://horizenlabs.io/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "begin-careers",
+   "url": "ats.rippling.com/begin-careers",
+   "label": "HOMER",
+   "website": "learnwithhomer.com",
+   "page": "https://learnwithhomer.com/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "Huckleberrylabs",
+   "url": "jobs.lever.co/Huckleberrylabs",
+   "label": "Huckleberry",
+   "website": "huckleberrycare.com",
+   "page": "https://huckleberrycare.com/careers",
    "src": "nyc"
   },
   {
@@ -11354,6 +11417,15 @@
    "label": "Hyperquake",
    "website": "hyperquake.com",
    "page": "https://hyperquake.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "hypebeast",
+   "url": "jobs.lever.co/hypebeast",
+   "label": "HYPEBEAST",
+   "website": "hypebeast.com",
+   "page": "https://hypebeast.com/jobs",
    "src": "nyc"
   },
   {
@@ -108348,6 +108420,20 @@
    "src": "nyc",
    "page": "https://hazeltree.com/careers/",
    "crawledAt": 1795516964430
+  },
+  {
+   "title": "Accounts Payable Specialist",
+   "url": "https://hamiltonmillerlaw.isolvedhire.com/jobs/1908147",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Hamilton Miller & Birthisel",
+   "website": "hamiltonmillerlaw.com",
+   "src": "nyc",
+   "page": "https://hamiltonmillerlaw.isolvedhire.com/jobs/",
+   "crawledAt": 1795528015867
   },
   {
    "title": "Application Developer-Cloud FullStack",
