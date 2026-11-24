@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-24T13:04:04.037Z",
+ "generated": "2026-11-24T13:08:43.498Z",
  "companies": 22940,
  "status": {
-  "found": 3053,
-  "no-ats": 11785,
+  "found": 3062,
+  "no-ats": 11776,
   "site": 3782,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 659,
-  "workday": 557,
+  "ashby": 660,
+  "workday": 559,
   "gh": 864,
   "lever": 241,
   "gem": 71,
-  "rippling": 121,
-  "workable": 173,
-  "bamboohr": 147,
-  "smartrecruiters": 56,
+  "rippling": 123,
+  "workable": 175,
+  "bamboohr": 149,
+  "smartrecruiters": 57,
   "recruitee": 24,
   "eightfold": 40,
   "icims": 159,
@@ -8146,6 +8146,25 @@
    "src": "nyc"
   },
   {
+   "type": "workday",
+   "token": "spgi.wd5.myworkdayjobs.com",
+   "url": "spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers",
+   "site": "SPGI_Careers",
+   "label": "451 Research",
+   "website": "451research.com",
+   "page": "https://www.451research.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "350",
+   "url": "350.bamboohr.com/jobs",
+   "label": "350.org",
+   "website": "350.org",
+   "page": "https://350.org/about/work-with-us/",
+   "src": "nyc"
+  },
+  {
    "type": "successfactors",
    "token": "C0016306184P",
    "url": "career5.successfactors.eu/career?company=C0016306184P",
@@ -8170,6 +8189,15 @@
    "label": "Acai Travel",
    "website": "acaitravel.com",
    "page": "https://www.acaitravel.com/about/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "abfacilityservice",
+   "url": "abfacilityservice.bamboohr.com/jobs",
+   "label": "AB Facility Services",
+   "website": "abfacilityservice.com",
+   "page": "https://www.abfacilityservice.com/careers/",
    "src": "nyc"
   },
   {
@@ -8206,6 +8234,33 @@
    "label": "Acumen",
    "website": "acumen.org",
    "page": "https://acumen.org/jobs/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "Adaptive",
+   "url": "jobs.ashbyhq.com/Adaptive",
+   "label": "Adaptive (adaptive.build)",
+   "website": "adaptive.build",
+   "page": "https://www.adaptive.build/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Adelaide",
+   "website": "adelaidemetrics.com",
+   "page": "https://www.adelaidemetrics.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "_next",
+   "url": "ats.rippling.com/_next",
+   "label": "Adelaide",
+   "website": "adelaidemetrics.com",
+   "page": "https://www.adelaidemetrics.com/careers",
    "src": "nyc"
   },
   {
@@ -8252,6 +8307,24 @@
    "label": "AdGate Media",
    "website": "adgatemedia.com",
    "page": "https://www.prodege.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "AdParlor",
+   "website": "adparlor.com",
+   "page": "https://www.trevant.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "AdMed Inc.",
+   "website": "admedinc.com",
+   "page": "https://www.admedinc.com/careers/",
    "src": "nyc"
   },
   {
@@ -8342,6 +8415,25 @@
    "label": "Advantage Dental\\u002B",
    "website": "advantagedental.com",
    "page": "https://www.advantagedental.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "acrisure.wd1.myworkdayjobs.com",
+   "url": "acrisure.wd1.myworkdayjobs.com/Acrisure",
+   "site": "Acrisure",
+   "label": "Acrisure Innovation",
+   "website": "acrisure.com",
+   "page": "https://careers.acrisure.com/us/en",
+   "src": "nyc"
+  },
+  {
+   "type": "smartrecruiters",
+   "token": "AgNovosHealthcare",
+   "url": "careers.smartrecruiters.com/AgNovosHealthcare",
+   "label": "AgNovos",
+   "website": "agnovos.com",
+   "page": "https://www.agnovos.com/",
    "src": "nyc"
   },
   {
