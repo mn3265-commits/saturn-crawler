@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-24T13:23:33.128Z",
+ "generated": "2026-11-24T13:29:00.710Z",
  "companies": 22940,
  "status": {
-  "found": 3085,
-  "no-ats": 11751,
+  "found": 3089,
+  "no-ats": 11747,
   "site": 3784,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 661,
+  "ashby": 662,
   "workday": 559,
-  "gh": 871,
+  "gh": 873,
   "lever": 246,
   "gem": 71,
   "rippling": 125,
-  "workable": 175,
+  "workable": 176,
   "bamboohr": 155,
   "smartrecruiters": 57,
   "recruitee": 24,
@@ -9793,6 +9793,15 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Circit",
+   "website": "circit.io",
+   "page": "https://circit.io/",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "circadiahealth",
    "url": "jobs.lever.co/circadiahealth",
@@ -9848,6 +9857,15 @@
   },
   {
    "type": "gh",
+   "token": "costar",
+   "url": "boards-api.greenhouse.io/v1/boards/costar",
+   "label": "Co-Star",
+   "website": "costarastrology.com",
+   "page": "https://www.costarastrology.com/jobs",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "cognism",
    "url": "boards.eu.greenhouse.io/embed/job_board/js?for=cognism",
    "label": "Cognism",
@@ -9883,6 +9901,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "terarecon",
+   "url": "boards-api.greenhouse.io/v1/boards/terarecon",
+   "label": "ConcertAI",
+   "website": "concertai.com",
+   "page": "https://www.terarecon.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "rippling",
    "token": "conductor",
    "url": "ats.rippling.com/conductor",
@@ -9907,6 +9934,15 @@
    "label": "ComplySci",
    "website": "complysci.com",
    "page": "https://www.comply.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "conduit-health",
+   "url": "jobs.ashbyhq.com/conduit-health",
+   "label": "Conduit Health",
+   "website": "conduithealth.com",
+   "page": "https://www.conduithealth.com/careers",
    "src": "nyc"
   },
   {
