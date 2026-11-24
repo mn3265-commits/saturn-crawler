@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-24T13:49:53.078Z",
+ "generated": "2026-11-24T13:54:53.047Z",
  "companies": 22940,
  "status": {
-  "found": 3115,
-  "no-ats": 11720,
+  "found": 3122,
+  "no-ats": 11713,
   "site": 3785,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 663,
+  "ashby": 664,
   "workday": 562,
   "gh": 881,
-  "lever": 253,
-  "gem": 71,
-  "rippling": 127,
-  "workable": 179,
+  "lever": 254,
+  "gem": 72,
+  "rippling": 129,
+  "workable": 180,
   "bamboohr": 156,
-  "smartrecruiters": 57,
+  "smartrecruiters": 58,
   "recruitee": 25,
   "eightfold": 40,
   "icims": 160,
@@ -11527,6 +11527,24 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Innocence Project",
+   "website": "innocenceproject.org",
+   "page": "https://innocenceproject.org/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "infobase",
+   "url": "jobs.lever.co/infobase",
+   "label": "Infobase",
+   "website": "infobase.com",
+   "page": "https://infobase.com/about/careers/",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "instrument",
    "url": "jobs.lever.co/instrument",
@@ -11552,6 +11570,15 @@
    "src": "nyc"
   },
   {
+   "type": "smartrecruiters",
+   "token": "enthuse-marketing",
+   "url": "jobs.smartrecruiters.com/enthuse-marketing",
+   "label": "Inspira Marketing",
+   "website": "inspiramarketing.com",
+   "page": "https://inspiramarketing.com/careers/",
+   "src": "nyc"
+  },
+  {
    "type": "bamboohr",
    "token": "intellecteu",
    "url": "intellecteu.bamboohr.com/jobs",
@@ -11567,6 +11594,15 @@
    "label": "InterWorks",
    "website": "interworks.com",
    "page": "https://interworks.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gem",
+   "token": "soundhound",
+   "url": "jobs.gem.com/soundhound",
+   "label": "Interactions",
+   "website": "interactions.com",
+   "page": "https://www.soundhound.com/careers",
    "src": "nyc"
   },
   {
@@ -11617,6 +11653,24 @@
    "src": "nyc"
   },
   {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Integrate",
+   "website": "integrate.com",
+   "page": "https://www.integrate.com/company/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Inspiration Mobility",
+   "website": "inspirationmobility.com",
+   "page": "https://inspirationmobility.com/about/careers",
+   "src": "nyc"
+  },
+  {
    "type": "bamboohr",
    "token": "instadeep",
    "url": "instadeep.bamboohr.com/careers",
@@ -11641,6 +11695,15 @@
    "label": "Jones Knowles Ritchie",
    "website": "jkrglobal.com",
    "page": "https://www.jkrglobal.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "joor",
+   "url": "jobs.ashbyhq.com/joor",
+   "label": "JOOR",
+   "website": "jooraccess.com",
+   "page": "https://auth.jooraccess.com/auth/realms/joor/protocol/openid-connect/auth?client_id=web-sessions&response_type=code&scope=openid&redirect_uri=https://web-sessions-main.kube.jooraccess.com/login",
    "src": "nyc"
   },
   {
