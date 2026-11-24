@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-24T13:29:00.710Z",
+ "generated": "2026-11-24T13:33:59.849Z",
  "companies": 22940,
  "status": {
-  "found": 3089,
-  "no-ats": 11747,
+  "found": 3096,
+  "no-ats": 11740,
   "site": 3784,
   "down": 4320
  },
  "byType": {
   "dover": 7,
   "ashby": 662,
-  "workday": 559,
-  "gh": 873,
-  "lever": 246,
+  "workday": 561,
+  "gh": 875,
+  "lever": 248,
   "gem": 71,
   "rippling": 125,
-  "workable": 176,
+  "workable": 177,
   "bamboohr": 155,
   "smartrecruiters": 57,
   "recruitee": 24,
@@ -10082,6 +10082,33 @@
   },
   {
    "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Coursedog",
+   "website": "coursedog.com",
+   "page": "https://www.coursedog.com/company/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "crowdstreet",
+   "url": "boards-api.greenhouse.io/v1/boards/crowdstreet",
+   "label": "Crowd Street",
+   "website": "crowdstreet.com",
+   "page": "https://crowdstreet.com/about/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "cprime",
+   "url": "jobs.lever.co/cprime",
+   "label": "Cprime",
+   "website": "cprime.com",
+   "page": "https://www.cprime.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
    "token": "cubx",
    "url": "apply.workable.com/cubx",
    "label": "CubX",
@@ -10096,6 +10123,16 @@
    "label": "Cutover",
    "website": "cutover.com",
    "page": "https://cutover.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "visa.wd5.myworkdayjobs.com",
+   "url": "visa.wd5.myworkdayjobs.com/Visa",
+   "site": "Visa",
+   "label": "Currencycloud",
+   "website": "currencycloud.com",
+   "page": "https://www.currencycloud.com/jobs",
    "src": "nyc"
   },
   {
@@ -10208,6 +10245,15 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "getdeardoc",
+   "url": "jobs.lever.co/getdeardoc",
+   "label": "DearDoc",
+   "website": "getdeardoc.com",
+   "page": "https://getdeardoc.com/jobs",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "density",
    "url": "boards.greenhouse.io/embed/job_board/js?for=density",
@@ -10287,6 +10333,15 @@
    "label": "Definition 6",
    "website": "definition6.com",
    "page": "https://www.bridgenext.com/company/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "derris",
+   "url": "boards.greenhouse.io/derris",
+   "label": "Derris",
+   "website": "derris.com",
+   "page": "https://www.derris.com/careers",
    "src": "nyc"
   },
   {
@@ -10387,6 +10442,16 @@
    "label": "Disguise",
    "website": "disguise.one",
    "page": "https://www.disguise.one/en/about/join-us",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "duboischemicals.wd1.myworkdayjobs.com",
+   "url": "duboischemicals.wd1.myworkdayjobs.com/External",
+   "site": "External",
+   "label": "DuBois Chemicals",
+   "website": "duboischemicals.com",
+   "page": "https://www.duboischemicals.com/",
    "src": "nyc"
   },
   {
