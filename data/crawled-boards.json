@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-24T12:49:17.585Z",
+ "generated": "2026-11-24T12:54:26.654Z",
  "companies": 22940,
  "status": {
-  "found": 3028,
-  "no-ats": 11812,
-  "site": 3780,
+  "found": 3043,
+  "no-ats": 11796,
+  "site": 3781,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 655,
+  "ashby": 658,
   "workday": 557,
-  "gh": 854,
-  "lever": 240,
-  "gem": 70,
-  "rippling": 118,
+  "gh": 861,
+  "lever": 241,
+  "gem": 71,
+  "rippling": 121,
   "workable": 170,
   "bamboohr": 144,
   "smartrecruiters": 56,
@@ -5688,6 +5688,15 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "polymarket",
+   "url": "jobs.ashbyhq.com/polymarket",
+   "label": "Polymarket",
+   "website": "polymarket.com",
+   "page": "https://careers.polymarket.com/",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "ro",
    "url": "jobs.lever.co/ro",
@@ -5956,6 +5965,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "zola",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=zola",
+   "label": "Zola",
+   "website": "zola.com",
+   "page": "https://www.zola.com/about/jobs",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "drata",
    "url": "jobs.ashbyhq.com/drata",
@@ -5979,6 +5997,15 @@
    "label": "Innovid",
    "website": "innovid.com",
    "page": "https://www.innovid.com/about-us",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Latch",
+   "website": "latch.com",
+   "page": "https://door.com/careers",
    "src": "nyc"
   },
   {
@@ -6064,11 +6091,29 @@
   },
   {
    "type": "ashby",
+   "token": "Perplexity",
+   "url": "jobs.ashbyhq.com/Perplexity",
+   "label": "Perplexity",
+   "website": "perplexity.ai",
+   "page": "https://www.perplexity.ai/hub/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
    "token": "amplitude",
    "url": "jobs.ashbyhq.com/amplitude",
    "label": "Amplitude",
    "website": "amplitude.com",
    "page": "https://amplitude.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "gleanwork",
+   "url": "boards-api.greenhouse.io/v1/boards/gleanwork",
+   "label": "Glean",
+   "website": "glean.com",
+   "page": "https://www.glean.com/careers",
    "src": "nyc"
   },
   {
@@ -6078,6 +6123,15 @@
    "label": "Heap",
    "website": "heap.io",
    "page": "https://contentsquare.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "fivetran",
+   "url": "boards-api.greenhouse.io/v1/boards/fivetran",
+   "label": "Census",
+   "website": "getcensus.com",
+   "page": "https://www.fivetran.com/careers",
    "src": "nyc"
   },
   {
@@ -6116,6 +6170,15 @@
    "src": "nyc-startups"
   },
   {
+   "type": "lever",
+   "token": "outreach",
+   "url": "jobs.lever.co/outreach",
+   "label": "Outreach",
+   "website": "outreach.io",
+   "page": "https://www.outreach.ai/company/working-at-outreach",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "attentive",
    "url": "boards-api.greenhouse.io/v1/boards/attentive",
@@ -6130,6 +6193,15 @@
    "label": "Bilt Rewards",
    "website": "biltrewards.com",
    "src": "nyc-startups"
+  },
+  {
+   "type": "gh",
+   "token": "salesloft",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=salesloft",
+   "label": "Salesloft",
+   "website": "salesloft.com",
+   "page": "https://www.salesloft.com/company/careers",
+   "src": "nyc"
   },
   {
    "type": "ashby",
@@ -6215,6 +6287,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "highnote",
+   "url": "boards-api.greenhouse.io/v1/boards/highnote",
+   "label": "Highnote",
+   "website": "highnote.com",
+   "page": "https://highnote.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "wealthfront",
    "url": "jobs.lever.co/wealthfront",
@@ -6242,6 +6323,15 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "cardless",
+   "url": "jobs.ashbyhq.com/cardless",
+   "label": "Cardless",
+   "website": "cardless.com",
+   "page": "https://www.cardless.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "lithic",
    "url": "boards.greenhouse.io/lithic",
@@ -6257,6 +6347,15 @@
    "label": "Range",
    "website": "range.com",
    "page": "https://www.range.com/public/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "affirm",
+   "url": "boards-api.greenhouse.io/v1/boards/affirm",
+   "label": "Affirm",
+   "website": "affirm.com",
+   "page": "https://www.affirm.com/careers",
    "src": "nyc"
   },
   {
@@ -6293,6 +6392,15 @@
    "label": "Petal",
    "website": "petalcard.com",
    "page": "https://tilt.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "robinhood",
+   "url": "boards.greenhouse.io/robinhood",
+   "label": "Robin Hood",
+   "website": "robinhood.com",
+   "page": "https://careers.robinhood.com/?",
    "src": "nyc"
   },
   {
@@ -6517,12 +6625,30 @@
    "src": "nyc"
   },
   {
+   "type": "gem",
+   "token": "air-labs-inc-",
+   "url": "jobs.gem.com/air-labs-inc-",
+   "label": "Air",
+   "website": "air.inc",
+   "page": "https://air.inc/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "akasa",
    "url": "jobs.ashbyhq.com/akasa",
    "label": "AKASA",
    "website": "akasa.com",
    "page": "https://akasa.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Advisor360\\u00B0",
+   "website": "advisor360.com",
+   "page": "https://www.advisor360.com/careers",
    "src": "nyc"
   },
   {
@@ -6731,6 +6857,15 @@
    "label": "Centivo",
    "website": "centivo.com",
    "page": "https://centivo.com/working-at-centivo/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Chartis.io",
+   "website": "chartis.io",
+   "page": "https://chartis.io/careers",
    "src": "nyc"
   },
   {
@@ -77818,6 +77953,20 @@
    "src": "nyc-startups",
    "page": "https://careers.payoneer.com/",
    "crawledAt": 1795515747655
+  },
+  {
+   "title": "Product & Tech",
+   "url": "https://careers.onepeloton.com/en/teams/product-tech/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Peloton",
+   "website": "onepeloton.com",
+   "src": "nyc",
+   "page": "https://www.onepeloton.com/",
+   "crawledAt": 1795524633051
   },
   {
    "title": "Customer Engagement Account Consultant, UK",
