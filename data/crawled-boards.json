@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-24T12:59:32.195Z",
+ "generated": "2026-11-24T13:04:04.037Z",
  "companies": 22940,
  "status": {
-  "found": 3047,
-  "no-ats": 11792,
-  "site": 3781,
+  "found": 3053,
+  "no-ats": 11785,
+  "site": 3782,
   "down": 4320
  },
  "byType": {
   "dover": 7,
   "ashby": 659,
   "workday": 557,
-  "gh": 862,
+  "gh": 864,
   "lever": 241,
   "gem": 71,
   "rippling": 121,
-  "workable": 171,
-  "bamboohr": 145,
+  "workable": 173,
+  "bamboohr": 147,
   "smartrecruiters": 56,
   "recruitee": 24,
   "eightfold": 40,
@@ -7554,6 +7554,15 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "NationSwell",
+   "website": "nationswell.com",
+   "page": "https://nationswell.com/careers/",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "particlehealth",
    "url": "boards.greenhouse.io/embed/job_board/js?for=particlehealth",
@@ -7644,6 +7653,24 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "ninthwave",
+   "url": "ninthwave.bamboohr.com/jobs",
+   "label": "Ninth Wave",
+   "website": "ninth-wave.com",
+   "page": "https://ninth-wave.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "piermontbank",
+   "url": "job-boards.greenhouse.io/piermontbank",
+   "label": "Piermont Bank",
+   "website": "piermontbank.com",
+   "page": "https://www.piermontbank.com/join-the-team/",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "reformation",
    "url": "boards-api.greenhouse.io/v1/boards/reformation",
@@ -7689,6 +7716,15 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Rokt",
+   "website": "rokt.com",
+   "page": "https://www.rokt.com/company/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "semgrep",
    "url": "jobs.ashbyhq.com/semgrep",
@@ -7731,6 +7767,15 @@
    "label": "SESTEK",
    "website": "sestek.com",
    "page": "https://www.sestek.com/careers/associate-it-specialist-candidates-with-disabilities",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "realeyes",
+   "url": "realeyes.bamboohr.com/careers",
+   "label": "Realeyes - Vision AI",
+   "website": "realeyesit.com",
+   "page": "https://realeyes.ai/company/",
    "src": "nyc"
   },
   {
@@ -7793,6 +7838,15 @@
    "url": "jobs.lever.co/theathletic",
    "label": "The Athletic",
    "website": "theathletic.com",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "thefarmersdog",
+   "url": "boards-api.greenhouse.io/v1/boards/thefarmersdog",
+   "label": "The Farmer\\u0027s Dog",
+   "website": "thefarmersdog.com",
+   "page": "https://www.thefarmersdog.com/p/jobs",
    "src": "nyc"
   },
   {
@@ -86255,6 +86309,20 @@
    "src": "nyc",
    "page": "https://www.ruca.co/",
    "crawledAt": 1795516102150
+  },
+  {
+   "title": "Analyst Programs",
+   "url": "https://careers.fiserv.com/us/en/analyst-programs",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Perka",
+   "website": "perka.com",
+   "src": "nyc",
+   "page": "https://careers.fiserv.com/us/en",
+   "crawledAt": 1795525343142
   },
   {
    "title": "Quantitative Researcher",
