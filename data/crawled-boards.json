@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-24T12:54:26.654Z",
+ "generated": "2026-11-24T12:59:32.195Z",
  "companies": 22940,
  "status": {
-  "found": 3043,
-  "no-ats": 11796,
+  "found": 3047,
+  "no-ats": 11792,
   "site": 3781,
   "down": 4320
  },
  "byType": {
   "dover": 7,
-  "ashby": 658,
+  "ashby": 659,
   "workday": 557,
-  "gh": 861,
+  "gh": 862,
   "lever": 241,
   "gem": 71,
   "rippling": 121,
-  "workable": 170,
-  "bamboohr": 144,
+  "workable": 171,
+  "bamboohr": 145,
   "smartrecruiters": 56,
   "recruitee": 24,
   "eightfold": 40,
@@ -6996,6 +6996,15 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "emptor",
+   "url": "emptor.bamboohr.com/jobs",
+   "label": "Emptor",
+   "website": "emptor.io",
+   "page": "https://www.emptor.io/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "edited",
    "url": "jobs.ashbyhq.com/edited",
@@ -7136,6 +7145,15 @@
    "url": "jobs.ashbyhq.com/hanover-park",
    "label": "Hanover Park",
    "website": "hanoverpark.com",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "hedra",
+   "url": "jobs.ashbyhq.com/hedra",
+   "label": "Hedra",
+   "website": "hedra.com",
+   "page": "https://www.hedra.com/careers",
    "src": "nyc"
   },
   {
@@ -7413,6 +7431,15 @@
   },
   {
    "type": "gh",
+   "token": "loverboy",
+   "url": "job-boards.greenhouse.io/loverboy",
+   "label": "Loverboy Inc.",
+   "website": "drinkloverboy.com",
+   "page": "https://drinkloverboy.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "missionnorth",
    "url": "boards-api.greenhouse.io/v1/boards/missionnorth",
    "label": "Mission North",
@@ -7489,6 +7516,15 @@
    "label": "Monte Carlo",
    "website": "montecarlo.ai",
    "page": "https://montecarlo.ai/careers-at-monte-carlo",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "mParticle by Rokt",
+   "website": "mparticle.com",
+   "page": "https://www.rokt.com/company/careers",
    "src": "nyc"
   },
   {
