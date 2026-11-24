@@ -15,7 +15,10 @@ export const KEYWORDS = ['lifecycle marketing', 'CRM manager', 'CRM marketing', 
   'personalization product manager', 'data activation', 'decisioning', 'next best action', 'pricing manager', 'pricing analyst', 'revenue management', 'customer analytics', 'payments product manager', 'card product manager'];
 
 export const US_GEO = 'geoId=103644278&location=United%20States';
-export const BROAD_KEYWORDS = ['marketing analytics', 'marketing technology', 'marketing operations', 'marketing automation', 'CRM analyst', 'growth analyst', 'product manager', 'associate product manager', 'product marketing manager', 'brand manager',
+export const CENTER_KEYWORDS = [
+  'personalization', 'personalization manager', 'personalization analyst', 'personalization strategy', 'data activation', 'decisioning', 'next best action', 'audience strategy', 'customer data platform', 'propensity',
+  'revenue operations', 'GTM operations', 'go-to-market strategy', 'sales operations', 'sales strategy', 'sales analytics', 'revenue analytics', 'commercial analytics', 'commercial strategy', 'AI enablement', 'AI go-to-market'];
+export const BROAD_KEYWORDS = [...new Set([...CENTER_KEYWORDS, 'marketing analytics', 'marketing technology', 'marketing operations', 'marketing automation', 'CRM analyst', 'growth analyst', 'product manager', 'associate product manager', 'product marketing manager', 'brand manager',
   'lifecycle marketing', 'CRM marketing', 'retention marketing', 'customer marketing', 'growth marketing manager', 'marketing manager',
   'strategy and operations', 'business operations manager', 'chief of staff', 'program manager', 'project manager', 'strategy manager',
   'corporate strategy', 'management consultant', 'technology consultant', 'digital transformation', 'IT strategy', 'product operations',
@@ -43,7 +46,7 @@ export const BROAD_KEYWORDS = ['marketing analytics', 'marketing technology', 'm
   'data analyst intern', 'technology intern', 'AI engineer intern',
   'lifecycle marketing manager', 'CRM manager', 'CRM associate', 'growth marketing associate', 'growth associate',
   'strategy and operations associate', 'business operations associate', 'digital transformation analyst', 'AI strategy associate',
-  'monetization analyst', 'pricing strategy', 'product strategy associate', 'product operations analyst'];
+  'monetization analyst', 'pricing strategy', 'product strategy associate', 'product operations analyst'])];
 
 export const OFF = /trust (and|&) safety|code review|agentic|\bai agents?\b|developer|platform|infrastructure|security|data platform|\bml\b|machine learning|technical project|\bsales\b|account exec|events|paid (marketing|media|acquisition|social|search)|performance marketing|recruit|coordinator|dynamics|salesforce admin|project manager|technical|robotics|engineer/i;
 export const TOO_SENIOR = /\b(director|svp|evp|senior vice president|executive vice president|managing director|partner|chief)\b(?!\s+of\s+staff)/i;

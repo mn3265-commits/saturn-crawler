@@ -30,7 +30,7 @@ const get = async (url, { json = true, method = 'GET', body, headers = {}, retri
 async function pool(items, n, fn) { const out = []; let i = 0; await Promise.all(Array.from({ length: Math.min(n, items.length) }, async () => { while (i < items.length) { const k = i++; try { out[k] = await fn(items[k]); } catch (e) { out[k] = { error: e.message }; } } })); return out; }
 const iso = v => { const t = Date.parse(v); return Number.isFinite(t) ? new Date(t).toISOString() : null; };
 
-const BIGTECH_Q = ['marketing', 'product manager', 'strategy', 'program manager', 'customer', 'growth', 'business operations', 'analytics'];
+const BIGTECH_Q = ['personalization', 'marketing', 'product manager', 'strategy', 'program manager', 'customer', 'growth', 'business operations', 'analytics', 'go-to-market', 'revenue operations'];
 
 const SEEN_F = join(ROOT, 'data', 'portal-seen.json'); let SEEN = null;
 const ldJob = html => { for (const m of String(html || '').matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)) { try { const j = JSON.parse(m[1]); for (const x of [].concat(j['@graph'] || j)) if (x && x['@type'] === 'JobPosting') return x; } catch {} } return null; };
