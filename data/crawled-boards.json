@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-24T13:33:59.849Z",
+ "generated": "2026-11-24T13:39:34.710Z",
  "companies": 22940,
  "status": {
-  "found": 3096,
-  "no-ats": 11740,
+  "found": 3099,
+  "no-ats": 11737,
   "site": 3784,
   "down": 4320
  },
@@ -11,14 +11,14 @@
   "dover": 7,
   "ashby": 662,
   "workday": 561,
-  "gh": 875,
+  "gh": 877,
   "lever": 248,
   "gem": 71,
   "rippling": 125,
   "workable": 177,
   "bamboohr": 155,
   "smartrecruiters": 57,
-  "recruitee": 24,
+  "recruitee": 25,
   "eightfold": 40,
   "icims": 160,
   "oracle": 90,
@@ -10519,6 +10519,15 @@
    "src": "nyc"
   },
   {
+   "type": "recruitee",
+   "token": "career",
+   "url": "career.recruitee.com",
+   "label": "Economic Security Project",
+   "website": "economicsecurityproject.org",
+   "page": "https://economicsecurityproject.org/careers/",
+   "src": "nyc"
+  },
+  {
    "type": "workday",
    "token": "sedgwick.wd1.myworkdayjobs.com",
    "url": "sedgwick.wd1.myworkdayjobs.com/EFIGlobal",
@@ -10544,6 +10553,15 @@
    "label": "Empire State Realty Trust",
    "website": "esrtreit.com",
    "page": "https://www.esrtreit.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "emigrantbank",
+   "url": "boards.greenhouse.io/emigrantbank",
+   "label": "Emigrant Bank",
+   "website": "emigrant.com",
+   "page": "https://www.emigrant.com/home.html",
    "src": "nyc"
   },
   {
@@ -10606,6 +10624,15 @@
    "label": "EquityMultiple",
    "website": "equitymultiple.com",
    "page": "https://equitymultiple.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "engineersgate",
+   "url": "boards-api.greenhouse.io/v1/boards/engineersgate",
+   "label": "Engineers Gate",
+   "website": "eglp.com",
+   "page": "https://www.eglp.com/",
    "src": "nyc"
   },
   {
