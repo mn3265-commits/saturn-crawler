@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-24T13:08:43.498Z",
+ "generated": "2026-11-24T13:14:04.092Z",
  "companies": 22940,
  "status": {
-  "found": 3062,
-  "no-ats": 11776,
+  "found": 3067,
+  "no-ats": 11771,
   "site": 3782,
   "down": 4320
  },
@@ -11,16 +11,16 @@
   "dover": 7,
   "ashby": 660,
   "workday": 559,
-  "gh": 864,
-  "lever": 241,
+  "gh": 865,
+  "lever": 243,
   "gem": 71,
-  "rippling": 123,
+  "rippling": 124,
   "workable": 175,
   "bamboohr": 149,
   "smartrecruiters": 57,
   "recruitee": 24,
   "eightfold": 40,
-  "icims": 159,
+  "icims": 160,
   "oracle": 90,
   "successfactors": 14
  },
@@ -8536,12 +8536,30 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "run-alloy",
+   "url": "jobs.lever.co/run-alloy",
+   "label": "Alloy Automation",
+   "website": "runalloy.com",
+   "page": "https://runalloy.com/jobs/",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "Almabase",
    "url": "jobs.ashbyhq.com/Almabase",
    "label": "Almabase",
    "website": "almabase.com",
    "page": "https://www.almabase.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
+   "token": "alliedbeverage",
+   "url": "careers-alliedbeverage.icims.com",
+   "label": "Allied Beverage Group",
+   "website": "alliedbeverage.com",
+   "page": "https://alliedbeveragecareers.multiscreensite.com/",
    "src": "nyc"
   },
   {
@@ -8773,12 +8791,30 @@
    "src": "nyc"
   },
   {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Assembly Software",
+   "website": "assemblysoftware.com",
+   "page": "https://www.assemblysoftware.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "assembledhq",
    "url": "jobs.ashbyhq.com/assembledhq",
    "label": "Assembled",
    "website": "assembled.com",
    "page": "https://www.assembled.com/careers-at-assembled",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "atiadvisory",
+   "url": "boards-api.greenhouse.io/v1/boards/atiadvisory",
+   "label": "ATI Advisory",
+   "website": "atiadvisory.com",
+   "page": "https://atiadvisory.com/404",
    "src": "nyc"
   },
   {
@@ -8806,6 +8842,15 @@
    "label": "ATLAS SP Partners",
    "website": "atlas-sp.com",
    "page": "https://www.atlas-sp.com/careers.html",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "articulate",
+   "url": "jobs.lever.co/articulate",
+   "label": "Articulate",
+   "website": "articulate.com",
+   "page": "https://www.articulate.com/about/careers/",
    "src": "nyc"
   },
   {
