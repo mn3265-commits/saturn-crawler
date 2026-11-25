@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-24T13:54:53.047Z",
+ "generated": "2026-11-25T08:54:36.050Z",
  "companies": 22940,
  "status": {
   "found": 3122,
   "no-ats": 11713,
-  "site": 3785,
-  "down": 4320
+  "site": 3786,
+  "down": 4319
  },
  "byType": {
   "dover": 7,
@@ -154923,6 +154923,20 @@
    "src": "h1b",
    "page": "https://benakainc.com/careers.html",
    "crawledAt": 1795515205599
+  },
+  {
+   "title": "Software Developer",
+   "url": "https://trafix.com/careers/#software-developer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TRAFIX LLC",
+   "website": "trafix.com",
+   "src": "h1b",
+   "page": "https://trafix.com/",
+   "crawledAt": 1795596875779
   },
   {
    "title": "Project Maintenance Engineer",
