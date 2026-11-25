@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-25T08:54:36.050Z",
+ "generated": "2026-11-25T08:59:13.110Z",
  "companies": 22940,
  "status": {
-  "found": 3122,
-  "no-ats": 11713,
+  "found": 3126,
+  "no-ats": 11709,
   "site": 3786,
   "down": 4319
  },
  "byType": {
   "dover": 7,
-  "ashby": 664,
+  "ashby": 666,
   "workday": 562,
-  "gh": 881,
+  "gh": 883,
   "lever": 254,
   "gem": 72,
   "rippling": 129,
@@ -11878,6 +11878,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "koreaiinc",
+   "url": "boards-api.greenhouse.io/v1/boards/koreaiinc",
+   "label": "Kore.ai",
+   "website": "kore.ai",
+   "page": "https://www.kore.ai/careers",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "kpler",
    "url": "jobs.lever.co/kpler",
@@ -11924,6 +11933,24 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "leadbank",
+   "url": "jobs.ashbyhq.com/leadbank",
+   "label": "Lead Bank",
+   "website": "lead.bank",
+   "page": "https://www.lead.bank/careers/open-roles",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "lawhive",
+   "url": "jobs.ashbyhq.com/lawhive",
+   "label": "Lawhive",
+   "website": "lawhive.co.uk",
+   "page": "https://lawhive.co.uk/work-with-us",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "leapwork",
    "url": "job-boards.eu.greenhouse.io/leapwork",
@@ -11967,6 +11994,15 @@
    "label": "Lenox Advisors",
    "website": "lenoxadvisors.com",
    "page": "https://www.lenoxadvisors.com/about/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "leaflink",
+   "url": "job-boards.greenhouse.io/leaflink",
+   "label": "LeafLink",
+   "website": "leaflink.com",
+   "page": "https://www.leaflink.com/careers/",
    "src": "nyc"
   },
   {
