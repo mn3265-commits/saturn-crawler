@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-25T09:04:22.643Z",
+ "generated": "2026-11-25T09:09:58.082Z",
  "companies": 22940,
  "status": {
-  "found": 3130,
-  "no-ats": 11705,
-  "site": 3786,
+  "found": 3136,
+  "no-ats": 11698,
+  "site": 3787,
   "down": 4319
  },
  "byType": {
   "dover": 7,
   "ashby": 666,
   "workday": 562,
-  "gh": 884,
-  "lever": 255,
+  "gh": 886,
+  "lever": 257,
   "gem": 72,
   "rippling": 130,
-  "workable": 181,
-  "bamboohr": 156,
+  "workable": 182,
+  "bamboohr": 157,
   "smartrecruiters": 58,
   "recruitee": 25,
   "eightfold": 40,
@@ -12313,6 +12313,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "modernmeadow",
+   "url": "boards-api.greenhouse.io/v1/boards/modernmeadow",
+   "label": "Modern Meadow",
+   "website": "modernmeadow.com",
+   "page": "https://modernmeadow.com/",
+   "src": "nyc"
+  },
+  {
    "type": "workable",
    "token": "modifi",
    "url": "apply.workable.com/modifi",
@@ -12331,6 +12340,24 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "morningbrew",
+   "url": "jobs.lever.co/morningbrew",
+   "label": "Morning Brew",
+   "website": "morningbrew.com",
+   "page": "https://www.morningbrew.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "modaoperandi",
+   "url": "boards-api.greenhouse.io/v1/boards/modaoperandi",
+   "label": "Moda Operandi",
+   "website": "modaoperandi.com",
+   "page": "https://www.modaoperandi.com/about",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "morty",
    "url": "boards.greenhouse.io/embed/job_board/js?for=morty",
@@ -12346,6 +12373,15 @@
    "label": "Monte Nido",
    "website": "montenido.com",
    "page": "https://careers.montenidoaffiliates.com/careershome",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "moduscapital",
+   "url": "moduscapital.bamboohr.com/jobs",
+   "label": "Modus Capital",
+   "website": "modus.vc",
+   "page": "https://modus.vc/careers/",
    "src": "nyc"
   },
   {
@@ -12432,6 +12468,15 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "mylaurelhealth",
+   "url": "jobs.lever.co/mylaurelhealth",
+   "label": "myLaurel",
+   "website": "mylaurelhealth.com",
+   "page": "https://www.mylaurelhealth.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "kayak",
    "url": "jobs.ashbyhq.com/kayak",
@@ -12492,6 +12537,15 @@
    "label": "NavVis",
    "website": "navvis.com",
    "page": "https://www.navvis.com/company/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Navarino",
+   "website": "navarino.co.uk",
+   "page": "https://navarino.co.uk/careers/",
    "src": "nyc"
   },
   {
@@ -112740,6 +112794,20 @@
    "src": "nyc",
    "page": "https://www.montoux.com/careers",
    "crawledAt": 1795514993945
+  },
+  {
+   "title": "Customer Experience Coordinator",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668990",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Monsen Engineering",
+   "website": "monsenengineering.com",
+   "src": "nyc",
+   "page": "https://recruiting.paylocity.com/recruiting/jobs/All/eb61f754-c6d9-43cd-9cd7-3f01428ede26/Monsen-Engineering",
+   "crawledAt": 1795597666970
   },
   {
    "title": "Managing Editor",
