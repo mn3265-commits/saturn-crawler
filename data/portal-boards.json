@@ -1,11 +1,11 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-23T08:00:48.370Z",
+ "generated": "2026-11-25T06:06:57.229Z",
  "counts": {
   "successfactors": 66,
   "phenom": 27,
-  "jibe": 48,
-  "oracle": 110,
+  "jibe": 50,
+  "oracle": 111,
   "avature": 3,
   "tiktok": 1,
   "tencent": 1,
@@ -14,7 +14,7 @@
   "google": 1,
   "apple": 1,
   "goldman": 1,
-  "eightfold": 23,
+  "eightfold": 24,
   "icims": 98,
   "radancy": 17,
   "ibm": 1
@@ -4205,6 +4205,53 @@
    "site": "CX_1",
    "jobs": 1544,
    "verified": "oracle portal answers (1544 jobs)"
+  },
+  {
+   "_was": "Monte Nido",
+   "company": "Monte Nido",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl nyc",
+   "type": "jibe",
+   "base": "https://careers.montenidoaffiliates.com",
+   "jobs": 122,
+   "verified": "jibe portal answers (122 jobs)"
+  },
+  {
+   "_was": "Pacira Pharmaceuticals",
+   "company": "Pacira Pharmaceuticals",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl nyc",
+   "type": "jibe",
+   "base": "https://careers.pacira.com",
+   "jobs": 22,
+   "verified": "jibe portal answers (22 jobs)"
+  },
+  {
+   "_was": "DEXCOM INC",
+   "company": "DEXCOM INC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "eightfold",
+   "base": "https://careers.dexcom.com",
+   "domain": "dexcom.com",
+   "pcsx": true,
+   "jobs": 69,
+   "verified": "eightfold portal answers (69 jobs)"
+  },
+  {
+   "_was": "Liquidity Services",
+   "company": "Liquidity Services",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl nyc",
+   "type": "oracle",
+   "host": "ebwi.fa.us2.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 16,
+   "verified": "oracle portal answers (16 jobs)"
   }
  ]
 }
