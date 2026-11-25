@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-25T08:59:13.110Z",
+ "generated": "2026-11-25T09:04:22.643Z",
  "companies": 22940,
  "status": {
-  "found": 3126,
-  "no-ats": 11709,
+  "found": 3130,
+  "no-ats": 11705,
   "site": 3786,
   "down": 4319
  },
@@ -11,11 +11,11 @@
   "dover": 7,
   "ashby": 666,
   "workday": 562,
-  "gh": 883,
-  "lever": 254,
+  "gh": 884,
+  "lever": 255,
   "gem": 72,
-  "rippling": 129,
-  "workable": 180,
+  "rippling": 130,
+  "workable": 181,
   "bamboohr": 156,
   "smartrecruiters": 58,
   "recruitee": 25,
@@ -12069,12 +12069,30 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "contentstack",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=contentstack",
+   "label": "Lytics",
+   "website": "lytics.com",
+   "page": "https://www.contentstack.com/company/careers",
+   "src": "nyc"
+  },
+  {
    "type": "ashby",
    "token": "magical",
    "url": "jobs.ashbyhq.com/magical",
    "label": "Magical",
    "website": "getmagical.com",
    "page": "https://www.getmagical.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Magic Spoon",
+   "website": "magicspoon.com",
+   "page": "https://magicspoon.com/pages/jobs",
    "src": "nyc"
   },
   {
@@ -12103,6 +12121,15 @@
    "label": "Margaux",
    "website": "margauxny.com",
    "page": "https://margauxny.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "manhead-careers",
+   "url": "ats.rippling.com/manhead-careers",
+   "label": "Manhead",
+   "website": "manheadmerch.com",
+   "page": "https://www.manheadmerch.com/careers/",
    "src": "nyc"
   },
   {
@@ -12201,6 +12228,15 @@
    "label": "Mental Health Association of Monmouth County",
    "website": "mentalhealthmonmouth.org",
    "page": "https://www.mentalhealthmonmouth.org/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "liveauctioneers",
+   "url": "jobs.lever.co/liveauctioneers",
+   "label": "LiveAuctioneers",
+   "website": "liveauctioneers.com",
+   "page": "https://www.liveauctioneers.com/",
    "src": "nyc"
   },
   {
