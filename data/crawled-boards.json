@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-26T12:47:24.785Z",
+ "generated": "2026-11-26T12:52:29.978Z",
  "companies": 22940,
  "status": {
-  "found": 3103,
-  "no-ats": 11217,
+  "found": 3106,
+  "no-ats": 11214,
   "site": 3872,
   "down": 4748
  },
  "byType": {
   "dover": 7,
-  "ashby": 667,
+  "ashby": 668,
   "workday": 554,
-  "gh": 859,
-  "lever": 259,
+  "gh": 860,
+  "lever": 260,
   "gem": 70,
   "rippling": 133,
   "workable": 176,
@@ -13862,12 +13862,30 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "SlingshotAI",
+   "url": "jobs.ashbyhq.com/SlingshotAI",
+   "label": "Slingshot AI",
+   "website": "slingshot.xyz",
+   "page": "https://slingshotai.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "smallgirlspr2",
    "url": "boards.greenhouse.io/embed/job_board/js?for=smallgirlspr2",
    "label": "Small Girls PR",
    "website": "smallgirlspr.com",
    "page": "https://www.smallgirlspr.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "smartpass",
+   "url": "job-boards.greenhouse.io/smartpass",
+   "label": "SmartPass",
+   "website": "smartpass.app",
+   "page": "https://www.smartpass.app/",
    "src": "nyc"
   },
   {
@@ -13887,6 +13905,15 @@
    "label": "Skyward Specialty Insurance",
    "website": "skywardinsurance.com",
    "page": "https://skywardinsurance.com/about/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "solarlandscape",
+   "url": "jobs.lever.co/solarlandscape",
+   "label": "Solar Landscape",
+   "website": "solarlandscape.com",
+   "page": "https://solarlandscape.com/",
    "src": "nyc"
   },
   {
