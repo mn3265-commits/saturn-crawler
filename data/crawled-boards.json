@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-26T12:42:32.632Z",
+ "generated": "2026-11-26T12:47:24.785Z",
  "companies": 22940,
  "status": {
-  "found": 3102,
-  "no-ats": 11219,
-  "site": 3871,
+  "found": 3103,
+  "no-ats": 11217,
+  "site": 3872,
   "down": 4748
  },
  "byType": {
   "dover": 7,
   "ashby": 667,
   "workday": 554,
-  "gh": 858,
+  "gh": 859,
   "lever": 259,
   "gem": 70,
   "rippling": 133,
@@ -13787,6 +13787,15 @@
    "label": "Segment",
    "website": "segment.com",
    "page": "https://jobs.twilio.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "simplisticllc",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=simplisticllc",
+   "label": "Simplistic",
+   "website": "simplistic.com",
+   "page": "https://simplistic.com/",
    "src": "nyc"
   },
   {
@@ -118403,6 +118412,76 @@
    "src": "nyc",
    "page": "https://www.scopeworker.com/careers/",
    "crawledAt": 1795682461129
+  },
+  {
+   "title": "Restaurant Manager - Sant Ambroeus NYC Req# 1705",
+   "url": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL/jobs/7856",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SA Hospitality Group",
+   "website": "sahospitalitygroup.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL",
+   "crawledAt": 1795697198562
+  },
+  {
+   "title": "FOH - Restaurant Manager (Housing Offered) Req# 1704",
+   "url": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL/jobs/7852",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SA Hospitality Group",
+   "website": "sahospitalitygroup.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL",
+   "crawledAt": 1795697198562
+  },
+  {
+   "title": "FOH - Restaurant Manager Req# 1703",
+   "url": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL/jobs/7848",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SA Hospitality Group",
+   "website": "sahospitalitygroup.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL",
+   "crawledAt": 1795697198562
+  },
+  {
+   "title": "Lead Bartender Req# 1689",
+   "url": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL/jobs/7783",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SA Hospitality Group",
+   "website": "sahospitalitygroup.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL",
+   "crawledAt": 1795697198562
+  },
+  {
+   "title": "Restaurant Floor Manager Req# 1690",
+   "url": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL/jobs/7781",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "SA Hospitality Group",
+   "website": "sahospitalitygroup.com",
+   "src": "nyc",
+   "page": "https://jobs.dayforcehcm.com/en-US/sahg/CANDIDATEPORTAL",
+   "crawledAt": 1795697198562
   },
   {
    "title": "Lead Developer",
