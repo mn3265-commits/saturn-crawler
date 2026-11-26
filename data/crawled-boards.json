@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-26T12:31:42.480Z",
+ "generated": "2026-11-26T12:37:42.627Z",
  "companies": 22940,
  "status": {
-  "found": 3093,
-  "no-ats": 11229,
-  "site": 3870,
+  "found": 3096,
+  "no-ats": 11225,
+  "site": 3871,
   "down": 4748
  },
  "byType": {
   "dover": 7,
-  "ashby": 665,
-  "workday": 553,
+  "ashby": 667,
+  "workday": 554,
   "gh": 858,
   "lever": 257,
   "gem": 70,
@@ -12949,6 +12949,15 @@
    "src": "nyc"
   },
   {
+   "type": "ashby",
+   "token": "parloa",
+   "url": "jobs.ashbyhq.com/parloa",
+   "label": "Parloa",
+   "website": "parloa.com",
+   "page": "https://www.parloa.com/company/careers/",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "physicsx",
    "url": "job-boards.eu.greenhouse.io/physicsx",
@@ -12991,6 +13000,15 @@
    "label": "Piano",
    "website": "piano.io",
    "page": "https://www.piano.io/company/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "ashby",
+   "token": "people-data-labs",
+   "url": "jobs.ashbyhq.com/people-data-labs",
+   "label": "People Data Labs",
+   "website": "peopledatalabs.com",
+   "page": "https://www.peopledatalabs.com/company",
    "src": "nyc"
   },
   {
@@ -13155,6 +13173,16 @@
    "label": "PRECISIONscientia",
    "website": "precisionscientia.com",
    "page": "https://www.precisionaq.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "workday",
+   "token": "nascar.wd1.myworkdayjobs.com",
+   "url": "nascar.wd1.myworkdayjobs.com/NASCAR",
+   "site": "NASCAR",
+   "label": "PowerToFly",
+   "website": "powertofly.com",
+   "page": "https://powertofly.com/jobs?keywords=Marketing",
    "src": "nyc"
   },
   {
@@ -116203,6 +116231,20 @@
    "website": "playbill.com",
    "src": "nyc",
    "crawledAt": 1795689604035
+  },
+  {
+   "title": "Technical Support Engineer Manchester, UK",
+   "url": "https://pimberly.com/careers/technical-support-engineer/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "Pimberly",
+   "website": "pimberly.com",
+   "src": "nyc",
+   "page": "https://pimberly.com/careers/",
+   "crawledAt": 1795696552341
   },
   {
    "title": "Applied Data Scientist",
