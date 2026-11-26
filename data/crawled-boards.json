@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T12:02:05.315Z",
+ "generated": "2026-11-26T12:08:00.286Z",
  "companies": 22940,
  "status": {
   "found": 3090,
-  "no-ats": 11232,
-  "site": 3870,
+  "no-ats": 11233,
+  "site": 3869,
   "down": 4748
  },
  "byType": {
@@ -151422,7 +151422,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Cloud Solution Migration Specialist",
@@ -151438,7 +151438,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Solution Architects",
@@ -151454,7 +151454,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Salesforce Commerce Cloud Developer",
@@ -151471,7 +151471,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Salesforce Commerce Cloud Tech Lead (B2C)",
@@ -151487,7 +151487,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Salesforce CPQ Business Analyst",
@@ -151503,7 +151503,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Salesforce Architect",
@@ -151519,7 +151519,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Senior Salesforce Developer",
@@ -151535,7 +151535,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Senior Salesforce CPQ Developer",
@@ -151551,7 +151551,7 @@
    "website": "cittacore.com",
    "src": "h1b",
    "page": "https://cittacore.com/",
-   "crawledAt": 1795523593900
+   "crawledAt": 1795694574135
   },
   {
    "title": "Software Developer",
@@ -152881,7 +152881,7 @@
    "website": "openroadintegratedmedia.com",
    "src": "h1b",
    "page": "https://openroadintegratedmedia.com/careers/",
-   "crawledAt": 1795523591726
+   "crawledAt": 1795694571998
   },
   {
    "title": "Senior Business Analyst (New York, NY)",
@@ -152895,7 +152895,7 @@
    "website": "openroadintegratedmedia.com",
    "src": "h1b",
    "page": "https://openroadintegratedmedia.com/careers/",
-   "crawledAt": 1795523591726
+   "crawledAt": 1795694571998
   },
   {
    "title": "Client Service Senior Manager",
@@ -152909,7 +152909,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1795523600939
+   "crawledAt": 1795694583466
   },
   {
    "title": "Client Service Senior Team Lead",
@@ -152923,7 +152923,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1795523600939
+   "crawledAt": 1795694583466
   },
   {
    "title": "Client Service Team Lead",
@@ -152937,7 +152937,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1795523600939
+   "crawledAt": 1795694583466
   },
   {
    "title": "Client Service Senior Associate",
@@ -152951,7 +152951,7 @@
    "website": "taxtechnologies.com",
    "src": "h1b",
    "page": "https://taxtechnologies.com/jobs",
-   "crawledAt": 1795523600939
+   "crawledAt": 1795694583466
   },
   {
    "title": "AI Platform Software Engineer",
@@ -153486,6 +153486,34 @@
    "crawledAt": 1795683044654
   },
   {
+   "title": "Systems Architect",
+   "url": "https://www.genesysonline.com/careers#systems-architect",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "GENESYS CONSULTING SERVICES INC",
+   "website": "genesysonline.com",
+   "src": "h1b",
+   "page": "https://www.genesysonline.com/job-seekers",
+   "crawledAt": 1795694579968
+  },
+  {
+   "title": "Network Administrator",
+   "url": "https://www.genesysonline.com/careers#network-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "GENESYS CONSULTING SERVICES INC",
+   "website": "genesysonline.com",
+   "src": "h1b",
+   "page": "https://www.genesysonline.com/job-seekers",
+   "crawledAt": 1795694579968
+  },
+  {
    "title": "Systems Developer",
    "url": "https://www.genesysonline.com/careers#systems-developer",
    "datePosted": null,
@@ -153497,7 +153525,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1795523599529
+   "crawledAt": 1795694579968
   },
   {
    "title": "Business Analyst",
@@ -153511,7 +153539,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1795523599529
+   "crawledAt": 1795694579968
   },
   {
    "title": "Software Architect",
@@ -153525,7 +153553,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1795523599529
+   "crawledAt": 1795694579968
   },
   {
    "title": "Web Developer",
@@ -153539,21 +153567,7 @@
    "website": "genesysonline.com",
    "src": "h1b",
    "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1795523599529
-  },
-  {
-   "title": "Software Developer",
-   "url": "https://www.genesysonline.com/careers#software-developer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "GENESYS CONSULTING SERVICES INC",
-   "website": "genesysonline.com",
-   "src": "h1b",
-   "page": "https://www.genesysonline.com/job-seekers",
-   "crawledAt": 1795523599529
+   "crawledAt": 1795694579968
   },
   {
    "title": "BI Engineer",
@@ -154463,7 +154477,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "Cloud Platform Engineer",
@@ -154477,7 +154491,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "Junior Agile Business Analyst (W2)",
@@ -154491,7 +154505,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "SAP BTP Cloud Migration Analyst",
@@ -154505,7 +154519,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "Bench Sales Recruiter",
@@ -154519,7 +154533,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "Senior Test Automation Engineer",
@@ -154533,7 +154547,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "Junior Test Automation Engineer",
@@ -154547,7 +154561,7 @@
    "website": "kanisolutions.com",
    "src": "h1b",
    "page": "https://www.kanisolutions.com/",
-   "crawledAt": 1795523605229
+   "crawledAt": 1795694586148
   },
   {
    "title": "Support Engineer",
@@ -154757,7 +154771,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1795523607635
+   "crawledAt": 1795694591005
   },
   {
    "title": "Senior Associate, Business Development",
@@ -154771,7 +154785,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1795523607635
+   "crawledAt": 1795694591005
   },
   {
    "title": "Senior Associate/Manager, Finance",
@@ -154785,7 +154799,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1795523607635
+   "crawledAt": 1795694591005
   },
   {
    "title": "Senior DTx Quality Engineer",
@@ -154799,7 +154813,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1795523607635
+   "crawledAt": 1795694591005
   },
   {
    "title": "Senior/Staff Software Engineer",
@@ -154813,7 +154827,7 @@
    "website": "clicktherapeutics.com",
    "src": "h1b",
    "page": "https://www.clicktherapeutics.com/careers",
-   "crawledAt": 1795523607635
+   "crawledAt": 1795694591005
   },
   {
    "title": "Summer Associate Interviewing FAQs – New York",
@@ -155135,7 +155149,7 @@
    "website": "qualityitsource.com",
    "src": "h1b",
    "page": "https://qualityitsource.com/jobs",
-   "crawledAt": 1795523608420
+   "crawledAt": 1795694589591
   },
   {
    "title": "Lead Clinical Research Associate",
@@ -155499,7 +155513,7 @@
    "website": "efficioconsulting.com",
    "src": "h1b",
    "page": "https://www.efficioconsulting.com/en-gb/careers/diversity-efficio/",
-   "crawledAt": 1795523624293
+   "crawledAt": 1795694649620
   },
   {
    "title": "Specification Developer",
@@ -157361,7 +157375,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1795523629362
+   "crawledAt": 1795694595771
   },
   {
    "title": "Senior Scientist, Cell Product & Engineering",
@@ -157375,7 +157389,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1795523629362
+   "crawledAt": 1795694595771
   },
   {
    "title": "Project Manager, Bioprocess Analytics",
@@ -157389,7 +157403,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1795523629362
+   "crawledAt": 1795694595771
   },
   {
    "title": "Project Manager, Nucleic Acid Drug Development",
@@ -157403,7 +157417,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1795523629362
+   "crawledAt": 1795694595771
   },
   {
    "title": "Business Development Manager, Product & Services",
@@ -157417,7 +157431,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1795523629362
+   "crawledAt": 1795694595771
   },
   {
    "title": "Logistics Services Specialist",
@@ -157431,7 +157445,7 @@
    "website": "creative-biogene.com",
    "src": "h1b",
    "page": "https://www.creative-biogene.com/",
-   "crawledAt": 1795523629362
+   "crawledAt": 1795694595771
   },
   {
    "title": "Appian Consultant - USA",
@@ -157893,7 +157907,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1795523632609
+   "crawledAt": 1795694599742
   },
   {
    "title": "DevOps Engineer",
@@ -157907,7 +157921,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1795523632609
+   "crawledAt": 1795694599742
   },
   {
    "title": "Data Scientist",
@@ -157921,7 +157935,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1795523632609
+   "crawledAt": 1795694599742
   },
   {
    "title": "UX/UI Designer",
@@ -157935,7 +157949,7 @@
    "website": "snritinc.com",
    "src": "h1b",
    "page": "https://snritinc.com/jobs",
-   "crawledAt": 1795523632609
+   "crawledAt": 1795694599742
   },
   {
    "title": "Customer Solutions Architect",
@@ -158117,7 +158131,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1795523646159
+   "crawledAt": 1795694612927
   },
   {
    "title": "Quant & IT Specialist (M/F)",
@@ -158131,7 +158145,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1795523646159
+   "crawledAt": 1795694612927
   },
   {
    "title": "Geoffroy, Senior Consultant – Quantitative Finance Practice",
@@ -158145,7 +158159,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1795523646159
+   "crawledAt": 1795694612927
   },
   {
    "title": "William, Business Analyst Consultant – Operations & Finance Practice",
@@ -158159,7 +158173,7 @@
    "website": "quanteam.fr",
    "src": "h1b",
    "page": "https://quanteam.fr/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=f443818ecf38545ee113",
-   "crawledAt": 1795523646159
+   "crawledAt": 1795694612927
   },
   {
    "title": "Technology Solutions Architect",
@@ -158257,11 +158271,25 @@
    "website": "workmarket.com",
    "src": "h1b",
    "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1795523658733
+   "crawledAt": 1795694624311
   },
   {
-   "title": "GV Assoc Application Services Specialist",
-   "url": "https://jobs.adp.com/en/jobs/6012992907292026/gv-assoc-application-services-specialist/",
+   "title": "Intern - CIRC Digital Fraud/Cybersecurity",
+   "url": "https://jobs.adp.com/en/jobs/282567/intern-circ-digital-fraudcybersecurity/",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "INTERN",
+   "startDate": null,
+   "via": "link",
+   "company": "WORK MARKET INC",
+   "website": "workmarket.com",
+   "src": "h1b",
+   "page": "https://www.workmarket.com/contractors/join-workmarket",
+   "crawledAt": 1795694624311
+  },
+  {
+   "title": "WorkForce Software, Senior Implementation Consultant",
+   "url": "https://jobs.adp.com/en/jobs/282432/workforce-software-senior-implementation-consultant/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -158271,11 +158299,11 @@
    "website": "workmarket.com",
    "src": "h1b",
    "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1795523658733
+   "crawledAt": 1795694624311
   },
   {
-   "title": "Alliance Manager, Japan",
-   "url": "https://jobs.adp.com/en/jobs/6013192810292026/alliance-manager-japan/",
+   "title": "Entry Level Outside Sales",
+   "url": "https://jobs.adp.com/en/jobs/282548/entry-level-outside-sales/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -158285,21 +158313,7 @@
    "website": "workmarket.com",
    "src": "h1b",
    "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1795523658733
-  },
-  {
-   "title": "GV Payroll Specialist",
-   "url": "https://jobs.adp.com/en/jobs/6013128609292026/gv-payroll-specialist/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "WORK MARKET INC",
-   "website": "workmarket.com",
-   "src": "h1b",
-   "page": "https://www.workmarket.com/contractors/join-workmarket",
-   "crawledAt": 1795523658733
+   "crawledAt": 1795694624311
   },
   {
    "title": "Business Analyst",
@@ -158313,7 +158327,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "Data Engineer (Job Code DE) –",
@@ -158327,7 +158341,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "UI Developer",
@@ -158341,7 +158355,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "DevOps Engineer",
@@ -158355,7 +158369,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "Mainframe Developer",
@@ -158369,7 +158383,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "Programmer Analyst",
@@ -158383,7 +158397,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "Software Developer",
@@ -158397,7 +158411,7 @@
    "website": "rapidotechnologies.com",
    "src": "h1b",
    "page": "https://rapidotechnologies.com/",
-   "crawledAt": 1795523658868
+   "crawledAt": 1795694629733
   },
   {
    "title": "Bid and Submissions Coordinator &#8211; Sydney",
@@ -158607,7 +158621,7 @@
    "website": "blueskycreativestudio.com",
    "src": "h1b",
    "page": "https://blueskycreativestudio.com/",
-   "crawledAt": 1795523661718
+   "crawledAt": 1795694632650
   },
   {
    "title": "File Manager",
@@ -158621,7 +158635,7 @@
    "website": "blueskycreativestudio.com",
    "src": "h1b",
    "page": "https://blueskycreativestudio.com/",
-   "crawledAt": 1795523661718
+   "crawledAt": 1795694632650
   },
   {
    "title": "Code Editor",
@@ -158635,7 +158649,7 @@
    "website": "blueskycreativestudio.com",
    "src": "h1b",
    "page": "https://blueskycreativestudio.com/",
-   "crawledAt": 1795523661718
+   "crawledAt": 1795694632650
   },
   {
    "title": "Product Development, Software Developer",
@@ -158649,7 +158663,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "Onelign - AI SaaS, Software Engineer",
@@ -158663,7 +158677,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "MOS, Senior Manager",
@@ -158677,7 +158691,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "Finance, Manager",
@@ -158691,7 +158705,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "Business Development, Analyst",
@@ -158705,7 +158719,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "Senior Devops Engineer, Technology & Infrastructure",
@@ -158719,7 +158733,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "Finance, Analyst",
@@ -158733,7 +158747,7 @@
    "website": "bonbloc.in",
    "src": "h1b",
    "page": "https://bonbloc.in/",
-   "crawledAt": 1795523663524
+   "crawledAt": 1795694637659
   },
   {
    "title": "Workflow Designer",
@@ -159545,7 +159559,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Frontend Developer",
@@ -159559,7 +159573,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Backend Developer",
@@ -159573,7 +159587,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Data Scientist",
@@ -159587,7 +159601,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "QA Engineer",
@@ -159601,7 +159615,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Product Manager",
@@ -159615,7 +159629,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "UX/UI Designer",
@@ -159629,7 +159643,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "DevOps Engineer",
@@ -159643,7 +159657,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Account Manager",
@@ -159657,7 +159671,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Digital Marketing Specialist",
@@ -159671,7 +159685,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Customer Success Manager",
@@ -159685,7 +159699,7 @@
    "website": "mindwavesolutions.com",
    "src": "h1b",
    "page": "https://mindwavesolutions.com/jobs",
-   "crawledAt": 1795523668351
+   "crawledAt": 1795694644465
   },
   {
    "title": "Research Associate",
@@ -160345,7 +160359,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Business Development Manager - Economic Impact Consulting",
@@ -160359,7 +160373,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Conference & Speaker Engagement Coordinator",
@@ -160373,7 +160387,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Economic Analyst / Economist - US Consulting - Tourism Economics",
@@ -160387,7 +160401,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Head of North American Cities Research & Forecasting - Associate Director",
@@ -160401,7 +160415,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Head of Spatial Modelling & Research",
@@ -160415,7 +160429,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "HR & Office Operations Specialist",
@@ -160429,7 +160443,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Lead Economist - US Construction and Infrastructure - Remote US",
@@ -160443,7 +160457,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Marketing & Business Development Intern",
@@ -160457,7 +160471,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Research Associate - Thought Leadership - New York",
@@ -160471,7 +160485,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Sales Support Intern - Hong Kong",
@@ -160485,7 +160499,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Software Developer - Models (C#/Typescript)",
@@ -160499,7 +160513,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Talent Pool - Account Management - Alpine Macro",
@@ -160513,7 +160527,7 @@
    "website": "oxfordeconomics.com",
    "src": "h1b",
    "page": "https://www.oxfordeconomics.com/early-careers-programmes/",
-   "crawledAt": 1795523684194
+   "crawledAt": 1795694654775
   },
   {
    "title": "Senior Director",
@@ -160541,7 +160555,7 @@
    "website": "androcs.com",
    "src": "h1b",
    "page": "https://www.androcs.com/wp/careers/job-listings/",
-   "crawledAt": 1795523677800
+   "crawledAt": 1795694657199
   },
   {
    "title": "Associate Scientist/Engineer – Radio Frequency Engineering",
@@ -160555,7 +160569,7 @@
    "website": "androcs.com",
    "src": "h1b",
    "page": "https://www.androcs.com/wp/careers/job-listings/",
-   "crawledAt": 1795523677800
+   "crawledAt": 1795694657199
   },
   {
    "title": "Associate Scientist/Engineer (All Levels)",
@@ -160569,21 +160583,7 @@
    "website": "androcs.com",
    "src": "h1b",
    "page": "https://www.androcs.com/wp/careers/job-listings/",
-   "crawledAt": 1795523677800
-  },
-  {
-   "title": "Global Benefits Senior Manager",
-   "url": "https://careers.aoshearman.com/en/job/london/global-benefits-senior-manager/3392/47190131072",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "SHEARMAN & STERLING LLP",
-   "website": "shearman.com",
-   "src": "h1b",
-   "page": "https://careers.aoshearman.com/en",
-   "crawledAt": 1795523685806
+   "crawledAt": 1795694657199
   },
   {
    "title": "ACCOUNT MANAGER",
@@ -160754,6 +160754,20 @@
    "crawledAt": 1795683050564
   },
   {
+   "title": "Transition Ops Specialist",
+   "url": "https://systems-plus.com/careers/#transition-ops-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "SYSTEMS PLUS SOLUTIONS USA LLC",
+   "website": "systems-plus.com",
+   "src": "h1b",
+   "page": "https://systems-plus.com/careers/",
+   "crawledAt": 1795694673912
+  },
+  {
    "title": "Support Engineer - Coupa Supplier Portal (CSP)",
    "url": "https://systems-plus.com/careers/#support-engineer-coupa-supplier-portal-csp-",
    "datePosted": null,
@@ -160765,7 +160779,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Platform Engineer",
@@ -160779,7 +160793,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "ServiceNow Developer",
@@ -160793,7 +160807,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Mid Golang Developer",
@@ -160807,7 +160821,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Mid Data Engineer",
@@ -160821,7 +160835,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Power Platform Tech Lead",
@@ -160835,7 +160849,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Senior Infrastructure Engineer, Microsoft 365",
@@ -160849,7 +160863,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Cybersecurity Architect",
@@ -160863,7 +160877,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Threat Management Lead",
@@ -160877,7 +160891,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "React Developer",
@@ -160891,7 +160905,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "TA Manager",
@@ -160905,7 +160919,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Apex Developer",
@@ -160919,7 +160933,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "SharePoint & Power Automate Support Engineer",
@@ -160933,7 +160947,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "QA Automation Engineer",
@@ -160947,7 +160961,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Operations Lead, Managed Services (MSP)",
@@ -160961,7 +160975,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Java Engineer",
@@ -160975,7 +160989,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Databricks Technical Lead",
@@ -160989,7 +161003,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Principal Software Engineer",
@@ -161003,7 +161017,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Data Visualization (Power BI) Senior Consultant",
@@ -161017,7 +161031,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Data and Cloud Architect",
@@ -161031,7 +161045,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "AS/400 Administrator",
@@ -161045,7 +161059,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Global NetSuite Lead",
@@ -161059,7 +161073,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Senior Data Engineer",
@@ -161073,7 +161087,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "TVM Analyst",
@@ -161087,7 +161101,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "SAP ABAP Senior Consultant",
@@ -161101,7 +161115,7 @@
    "website": "systems-plus.com",
    "src": "h1b",
    "page": "https://systems-plus.com/careers/",
-   "crawledAt": 1795523701569
+   "crawledAt": 1795694673912
   },
   {
    "title": "Career Growth",
@@ -161199,7 +161213,7 @@
    "website": "dreamlegal.in",
    "src": "h1b",
    "page": "https://dreamlegal.in/",
-   "crawledAt": 1795523698002
+   "crawledAt": 1795694675704
   },
   {
    "title": "Michael Brown Senior product manager, Ethyca",
@@ -161535,7 +161549,7 @@
    "website": "ltschem.com",
    "src": "h1b",
    "page": "https://ltschem.com/jobs",
-   "crawledAt": 1795523707590
+   "crawledAt": 1795694682485
   },
   {
    "title": "Sales Executive",
@@ -163525,7 +163539,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1795523706247
+   "crawledAt": 1795694680422
   },
   {
    "title": "Associate Software Engineer",
@@ -163539,7 +163553,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1795523706247
+   "crawledAt": 1795694680422
   },
   {
    "title": "Associate Software Engineer (Intern)",
@@ -163553,7 +163567,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1795523706247
+   "crawledAt": 1795694680422
   },
   {
    "title": "Forward Deployed Engineer",
@@ -163567,7 +163581,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1795523706247
+   "crawledAt": 1795694680422
   },
   {
    "title": "Laravel Developer (Vue / AI)",
@@ -163581,7 +163595,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1795523706247
+   "crawledAt": 1795694680422
   },
   {
    "title": "Principal Software Engineer",
@@ -163595,7 +163609,7 @@
    "website": "jahnelgroup.com",
    "src": "h1b",
    "page": "https://jahnelgroup.com/careers",
-   "crawledAt": 1795523706247
+   "crawledAt": 1795694680422
   },
   {
    "title": "Junior and Intermediate Architect and/or project manager",
@@ -163679,91 +163693,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "[Contractual] Senior Influencer Manager (India - Remote)",
-   "url": "https://www.monks.com/careers/6262323004/contractual-senior-influencer-manager-india-remote",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/seattle/6240543004/content-strategist-amazon-marketplace",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Senior Designer - Temporary",
-   "url": "https://www.monks.com/careers/san-francisco/6227269004/senior-designer-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Senior Video Editor (Temporary)",
-   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Motion Designer (Temporary)",
-   "url": "https://www.monks.com/careers/buenos-aires/6204351004/motion-designer-temporary",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "CONTRACTOR",
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Shopify Technical Project Lead",
-   "url": "https://www.monks.com/careers/6233163004/shopify-technical-project-lead",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
   },
   {
    "title": "Sr. Technical Writer",
@@ -163777,11 +163707,11 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
   },
   {
-   "title": "Content Strategist, Amazon & Marketplace",
-   "url": "https://www.monks.com/careers/portland/6251359004/content-strategist-amazon-marketplace",
+   "title": "Shopify Technical Project Lead",
+   "url": "https://www.monks.com/careers/6233163004/shopify-technical-project-lead",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -163791,11 +163721,25 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
   },
   {
-   "title": "Project Manager (Temporary)",
-   "url": "https://www.monks.com/careers/6261742004/project-manager-temporary",
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/seattle/6240543004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Designer - Temporary",
+   "url": "https://www.monks.com/careers/san-francisco/6227269004/senior-designer-temporary",
    "datePosted": null,
    "locations": [],
    "employmentType": "CONTRACTOR",
@@ -163805,7 +163749,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
   },
   {
    "title": "Content Strategist, Amazon & Marketplace",
@@ -163819,7 +163763,63 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Event Manager",
+   "url": "https://www.monks.com/careers/berlin/6271018004/senior-event-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Content Strategist, Amazon & Marketplace",
+   "url": "https://www.monks.com/careers/portland/6251359004/content-strategist-amazon-marketplace",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "[Contractual] Senior Influencer Manager (India - Remote)",
+   "url": "https://www.monks.com/careers/6262323004/contractual-senior-influencer-manager-india-remote",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Motion Designer (Temporary)",
+   "url": "https://www.monks.com/careers/buenos-aires/6204351004/motion-designer-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
   },
   {
    "title": "Content Strategist, Amazon & Marketplace",
@@ -163833,7 +163833,35 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Video Editor (Temporary)",
+   "url": "https://www.monks.com/careers/buenos-aires/6200346004/senior-video-editor-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Project Manager (Temporary)",
+   "url": "https://www.monks.com/careers/6261742004/project-manager-temporary",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": "CONTRACTOR",
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
   },
   {
    "title": "AI Product Owner",
@@ -163847,133 +163875,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Senior Site Reliability Engineer",
-   "url": "https://www.monks.com/careers/6238896004/senior-site-reliability-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Battery Test Engineer",
-   "url": "https://www.monks.com/careers/cupertino/5986543004/battery-test-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
-   "url": "https://www.monks.com/careers/6135379004/sdet-testing-engineer-lead-talent-pool-future-opportunities",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Product Designer",
-   "url": "https://www.monks.com/careers/6135833004/product-designer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
-   "url": "https://www.monks.com/careers/6135496004/senior-data-engineer-talent-pool-future-opportunities",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Director - Engineering",
-   "url": "https://www.monks.com/careers/6231993004/director-engineering",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Senior Product Manager",
-   "url": "https://www.monks.com/careers/6200994004/senior-product-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Backend Engineer",
-   "url": "https://www.monks.com/careers/6135357004/backend-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Unisys OS 2200 Application Support Specialist",
-   "url": "https://www.monks.com/careers/5844582004/unisys-os-2200-application-support-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
   },
   {
    "title": "Unisys OS 2200 Infrastructure Support Specialist",
@@ -163987,21 +163889,7 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
-  },
-  {
-   "title": "Senior Full Stack Software Engineer",
-   "url": "https://www.monks.com/careers/6251246004/senior-full-stack-software-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "MEDIAMONKS INC.",
-   "website": "monks.com",
-   "src": "h1b",
-   "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
   },
   {
    "title": "DevOps Engineer",
@@ -164015,7 +163903,133 @@
    "website": "monks.com",
    "src": "h1b",
    "page": "https://www.monks.com/careers",
-   "crawledAt": 1795523720324
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Product Manager",
+   "url": "https://www.monks.com/careers/6200994004/senior-product-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Full Stack Software Engineer",
+   "url": "https://www.monks.com/careers/6251246004/senior-full-stack-software-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Battery Test Engineer",
+   "url": "https://www.monks.com/careers/cupertino/5986543004/battery-test-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Unisys OS 2200 Application Support Specialist",
+   "url": "https://www.monks.com/careers/5844582004/unisys-os-2200-application-support-specialist",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "SDET Testing Engineer Lead - (Talent Pool / Future Opportunities)",
+   "url": "https://www.monks.com/careers/6135379004/sdet-testing-engineer-lead-talent-pool-future-opportunities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Product Designer",
+   "url": "https://www.monks.com/careers/6135833004/product-designer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Data Engineer - (Talent Pool / Future Opportunities)",
+   "url": "https://www.monks.com/careers/6135496004/senior-data-engineer-talent-pool-future-opportunities",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Backend Engineer",
+   "url": "https://www.monks.com/careers/6135357004/backend-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
+  },
+  {
+   "title": "Senior Site Reliability Engineer",
+   "url": "https://www.monks.com/careers/6238896004/senior-site-reliability-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "MEDIAMONKS INC.",
+   "website": "monks.com",
+   "src": "h1b",
+   "page": "https://www.monks.com/careers",
+   "crawledAt": 1795694694552
   },
   {
    "title": "Senior Systems Analyst",
@@ -164159,7 +164173,7 @@
    "website": "thinknum.com",
    "src": "h1b",
    "page": "https://www.thinknum.com/careers",
-   "crawledAt": 1795523712513
+   "crawledAt": 1795694687609
   },
   {
    "title": "Research Data Analyst",
@@ -164173,7 +164187,7 @@
    "website": "thinknum.com",
    "src": "h1b",
    "page": "https://www.thinknum.com/careers",
-   "crawledAt": 1795523712513
+   "crawledAt": 1795694687609
   },
   {
    "title": "Frontend Engineer",
@@ -164187,7 +164201,7 @@
    "website": "thinknum.com",
    "src": "h1b",
    "page": "https://www.thinknum.com/careers",
-   "crawledAt": 1795523712513
+   "crawledAt": 1795694687609
   },
   {
    "title": "Machine Learning Engineer",
@@ -164327,7 +164341,7 @@
    "website": "vistrada.com",
    "src": "h1b",
    "page": "https://vistrada.com/about/careers",
-   "crawledAt": 1795523719287
+   "crawledAt": 1795694694646
   },
   {
    "title": "Cybersecurity Analyst",
@@ -164341,7 +164355,7 @@
    "website": "vistrada.com",
    "src": "h1b",
    "page": "https://vistrada.com/about/careers",
-   "crawledAt": 1795523719287
+   "crawledAt": 1795694694646
   },
   {
    "title": "Virtual Chief Information Security Officer (vCISO)",
@@ -164355,7 +164369,7 @@
    "website": "vistrada.com",
    "src": "h1b",
    "page": "https://vistrada.com/about/careers",
-   "crawledAt": 1795523719287
+   "crawledAt": 1795694694646
   },
   {
    "title": "Inside Sales Specialist",
@@ -164775,7 +164789,7 @@
    "website": "brokerbuddha.com",
    "src": "h1b",
    "page": "https://www.brokerbuddha.com/en/signin?callbackUrl=%2Fjobs",
-   "crawledAt": 1795523732975
+   "crawledAt": 1795694714034
   },
   {
    "title": "Business Systems Analyst ( SAP)",
@@ -165075,7 +165089,7 @@
    "website": "dkcnews.com",
    "src": "h1b",
    "page": "https://dkcnews.com/people-culture-careers/",
-   "crawledAt": 1795523735798
+   "crawledAt": 1795694711698
   },
   {
    "title": "Use SSH and a text editor",
@@ -165089,7 +165103,7 @@
    "website": "birsel.com",
    "src": "h1b",
    "page": "https://birsel.com/",
-   "crawledAt": 1795523734910
+   "crawledAt": 1795694713691
   },
   {
    "title": "File Manager",
@@ -165103,7 +165117,7 @@
    "website": "birsel.com",
    "src": "h1b",
    "page": "https://birsel.com/",
-   "crawledAt": 1795523734910
+   "crawledAt": 1795694713691
   },
   {
    "title": "Code Editor",
@@ -165117,7 +165131,7 @@
    "website": "birsel.com",
    "src": "h1b",
    "page": "https://birsel.com/",
-   "crawledAt": 1795523734910
+   "crawledAt": 1795694713691
   },
   {
    "title": "Google Tag Manager",
@@ -165313,7 +165327,7 @@
    "website": "architects.nsw.gov.au",
    "src": "h1b",
    "page": "https://www.architects.nsw.gov.au/",
-   "crawledAt": 1795523752513
+   "crawledAt": 1795694733088
   },
   {
    "title": "Working with an architect",
@@ -165327,7 +165341,7 @@
    "website": "architects.nsw.gov.au",
    "src": "h1b",
    "page": "https://www.architects.nsw.gov.au/",
-   "crawledAt": 1795523752513
+   "crawledAt": 1795694733088
   },
   {
    "title": "Benefits of using an architect",
@@ -165341,7 +165355,7 @@
    "website": "architects.nsw.gov.au",
    "src": "h1b",
    "page": "https://www.architects.nsw.gov.au/",
-   "crawledAt": 1795523752513
+   "crawledAt": 1795694733088
   },
   {
    "title": "Find an architect",
@@ -165355,7 +165369,7 @@
    "website": "architects.nsw.gov.au",
    "src": "h1b",
    "page": "https://www.architects.nsw.gov.au/",
-   "crawledAt": 1795523752513
+   "crawledAt": 1795694733088
   },
   {
    "title": "Business requirement to nominate a responsible architect",
@@ -165369,7 +165383,7 @@
    "website": "architects.nsw.gov.au",
    "src": "h1b",
    "page": "https://www.architects.nsw.gov.au/",
-   "crawledAt": 1795523752513
+   "crawledAt": 1795694733088
   },
   {
    "title": "Project Coordinator",
@@ -167165,7 +167179,7 @@
    "website": "acronotics.com",
    "src": "h1b",
    "page": "https://acronotics.com/about",
-   "crawledAt": 1795523740859
+   "crawledAt": 1795694719298
   },
   {
    "title": "Business Sales Representative",
@@ -168103,7 +168117,7 @@
    "website": "opensponsorship.com",
    "src": "h1b",
    "page": "https://opensponsorship.com/careers",
-   "crawledAt": 1795523745695
+   "crawledAt": 1795694724803
   },
   {
    "title": "Environmental Compliance Engineer / Associate (Air, Waste, Water Department)",
@@ -168229,7 +168243,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "Software Developer",
@@ -168243,7 +168257,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "Project Manager",
@@ -168257,7 +168271,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "UI Designer",
@@ -168271,7 +168285,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "Business Analyst",
@@ -168285,7 +168299,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "Technical Writer",
@@ -168299,7 +168313,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "Senior Business Analyst",
@@ -168313,7 +168327,7 @@
    "website": "premiumit.com",
    "src": "h1b",
    "page": "https://premiumit.com/Careers",
-   "crawledAt": 1795523748809
+   "crawledAt": 1795694727543
   },
   {
    "title": "Software Developer",
@@ -168383,21 +168397,7 @@
    "website": "pinckneyhugogroup.com",
    "src": "h1b",
    "page": "https://pinckneyhugogroup.com/careers/",
-   "crawledAt": 1795523754304
-  },
-  {
-   "title": "Social Media Performance Specialist",
-   "url": "https://pinckneyhugogroup.com/careers/#social-media-performance-specialist",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "PINCKNEY HUGO GROUP LLC",
-   "website": "pinckneyhugogroup.com",
-   "src": "h1b",
-   "page": "https://pinckneyhugogroup.com/careers/",
-   "crawledAt": 1795523754304
+   "crawledAt": 1795694733560
   },
   {
    "title": "Hilton Head",
@@ -168470,6 +168470,20 @@
    "crawledAt": 1795684588845
   },
   {
+   "title": "Business Development & Client Success Associate, Europe",
+   "url": "https://www.ranenetwork.com/about/career-page#business-development-client-success-associate-europe",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "RANE NETWORK INC",
+   "website": "ranenetwork.com",
+   "src": "h1b",
+   "page": "https://www.ranenetwork.com/",
+   "crawledAt": 1795694738150
+  },
+  {
    "title": "RANE Enterprise Account Executive, Risk Intelligence",
    "url": "https://www.ranenetwork.com/about/career-page#rane-enterprise-account-executive-risk-intelligence",
    "datePosted": null,
@@ -168481,7 +168495,7 @@
    "website": "ranenetwork.com",
    "src": "h1b",
    "page": "https://www.ranenetwork.com/",
-   "crawledAt": 1795523757445
+   "crawledAt": 1795694738150
   },
   {
    "title": "Martin, Security Analyst",
@@ -168677,7 +168691,7 @@
    "website": "centerfordiscovery.com",
    "src": "h1b",
    "page": "https://discoverybehavioralhealth.com/careers/jobs/?location=Center+for+Discovery",
-   "crawledAt": 1795523765049
+   "crawledAt": 1795694743963
   },
   {
    "title": "Nurse Administrator",
@@ -168691,7 +168705,7 @@
    "website": "centerfordiscovery.com",
    "src": "h1b",
    "page": "https://discoverybehavioralhealth.com/careers/jobs/?location=Center+for+Discovery",
-   "crawledAt": 1795523765049
+   "crawledAt": 1795694743963
   },
   {
    "title": "Client Success Manager",
@@ -168733,7 +168747,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Research Change Management Consultant",
@@ -168747,7 +168761,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Research Coordinator",
@@ -168761,7 +168775,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Research Coordinator - Oncology",
@@ -168775,7 +168789,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Research Coordinator – Cardiovascular",
@@ -168789,7 +168803,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Research Program Manager - Oncology",
@@ -168803,7 +168817,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Trial Study Startup Specialist",
@@ -168817,7 +168831,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Clinical Trials Medicare Coverage Analyst",
@@ -168831,7 +168845,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "IRB Operations Manager",
@@ -168845,7 +168859,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Lead Clinical Research Coordinator - Oncology",
@@ -168859,7 +168873,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Pre & Post Award Clinical Research Grants Project Manager",
@@ -168873,7 +168887,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Pre and Post Award Research Grants Administrator",
@@ -168887,7 +168901,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Regulatory Specialist – Clinical Research",
@@ -168901,7 +168915,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Research Program Manager - Oncology",
@@ -168915,7 +168929,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Senior Clinical Research Change Management Lead",
@@ -168929,7 +168943,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Senior Clinical Research Coordinator",
@@ -168943,7 +168957,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Senior Clinical Research Coordinator - Oncology",
@@ -168957,7 +168971,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Senior Clinical Trials Budget Analyst",
@@ -168971,7 +168985,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Senior Clinical Trials Budget Analyst - Remote",
@@ -168985,7 +168999,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Senior Director, Clinical Research Operations",
@@ -168999,7 +169013,7 @@
    "website": "vitalief.com",
    "src": "h1b",
    "page": "https://vitalief.com/about/careers/",
-   "crawledAt": 1795523764798
+   "crawledAt": 1795694745616
   },
   {
    "title": "Marketing Specialist",
@@ -169139,7 +169153,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "Senior Consultant – Assurance Services",
@@ -169153,7 +169167,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "HR Analyst",
@@ -169167,7 +169181,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "ITGC Risk Consultant",
@@ -169181,7 +169195,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "IT Senior Administrator",
@@ -169195,7 +169209,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "Systems Automation Specialist",
@@ -169209,7 +169223,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "Software Developer",
@@ -169223,7 +169237,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "Team Lead – Research Operations",
@@ -169237,7 +169251,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "OneStream System Analyst",
@@ -169251,7 +169265,7 @@
    "website": "boughconsulting.com",
    "src": "h1b",
    "page": "https://bough.keka.com/careers/",
-   "crawledAt": 1795523771694
+   "crawledAt": 1795694751479
   },
   {
    "title": "Functional Project Manager",
@@ -169419,7 +169433,7 @@
    "website": "sbsinfosystems.com",
    "src": "h1b",
    "page": "https://sbsinfosystems.com/careers",
-   "crawledAt": 1795523766937
+   "crawledAt": 1795694747695
   },
   {
    "title": "Data Engineer",
@@ -169433,7 +169447,7 @@
    "website": "sbsinfosystems.com",
    "src": "h1b",
    "page": "https://sbsinfosystems.com/careers",
-   "crawledAt": 1795523766937
+   "crawledAt": 1795694747695
   },
   {
    "title": "Cloud Engineer",
@@ -169447,7 +169461,7 @@
    "website": "sbsinfosystems.com",
    "src": "h1b",
    "page": "https://sbsinfosystems.com/careers",
-   "crawledAt": 1795523766937
+   "crawledAt": 1795694747695
   },
   {
    "title": "DevOps Engineer",
@@ -169461,7 +169475,7 @@
    "website": "sbsinfosystems.com",
    "src": "h1b",
    "page": "https://sbsinfosystems.com/careers",
-   "crawledAt": 1795523766937
+   "crawledAt": 1795694747695
   },
   {
    "title": "Solutions Architect",
@@ -169475,7 +169489,7 @@
    "website": "sbsinfosystems.com",
    "src": "h1b",
    "page": "https://sbsinfosystems.com/careers",
-   "crawledAt": 1795523766937
+   "crawledAt": 1795694747695
   },
   {
    "title": "Full Stack Developer",
@@ -169489,7 +169503,7 @@
    "website": "sbsinfosystems.com",
    "src": "h1b",
    "page": "https://sbsinfosystems.com/careers",
-   "crawledAt": 1795523766937
+   "crawledAt": 1795694747695
   },
   {
    "title": "Interview with a Hiring Manager",
@@ -170038,20 +170052,6 @@
    "crawledAt": 1795684598494
   },
   {
-   "title": "Power and Control Systems Engineer",
-   "url": "https://www.kforce.com/find-work/search-jobs/#power-and-control-systems-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "KFORCE INC",
-   "website": "kforce.com",
-   "src": "h1b",
-   "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
-  },
-  {
    "title": "Account Manager, Technology",
    "url": "https://www.kforce.com/find-work/search-jobs/#account-manager-technology",
    "datePosted": null,
@@ -170063,11 +170063,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Account Manager, Finance & Accounting",
-   "url": "https://www.kforce.com/find-work/search-jobs/#account-manager-finance-accounting",
+   "title": "BI Reporting / EDW Analyst",
+   "url": "https://www.kforce.com/find-work/search-jobs/#bi-reporting-edw-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170077,11 +170077,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Support Specialist",
-   "url": "https://www.kforce.com/find-work/search-jobs/#support-specialist",
+   "title": "Business System Analyst",
+   "url": "https://www.kforce.com/find-work/search-jobs/#business-system-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170091,11 +170091,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Senior Product Manager (Hardware)",
-   "url": "https://www.kforce.com/find-work/search-jobs/#senior-product-manager-hardware-",
+   "title": "AWS WAF Engineer",
+   "url": "https://www.kforce.com/find-work/search-jobs/#aws-waf-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170105,11 +170105,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Talent Acquisition Manager",
-   "url": "https://www.kforce.com/find-work/search-jobs/#talent-acquisition-manager",
+   "title": "Microsoft Entra ID Conditional Access Engineer",
+   "url": "https://www.kforce.com/find-work/search-jobs/#microsoft-entra-id-conditional-access-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170119,11 +170119,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Safety Representative",
-   "url": "https://www.kforce.com/find-work/search-jobs/#safety-representative",
+   "title": "Treasury Analyst",
+   "url": "https://www.kforce.com/find-work/search-jobs/#treasury-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170133,11 +170133,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Data Analyst - ERP & Master Data",
-   "url": "https://www.kforce.com/find-work/search-jobs/#data-analyst-erp-master-data",
+   "title": "Validation Engineer",
+   "url": "https://www.kforce.com/find-work/search-jobs/#validation-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170147,11 +170147,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Remote Recruiting Support Specialist",
-   "url": "https://www.kforce.com/find-work/search-jobs/#remote-recruiting-support-specialist",
+   "title": "Microsoft Entra ID Support Specialist",
+   "url": "https://www.kforce.com/find-work/search-jobs/#microsoft-entra-id-support-specialist",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170161,11 +170161,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "IT Support Engineer",
-   "url": "https://www.kforce.com/find-work/search-jobs/#it-support-engineer",
+   "title": "Project Manager",
+   "url": "https://www.kforce.com/find-work/search-jobs/#project-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170175,11 +170175,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Technical Lead - Akamai CDN & Web App Security",
-   "url": "https://www.kforce.com/find-work/search-jobs/#technical-lead-akamai-cdn-web-app-security",
+   "title": "Senior Financial Analyst - Treasury",
+   "url": "https://www.kforce.com/find-work/search-jobs/#senior-financial-analyst-treasury",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170189,11 +170189,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Accounts Payable Coordinator",
-   "url": "https://www.kforce.com/find-work/search-jobs/#accounts-payable-coordinator",
+   "title": "Business Analyst",
+   "url": "https://www.kforce.com/find-work/search-jobs/#business-analyst",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170203,11 +170203,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "DevOps Engineer",
-   "url": "https://www.kforce.com/find-work/search-jobs/#devops-engineer",
+   "title": "Workday Payroll Engineer",
+   "url": "https://www.kforce.com/find-work/search-jobs/#workday-payroll-engineer",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170217,11 +170217,11 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
-   "title": "Cloud Network Engineer",
-   "url": "https://www.kforce.com/find-work/search-jobs/#cloud-network-engineer",
+   "title": "DevSecOps Engineer (Remote)",
+   "url": "https://www.kforce.com/find-work/search-jobs/#devsecops-engineer-remote-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170231,63 +170231,7 @@
    "website": "kforce.com",
    "src": "h1b",
    "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
-  },
-  {
-   "title": "Senior Tax Manager",
-   "url": "https://www.kforce.com/find-work/search-jobs/#senior-tax-manager",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "KFORCE INC",
-   "website": "kforce.com",
-   "src": "h1b",
-   "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
-  },
-  {
-   "title": "Brand & Content Marketing Coordinator",
-   "url": "https://www.kforce.com/find-work/search-jobs/#brand-content-marketing-coordinator",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "KFORCE INC",
-   "website": "kforce.com",
-   "src": "h1b",
-   "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
-  },
-  {
-   "title": "Senior Cybersecurity Engineer",
-   "url": "https://www.kforce.com/find-work/search-jobs/#senior-cybersecurity-engineer",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "KFORCE INC",
-   "website": "kforce.com",
-   "src": "h1b",
-   "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
-  },
-  {
-   "title": "Senior Pricing Analyst",
-   "url": "https://www.kforce.com/find-work/search-jobs/#senior-pricing-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "KFORCE INC",
-   "website": "kforce.com",
-   "src": "h1b",
-   "page": "https://www.kforce.com/about/careers-at-kforce/",
-   "crawledAt": 1795523772052
+   "crawledAt": 1795694752718
   },
   {
    "title": "Chief Veterinary Officer",
@@ -170332,6 +170276,62 @@
    "crawledAt": 1795684636551
   },
   {
+   "title": "Senior System Analyst",
+   "url": "https://tcognition.com/careers/#senior-system-analyst",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TCOGNITION INC",
+   "website": "tcognition.com",
+   "src": "h1b",
+   "page": "https://tcognition.com/careers/",
+   "crawledAt": 1795694766181
+  },
+  {
+   "title": "IT Sourcing Consultant",
+   "url": "https://tcognition.com/careers/#it-sourcing-consultant",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TCOGNITION INC",
+   "website": "tcognition.com",
+   "src": "h1b",
+   "page": "https://tcognition.com/careers/",
+   "crawledAt": 1795694766181
+  },
+  {
+   "title": "Mid-Level Network Administrator",
+   "url": "https://tcognition.com/careers/#mid-level-network-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TCOGNITION INC",
+   "website": "tcognition.com",
+   "src": "h1b",
+   "page": "https://tcognition.com/careers/",
+   "crawledAt": 1795694766181
+  },
+  {
+   "title": "Senior Network Administrator",
+   "url": "https://tcognition.com/careers/#senior-network-administrator",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "TCOGNITION INC",
+   "website": "tcognition.com",
+   "src": "h1b",
+   "page": "https://tcognition.com/careers/",
+   "crawledAt": 1795694766181
+  },
+  {
    "title": "Senior Programmer Analyst",
    "url": "https://tcognition.com/careers/#senior-programmer-analyst",
    "datePosted": null,
@@ -170343,11 +170343,11 @@
    "website": "tcognition.com",
    "src": "h1b",
    "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
+   "crawledAt": 1795694766181
   },
   {
-   "title": "Programmer Analyst 6/Senior Technical Lead Developer",
-   "url": "https://tcognition.com/careers/#programmer-analyst-6-senior-technical-lead-developer",
+   "title": "FL-HART-HR Administrative Specialist",
+   "url": "https://tcognition.com/careers/#fl-hart-hr-administrative-specialist",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170357,77 +170357,7 @@
    "website": "tcognition.com",
    "src": "h1b",
    "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
-  },
-  {
-   "title": "Infrastructure Solutions Architect",
-   "url": "https://tcognition.com/careers/#infrastructure-solutions-architect",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "TCOGNITION INC",
-   "website": "tcognition.com",
-   "src": "h1b",
-   "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
-  },
-  {
-   "title": "DHHS Salesforce and ADA Tester/Analyst",
-   "url": "https://tcognition.com/careers/#dhhs-salesforce-and-ada-tester-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "TCOGNITION INC",
-   "website": "tcognition.com",
-   "src": "h1b",
-   "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
-  },
-  {
-   "title": "DOAS Helpdesk Analyst",
-   "url": "https://tcognition.com/careers/#doas-helpdesk-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "TCOGNITION INC",
-   "website": "tcognition.com",
-   "src": "h1b",
-   "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
-  },
-  {
-   "title": "Help Desk Analyst",
-   "url": "https://tcognition.com/careers/#help-desk-analyst",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "TCOGNITION INC",
-   "website": "tcognition.com",
-   "src": "h1b",
-   "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
-  },
-  {
-   "title": "NCDOT - Specialist- Expert",
-   "url": "https://tcognition.com/careers/#ncdot-specialist-expert",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "TCOGNITION INC",
-   "website": "tcognition.com",
-   "src": "h1b",
-   "page": "https://tcognition.com/careers/",
-   "crawledAt": 1795523786792
+   "crawledAt": 1795694766181
   },
   {
    "title": "Lead SPM TC (ServiceNow)",
@@ -170441,7 +170371,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "OpenShift Engineer",
@@ -170455,7 +170385,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "Recruiting Coordinator",
@@ -170469,7 +170399,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "Recruiting Coordinator",
@@ -170483,7 +170413,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "Senior Data Analyst",
@@ -170497,7 +170427,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "Data Fabric Architect",
@@ -170511,7 +170441,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "ServiceNow Architect",
@@ -170525,7 +170455,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "Mechanical Engineer",
@@ -170539,7 +170469,7 @@
    "website": "mastechdigital.com",
    "src": "h1b",
    "page": "https://jobs.mastech.com/",
-   "crawledAt": 1795523782344
+   "crawledAt": 1795694763054
   },
   {
    "title": "Software Engineering Intern, Express Drive",
@@ -170598,8 +170528,8 @@
    "crawledAt": 1795682546975
   },
   {
-   "title": "Sr. Staff Software Engineer - Delivery Retrieval Infrastructure",
-   "url": "https://www.pinterestcareers.com/jobs/8244282/sr-staff-software-engineer-delivery-retrieval-infrastructure/",
+   "title": "Director of Product Management, Advertiser Growth",
+   "url": "https://www.pinterestcareers.com/jobs/8132504/director-of-product-management-advertiser-growth/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170609,11 +170539,11 @@
    "website": "pinterest.com",
    "src": "h1b",
    "page": "https://www.pinterest.com/",
-   "crawledAt": 1795523794071
+   "crawledAt": 1795694773890
   },
   {
-   "title": "Engineering Manager II, Database and Indexer Platform",
-   "url": "https://www.pinterestcareers.com/jobs/8269069/engineering-manager-ii-database-and-indexer-platform/",
+   "title": "Chief of Staff to GM, Ads",
+   "url": "https://www.pinterestcareers.com/jobs/7488432/chief-of-staff-to-gm-ads/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170623,11 +170553,11 @@
    "website": "pinterest.com",
    "src": "h1b",
    "page": "https://www.pinterest.com/",
-   "crawledAt": 1795523794071
+   "crawledAt": 1795694773890
   },
   {
-   "title": "Compliance Specialist II",
-   "url": "https://www.pinterestcareers.com/jobs/8349975/compliance-specialist-ii/",
+   "title": "Director, Engineering-Agentic Ads Business Platform",
+   "url": "https://www.pinterestcareers.com/jobs/8376163/director-engineering-agentic-ads-business-platform/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170637,11 +170567,11 @@
    "website": "pinterest.com",
    "src": "h1b",
    "page": "https://www.pinterest.com/",
-   "crawledAt": 1795523794071
+   "crawledAt": 1795694773890
   },
   {
-   "title": "Sr. Staff Product Manager, Measurement",
-   "url": "https://www.pinterestcareers.com/jobs/8234540/sr-staff-product-manager-measurement/",
+   "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking",
+   "url": "https://www.pinterestcareers.com/jobs/8354411/staff-machine-learning-engineer-ads-lightweight-ranking/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -170651,24 +170581,10 @@
    "website": "pinterest.com",
    "src": "h1b",
    "page": "https://www.pinterest.com/",
-   "crawledAt": 1795523794071
+   "crawledAt": 1795694773890
   },
   {
-   "title": "Senior Technical Program Manager, Infrastructure",
-   "url": "https://www.pinterestcareers.com/jobs/8368950/senior-technical-program-manager-infrastructure/",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "PINTEREST INC",
-   "website": "pinterest.com",
-   "src": "h1b",
-   "page": "https://www.pinterest.com/",
-   "crawledAt": 1795523794071
-  },
-  {
-   "title": "Senior Consultant - Change & Transformation",
+   "title": "Architect, Quality Engineering",
    "url": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail",
    "datePosted": null,
    "locations": [],
@@ -170679,7 +170595,7 @@
    "website": "slalom.com",
    "src": "h1b",
    "page": "https://jobs.slalom.com/en_US/careersmarketplace",
-   "crawledAt": 1795523798355
+   "crawledAt": 1795694778522
   },
   {
    "title": "Executive Assistant Belgrade, Serbia",
@@ -170693,7 +170609,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Director, Strategic Partnerships New York City, New York; San Francisco, California; Seattle, Washington; United States",
@@ -170707,7 +170623,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Technology Partner Director, Product Partnerships Remote - California; Remote - New York",
@@ -170721,7 +170637,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Technology Partner Director, Security & Observability ISV Partnerships United States",
@@ -170735,7 +170651,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Staff Partner Engineer, Azure New York City, New York; San Francisco, California; Seattle, Washington",
@@ -170749,7 +170665,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Technical Business Development Manager, Startup & VC Ecosystem San Francisco, California",
@@ -170763,7 +170679,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Customer Enablement Architect United States",
@@ -170777,7 +170693,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Customer Enablement Architect (Capability Engineering & AI Adoption) Sydney, Australia",
@@ -170791,7 +170707,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Field Capability Manager Seoul, South Korea",
@@ -170805,7 +170721,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Incident Manager United States",
@@ -170819,21 +170735,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Lead Learning Technical Enablement Specialist United States",
-   "url": "https://www.databricks.com/company/careers/education--training/lead-learning-technical-enablement-specialist-8780470002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Scale Solution Engineer Heredia, Costa Rica",
@@ -170847,7 +170749,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Customer Enablement AI Programs Manager United States",
@@ -170861,7 +170763,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Designated Support Engineer Sydney, Australia",
@@ -170875,7 +170777,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior ML & AI Technical Solutions Engineer Bengaluru, India",
@@ -170889,7 +170791,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Manager, Global Premier Support Mountain View, California; Plano, Texas; San Francisco, California",
@@ -170903,7 +170805,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Production Engineer - Realtime Products Mountain View, California",
@@ -170917,7 +170819,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Scale Solution Engineer (Korean-speaking; English required) Tokyo, Japan",
@@ -170931,7 +170833,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Technical Solutions Engineer (Platform) Bengaluru, India",
@@ -170945,7 +170847,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr Platform Monitoring Engineer United States",
@@ -170959,7 +170861,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Designated Support Engineer Sao Paulo, Brazil",
@@ -170973,7 +170875,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Designated Support Engineer Amsterdam, Netherlands",
@@ -170987,7 +170889,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Designated Support Engineer - Spark Singapore",
@@ -171001,7 +170903,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Designated Support Engineer - Spark Seoul, South Korea",
@@ -171015,7 +170917,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Staff Global Customer Enablement Partnership Lead United States",
@@ -171029,7 +170931,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Sr. Technical Solutions Engineer - Platform (Support) Tokyo, Japan",
@@ -171043,7 +170945,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Staff Backline Engineer – ML/AI Bellevue, Washington; San Francisco, California",
@@ -171057,7 +170959,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Staff Designated Support Engineer Sydney, Australia",
@@ -171071,7 +170973,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Staff Technical Solutions Engineer (Platform) Bengaluru, India",
@@ -171085,7 +170987,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Team Lead - Platform Monitoring Engineer Bengaluru, India",
@@ -171099,7 +171001,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Applied AI Engineer Belgrade, Serbia",
@@ -171113,7 +171015,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Data Science Intern (2027 Start) Mountain View, California; San Francisco, California",
@@ -171127,21 +171029,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Director of Engineering Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/executive-engineering---pipeline/director-of-engineering-7896551002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Director of Engineering (Data Infrastructure) Bengaluru, India",
@@ -171155,7 +171043,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Director of Engineering - Databricks Commercialization & Marketplace Bellevue, Washington",
@@ -171169,7 +171057,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager (Ingestion) Bengaluru, India",
@@ -171183,21 +171071,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Engineering Manager - Backend Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/executive-engineering---pipeline/engineering-manager---backend-7439442002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager - Compute Infra Mountain View, California; San Francisco, California",
@@ -171211,7 +171085,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager - Core Experiences Bengaluru, India",
@@ -171225,7 +171099,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager - Databricks SQL Control Plane Mountain View, California",
@@ -171239,7 +171113,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager - Notebook Dataplane Mountain View, California",
@@ -171253,7 +171127,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager - Streaming Bellevue, Washington",
@@ -171267,7 +171141,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager - UI Platform Seattle, Washington",
@@ -171281,7 +171155,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager, App Traffic Mountain View, California",
@@ -171295,7 +171169,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager, CustomerLake Profile Agents New York City, New York",
@@ -171309,7 +171183,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Engineering Manager, Serverless Compute Platform Bellevue, Washington",
@@ -171323,7 +171197,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Manager, Engineering - AI/BI Vancouver, Canada",
@@ -171337,7 +171211,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Principal Engineer - Privacy Mountain View, California",
@@ -171351,7 +171225,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Principal Engineer - Privacy Amsterdam, Netherlands",
@@ -171365,7 +171239,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Principal Engineer - Privacy Seattle, Washington",
@@ -171379,7 +171253,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Principal Engineer - Privacy San Francisco, California",
@@ -171393,7 +171267,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Principal Engineer, Authentication Bellevue, Washington; Seattle, Washington",
@@ -171407,7 +171281,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Principal Engineer, Authentication Mountain View, California; San Francisco, California",
@@ -171421,7 +171295,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Applied ML Engineer - ML4Sys San Francisco, California",
@@ -171435,7 +171309,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Data Scientist Mountain View, California; San Francisco, California",
@@ -171449,7 +171323,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Engineering Manager - Backend Bengaluru, India",
@@ -171463,7 +171337,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Engineering Manager - Notebook Dataplane San Francisco, California",
@@ -171477,7 +171351,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Engineering Manager for Self-Serve (Learning) Mountain View, California",
@@ -171491,7 +171365,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Engineering Manager for Workspace Platform San Francisco, California",
@@ -171505,7 +171379,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Manager, Global Premier Support Sydney, Australia",
@@ -171519,7 +171393,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Manager, Infrastructure Data Science San Francisco, California",
@@ -171533,7 +171407,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Manager, Infrastructure Data Science Mountain View, California",
@@ -171547,7 +171421,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Application Traffic team Mountain View, California",
@@ -171561,49 +171435,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Senior Software Engineer (App-Framework) Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer-app-framework-8294304002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Senior Software Engineer (App-Framework) Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer-app-framework-8210383002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Senior Software Engineer (Backend) Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer-backend-6709301002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer (Backend) - AI/ML Environments Mountain View, California",
@@ -171617,35 +171449,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Senior Software Engineer (Data Platform) Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer-data-platform-7647369002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Senior Software Engineer (Infra) Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer-infra-7619810002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Access Management Bellevue, Washington",
@@ -171659,21 +171463,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
-  },
-  {
-   "title": "Senior Software Engineer - Backend Bengaluru, India",
-   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---backend-8320183002",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "link",
-   "company": "DATABRICKS INC",
-   "website": "databricks.com",
-   "src": "h1b",
-   "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Vancouver, Canada",
@@ -171687,7 +171477,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Amsterdam, Netherlands",
@@ -171701,7 +171491,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Belgrade, Serbia",
@@ -171715,7 +171505,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Berlin, Germany",
@@ -171729,7 +171519,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Mountain View, California",
@@ -171743,7 +171533,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend San Francisco, California",
@@ -171757,7 +171547,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Bellevue, Washington",
@@ -171771,7 +171561,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Backend Infrastructure Bengaluru, India",
@@ -171785,7 +171575,7 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Software Engineer - Data + AI Observability Bengaluru, India",
@@ -171799,7 +171589,133 @@
    "website": "databricks.com",
    "src": "h1b",
    "page": "https://www.databricks.com/company/careers/open-positions",
-   "crawledAt": 1795523809452
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Database Engine Internals Belgrade, Serbia",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---database-engine-internals-8012809002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Database Engine Internals Mountain View, California",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---database-engine-internals-6544383002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Database Engine Internals San Francisco, California",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---database-engine-internals-5048461002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Distributed Data Systems Belgrade, Serbia",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---distributed-data-systems-8012800002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Distributed Data Systems Bellevue, Washington",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---distributed-data-systems-6936994002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Distributed Data Systems Mountain View, California",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---distributed-data-systems-6544325002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Distributed Data Systems San Francisco, California",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---distributed-data-systems-4513122002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Fullstack Vancouver, Canada",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---fullstack-8099342002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
+  },
+  {
+   "title": "Senior Software Engineer - Fullstack Amsterdam, Netherlands",
+   "url": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---fullstack-8029679002",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "link",
+   "company": "DATABRICKS INC",
+   "website": "databricks.com",
+   "src": "h1b",
+   "page": "https://www.databricks.com/company/careers/open-positions",
+   "crawledAt": 1795694787517
   },
   {
    "title": "Senior Developer / Tech Lead",
@@ -173059,7 +172975,7 @@
    "website": "thermofisher.com",
    "src": "h1b",
    "page": "https://jobs.thermofisher.com/global/en",
-   "crawledAt": 1795523814048
+   "crawledAt": 1795694793989
   },
   {
    "title": "Operations",
@@ -173073,7 +172989,7 @@
    "website": "thermofisher.com",
    "src": "h1b",
    "page": "https://jobs.thermofisher.com/global/en",
-   "crawledAt": 1795523814048
+   "crawledAt": 1795694793989
   },
   {
    "title": "Sales & Business Development",
@@ -173087,7 +173003,7 @@
    "website": "thermofisher.com",
    "src": "h1b",
    "page": "https://jobs.thermofisher.com/global/en",
-   "crawledAt": 1795523814048
+   "crawledAt": 1795694793989
   },
   {
    "title": "Data Architect",
@@ -173101,7 +173017,7 @@
    "website": "ventois.com",
    "src": "h1b",
    "page": "https://www.ventois.com/careers",
-   "crawledAt": 1795523813297
+   "crawledAt": 1795694791641
   },
   {
    "title": "Azure Data Engineer",
@@ -173115,7 +173031,7 @@
    "website": "ventois.com",
    "src": "h1b",
    "page": "https://www.ventois.com/careers",
-   "crawledAt": 1795523813297
+   "crawledAt": 1795694791641
   },
   {
    "title": "Ruby on Rails Developer",
@@ -173129,11 +173045,11 @@
    "website": "ventois.com",
    "src": "h1b",
    "page": "https://www.ventois.com/careers",
-   "crawledAt": 1795523813297
+   "crawledAt": 1795694791641
   },
   {
-   "title": "Financial Reporting & Technical Accounting Sr Analyst",
-   "url": "https://www.dropbox.jobs/en/jobs/8386725/financial-reporting-technical-accounting-sr-analyst/",
+   "title": "Application Security Engineer",
+   "url": "https://www.dropbox.jobs/en/jobs/8328511/application-security-engineer/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -173143,11 +173059,11 @@
    "website": "dropbox.com",
    "src": "h1b",
    "page": "https://www.dropbox.com/",
-   "crawledAt": 1795523855524
+   "crawledAt": 1795694830770
   },
   {
-   "title": "Financial Reporting & Technical Accounting Sr Analyst",
-   "url": "https://www.dropbox.jobs/en/jobs/8386724/financial-reporting-technical-accounting-sr-analyst/",
+   "title": "Infrastructure Software Engineer, Orchestration",
+   "url": "https://www.dropbox.jobs/en/jobs/8394046/infrastructure-software-engineer-orchestration/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -173157,11 +173073,11 @@
    "website": "dropbox.com",
    "src": "h1b",
    "page": "https://www.dropbox.com/",
-   "crawledAt": 1795523855524
+   "crawledAt": 1795694830770
   },
   {
-   "title": "Security Engineer, Offensive Security",
-   "url": "https://www.dropbox.jobs/en/jobs/8328573/security-engineer-offensive-security/",
+   "title": "Integrated Campaign Strategist",
+   "url": "https://www.dropbox.jobs/en/jobs/8249958/integrated-campaign-strategist/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -173171,7 +173087,7 @@
    "website": "dropbox.com",
    "src": "h1b",
    "page": "https://www.dropbox.com/",
-   "crawledAt": 1795523855524
+   "crawledAt": 1795694830770
   },
   {
    "title": "Global Markets & Product",
@@ -173185,7 +173101,7 @@
    "website": "equinix.com",
    "src": "h1b",
    "page": "https://careers.equinix.com/homepage",
-   "crawledAt": 1795523858325
+   "crawledAt": 1795694832012
   },
   {
    "title": "Data Center Operations",
@@ -173199,7 +173115,7 @@
    "website": "equinix.com",
    "src": "h1b",
    "page": "https://careers.equinix.com/homepage",
-   "crawledAt": 1795523858325
+   "crawledAt": 1795694832012
   },
   {
    "title": "Sales, Customer Success, GTM Ops and Marketing",
@@ -173213,7 +173129,7 @@
    "website": "equinix.com",
    "src": "h1b",
    "page": "https://careers.equinix.com/homepage",
-   "crawledAt": 1795523858325
+   "crawledAt": 1795694832012
   },
   {
    "title": "Executive Careers",
@@ -173227,7 +173143,7 @@
    "website": "equinix.com",
    "src": "h1b",
    "page": "https://careers.equinix.com/homepage",
-   "crawledAt": 1795523858325
+   "crawledAt": 1795694832012
   },
   {
    "title": "Intern to Impact",
@@ -173241,7 +173157,7 @@
    "website": "equinix.com",
    "src": "h1b",
    "page": "https://careers.equinix.com/homepage",
-   "crawledAt": 1795523858325
+   "crawledAt": 1795694832012
   },
   {
    "title": "Marketing",
@@ -173773,7 +173689,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Confluent - Senior Product Manager, Pricing & Monetization",
@@ -173787,7 +173703,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Staff Product Marketing Manager - Confluent",
@@ -173801,7 +173717,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Confluent - Staff Designer, Processing + AI",
@@ -173815,7 +173731,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Confluent - Growth Marketing Manager (B2B SaaS)",
@@ -173829,7 +173745,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Confluent - Principal Engineer",
@@ -173843,7 +173759,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Account Manager - Confluent",
@@ -173857,7 +173773,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Account Executive - Confluent",
@@ -173871,7 +173787,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Principal Engineer - Confluent",
@@ -173885,7 +173801,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Confluent - Product Manager",
@@ -173899,21 +173815,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
-  },
-  {
-   "title": "Solution Engineer - Confluent",
-   "url": "https://www.ibm.com/careers/search?q=confluent#solution-engineer-confluent",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "CONFLUENT INC",
-   "website": "confluent.io",
-   "src": "h1b",
-   "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Enterprise Account Executive - Confluent",
@@ -173927,7 +173829,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Account Executive - Confluent - SLED",
@@ -173941,21 +173843,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
-  },
-  {
-   "title": "Enterprise Account Executive - Public Sector",
-   "url": "https://www.ibm.com/careers/search?q=confluent#enterprise-account-executive-public-sector",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "CONFLUENT INC",
-   "website": "confluent.io",
-   "src": "h1b",
-   "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Senior Solution Engineer - Confluent",
@@ -173969,7 +173857,21 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
+  },
+  {
+   "title": "Enterprise Account Executive - Public Sector",
+   "url": "https://www.ibm.com/careers/search?q=confluent#enterprise-account-executive-public-sector",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "CONFLUENT INC",
+   "website": "confluent.io",
+   "src": "h1b",
+   "page": "https://www.ibm.com/careers/search?q=confluent",
+   "crawledAt": 1795694842532
   },
   {
    "title": "Enterprise Account Executive",
@@ -173983,11 +173885,11 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
-   "title": "Regional Sales Director - Confluent",
-   "url": "https://www.ibm.com/careers/search?q=confluent#regional-sales-director-confluent",
+   "title": "Senior Solutions Engineer - Confluent",
+   "url": "https://www.ibm.com/careers/search?q=confluent#senior-solutions-engineer-confluent",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -173997,7 +173899,7 @@
    "website": "confluent.io",
    "src": "h1b",
    "page": "https://www.ibm.com/careers/search?q=confluent",
-   "crawledAt": 1795523868850
+   "crawledAt": 1795694842532
   },
   {
    "title": "Create Account",
@@ -174445,7 +174347,7 @@
    "website": "srsconsultinginc.com",
    "src": "h1b",
    "page": "https://srsconsultinginc.com/",
-   "crawledAt": 1795523870925
+   "crawledAt": 1795694839368
   },
   {
    "title": "Project Manager (SRS46)",
@@ -174459,7 +174361,7 @@
    "website": "srsconsultinginc.com",
    "src": "h1b",
    "page": "https://srsconsultinginc.com/",
-   "crawledAt": 1795523870925
+   "crawledAt": 1795694839368
   },
   {
    "title": "Software Developer (SRS48)",
@@ -174473,7 +174375,7 @@
    "website": "srsconsultinginc.com",
    "src": "h1b",
    "page": "https://srsconsultinginc.com/",
-   "crawledAt": 1795523870925
+   "crawledAt": 1795694839368
   },
   {
    "title": "Lead Software Developer (SRS49)",
@@ -174487,7 +174389,7 @@
    "website": "srsconsultinginc.com",
    "src": "h1b",
    "page": "https://srsconsultinginc.com/",
-   "crawledAt": 1795523870925
+   "crawledAt": 1795694839368
   },
   {
    "title": "IT Security Analyst (SRS51)",
@@ -174501,7 +174403,7 @@
    "website": "srsconsultinginc.com",
    "src": "h1b",
    "page": "https://srsconsultinginc.com/",
-   "crawledAt": 1795523870925
+   "crawledAt": 1795694839368
   },
   {
    "title": "Software Developer (Job Code: 1104)",
@@ -174515,7 +174417,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1103)",
@@ -174529,7 +174431,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Senior Electronics Systems Engineer (Job Code: 1102)",
@@ -174543,7 +174445,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1101)",
@@ -174557,7 +174459,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1100)",
@@ -174571,7 +174473,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Database Administrator (Job Code: 1099)",
@@ -174585,7 +174487,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1096)",
@@ -174599,7 +174501,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Senior Software Developer (Job Code: 1095)",
@@ -174613,7 +174515,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1094)",
@@ -174627,7 +174529,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1093)",
@@ -174641,7 +174543,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1092)",
@@ -174655,7 +174557,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1091)",
@@ -174669,7 +174571,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1090)",
@@ -174683,7 +174585,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1086)",
@@ -174697,7 +174599,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1087)",
@@ -174711,7 +174613,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1088)",
@@ -174725,7 +174627,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Software Developer (Job Code: 1089)",
@@ -174739,7 +174641,7 @@
    "website": "federalsoftsystems.com",
    "src": "h1b",
    "page": "https://federalsoftsystems.com/careers",
-   "crawledAt": 1795523879040
+   "crawledAt": 1795694849664
   },
   {
    "title": "Business Development / Sales Manager",
@@ -175943,7 +175845,7 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
    "title": "Product Design",
@@ -175957,7 +175859,7 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
    "title": "Finance, Business Operations, and Legal",
@@ -175971,7 +175873,7 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
    "title": "Marketing",
@@ -175985,7 +175887,7 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
    "title": "Product",
@@ -175999,11 +175901,11 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
-   "title": "Associate Technical Consultant",
-   "url": "https://careers.box.com/en/jobs/8401808/associate-technical-consultant/",
+   "title": "Enterprise Account Executive (Osaka)",
+   "url": "https://careers.box.com/en/jobs/8157985/enterprise-account-executive-osaka/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -176013,11 +175915,11 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
-   "title": "Junior Customer Success Developer (Front-end)",
-   "url": "https://careers.box.com/en/jobs/8393974/junior-customer-success-developer-front-end/",
+   "title": "Large Enterprise Account Executive",
+   "url": "https://careers.box.com/en/jobs/8394016/large-enterprise-account-executive/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -176027,11 +175929,11 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
-   "title": "Field Marketing Manager",
-   "url": "https://careers.box.com/en/jobs/8357811/field-marketing-manager/",
+   "title": "Enterprise Account Executive (Public Sector)",
+   "url": "https://careers.box.com/en/jobs/8248502/enterprise-account-executive-public-sector/",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -176041,7 +175943,7 @@
    "website": "box.com",
    "src": "h1b",
    "page": "https://www.box.com/",
-   "crawledAt": 1795523879839
+   "crawledAt": 1795694851199
   },
   {
    "title": "Software Engineer",
@@ -176307,7 +176209,7 @@
    "website": "kyyba.com",
    "src": "h1b",
    "page": "https://kyyba.com/careers",
-   "crawledAt": 1795523881719
+   "crawledAt": 1795694852088
   },
   {
    "title": "Network Architect",
@@ -176321,7 +176223,7 @@
    "website": "itresourcescorp.com",
    "src": "h1b",
    "page": "https://itresourcescorp.com/2024/02/19/leveraging-linkedin-the-career-catalyst/",
-   "crawledAt": 1795523890070
+   "crawledAt": 1795694861415
   },
   {
    "title": "HRIS Analyst",
@@ -176335,7 +176237,7 @@
    "website": "itresourcescorp.com",
    "src": "h1b",
    "page": "https://itresourcescorp.com/2024/02/19/leveraging-linkedin-the-career-catalyst/",
-   "crawledAt": 1795523890070
+   "crawledAt": 1795694861415
   },
   {
    "title": "Records Retention Specialist",
@@ -176349,7 +176251,7 @@
    "website": "itresourcescorp.com",
    "src": "h1b",
    "page": "https://itresourcescorp.com/2024/02/19/leveraging-linkedin-the-career-catalyst/",
-   "crawledAt": 1795523890070
+   "crawledAt": 1795694861415
   },
   {
    "title": "Senior Quality Assurance (QA) Engineer – Automation",
@@ -176363,7 +176265,7 @@
    "website": "itresourcescorp.com",
    "src": "h1b",
    "page": "https://itresourcescorp.com/2024/02/19/leveraging-linkedin-the-career-catalyst/",
-   "crawledAt": 1795523890070
+   "crawledAt": 1795694861415
   },
   {
    "title": "Desktop Support Specialist",
@@ -176377,7 +176279,7 @@
    "website": "itresourcescorp.com",
    "src": "h1b",
    "page": "https://itresourcescorp.com/2024/02/19/leveraging-linkedin-the-career-catalyst/",
-   "crawledAt": 1795523890070
+   "crawledAt": 1795694861415
   },
   {
    "title": "Application Developer",
@@ -176391,7 +176293,7 @@
    "website": "itresourcescorp.com",
    "src": "h1b",
    "page": "https://itresourcescorp.com/2024/02/19/leveraging-linkedin-the-career-catalyst/",
-   "crawledAt": 1795523890070
+   "crawledAt": 1795694861415
   },
   {
    "title": "Validation Engineer",
@@ -179597,7 +179499,7 @@
    "website": "lexnimble.com",
    "src": "h1b",
    "page": "https://lexnimble.com/",
-   "crawledAt": 1795523887244
+   "crawledAt": 1795694856123
   },
   {
    "title": "Programmer Analyst",
@@ -179611,7 +179513,7 @@
    "website": "lexnimble.com",
    "src": "h1b",
    "page": "https://lexnimble.com/",
-   "crawledAt": 1795523887244
+   "crawledAt": 1795694856123
   },
   {
    "title": "Java Developer",
@@ -179625,7 +179527,7 @@
    "website": "lexnimble.com",
    "src": "h1b",
    "page": "https://lexnimble.com/",
-   "crawledAt": 1795523887244
+   "crawledAt": 1795694856123
   },
   {
    "title": "Data Visualization Engineer",
@@ -179695,7 +179597,7 @@
    "website": "ursi.tech",
    "src": "h1b",
    "page": "https://www.ursi.tech/job-postings",
-   "crawledAt": 1795523892677
+   "crawledAt": 1795694861513
   },
   {
    "title": "HR Manager",
@@ -179709,7 +179611,7 @@
    "website": "ursi.tech",
    "src": "h1b",
    "page": "https://www.ursi.tech/job-postings",
-   "crawledAt": 1795523892677
+   "crawledAt": 1795694861513
   },
   {
    "title": "Systems Analyst (Jr. Level - I)",
@@ -179723,7 +179625,7 @@
    "website": "ursi.tech",
    "src": "h1b",
    "page": "https://www.ursi.tech/job-postings",
-   "crawledAt": 1795523892677
+   "crawledAt": 1795694861513
   },
   {
    "title": "Account Manager",
@@ -180171,7 +180073,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Senior Engineer",
@@ -180185,7 +180087,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Design Engineer",
@@ -180199,7 +180101,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "SAP VSS Consultant",
@@ -180213,7 +180115,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "SAP Success Factors Consultant- EC",
@@ -180227,7 +180129,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "SAP Success Factors Consultant- RCM",
@@ -180241,7 +180143,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "SAP SuccessFactors Consultant - RCM",
@@ -180255,7 +180157,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "SAP Success Factors Consultant - LMS ONB",
@@ -180269,7 +180171,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "React Js Developer",
@@ -180283,7 +180185,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Python Data Analyst",
@@ -180297,7 +180199,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Automation Engineer (PLC / SCADA) Pantngar",
@@ -180311,7 +180213,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "PLC Developer (PLC / SCADA) Chennai",
@@ -180325,7 +180227,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "PLC Developer (PLC / SCADA) Hosur2",
@@ -180339,7 +180241,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "PLC Developer (PLC / SCADA) Hosur1",
@@ -180353,7 +180255,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Customer Support Lead - Hindi Speaking",
@@ -180367,7 +180269,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Trainee Engineer",
@@ -180381,7 +180283,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Lead Electrical Product Developer",
@@ -180395,7 +180297,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "PLC L3 Support Engineer",
@@ -180409,7 +180311,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Design Engineer - Interior trims",
@@ -180423,7 +180325,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Design Engineer - Exterior trims",
@@ -180437,7 +180339,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Full Stack AI Engineer- Palantir",
@@ -180451,7 +180353,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "HIL Validation Engineer",
@@ -180465,7 +180367,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Wiring Harness Design Engineer",
@@ -180479,7 +180381,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "SAP ABAP Developer",
@@ -180493,7 +180395,7 @@
    "website": "hindujatech.com",
    "src": "h1b",
    "page": "https://hindujatech.com/work-with-us",
-   "crawledAt": 1795523908446
+   "crawledAt": 1795694879948
   },
   {
    "title": "Chief Revenue Officer",
@@ -180619,7 +180521,7 @@
    "website": "procore.com",
    "src": "h1b",
    "page": "https://careers.procore.com/homepage",
-   "crawledAt": 1795523967862
+   "crawledAt": 1795694874730
   },
   {
    "title": "Software Engineer",
@@ -182988,8 +182890,8 @@
    "crawledAt": 1795682652738
   },
   {
-   "title": "Senior Python AI Engineer(116597-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#senior-python-ai-engineer-116597-1-",
+   "title": "Data Engineer - USC/GC",
+   "url": "https://flexontechnologies.com/jobs/?job=6b0742ece53569b41af25ac8#data-engineer-usc-gc",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -182999,11 +182901,11 @@
    "website": "flexontechnologies.com",
    "src": "h1b",
    "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
+   "crawledAt": 1795694879546
   },
   {
-   "title": "Adobe Target & Marketing Cloud Tech Lead(116856-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#adobe-target-marketing-cloud-tech-lead-116856-1-",
+   "title": "EDI/API Specialist or Invoice Distribution / Compliance Project Manager",
+   "url": "https://flexontechnologies.com/jobs/?job=6b0742ece53569b41af25ac8#edi-api-specialist-or-invoice-distribution-compliance-project-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -183013,11 +182915,11 @@
    "website": "flexontechnologies.com",
    "src": "h1b",
    "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
+   "crawledAt": 1795694879546
   },
   {
-   "title": "Technical Consultant(114723-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#technical-consultant-114723-1-",
+   "title": "Strategic Sourcing Manager",
+   "url": "https://flexontechnologies.com/jobs/?job=6b0742ece53569b41af25ac8#strategic-sourcing-manager",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -183027,11 +182929,11 @@
    "website": "flexontechnologies.com",
    "src": "h1b",
    "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
+   "crawledAt": 1795694879546
   },
   {
-   "title": "ServiceNow Technical Architect(114729-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#servicenow-technical-architect-114729-1-",
+   "title": "Data Engineer(110705-1)",
+   "url": "https://flexontechnologies.com/jobs/?job=6b0742ece53569b41af25ac8#data-engineer-110705-1-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -183041,11 +182943,11 @@
    "website": "flexontechnologies.com",
    "src": "h1b",
    "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
+   "crawledAt": 1795694879546
   },
   {
-   "title": "AEP Tech Lead(116865-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#aep-tech-lead-116865-1-",
+   "title": "Fullstack Node Developer(116917-1)",
+   "url": "https://flexontechnologies.com/jobs/?job=6b0742ece53569b41af25ac8#fullstack-node-developer-116917-1-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -183055,11 +182957,11 @@
    "website": "flexontechnologies.com",
    "src": "h1b",
    "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
+   "crawledAt": 1795694879546
   },
   {
-   "title": "Service Delivery Manager(116607-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#service-delivery-manager-116607-1-",
+   "title": "Security Systems in Airport Terminals Engineer - F2F (116978-1)",
+   "url": "https://flexontechnologies.com/jobs/?job=6b0742ece53569b41af25ac8#security-systems-in-airport-terminals-engineer-f2f-116978-1-",
    "datePosted": null,
    "locations": [],
    "employmentType": null,
@@ -183069,63 +182971,7 @@
    "website": "flexontechnologies.com",
    "src": "h1b",
    "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
-  },
-  {
-   "title": "Senior Dell Boomi Integration Consultant(116893-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#senior-dell-boomi-integration-consultant-116893-1-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "FLEXON TECHNOLOGIES INC",
-   "website": "flexontechnologies.com",
-   "src": "h1b",
-   "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
-  },
-  {
-   "title": "Accruent Meridian Developer / Support Specialist(115956-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#accruent-meridian-developer-support-specialist-115956-1-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "FLEXON TECHNOLOGIES INC",
-   "website": "flexontechnologies.com",
-   "src": "h1b",
-   "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
-  },
-  {
-   "title": "Hardware Test Engineer - USC/GC - FTE",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#hardware-test-engineer-usc-gc-fte",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "FLEXON TECHNOLOGIES INC",
-   "website": "flexontechnologies.com",
-   "src": "h1b",
-   "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
-  },
-  {
-   "title": "Cybersecurity Compliance Coordinator(116576-1)",
-   "url": "https://flexontechnologies.com/jobs/?job=6b04c5e56bce78dbf0cf1965#cybersecurity-compliance-coordinator-116576-1-",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "FLEXON TECHNOLOGIES INC",
-   "website": "flexontechnologies.com",
-   "src": "h1b",
-   "page": "https://flexontechnologies.com/",
-   "crawledAt": 1795523959951
+   "crawledAt": 1795694879546
   },
   {
    "title": "SAP Security Analyst",
