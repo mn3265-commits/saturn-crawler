@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-26T12:52:29.978Z",
+ "generated": "2026-11-26T12:59:36.225Z",
  "companies": 22940,
  "status": {
-  "found": 3106,
-  "no-ats": 11214,
+  "found": 3112,
+  "no-ats": 11208,
   "site": 3872,
   "down": 4748
  },
@@ -11,12 +11,12 @@
   "dover": 7,
   "ashby": 668,
   "workday": 554,
-  "gh": 860,
-  "lever": 260,
+  "gh": 862,
+  "lever": 261,
   "gem": 70,
-  "rippling": 133,
-  "workable": 176,
-  "bamboohr": 156,
+  "rippling": 135,
+  "workable": 177,
+  "bamboohr": 157,
   "smartrecruiters": 58,
   "recruitee": 26,
   "eightfold": 38,
@@ -13963,6 +13963,24 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "sunshinesachs",
+   "url": "jobs.lever.co/sunshinesachs",
+   "label": "Sunshine Sachs Morgan & Lylis",
+   "website": "ssmandl.com",
+   "page": "https://ssmandl.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "swingeducation",
+   "url": "job-boards.greenhouse.io/embed/job_board?for=swingeducation",
+   "label": "Swing Education",
+   "website": "swingeducation.com",
+   "page": "https://swingeducation.com/substitute-teaching-jobs/arizona/",
+   "src": "nyc"
+  },
+  {
    "type": "rippling",
    "token": "swoopishiring",
    "url": "ats.rippling.com/swoopishiring",
@@ -14054,6 +14072,15 @@
   },
   {
    "type": "gh",
+   "token": "taxbit",
+   "url": "job-boards.greenhouse.io/taxbit",
+   "label": "TaxBit",
+   "website": "taxbit.com",
+   "page": "https://www.taxbit.com/company/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "techary",
    "url": "boards.eu.greenhouse.io/embed/job_board/js?for=techary",
    "label": "Techary",
@@ -14099,6 +14126,15 @@
   },
   {
    "type": "bamboohr",
+   "token": "theevokeagency",
+   "url": "theevokeagency.bamboohr.com/jobs",
+   "label": "The Evoke Agency",
+   "website": "theevokeagency.com",
+   "page": "https://www.theevokeagency.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
    "token": "thecallgurus",
    "url": "thecallgurus.bamboohr.com/careers",
    "label": "The Call Gurus",
@@ -14125,6 +14161,15 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "The Marketing Practice",
+   "website": "themarketingpractice.com",
+   "page": "https://www.tmpb2b.com/en-gb/culture-and-careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "thesiscareers",
    "url": "boards.greenhouse.io/thesiscareers",
@@ -14140,6 +14185,24 @@
    "label": "TheGuarantors",
    "website": "theguarantors.com",
    "page": "https://www.theguarantors.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "The Publisher Desk",
+   "website": "publisherdesk.com",
+   "page": "https://www.publisherdesk.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "_next",
+   "url": "ats.rippling.com/_next",
+   "label": "The Publisher Desk",
+   "website": "publisherdesk.com",
+   "page": "https://www.publisherdesk.com/careers/",
    "src": "nyc"
   },
   {
