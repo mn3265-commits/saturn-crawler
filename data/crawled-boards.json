@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-26T12:37:42.627Z",
+ "generated": "2026-11-26T12:42:32.632Z",
  "companies": 22940,
  "status": {
-  "found": 3096,
-  "no-ats": 11225,
+  "found": 3102,
+  "no-ats": 11219,
   "site": 3871,
   "down": 4748
  },
@@ -12,11 +12,11 @@
   "ashby": 667,
   "workday": 554,
   "gh": 858,
-  "lever": 257,
+  "lever": 259,
   "gem": 70,
-  "rippling": 131,
-  "workable": 174,
-  "bamboohr": 155,
+  "rippling": 133,
+  "workable": 176,
+  "bamboohr": 156,
   "smartrecruiters": 58,
   "recruitee": 26,
   "eightfold": 38,
@@ -13241,6 +13241,33 @@
    "src": "nyc"
   },
   {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Premium Merchant Funding",
+   "website": "pmfus.com",
+   "page": "https://www.pmfus.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "prescientsecurity",
+   "url": "prescientsecurity.bamboohr.com/jobs",
+   "label": "Prescient Security",
+   "website": "prescientsecurity.com",
+   "page": "https://prescientsecurity.com/company/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "workable",
+   "token": "j",
+   "url": "apply.workable.com/j",
+   "label": "Public Goods",
+   "website": "publicgoods.com",
+   "page": "https://www.publicgoods.com/pages/careers",
+   "src": "nyc"
+  },
+  {
    "type": "lever",
    "token": "everlywell",
    "url": "jobs.lever.co/everlywell",
@@ -13260,6 +13287,15 @@
    "src": "nyc"
   },
   {
+   "type": "lever",
+   "token": "purvis",
+   "url": "jobs.lever.co/purvis",
+   "label": "PURVIS Systems",
+   "website": "purvis.com",
+   "page": "https://www.purvis.com/join-our-team/",
+   "src": "nyc"
+  },
+  {
    "type": "workday",
    "token": "rakuten.wd1.myworkdayjobs.com",
    "url": "rakuten.wd1.myworkdayjobs.com/Rakutenadvertising",
@@ -13267,6 +13303,15 @@
    "label": "Rakuten Advertising",
    "website": "rakutenadvertising.com",
    "page": "https://rakutenadvertising.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "radformation",
+   "url": "jobs.lever.co/radformation",
+   "label": "Radformation",
+   "website": "radformation.com",
+   "page": "https://www.radformation.com/careers",
    "src": "nyc"
   },
   {
@@ -13368,6 +13413,24 @@
    "label": "Relay Commerce",
    "website": "relaycommerce.io",
    "page": "https://relaycommerce.io/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "red-antler",
+   "url": "ats.rippling.com/red-antler",
+   "label": "Red Antler",
+   "website": "redantler.com",
+   "page": "https://www.redantler.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "fat-earth",
+   "url": "ats.rippling.com/fat-earth",
+   "label": "Red Antler",
+   "website": "redantler.com",
+   "page": "https://www.redantler.com/careers",
    "src": "nyc"
   },
   {
