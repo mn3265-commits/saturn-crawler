@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-26T12:59:36.225Z",
+ "generated": "2026-11-26T13:04:38.222Z",
  "companies": 22940,
  "status": {
-  "found": 3112,
-  "no-ats": 11208,
+  "found": 3118,
+  "no-ats": 11202,
   "site": 3872,
   "down": 4748
  },
  "byType": {
   "dover": 7,
   "ashby": 668,
-  "workday": 554,
-  "gh": 862,
-  "lever": 261,
+  "workday": 555,
+  "gh": 864,
+  "lever": 262,
   "gem": 70,
   "rippling": 135,
   "workable": 177,
-  "bamboohr": 157,
+  "bamboohr": 159,
   "smartrecruiters": 58,
-  "recruitee": 26,
+  "recruitee": 27,
   "eightfold": 38,
   "icims": 159,
   "oracle": 88,
@@ -14206,6 +14206,16 @@
    "src": "nyc"
   },
   {
+   "type": "workday",
+   "token": "wnet.wd1.myworkdayjobs.com",
+   "url": "wnet.wd1.myworkdayjobs.com/en-US/WNETCareers",
+   "site": "WNETCareers",
+   "label": "The WNET Group",
+   "website": "wnet.org",
+   "page": "https://www.wnet.org/jobs",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "chukmedia",
    "url": "boards.greenhouse.io/embed/job_board/js?for=chukmedia",
@@ -14289,6 +14299,24 @@
   },
   {
    "type": "lever",
+   "token": "traackr",
+   "url": "jobs.lever.co/traackr",
+   "label": "Traackr",
+   "website": "traackr.com",
+   "page": "https://www.traackr.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "recruitee",
+   "token": "career",
+   "url": "career.recruitee.com",
+   "label": "Trafilea",
+   "website": "trafilea.com",
+   "page": "https://www.trafilea.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
    "token": "torchdental",
    "url": "jobs.lever.co/torchdental",
    "label": "Torch Dental",
@@ -14321,6 +14349,15 @@
    "label": "Travelzoo",
    "website": "travelzoo.com",
    "page": "https://www.travelzoo.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "bamboohr",
+   "token": "travefy",
+   "url": "travefy.bamboohr.com/jobs",
+   "label": "Travefy",
+   "website": "travefy.com",
+   "page": "https://travefy.com/company/careers",
    "src": "nyc"
   },
   {
@@ -14388,6 +14425,15 @@
    "src": "nyc"
   },
   {
+   "type": "bamboohr",
+   "token": "unacast",
+   "url": "unacast.bamboohr.com/jobs",
+   "label": "Unacast",
+   "website": "unacast.com",
+   "page": "https://www.unacast.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gh",
    "token": "underscoremarketing",
    "url": "job-boards.greenhouse.io/underscoremarketing",
@@ -14403,6 +14449,24 @@
    "label": "Unily",
    "website": "unily.com",
    "page": "https://www.unily.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "tubitv",
+   "url": "boards-api.greenhouse.io/v1/boards/tubitv",
+   "label": "Tubi",
+   "website": "tubitv.com",
+   "page": "https://corporate.tubitv.com/careers/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
+   "token": "tubi-canada",
+   "url": "boards-api.greenhouse.io/v1/boards/tubi-canada",
+   "label": "Tubi",
+   "website": "tubitv.com",
+   "page": "https://corporate.tubitv.com/careers/",
    "src": "nyc"
   },
   {
