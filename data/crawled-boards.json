@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T11:53:09.329Z",
+ "generated": "2026-11-26T11:57:02.066Z",
  "companies": 22940,
  "status": {
   "found": 3090,
-  "no-ats": 11230,
-  "site": 3872,
+  "no-ats": 11232,
+  "site": 3870,
   "down": 4748
  },
  "byType": {
@@ -72001,7 +72001,7 @@
    "website": "manicule.com",
    "src": "yc",
    "page": "https://manicule.com/careers",
-   "crawledAt": 1795523046257
+   "crawledAt": 1795694053335
   },
   {
    "title": "Technical Writer & Content Strategist",
@@ -72017,7 +72017,7 @@
    "website": "manicule.com",
    "src": "yc",
    "page": "https://manicule.com/careers",
-   "crawledAt": 1795523046257
+   "crawledAt": 1795694053335
   },
   {
    "title": "Engineering Intern",
@@ -72033,7 +72033,7 @@
    "website": "manicule.com",
    "src": "yc",
    "page": "https://manicule.com/careers",
-   "crawledAt": 1795523046257
+   "crawledAt": 1795694053335
   },
   {
    "title": "Founding GTM Lead",
@@ -72047,7 +72047,7 @@
    "website": "flowscope.com",
    "src": "yc",
    "page": "https://www.flowscope.com/careers",
-   "crawledAt": 1795523068509
+   "crawledAt": 1795694054421
   },
   {
    "title": "Founding Engineer",
@@ -72061,21 +72061,7 @@
    "website": "flowscope.com",
    "src": "yc",
    "page": "https://www.flowscope.com/careers",
-   "crawledAt": 1795523068509
-  },
-  {
-   "title": "Senior Account Executive",
-   "url": "https://www.arzana.com/careers/#senior-account-executive",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": null,
-   "startDate": null,
-   "via": "text",
-   "company": "Arzana",
-   "website": "arzana.com",
-   "src": "yc",
-   "page": "https://www.arzana.com/careers/",
-   "crawledAt": 1795523071927
+   "crawledAt": 1795694054421
   },
   {
    "title": "Growth Marketer (Intern)",
@@ -72089,7 +72075,7 @@
    "website": "klaimee.ai",
    "src": "yc",
    "page": "https://www.klaimee.ai/about",
-   "crawledAt": 1795523077218
+   "crawledAt": 1795694063030
   },
   {
    "title": "Founding Broker Partnerships Lead",
@@ -72103,7 +72089,7 @@
    "website": "klaimee.ai",
    "src": "yc",
    "page": "https://www.klaimee.ai/about",
-   "crawledAt": 1795523077218
+   "crawledAt": 1795694063030
   },
   {
    "title": "Growth Marketer (Founding)",
@@ -72117,7 +72103,7 @@
    "website": "klaimee.ai",
    "src": "yc",
    "page": "https://www.klaimee.ai/about",
-   "crawledAt": 1795523077218
+   "crawledAt": 1795694063030
   },
   {
    "title": "Founding GTM Lead",
@@ -72131,7 +72117,7 @@
    "website": "klaimee.ai",
    "src": "yc",
    "page": "https://www.klaimee.ai/about",
-   "crawledAt": 1795523077218
+   "crawledAt": 1795694063030
   },
   {
    "title": "General Counsel & Head of Insurance",
@@ -72145,7 +72131,7 @@
    "website": "klaimee.ai",
    "src": "yc",
    "page": "https://www.klaimee.ai/about",
-   "crawledAt": 1795523077218
+   "crawledAt": 1795694063030
   },
   {
    "title": "Founding Engineer",
@@ -72159,7 +72145,7 @@
    "website": "tryastraea.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/astraea/jobs",
-   "crawledAt": 1795523081233
+   "crawledAt": 1795694068003
   },
   {
    "title": "Founding Software Engineer - Infrastructure",
@@ -72173,7 +72159,7 @@
    "website": "insforge.dev",
    "src": "yc",
    "page": "https://insforge.dev/assets/landing/features/cron_job.svg",
-   "crawledAt": 1795523088806
+   "crawledAt": 1795694074014
   },
   {
    "title": "Developer Relations (DevRel) Engineer",
@@ -72187,7 +72173,7 @@
    "website": "insforge.dev",
    "src": "yc",
    "page": "https://insforge.dev/assets/landing/features/cron_job.svg",
-   "crawledAt": 1795523088806
+   "crawledAt": 1795694074014
   },
   {
    "title": "Founding AI engineer - Paris",
@@ -72201,7 +72187,7 @@
    "website": "huscarl.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/huscarl/jobs",
-   "crawledAt": 1795523086573
+   "crawledAt": 1795694073896
   },
   {
    "title": "Founding Business Lead - Paris",
@@ -72215,10 +72201,10 @@
    "website": "huscarl.io",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/huscarl/jobs",
-   "crawledAt": 1795523086573
+   "crawledAt": 1795694073896
   },
   {
-   "title": "Brand & Marketing Lead",
+   "title": "Content Creator",
    "url": "https://app.notion.com/p/Content-Lead-4140855c944880098d6af4799bdd5373?source=copy_link",
    "datePosted": "2026-11-10T14:07:03Z",
    "locations": [
@@ -72231,7 +72217,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1795523091437
+   "crawledAt": 1795694079004
   },
   {
    "title": "Controls & Firmware Engineer",
@@ -72247,7 +72233,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1795523091437
+   "crawledAt": 1795694079004
   },
   {
    "title": "Senior Field Engineer",
@@ -72263,7 +72249,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1795523091437
+   "crawledAt": 1795694079004
   },
   {
    "title": "Principal Engineer, Embedded Systems",
@@ -72279,7 +72265,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1795523091437
+   "crawledAt": 1795694079004
   },
   {
    "title": "Mechanical Engineer",
@@ -72295,7 +72281,7 @@
    "website": "edgerun.com",
    "src": "yc",
    "page": "https://www.edgerun.com/careers",
-   "crawledAt": 1795523091437
+   "crawledAt": 1795694079004
   },
   {
    "title": "Robotics Intern",
@@ -72309,7 +72295,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1795523095257
+   "crawledAt": 1795694080473
   },
   {
    "title": "Electronics Engineer (India)",
@@ -72323,7 +72309,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1795523095257
+   "crawledAt": 1795694080473
   },
   {
    "title": "Data Engineer (India)",
@@ -72337,7 +72323,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1795523095257
+   "crawledAt": 1795694080473
   },
   {
    "title": "Founding Engineer: Manipulation",
@@ -72351,7 +72337,7 @@
    "website": "intelligence-factory.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/intelligence-factory/jobs",
-   "crawledAt": 1795523095257
+   "crawledAt": 1795694080473
   },
   {
    "title": "Founding Engineer (Full-stack)",
@@ -72365,7 +72351,7 @@
    "website": "pango.ai",
    "src": "yc",
    "page": "https://pango.ai/careers",
-   "crawledAt": 1795523095867
+   "crawledAt": 1795694083374
   },
   {
    "title": "Customer Success Manager",
@@ -72379,7 +72365,7 @@
    "website": "pango.ai",
    "src": "yc",
    "page": "https://pango.ai/careers",
-   "crawledAt": 1795523095867
+   "crawledAt": 1795694083374
   },
   {
    "title": "Marketing Manager",
@@ -72393,7 +72379,7 @@
    "website": "pango.ai",
    "src": "yc",
    "page": "https://pango.ai/careers",
-   "crawledAt": 1795523095867
+   "crawledAt": 1795694083374
   },
   {
    "title": "Founders Associate",
@@ -72407,7 +72393,7 @@
    "website": "pango.ai",
    "src": "yc",
    "page": "https://pango.ai/careers",
-   "crawledAt": 1795523095867
+   "crawledAt": 1795694083374
   },
   {
    "title": "product engineer",
@@ -72421,7 +72407,7 @@
    "website": "heyclicky.com",
    "src": "yc",
    "page": "https://www.heyclicky.com/",
-   "crawledAt": 1795523101228
+   "crawledAt": 1795694086266
   },
   {
    "title": "mobile engineer",
@@ -72435,7 +72421,7 @@
    "website": "heyclicky.com",
    "src": "yc",
    "page": "https://www.heyclicky.com/",
-   "crawledAt": 1795523101228
+   "crawledAt": 1795694086266
   },
   {
    "title": "AI Engineer (interested in physical infrastructure)",
@@ -72449,7 +72435,7 @@
    "website": "usetorus.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/torus/jobs",
-   "crawledAt": 1795523105213
+   "crawledAt": 1795694092195
   },
   {
    "title": "Founding Scientist",
@@ -72463,7 +72449,7 @@
    "website": "parasma.com",
    "src": "yc",
    "page": "https://parasma.com/",
-   "crawledAt": 1795523104739
+   "crawledAt": 1795694088866
   },
   {
    "title": "Member of Technical Staff, Intern Technical Staff · San Francisco, CA · Internship · On-site",
@@ -72477,7 +72463,7 @@
    "website": "belvedir.ai",
    "src": "yc",
    "page": "https://careers.belvedir.ai/",
-   "crawledAt": 1795523108528
+   "crawledAt": 1795694092978
   },
   {
    "title": "Chief of Staff Operations · San Francisco, CA · Full time · On-site",
@@ -72491,7 +72477,7 @@
    "website": "belvedir.ai",
    "src": "yc",
    "page": "https://careers.belvedir.ai/",
-   "crawledAt": 1795523108528
+   "crawledAt": 1795694092978
   },
   {
    "title": "Founding AI Engineer (Enterprise Finance Operations)",
@@ -72505,7 +72491,7 @@
    "website": "rex.inc",
    "src": "yc",
    "page": "https://www.rex.inc/",
-   "crawledAt": 1795523112114
+   "crawledAt": 1795694099546
   },
   {
    "title": "Industrial Software Engineer",
@@ -72519,7 +72505,7 @@
    "website": "manufacturingintelligence.org",
    "src": "yc",
    "page": "https://www.heraengineering.com/company/",
-   "crawledAt": 1795523111820
+   "crawledAt": 1795694096701
   },
   {
    "title": "Contacting the developer",
@@ -72533,7 +72519,7 @@
    "website": "jcode.sh",
    "src": "yc",
    "page": "https://jcode.sh/jobs",
-   "crawledAt": 1795523121004
+   "crawledAt": 1795694103804
   },
   {
    "title": "Autonomy Engineer, Interceptor Drones",
@@ -72547,7 +72533,7 @@
    "website": "impact-drones.com",
    "src": "yc",
    "page": "https://www.impact-drones.com/",
-   "crawledAt": 1795523116666
+   "crawledAt": 1795694103550
   },
   {
    "title": "Integration Engineer, Radar and Drone Software (Counter-UAS)",
@@ -72561,7 +72547,7 @@
    "website": "impact-drones.com",
    "src": "yc",
    "page": "https://www.impact-drones.com/",
-   "crawledAt": 1795523116666
+   "crawledAt": 1795694103550
   },
   {
    "title": "Senior Software Engineer, Robotics and Flight Software",
@@ -72575,7 +72561,7 @@
    "website": "impact-drones.com",
    "src": "yc",
    "page": "https://www.impact-drones.com/",
-   "crawledAt": 1795523116666
+   "crawledAt": 1795694103550
   },
   {
    "title": "AI Engineer",
@@ -72589,7 +72575,7 @@
    "website": "lemonlime.com",
    "src": "yc",
    "page": "https://lemonlime.com/careers",
-   "crawledAt": 1795523120260
+   "crawledAt": 1795694107979
   },
   {
    "title": "Founding Product Engineer",
@@ -72603,7 +72589,7 @@
    "website": "mochi.tv",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/mochi/jobs",
-   "crawledAt": 1795523129979
+   "crawledAt": 1795694111734
   },
   {
    "title": "Satellite Systems Engineer",
@@ -72617,7 +72603,7 @@
    "website": "exosat.com",
    "src": "yc",
    "page": "https://www.exosat.com/careers",
-   "crawledAt": 1795523124399
+   "crawledAt": 1795694111091
   },
   {
    "title": "BEST MANAGER",
@@ -72631,7 +72617,7 @@
    "website": "getcoach.com",
    "src": "yc",
    "page": "https://www.getcoach.com/",
-   "crawledAt": 1795523133512
+   "crawledAt": 1795694119339
   },
   {
    "title": "Founding AI Engineer",
@@ -72645,7 +72631,7 @@
    "website": "getcoach.com",
    "src": "yc",
    "page": "https://www.getcoach.com/",
-   "crawledAt": 1795523133512
+   "crawledAt": 1795694119339
   },
   {
    "title": "Founding Product Engineer",
@@ -72659,7 +72645,7 @@
    "website": "getcoach.com",
    "src": "yc",
    "page": "https://www.getcoach.com/",
-   "crawledAt": 1795523133512
+   "crawledAt": 1795694119339
   },
   {
    "title": "Founding Marketer",
@@ -72673,7 +72659,7 @@
    "website": "getcoach.com",
    "src": "yc",
    "page": "https://www.getcoach.com/",
-   "crawledAt": 1795523133512
+   "crawledAt": 1795694119339
   },
   {
    "title": "Founding Engineer",
@@ -72687,7 +72673,7 @@
    "website": "joinmarble.ai",
    "src": "yc",
    "page": "https://joinmarble.ai/careers",
-   "crawledAt": 1795523133389
+   "crawledAt": 1795694115597
   },
   {
    "title": "Founding Operations Lead",
@@ -72701,7 +72687,7 @@
    "website": "joinmarble.ai",
    "src": "yc",
    "page": "https://joinmarble.ai/careers",
-   "crawledAt": 1795523133389
+   "crawledAt": 1795694115597
   },
   {
    "title": "Chief of Staff",
@@ -72715,7 +72701,7 @@
    "website": "stoaexchange.com",
    "src": "yc",
    "page": "https://www.stoaexchange.com/",
-   "crawledAt": 1795523137298
+   "crawledAt": 1795694119479
   },
   {
    "title": "Marketing",
@@ -72729,7 +72715,7 @@
    "website": "stoaexchange.com",
    "src": "yc",
    "page": "https://www.stoaexchange.com/",
-   "crawledAt": 1795523137298
+   "crawledAt": 1795694119479
   },
   {
    "title": "Founding Engineer",
@@ -72743,7 +72729,7 @@
    "website": "screenpipe.com",
    "src": "yc",
    "page": "https://screenpipe.com/careers",
-   "crawledAt": 1795523143569
+   "crawledAt": 1795694128822
   },
   {
    "title": "Senior Product Manager",
@@ -72757,7 +72743,7 @@
    "website": "screenpipe.com",
    "src": "yc",
    "page": "https://screenpipe.com/careers",
-   "crawledAt": 1795523143569
+   "crawledAt": 1795694128822
   },
   {
    "title": "Forward Deployed Engineer (Enterprise)",
@@ -72771,7 +72757,7 @@
    "website": "screenpipe.com",
    "src": "yc",
    "page": "https://screenpipe.com/careers",
-   "crawledAt": 1795523143569
+   "crawledAt": 1795694128822
   },
   {
    "title": "Senior DevOps Engineer",
@@ -72785,7 +72771,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Lead ML Engineer",
@@ -72799,7 +72785,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Lead Software Engineer",
@@ -72813,7 +72799,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Senior Data Engineer",
@@ -72827,7 +72813,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Senior Software Engineer",
@@ -72841,7 +72827,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Senior Operations Manager",
@@ -72855,7 +72841,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Operations Manager, Data & AI",
@@ -72869,7 +72855,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Account Executive, Data Partnerships (EU)",
@@ -72883,7 +72869,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Product Manager",
@@ -72897,7 +72883,7 @@
    "website": "ooakdata.com",
    "src": "yc",
    "page": "https://ooakdata.com/careers",
-   "crawledAt": 1795523139800
+   "crawledAt": 1795694122296
   },
   {
    "title": "Founding Engineer",
@@ -72911,7 +72897,7 @@
    "website": "talentpluto.com",
    "src": "yc",
    "page": "https://app.talentpluto.com/join",
-   "crawledAt": 1795523146478
+   "crawledAt": 1795694131266
   },
   {
    "title": "Founding Engineer London, in person →",
@@ -72925,7 +72911,7 @@
    "website": "whitespacehq.ai",
    "src": "yc",
    "page": "https://www.whitespacehq.ai/careers",
-   "crawledAt": 1795523147921
+   "crawledAt": 1795694134897
   },
   {
    "title": "Robotics Hardware Intern (Winter, Dec 15th - January 15th)",
@@ -72995,7 +72981,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Data Infrastructure Engineer",
@@ -73009,7 +72995,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Robotics Field Engineer",
@@ -73023,7 +73009,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Head of Marketing",
@@ -73037,7 +73023,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Egocentric Operations Lead",
@@ -73051,7 +73037,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Robot Learning Researcher (VLA / Foundation Models)",
@@ -73065,7 +73051,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Robotics Operations Lead",
@@ -73079,7 +73065,7 @@
    "website": "aktoria.com",
    "src": "yc",
    "page": "https://aktoria.com/",
-   "crawledAt": 1795523149169
+   "crawledAt": 1795694134446
   },
   {
    "title": "Executive Assistant / Operations Coordinator",
@@ -73093,7 +73079,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Mechanical Engineer, Manufacturing & Rapid Prototyping",
@@ -73107,7 +73093,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Electrical Engineer",
@@ -73121,7 +73107,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Social Media & Content Marketer",
@@ -73135,7 +73121,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Design Engineer",
@@ -73149,7 +73135,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Applied AI Engineer, Agents & Robot Learning",
@@ -73163,7 +73149,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "LLM Researcher",
@@ -73177,7 +73163,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "VLM Researcher",
@@ -73191,7 +73177,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Multimodal Engineer",
@@ -73205,7 +73191,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Full-Stack Engineer",
@@ -73219,7 +73205,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Data Operations Lead",
@@ -73233,7 +73219,7 @@
    "website": "norirobotics.com",
    "src": "yc",
    "page": "https://www.norirobotics.com/",
-   "crawledAt": 1795523150694
+   "crawledAt": 1795694137610
   },
   {
    "title": "Test Lead",
@@ -73247,7 +73233,7 @@
    "website": "daqstra.com",
    "src": "yc",
    "page": "https://www.daqstra.com/",
-   "crawledAt": 1795523151433
+   "crawledAt": 1795694137361
   },
   {
    "title": "Safety Officer",
@@ -73261,7 +73247,7 @@
    "website": "daqstra.com",
    "src": "yc",
    "page": "https://www.daqstra.com/",
-   "crawledAt": 1795523151433
+   "crawledAt": 1795694137361
   },
   {
    "title": "Software Engineering Intern",
@@ -73275,7 +73261,7 @@
    "website": "rational.to",
    "src": "yc",
    "page": "https://rational.to/book-demo.html",
-   "crawledAt": 1795523154111
+   "crawledAt": 1795694140765
   },
   {
    "title": "Machine Learning Researcher",
@@ -73289,7 +73275,7 @@
    "website": "rational.to",
    "src": "yc",
    "page": "https://rational.to/book-demo.html",
-   "crawledAt": 1795523154111
+   "crawledAt": 1795694140765
   },
   {
    "title": "Forward-Deployed Engineer",
@@ -73303,7 +73289,7 @@
    "website": "rational.to",
    "src": "yc",
    "page": "https://rational.to/book-demo.html",
-   "crawledAt": 1795523154111
+   "crawledAt": 1795694140765
   },
   {
    "title": "Founding Engineer, Agent and Data Systems",
@@ -73317,7 +73303,7 @@
    "website": "heytenor.com",
    "src": "yc",
    "page": "https://www.heytenor.com/careers/",
-   "crawledAt": 1795523155932
+   "crawledAt": 1795694142099
   },
   {
    "title": "Machine Learning Engineer, 3D Reconstruction",
@@ -73333,7 +73319,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
+   "crawledAt": 1795694144977
   },
   {
    "title": "Machine Learning Engineer, Scene Understanding",
@@ -73349,7 +73335,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
+   "crawledAt": 1795694144977
   },
   {
    "title": "Robotics Simulation Engineer, SimReady",
@@ -73365,7 +73351,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
+   "crawledAt": 1795694144977
   },
   {
    "title": "Robot Learning Engineer",
@@ -73381,7 +73367,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
+   "crawledAt": 1795694144977
   },
   {
    "title": "BIM and Geometry Engineer",
@@ -73397,7 +73383,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
+   "crawledAt": 1795694144977
   },
   {
    "title": "Infrastructure Engineer, 3D Data at Scale",
@@ -73413,7 +73399,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
+   "crawledAt": 1795694144977
   },
   {
    "title": "Forward Deployed Engineer, Scan to BIM",
@@ -73429,21 +73415,7 @@
    "website": "movingatoms.ai",
    "src": "yc",
    "page": "https://movingatoms.ai/careers/",
-   "crawledAt": 1795523158300
-  },
-  {
-   "title": "Robotics Research Intern",
-   "url": "https://deepreach.ai/careers#robotics-research-intern",
-   "datePosted": null,
-   "locations": [],
-   "employmentType": "INTERN",
-   "startDate": null,
-   "via": "text",
-   "company": "DeepReach Inc.",
-   "website": "deepreach.ai",
-   "src": "yc",
-   "page": "https://dr-public-samples.s3.us-west-2.amazonaws.com/join/testimonials/luciano-poster.jpg",
-   "crawledAt": 1795523159258
+   "crawledAt": 1795694144977
   },
   {
    "title": "Senior Electrical Engineer",
@@ -73457,7 +73429,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "Senior Controls Engineer",
@@ -73471,7 +73443,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "Electrical Engineer",
@@ -73485,7 +73457,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "Computational Modeling & Simulation Specialist",
@@ -73499,7 +73471,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "Electrical Engineering Intern",
@@ -73513,7 +73485,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "Junior Software Engineer",
@@ -73527,7 +73499,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "GTM Lead (Advanced Manufacturing)",
@@ -73541,7 +73513,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "GTM Intern (Advanced Manufacturing)",
@@ -73555,7 +73527,7 @@
    "website": "ultrasonium.com",
    "src": "yc",
    "page": "https://ultrasonium.com/hiring",
-   "crawledAt": 1795523163463
+   "crawledAt": 1795694149615
   },
   {
    "title": "Skin-imaging scientist",
@@ -73569,7 +73541,7 @@
    "website": "lumeria.skin",
    "src": "yc",
    "page": "https://lumeria.com/careers",
-   "crawledAt": 1795523163209
+   "crawledAt": 1795694149311
   },
   {
    "title": "Founding Growth",
@@ -73583,7 +73555,7 @@
    "website": "denta.com",
    "src": "yc",
    "page": "https://www.denta.com/",
-   "crawledAt": 1795523168483
+   "crawledAt": 1795694153233
   },
   {
    "title": "Autonomy Lead",
@@ -73597,7 +73569,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Computer Vision Engineer",
@@ -73611,7 +73583,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Guidance & Navigation Engineer",
@@ -73625,7 +73597,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Propulsion Engineer, Turbojets",
@@ -73639,7 +73611,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Turbine Test Engineer",
@@ -73653,7 +73625,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Mechanical Engineer, Airframes",
@@ -73667,7 +73639,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Senior Mechanical Engineer",
@@ -73681,7 +73653,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Electrical Engineer, Avionics",
@@ -73695,7 +73667,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "RF & Datalink Engineer",
@@ -73709,7 +73681,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Components Engineer",
@@ -73723,7 +73695,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Flight Software Engineer",
@@ -73737,7 +73709,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Firmware Test Engineer",
@@ -73751,7 +73723,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Ground Control Software Engineer",
@@ -73765,7 +73737,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Manufacturing & Production Lead",
@@ -73779,7 +73751,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Production Engineer, European Cell",
@@ -73793,7 +73765,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Automation Engineer",
@@ -73807,7 +73779,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Manufacturing Engineer",
@@ -73821,7 +73793,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Field Test Engineer",
@@ -73835,7 +73807,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "IT Infrastructure Engineer",
@@ -73849,7 +73821,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Cyber Security Engineer",
@@ -73863,7 +73835,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Strategic Finance Associate",
@@ -73877,7 +73849,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Allied Partnerships Manager",
@@ -73891,7 +73863,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Marketing & Communications Manager",
@@ -73905,7 +73877,7 @@
    "website": "isengardindustries.com",
    "src": "yc",
    "page": "https://isengardindustries.com/careers.html",
-   "crawledAt": 1795523185976
+   "crawledAt": 1795694157754
   },
   {
    "title": "Forward Deployed Engineer (Software)",
@@ -73919,7 +73891,7 @@
    "website": "operonsolutions.com",
    "src": "yc",
    "page": "https://operonsolutions.com/en/careers",
-   "crawledAt": 1795523176945
+   "crawledAt": 1795694158151
   },
   {
    "title": "Machine Learning Engineer, Computer Vision",
@@ -73933,7 +73905,7 @@
    "website": "operonsolutions.com",
    "src": "yc",
    "page": "https://operonsolutions.com/en/careers",
-   "crawledAt": 1795523176945
+   "crawledAt": 1795694158151
   },
   {
    "title": "AI Engineer",
@@ -73947,7 +73919,7 @@
    "website": "operonsolutions.com",
    "src": "yc",
    "page": "https://operonsolutions.com/en/careers",
-   "crawledAt": 1795523176945
+   "crawledAt": 1795694158151
   },
   {
    "title": "Senior Operations Manager",
@@ -73961,7 +73933,7 @@
    "website": "gamgee.io",
    "src": "yc",
    "page": "https://www.gamgee.io/",
-   "crawledAt": 1795523212217
+   "crawledAt": 1795694175290
   },
   {
    "title": "Solutions Architect",
@@ -73975,7 +73947,7 @@
    "website": "pacific.space",
    "src": "yc",
    "page": "https://pacificmachines.com/",
-   "crawledAt": 1795523212909
+   "crawledAt": 1795694161095
   },
   {
    "title": "Site Manager",
@@ -73989,7 +73961,7 @@
    "website": "pacific.space",
    "src": "yc",
    "page": "https://pacificmachines.com/",
-   "crawledAt": 1795523212909
+   "crawledAt": 1795694161095
   },
   {
    "title": "Founding Robotics Researcher",
@@ -74003,7 +73975,7 @@
    "website": "shiraz.ai",
    "src": "yc",
    "page": "https://shiraz.ai/",
-   "crawledAt": 1795523215281
+   "crawledAt": 1795694177407
   },
   {
    "title": "Robot Deployment Engineer",
@@ -74017,7 +73989,7 @@
    "website": "shiraz.ai",
    "src": "yc",
    "page": "https://shiraz.ai/",
-   "crawledAt": 1795523215281
+   "crawledAt": 1795694177407
   },
   {
    "title": "Mechanical Engineer",
@@ -74031,7 +74003,7 @@
    "website": "shiraz.ai",
    "src": "yc",
    "page": "https://shiraz.ai/",
-   "crawledAt": 1795523215281
+   "crawledAt": 1795694177407
   },
   {
    "title": "Founding AI Engineer",
@@ -74045,7 +74017,7 @@
    "website": "83sciences.ai",
    "src": "yc",
    "page": "https://83sciences.ai/",
-   "crawledAt": 1795523215529
+   "crawledAt": 1795694178050
   },
   {
    "title": "Founding ASIC Engineer (Architecture & RTL)",
@@ -74059,7 +74031,7 @@
    "website": "lamb-labs.com",
    "src": "yc",
    "page": "https://lamb-labs.com/",
-   "crawledAt": 1795523217781
+   "crawledAt": 1795694180245
   },
   {
    "title": "Founding AI Accelerator Architect (Research & Hardware Co-Design)",
@@ -74073,7 +74045,7 @@
    "website": "lamb-labs.com",
    "src": "yc",
    "page": "https://lamb-labs.com/",
-   "crawledAt": 1795523217781
+   "crawledAt": 1795694180245
   },
   {
    "title": "Founding Engineer, Software & Operations",
@@ -74087,7 +74059,7 @@
    "website": "provenmetal.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/provenmetal/jobs",
-   "crawledAt": 1795523221538
+   "crawledAt": 1795694184842
   },
   {
    "title": "Head of Manufacturing",
@@ -74101,7 +74073,7 @@
    "website": "provenmetal.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/provenmetal/jobs",
-   "crawledAt": 1795523221538
+   "crawledAt": 1795694184842
   },
   {
    "title": "Founding Manufacturing Engineer",
@@ -74115,7 +74087,7 @@
    "website": "provenmetal.com",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/provenmetal/jobs",
-   "crawledAt": 1795523221538
+   "crawledAt": 1795694184842
   },
   {
    "title": "Founding Engineer, Product",
@@ -74129,7 +74101,7 @@
    "website": "getpennant.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pennant/jobs",
-   "crawledAt": 1795523226852
+   "crawledAt": 1795694189908
   },
   {
    "title": "Founding Engineer, Data & AI",
@@ -74143,7 +74115,7 @@
    "website": "getpennant.ai",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/pennant/jobs",
-   "crawledAt": 1795523226852
+   "crawledAt": 1795694189908
   },
   {
    "title": "Radar PCB Engineer",
@@ -74157,7 +74129,7 @@
    "website": "vernius.systems",
    "src": "yc",
    "page": "https://www.vernius.systems/",
-   "crawledAt": 1795523224056
+   "crawledAt": 1795694187877
   },
   {
    "title": "Senior Software Engineer",
@@ -74171,7 +74143,7 @@
    "website": "avocasystems.com",
    "src": "yc",
    "page": "https://www.avocasystems.com/careers",
-   "crawledAt": 1795523236625
+   "crawledAt": 1795694199090
   },
   {
    "title": "Product Manager",
@@ -74185,7 +74157,7 @@
    "website": "avocasystems.com",
    "src": "yc",
    "page": "https://www.avocasystems.com/careers",
-   "crawledAt": 1795523236625
+   "crawledAt": 1795694199090
   },
   {
    "title": "Finance and Operations Manager",
@@ -74199,7 +74171,7 @@
    "website": "avocasystems.com",
    "src": "yc",
    "page": "https://www.avocasystems.com/careers",
-   "crawledAt": 1795523236625
+   "crawledAt": 1795694199090
   },
   {
    "title": "Full-Stack Software Engineer (Argentina)",
@@ -74213,7 +74185,7 @@
    "website": "openrelay.inc",
    "src": "yc",
    "page": "https://openrelay.inc/about",
-   "crawledAt": 1795523233779
+   "crawledAt": 1795694196271
   },
   {
    "title": "Infrastructure Engineer (Argentina)",
@@ -74227,7 +74199,7 @@
    "website": "openrelay.inc",
    "src": "yc",
    "page": "https://openrelay.inc/about",
-   "crawledAt": 1795523233779
+   "crawledAt": 1795694196271
   },
   {
    "title": "Technical Marketer (Argentina)",
@@ -74241,7 +74213,7 @@
    "website": "openrelay.inc",
    "src": "yc",
    "page": "https://openrelay.inc/about",
-   "crawledAt": 1795523233779
+   "crawledAt": 1795694196271
   },
   {
    "title": "AI Engineer",
@@ -74255,7 +74227,7 @@
    "website": "thebillow.ai",
    "src": "yc",
    "page": "https://thebillow.ai/careers",
-   "crawledAt": 1795523237622
+   "crawledAt": 1795694199852
   },
   {
    "title": "Data Engineer",
@@ -74269,7 +74241,7 @@
    "website": "thebillow.ai",
    "src": "yc",
    "page": "https://thebillow.ai/careers",
-   "crawledAt": 1795523237622
+   "crawledAt": 1795694199852
   },
   {
    "title": "Founding Software Engineer, Robotics Infrastructure",
@@ -74283,7 +74255,7 @@
    "website": "runtime.si",
    "src": "yc",
    "page": "https://runtime.si/",
-   "crawledAt": 1795523239184
+   "crawledAt": 1795694201578
   },
   {
    "title": "Electrical Engineer, Robotics",
@@ -74297,7 +74269,7 @@
    "website": "runtime.si",
    "src": "yc",
    "page": "https://runtime.si/",
-   "crawledAt": 1795523239184
+   "crawledAt": 1795694201578
   },
   {
    "title": "Mechatronics Engineer",
@@ -74311,7 +74283,7 @@
    "website": "runtime.si",
    "src": "yc",
    "page": "https://runtime.si/",
-   "crawledAt": 1795523239184
+   "crawledAt": 1795694201578
   },
   {
    "title": "Full time Engineer",
@@ -74325,7 +74297,7 @@
    "website": "conifer.build",
    "src": "yc",
    "page": "https://www.conifer.build/careers/",
-   "crawledAt": 1795523242316
+   "crawledAt": 1795694204168
   },
   {
    "title": "Machine Learning Engineer",
@@ -74339,7 +74311,7 @@
    "website": "conifer.build",
    "src": "yc",
    "page": "https://www.conifer.build/careers/",
-   "crawledAt": 1795523242316
+   "crawledAt": 1795694204168
   },
   {
    "title": "Product Engineer",
@@ -74353,7 +74325,7 @@
    "website": "conifer.build",
    "src": "yc",
    "page": "https://www.conifer.build/careers/",
-   "crawledAt": 1795523242316
+   "crawledAt": 1795694204168
   },
   {
    "title": "Member of Policy Staff",
@@ -74369,7 +74341,7 @@
    "website": "locke.inc",
    "src": "yc",
    "page": "https://www.ycombinator.com/companies/locke/jobs/rTsMRcS-member-of-policy-staff",
-   "crawledAt": 1795523242921
+   "crawledAt": 1795694205165
   },
   {
    "title": "Forward Deployed Engineer",
@@ -74383,7 +74355,7 @@
    "website": "horizontal-tech.com",
    "src": "yc",
    "page": "https://horizontal-tech.com/careers",
-   "crawledAt": 1795523244701
+   "crawledAt": 1795694206339
   },
   {
    "title": "AI Engineer",
@@ -74397,7 +74369,7 @@
    "website": "horizontal-tech.com",
    "src": "yc",
    "page": "https://horizontal-tech.com/careers",
-   "crawledAt": 1795523244701
+   "crawledAt": 1795694206339
   },
   {
    "title": "Founding Engineer",
@@ -74411,7 +74383,7 @@
    "website": "horizontal-tech.com",
    "src": "yc",
    "page": "https://horizontal-tech.com/careers",
-   "crawledAt": 1795523244701
+   "crawledAt": 1795694206339
   },
   {
    "title": "Software Engineer, Core Platform",
@@ -74425,7 +74397,7 @@
    "website": "horizontal-tech.com",
    "src": "yc",
    "page": "https://horizontal-tech.com/careers",
-   "crawledAt": 1795523244701
+   "crawledAt": 1795694206339
   },
   {
    "title": "Software Engineer",
@@ -74439,7 +74411,7 @@
    "website": "useforward.co",
    "src": "yc",
    "page": "https://www.useforward.co/careers",
-   "crawledAt": 1795523246173
+   "crawledAt": 1795694208529
   },
   {
    "title": "Credit Engineer",
@@ -74453,7 +74425,7 @@
    "website": "useforward.co",
    "src": "yc",
    "page": "https://www.useforward.co/careers",
-   "crawledAt": 1795523246173
+   "crawledAt": 1795694208529
   },
   {
    "title": "Founder’s Office Intern",
@@ -74467,7 +74439,7 @@
    "website": "antropi.world",
    "src": "yc",
    "page": "https://www.antropi.world/careers",
-   "crawledAt": 1795523254133
+   "crawledAt": 1795694215410
   },
   {
    "title": "Mechanical Engineering Intern",
@@ -74481,7 +74453,7 @@
    "website": "antropi.world",
    "src": "yc",
    "page": "https://www.antropi.world/careers",
-   "crawledAt": 1795523254133
+   "crawledAt": 1795694215410
   },
   {
    "title": "Electronics & Control Systems Intern",
@@ -74495,7 +74467,7 @@
    "website": "antropi.world",
    "src": "yc",
    "page": "https://www.antropi.world/careers",
-   "crawledAt": 1795523254133
+   "crawledAt": 1795694215410
   },
   {
    "title": "Robotics Software Intern",
@@ -74509,7 +74481,7 @@
    "website": "antropi.world",
    "src": "yc",
    "page": "https://www.antropi.world/careers",
-   "crawledAt": 1795523254133
+   "crawledAt": 1795694215410
   },
   {
    "title": "Applied AI Engineer - Consumer Robotics & Voice Systems",
@@ -74523,7 +74495,7 @@
    "website": "rhem.ai",
    "src": "yc",
    "page": "https://www.rhem.ai/",
-   "crawledAt": 1795523256271
+   "crawledAt": 1795694218566
   },
   {
    "title": "Intern of Research Staff",
@@ -74537,7 +74509,7 @@
    "website": "nodus-compute.ai",
    "src": "yc",
    "page": "https://careers.nodus-compute.ai/",
-   "crawledAt": 1795523257300
+   "crawledAt": 1795694218196
   },
   {
    "title": "RL Research Engineer",
@@ -74551,7 +74523,7 @@
    "website": "nodus-compute.ai",
    "src": "yc",
    "page": "https://careers.nodus-compute.ai/",
-   "crawledAt": 1795523257300
+   "crawledAt": 1795694218196
   },
   {
    "title": "Inference Research Engineer",
@@ -74565,7 +74537,7 @@
    "website": "nodus-compute.ai",
    "src": "yc",
    "page": "https://careers.nodus-compute.ai/",
-   "crawledAt": 1795523257300
+   "crawledAt": 1795694218196
   },
   {
    "title": "Kernel Research Engineer",
@@ -74579,7 +74551,7 @@
    "website": "nodus-compute.ai",
    "src": "yc",
    "page": "https://careers.nodus-compute.ai/",
-   "crawledAt": 1795523257300
+   "crawledAt": 1795694218196
   },
   {
    "title": "Founding AI/ML Engineer",
@@ -74593,7 +74565,7 @@
    "website": "byteask.ai",
    "src": "yc",
    "page": "https://byteask.ai/careers",
-   "crawledAt": 1795523259870
+   "crawledAt": 1795694221728
   },
   {
    "title": "Founding Full-stack Engineer",
@@ -74607,7 +74579,7 @@
    "website": "byteask.ai",
    "src": "yc",
    "page": "https://byteask.ai/careers",
-   "crawledAt": 1795523259870
+   "crawledAt": 1795694221728
   },
   {
    "title": "PV/BESS Design Engineer",
