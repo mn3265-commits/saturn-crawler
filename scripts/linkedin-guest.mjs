@@ -17,7 +17,8 @@ export const KEYWORDS = ['lifecycle marketing', 'CRM manager', 'CRM marketing', 
 export const US_GEO = 'geoId=103644278&location=United%20States';
 export const CENTER_KEYWORDS = [
   'personalization', 'personalization manager', 'personalization analyst', 'personalization strategy', 'data activation', 'decisioning', 'next best action', 'audience strategy', 'customer data platform', 'propensity',
-  'revenue operations', 'GTM operations', 'go-to-market strategy', 'sales operations', 'sales strategy', 'sales analytics', 'revenue analytics', 'commercial analytics', 'commercial strategy', 'AI enablement', 'AI go-to-market'];
+  'pricing analyst', 'pricing strategy', 'pricing manager', 'marketing analytics', 'marketing measurement', 'marketing mix', 'marketing technology', 'martech',
+  'revenue analytics', 'commercial analytics', 'sales analytics', 'AI enablement', 'revenue operations', 'sales strategy', 'commercial strategy', 'AI go-to-market', 'GTM operations', 'go-to-market strategy', 'sales operations'];
 export const BROAD_KEYWORDS = [...new Set([...CENTER_KEYWORDS, 'marketing analytics', 'marketing technology', 'marketing operations', 'marketing automation', 'CRM analyst', 'growth analyst', 'product manager', 'associate product manager', 'product marketing manager', 'brand manager',
   'lifecycle marketing', 'CRM marketing', 'retention marketing', 'customer marketing', 'growth marketing manager', 'marketing manager',
   'strategy and operations', 'business operations manager', 'chief of staff', 'program manager', 'project manager', 'strategy manager',
