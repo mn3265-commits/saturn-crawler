@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-26T12:19:09.066Z",
+ "generated": "2026-11-26T12:25:04.353Z",
  "companies": 22940,
  "status": {
-  "found": 3090,
-  "no-ats": 11233,
+  "found": 3092,
+  "no-ats": 11231,
   "site": 3869,
   "down": 4748
  },
@@ -11,10 +11,10 @@
   "dover": 7,
   "ashby": 665,
   "workday": 553,
-  "gh": 857,
+  "gh": 858,
   "lever": 257,
   "gem": 70,
-  "rippling": 129,
+  "rippling": 131,
   "workable": 174,
   "bamboohr": 155,
   "smartrecruiters": 58,
@@ -6164,6 +6164,15 @@
    "src": "nyc"
   },
   {
+   "type": "gh",
+   "token": "attentive",
+   "url": "boards-api.greenhouse.io/v1/boards/attentive",
+   "label": "Attentive",
+   "website": "attentive.com",
+   "page": "https://www.attentive.com/careers",
+   "src": "nyc"
+  },
+  {
    "type": "gem",
    "token": "bilt",
    "url": "jobs.gem.com/bilt",
@@ -6416,6 +6425,24 @@
    "label": "Clerk",
    "website": "clerk.com",
    "page": "https://clerk.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "cdn-cgi",
+   "url": "ats.rippling.com/cdn-cgi",
+   "label": "Bonusly",
+   "website": "bonus.ly",
+   "page": "https://bonusly.com/",
+   "src": "nyc"
+  },
+  {
+   "type": "rippling",
+   "token": "bonusly",
+   "url": "ats.rippling.com/bonusly",
+   "label": "Bonusly",
+   "website": "bonus.ly",
+   "page": "https://bonusly.com/",
    "src": "nyc"
   },
   {
