@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-26T13:04:38.222Z",
+ "generated": "2026-11-26T13:09:30.819Z",
  "companies": 22940,
  "status": {
-  "found": 3118,
-  "no-ats": 11202,
-  "site": 3872,
+  "found": 3120,
+  "no-ats": 11199,
+  "site": 3873,
   "down": 4748
  },
  "byType": {
   "dover": 7,
   "ashby": 668,
   "workday": 555,
-  "gh": 864,
-  "lever": 262,
+  "gh": 865,
+  "lever": 263,
   "gem": 70,
   "rippling": 135,
   "workable": 177,
@@ -14742,6 +14742,15 @@
   },
   {
    "type": "gh",
+   "token": "videoamp",
+   "url": "boards-api.greenhouse.io/v1/boards/videoamp",
+   "label": "VideoAmp",
+   "website": "videoamp.com",
+   "page": "https://videoamp.com/jobs/",
+   "src": "nyc"
+  },
+  {
+   "type": "gh",
    "token": "voxmedia",
    "url": "boards.greenhouse.io/voxmedia",
    "label": "Vox Media",
@@ -14792,6 +14801,15 @@
    "label": "WeatherBug",
    "website": "weatherbug.com",
    "page": "https://www.groundtruth.com/jobs/?job-company=4780",
+   "src": "nyc"
+  },
+  {
+   "type": "lever",
+   "token": "waremalcomb",
+   "url": "jobs.lever.co/waremalcomb",
+   "label": "Ware Malcomb",
+   "website": "waremalcomb.com",
+   "page": "https://waremalcomb.com/join-our-team/",
    "src": "nyc"
   },
   {
@@ -125243,6 +125261,20 @@
    "src": "nyc",
    "page": "https://vienna.earth/",
    "crawledAt": 1795689317432
+  },
+  {
+   "title": "RevOps/GTM Lead",
+   "url": "https://www.vicarius.io/career#revops-gtm-lead",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Vicarius",
+   "website": "vicarius.io",
+   "src": "nyc",
+   "page": "https://www.vicarius.io/career",
+   "crawledAt": 1795698396273
   },
   {
    "title": "Tim, General Manager",
