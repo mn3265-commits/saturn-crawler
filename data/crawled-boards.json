@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T12:25:04.353Z",
+ "generated": "2026-11-26T12:31:42.480Z",
  "companies": 22940,
  "status": {
-  "found": 3092,
-  "no-ats": 11231,
-  "site": 3869,
+  "found": 3093,
+  "no-ats": 11229,
+  "site": 3870,
   "down": 4748
  },
  "byType": {
@@ -20,7 +20,7 @@
   "smartrecruiters": 58,
   "recruitee": 26,
   "eightfold": 38,
-  "icims": 158,
+  "icims": 159,
   "oracle": 88,
   "successfactors": 14
  },
@@ -10360,6 +10360,15 @@
    "label": "Easyship",
    "website": "easyship.com",
    "page": "https://www.easyship.com/careers",
+   "src": "nyc"
+  },
+  {
+   "type": "icims",
+   "token": "publicisgroupe",
+   "url": "careers-publicisgroupe.icims.com",
+   "label": "Digitas Health",
+   "website": "digitashealth.com",
+   "page": "https://careers.publicisgroupe.com/digitashealth/jobs",
    "src": "nyc"
   },
   {
@@ -97303,6 +97312,118 @@
    "src": "nyc",
    "page": "https://facilities.bondsports.co/careers",
    "crawledAt": 1795687716060
+  },
+  {
+   "title": "Delivery Manager",
+   "url": "https://www.bradford-space.com/careers#delivery-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "Design & Production Engineer",
+   "url": "https://www.bradford-space.com/careers#design-production-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "Product Assurance Engineer",
+   "url": "https://www.bradford-space.com/careers#product-assurance-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "Test Engineer",
+   "url": "https://www.bradford-space.com/careers#test-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "Program Manager",
+   "url": "https://www.bradford-space.com/careers#program-manager",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "System Engineer",
+   "url": "https://www.bradford-space.com/careers#system-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "Senior System Engineer",
+   "url": "https://www.bradford-space.com/careers#senior-system-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
+  },
+  {
+   "title": "Propulsion Engineer",
+   "url": "https://www.bradford-space.com/careers#propulsion-engineer",
+   "datePosted": null,
+   "locations": [],
+   "employmentType": null,
+   "startDate": null,
+   "via": "text",
+   "company": "Bradford Space",
+   "website": "bradford-space.com",
+   "src": "nyc",
+   "page": "https://www.bradford-space.com/careers",
+   "crawledAt": 1795695999243
   },
   {
    "title": "Chief Technology Officer",
