@@ -1,11 +1,11 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-26T06:07:19.619Z",
+ "generated": "2026-11-27T06:08:19.707Z",
  "counts": {
   "successfactors": 66,
   "phenom": 27,
-  "jibe": 50,
-  "oracle": 111,
+  "jibe": 52,
+  "oracle": 112,
   "avature": 3,
   "tiktok": 1,
   "tencent": 1,
@@ -15,7 +15,7 @@
   "apple": 1,
   "goldman": 1,
   "eightfold": 24,
-  "icims": 98,
+  "icims": 99,
   "radancy": 17,
   "ibm": 1
  },
@@ -4252,6 +4252,51 @@
    "site": "CX_1",
    "jobs": 16,
    "verified": "oracle portal answers (16 jobs)"
+  },
+  {
+   "_was": "AMERICAN PROCESS MANAGEMENT LLC",
+   "company": "AMERICAN PROCESS MANAGEMENT LLC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "oracle",
+   "host": "fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "jobs": 86,
+   "verified": "oracle portal answers (86 jobs)"
+  },
+  {
+   "_was": "DLZ CORPORATION",
+   "company": "DLZ CORPORATION",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "jibe",
+   "base": "https://careers.dlz.com",
+   "jobs": 39,
+   "verified": "jibe portal answers (39 jobs)"
+  },
+  {
+   "_was": "QUANTIGEN LLC",
+   "company": "QUANTIGEN LLC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "icims",
+   "base": "https://careers-versiti.icims.com",
+   "jobs": 50,
+   "verified": "icims portal answers (50 jobs)"
+  },
+  {
+   "_was": "AUROBINDO PHARMA USA INC",
+   "company": "AUROBINDO PHARMA USA INC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "jibe",
+   "base": "https://careers.aurobindousa.com",
+   "jobs": 19,
+   "verified": "jibe portal answers (19 jobs)"
   }
  ]
 }
