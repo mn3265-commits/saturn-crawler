@@ -1,6 +1,6 @@
 {
  "_doc": "Employer ATS boards today.mjs polls directly (scripts/board-poll.mjs). Built and verified by scripts/discover-boards.mjs; tier 1 = core target (consumer fintech, telco/media/streaming, banks/cards, marketplaces/travel, MBB/Big4), 2 = other target.",
- "generated": "2026-11-27T06:02:35.308Z",
+ "generated": "2026-11-28T06:02:08.482Z",
  "counts": {
   "workday": 349,
   "ashby": 740,
@@ -25987,6 +25987,18 @@
    "site": "SBACareers",
    "verified": "Workday CXS sba/SBACareers answers (16 jobs); JD names the company",
    "jobs": 16
+  },
+  {
+   "company": "Cargo",
+   "tier": 2,
+   "industry": "crawl yc",
+   "source": "cloud-crawl crawl",
+   "ats": "workday",
+   "tenant": "automationanywhere",
+   "wd": "wd5",
+   "site": "AutomationAnywhereJobs",
+   "verified": "Workday CXS automationanywhere/AutomationAnywhereJobs answers (31 jobs); linked from the company's own careers page",
+   "jobs": 31
   }
  ]
 }

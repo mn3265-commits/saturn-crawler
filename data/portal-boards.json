@@ -1,6 +1,6 @@
 {
  "_doc": "Enterprise career portals src-portals.mjs polls (built by scripts/discover-portals.mjs; types phenom, jibe, successfactors, avature, oracle, eightfold, tiktok, tencent). Companies here are NOT in chrome-only-sites.json.",
- "generated": "2026-11-27T06:08:19.707Z",
+ "generated": "2026-11-28T06:06:12.929Z",
  "counts": {
   "successfactors": 66,
   "phenom": 27,
@@ -16,7 +16,7 @@
   "goldman": 1,
   "eightfold": 24,
   "icims": 99,
-  "radancy": 17,
+  "radancy": 18,
   "ibm": 1
  },
  "boards": [
@@ -4297,6 +4297,17 @@
    "base": "https://careers.aurobindousa.com",
    "jobs": 19,
    "verified": "jibe portal answers (19 jobs)"
+  },
+  {
+   "_was": "AMGEN INC",
+   "company": "AMGEN INC",
+   "group": "crawl",
+   "tier": 2,
+   "industry": "crawl h1b",
+   "type": "radancy",
+   "base": "https://careers.amgen.com",
+   "jobs": 100,
+   "verified": "radancy portal answers (100 jobs)"
   }
  ]
 }
